@@ -1,0 +1,165 @@
+{
+ "book": {
+  "id": "lgs_mat_8.15_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/04_Veri_Analizi/8.15_Veri_Analizi_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Veri Analizi",
+  "code": "8.15",
+  "title": "Veri Analizi",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.15_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    293.6,
+    775.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "1. Pazartesi Salı Çarşamba Perşembe Cuma Duru 120 100 100 60 80 Taha 80 50 70 90 40 Elif 100 100 80 90 50 Yukarıdaki tabloda Duru, Taha ve Elif'in beş gün boyunca çözdükleri soru sayıları verilmiştir. Bu verilere ait sütun ve çizgi grafiğini çiziniz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    571.4,
+    775.7
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "2. 12 Kasım 13 Kasım 14 Kasım 15 Kasım 16 Kasım İzmir 15 14 12 14 13 Bolu 8 10 9 10 11 Bursa 12 11 10 10 8 Yukarıdaki tabloda İzmir, Bolu ve Bursa'ya ait beş günlük hava sıcaklıkları o C olarak verilmiştir. Bu verilere ait sütun ve çizgi grafiğini çiziniz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_calisma|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    9.2,
+    46.0,
+    271.0,
+    175.1
+   ],
+   "num": [
+    16.0,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "3. Masa Voleybol Futbol Basketbol Tenisi 12 16 14 6 Yukarıdaki tabloda bir sınıftaki öğrencilerin en sevdikleri spor branşları verilmiştir. Bu verilere ait daire grafiğini çiziniz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    421.8,
+    293.0,
+    775.7
+   ],
+   "num": [
+    15.2,
+    428.8,
+    26.5,
+    442.4
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki verileri göstermede en uygun grafik daire 4. grafiği ise \"D\", sütun grafiği ise \"S\", çizgi grafiği ise \"Ç\" yazınız. Sürekli verilerin zamana bağlı değişiminini göstermek için Bir bütünün parçalarının dağılımını göster mek için Farklı verileri karşılaştırmak için Bir sınıftaki öğrencilerin tuttukları takımların dağılımı Bir fabrikanın yıllara göre üretim sayısı Dolar'ın TL karşısındaki değeri Bir fidanın boyundaki haftalık artış miktarı",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.3,
+    46.0,
+    587.3,
+    431.3
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "5. 220 200 180 160 140 SORU SAYISI 120 100 80 60 40 Arda Arda Arda 20 Ece Ece Ece Ali Ali Ali 0 Türkçe Matematik Fen Bilimleri DERSLER Yukarıdaki grafikte Arda, Ece ve Ali'nin bir haftada Türkçe, Matematik ve Fen Bilimleri derslerinden çözdükleri soru sayıları verilmiştir. Buna göre aşağıdaki ifadelerin doğru mu yanlış mı olduğunu belirleyiniz. En çok soru çözen Arda'dır. Türkçe dersi ortalaması 150 sorudur. Arda bir dersten ortalama 160 soru çözmüştür. Ali'nin Ece'den az soru çözdüğü 2 ders vardır. Fen dersi ortalaması Türkçe'den fazladır.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    430.3,
+    587.3,
+    775.7
+   ],
+   "num": [
+    314.3,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "6. 23 22 DENİZ SUYU SICAKLIĞI (°C) 21 20 19 Marmara 18 Ege 17 Akdeniz 16 15 Pazartesi Salı Çarşamba Perşembe Cuma GÜNLER Yukarıdaki grafikte Marmara, Ege ve Akdeniz'in beş günlük ortalama deniz suyu sıcaklıkları verilmiştir. Buna göre aşağıdaki ifadelerin doğru mu yanlış mı olduğunu belirleyiniz. Akdeniz'de sıcaklık hiç artmamıştır. Marmara'nın Ege'den sıcak olduğu 1 gün vardır. Ege'nin beş günlük ortalaması 18,8'dir. Çarşamba en soğuk deniz Ege'dir.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

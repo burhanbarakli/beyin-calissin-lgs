@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.26_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.26_Ucgenin_Kenarlari_Arasindaki_Iliski_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Üçgenler",
+  "code": "8.26",
+  "title": "Üçgenin Kenarları Arasındaki İlişki",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.26_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    279.8,
+    438.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki uzunluklardan hangilerinin bir üçgenin 1. kenar uzunlukları olup olamayacağını belirleyiniz. 5 cm - 6 cm - 7 cm 6 cm - 9 cm - 12 cm 1 cm - 2 cm - 3 cm Üçgen Oluşturamaz Üçgen Oluşturabilir 15 cm - 5 cm - 15 cm 3 cm - 4 cm - 5 cm 8 cm - 3 cm - 6 cm 12 cm - 10 cm - 22 cm 7 cm - 7 cm - 7 cm 6,3 cm - 5,8 cm - 12 cm 8 cm - 32 cm - 50 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    441.0,
+    286.8,
+    616.8
+   ],
+   "num": [
+    15.5,
+    448.0,
+    26.5,
+    461.5
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen çubuklardan üç tanesinin uç uca 2. birleştirilmesiyle oluşturulabilecek tüm üçgenlerin kenar uzunluklarını yazınız. 3 cm 4 cm 8 cm 6 cm 2 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    309.0,
+    88.5,
+    587.3,
+    761.1
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerde, uzunluğu verilmeyen 3. kenarların uzunluklarına ait değer aralığını bulunuz. 6 cm 9 cm ........... < a < ........... a 7 cm b ........... < b < ........... 5 cm c 8 cm ........... < c < ........... 10 cm 4 cm ........... < ç < ........... ç 5 cm 20 cm ........... < d < ........... 12 cm d 6,6 cm ........... < e < ........... 6,6 cm e",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    281.0,
+    527.2
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerde, uzunluğu verilmeyen 4. kenarların alabileceği en küçük ve en büyük tam sayı değerlerini bulunuz. en büyük 15 cm 10 cm a en küçük a 4 cm en büyük 5 cm b en küçük b 8 cm en büyük c c 12 cm en küçük en büyük 7 cm 7 cm ç en küçük ç 6,3 cm en büyük d d 5,5 cm en küçük",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    535.9,
+    288.3,
+    775.7
+   ],
+   "num": [
+    15.8,
+    542.9,
+    26.5,
+    556.4
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerin çevre uzunluklarının 5. alabileceği değer aralığını bulunuz. K 11 cm ^ h & < ........... M ........... < Ç KLM 9 cm L R 6 cm P 3 cm ^ h & < ........... ........... < Ç PRS",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    587.3,
+    495.2
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen şekillerde, uzunluğu verilmeyen 6. kenarların uzunluklarına ait değer aralığını bulunuz. 8 cm 6 cm 5 cm a 10 cm ........... < a < ........... 8 cm 3 cm b 4 cm 7 cm ........... < b < ........... 13 cm 10 cm c 13 cm 15 cm ........... < c < ...........",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    507.1,
+    583.8,
+    775.7
+   ],
+   "num": [
+    316.0,
+    514.1,
+    325.6,
+    527.6
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen şekillerde, uzunluğu verilmeyen 7. kenarların alabileceği en küçük ve en büyük tam sayı değerlerini bulunuz. 6 cm en büyük 8 cm x x 6 cm en küçük 5 cm en büyük 14 cm 11 cm y y en küçük B 6 cm 2 cm",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

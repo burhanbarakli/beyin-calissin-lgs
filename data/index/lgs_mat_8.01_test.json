@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.01_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.01_Carpanlar_ve_Asal_Carpanlar_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.01",
+  "title": "Çarpanlar ve Asal Çarpanlar",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.01_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    258.4,
+    137.6
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "36’nın kaç farklı pozitif çarpanı vardır? 1. A) 5 B) 7 C) 9 D) 10",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    270.8,
+    382.3
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 72’nin çarpanı değildir? 2. A) 8 B) 12 C) 16 D) 24",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    281.6,
+    634.3
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayılardan hangisinin asal çarpan sayısı 3. diğerlerinden azdır? A) 24 B) 32 C) 42 D) 60",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    561.7,
+    199.3
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "1 , 2 , 3 , 4 , 6 , A , B , C , D 4. Yukarıda bir sayının pozitif çarpanları küçükten büyüğe sıralanarak verilmiştir. Buna göre D kaçtır? A) 12 B) 18 C) 36 D) 72",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    555.9,
+    382.4
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "81’in asal olmayan kaç pozitif çarpanı vardır? 5. A) 5 B) 4 C) 3 D) 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    551.1,
+    620.0
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "32’nin kaç tane pozitif tam böleni vardır? 6. A) 3 B) 4 C) 6 D) 8",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    268.6,
+    110.0
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "98’in en küçük pozitif çarpanı ile en büyük asal 7. çarpanının toplamı kaçtır? A) 8 B) 9 C) 50 D) 99",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    258.6,
+    291.0,
+    458.6
+   ],
+   "num": [
+    15.9,
+    265.6,
+    26.5,
+    279.2
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Yandaki asal çarpanlar algoritmasında 8. C B her harf farklı bir sayıyı temsil etmek- tedir. Bu asal çarpan algoritması ile 70 B ilgili şu bilgiler veriliyor: 35 5 I. A sayısı 7’dir. 7 A II. B sayısı en küçük asal sayıdır. III. C sayısının 4 tane asal çarpanı vardır. 1 Bu bilgilerden hangisi ya da hangileri doğrudur? A) Yalnız I B) I ve II C) II ve III D) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    590.0,
+    288.6,
+    775.7
+   ],
+   "num": [
+    15.5,
+    597.0,
+    26.5,
+    610.5
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıda asal çarpanlarının çarpımı şeklinde verilen 9. sayılardan hangisinin pozitif çarpan sayısı diğerle- rinden fazladır? A) 2.5.7 B) 3 2 .11 C) 5.7 2 D) 2 2 .3 2 .5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    572.4,
+    297.1
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A 10. 12 5 B C 2 3 Yukarıdaki çarpan ağacına göre aşağıdakilerden hangisi yanlıştır? A) C sayısının 4 pozitif çarpanı vardır. B) B sayısı en küçük asal sayıdır. C) A sayısının asal çarpanlarının toplamı 12’dir. D) A sayısı 2 2 .3.5 olarak yazılabilir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    408.8,
+    551.1,
+    459.6
+   ],
+   "num": [
+    313.1,
+    415.8,
+    325.6,
+    429.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "144 = 2 a .3 b olduğuna göre a+b kaçtır? 11. A) 5 B) 6 C) 7 D) 8",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    590.0,
+    571.9,
+    654.0
+   ],
+   "num": [
+    310.5,
+    597.0,
+    325.6,
+    610.5
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 2 3 .3 2 .5 şeklinde asal 12. çarpanlarına ayrılan sayının bir çarpanı değildir? A) 8 B) 18 C) 60 D) 80",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

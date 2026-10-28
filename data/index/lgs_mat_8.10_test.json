@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.10_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.10_a_kok_b_Seklinde_Yazma_ve_Katsayiyi_Karekok_Icine_Alma_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.10",
+  "title": "a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.10_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    258.0,
+    212.5
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "= I. 75 5 5 1. = II. 18 2 3 = III. 108 6 3 = IV. 200 10 2 Yukarıdaki eşitliklerden kaç tanesi doğrudur? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    286.7,
+    403.4
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Alanı 8 cm 2 olan bir karesel bölgenin bir kenar 2. uzunluğu aşağıdakilerden hangisidir? A) 2 cm B) 4 cm C) 2 2 cm D) 4 2 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    259.9,
+    650.4
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 128 ’e eşit değildir? 3. A) 2 32 B) 4 8 C) 6 6 D) 8 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    579.6,
+    167.2
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "72 sayısı a ve b tam sayı olmak üzere a b 4. şeklinde yazıldığında a+b aşağıdakilerden hangisi olamaz? A) 73 B) 32 C) 20 D) 11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    587.2,
+    427.6
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3 ’ün yaklaşık değerini bilen Enes, bu bilgiyle aşa- 5. ğıdakilerden hangisinin yaklaşık değerini bulamaz? A) 12 B) 27 C) 48 D) 72",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    557.3,
+    649.6
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3 2 sayısı aşağıdakilerden hangisine eşittir? 6. A) 6 B) 12 C) 18 D) 36",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    267.2,
+    127.7
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "sayısı aşağıdakilerden hangisine eşittir? 2 3 7. - A) 6 B) 6 - - C) 12 D) 12 - -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    274.7,
+    400.7
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisinin değeri diğerlerinden 8. farklıdır? A) 6 30 B) 10 18 C) 15 8 D) 30 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    221.4,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi en büyüktür? 9. A) 5 5 B) 6 3 C) 8 2 D) 11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    585.7,
+    126.2
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "= = = a 4 2 , b 3 5 , c 2 6 sayılarının doğru sıra- 10. lanışı aşağıdakilerden hangisidir? A) a < b < c B) b < c < a C) a < c < b D) c < a < b",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    587.3,
+    395.0
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "6 6 4 3 24 4 18 ifadesinin doğru olabilmesi 11. 3 için ve 3 yerine sırasıyla aşağıdakilerden hangisi 4 gelmelidir? A) = , = B) = , < C) < , = D) > , >",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    587.3,
+    681.1
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "3, 4, 5 rakamlarından her biri b a c sayısındaki 12. 2 harflerin yerine ayrı ayrı yazılacaktır. Bu şekilde yazılabilecek en küçük sayı için a, b ve c yerine gelecek değerler aşağıdakilerden hangisinde doğru verilmiştir? A) a = 3 , b = 4 , c = 5 B) a = 3 , b = 5 , c = 4 C) a = 5 , b = 3 , c = 4 D) a = 4 , b = 3 , c = 5",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_cikmis_2021",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/00_LGS_Cikmis_Sorular/LGS_2021_Matematik.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "lgs_cikmis",
+  "kind_name": "LGS Çıkmış",
+  "unit": "",
+  "code": "",
+  "title": "2021 LGS Matematik",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 19,
+ "key_pages": [
+  19
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_cikmis_2021|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    45.4,
+    148.1,
+    516.4,
+    462.8
+   ],
+   "num": [
+    49.4,
+    151.1,
+    60.4,
+    167.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "1. Kare şeklindeki bir arsada kenar uzunluğu x m olan kare şeklinde bir bölge spor sahası, kenar uzunluğu y m olan kare şeklinde bir bölge de çay bahçesi olarak aşağıdaki gibi planlanmıştır. Kalan bölgeler ise çocuk parkı olarak ayrılmıştır. Spor Çocuk Sahası Parkı y m x m Çay Çocuk Bahçesi Parkı Buna göre çocuk parkı olarak ayrılan bölgelerin alanları toplamını metrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) xy B) 2xy C) 3xy D) 4xy",
+   "answer": "B",
+   "solved": false,
+   "skill": "Dikdörtgen alanlarını cebirsel ifade ile yazma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p2|q2",
+   "page": 2,
+   "n": 2,
+   "bbox": [
+    43.4,
+    73.2,
+    544.8,
+    346.3
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "2. a, b birer doğal sayı olmak üzere 2 a b a b dir. = K L 0 1 2 3 4 5 6 7 8 9 10 Yukarıda, çapı KL doğru parçası olan daire şeklinde bir karton ve eş bölmelere ayrılmış 10 santi- metrelik bir cetvel verilmiştir. KL doğru parçası , K noktası 2’ye karşılık gelecek şekilde cetvelin ke- narı ile çakıştırıldığında L noktası 6 ile 7 arasında, 7’ye daha yakın bir noktaya karşılık gelmektedir. Buna göre KL doğru parçasının uzunluğu, santimetre cinsinden aşağıdakilerden hangisi olabilir? A) 2 5 B) 2 6 C) 3 3 D) 4 3",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü sayıyı sayı doğrusunda konumlandırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    43.4,
+    73.2,
+    544.8,
+    398.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "3. Dikdörtgen şeklindeki bir kâğıt aşağıdaki gibi kısa kenarlarına paralel olarak kesildiğinde dikdörtgen şeklinde iki parça elde edilmiştir. Elde edilen bu parçalar kısa kenarlarına paralel olarak tekrar kesildiğinde aşağıdaki gibi birbirine eş ikişer kare oluşmuştur. Bu karelerden her birinin bir kenar uzunluğu santimetre cinsinden birer doğal sayıdır. Buna göre başlangıçtaki kâğıdın bir yüzünün alanı santimetrekare cinsinden aşağıdakilerden hangisi olamaz? A) 40 B) 90 C) 160 D) 240",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kare parçalardan alanın olası değerlerini bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    43.4,
+    73.2,
+    544.8,
+    317.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "4. Aşağıdaki tabloda Ordu, Giresun ve Trabzon şehirlerini ziyaret eden turistlerin sayıları verilmiştir. Tablo: Şehirleri Ziyaret Eden Turistlerin Sayıları Şehirler Turist Sayısı Ordu 0,125 $ 10 6 Giresun 9,5 $ 10 4 Trabzon x $ 10 7 Trabzon’u ziyaret eden turistlerin sayısı, Ordu’yu ziyaret eden turistlerin sayısından az ve Giresun’u ziyaret eden turistlerin sayısından fazladır. Buna göre x’in alabileceği değerlerden biri aşağıdakilerden hangisidir? A) 10 - 3 B) 3 $ 10 - 3 C) 10 - 2 D) 3 $ 10 - 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "10'un kuvvetleriyle verilen sayıları karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p5|q5",
+   "page": 5,
+   "n": 5,
+   "bbox": [
+    43.4,
+    73.2,
+    544.8,
+    470.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "5. Uzun kenarlarının uzunlukları birbirine eşit, kısa kenarlarının uzunlukları 20 cm ve 8 cm olan dikdörtgen şeklinde iki karton Şekil I’de verilmiştir. Sarı 8 cm Mavi 20 cm Şekil I Bu kartonlar Şekil II’deki gibi uzun kenarları paralel olacak ve sarı karton altta kalacak biçimde üst üste yerleştirildiğinde mavi dikdörtgenin uzun kenarı, sarı dikdörtgeni iki eş parçaya ayırmakta ve eş parçalardan biri mavi dikdörtgenin altında kalmaktadır. Yukarı Mavi Aşağı Sarı 4 cm Şekil II Kartonlar Şekil II’deki konumlarındayken sarı dikdörtgen sabit kalmak üzere mavi dikdörtgen sarı dikdörtgenin üzerinde ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Hareket koşulunu eşitsizlikle ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p6|q6",
+   "page": 6,
+   "n": 6,
+   "bbox": [
+    45.4,
+    77.2,
+    272.4,
+    346.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "6. 5 A B 9 Yukarıdaki şekilde verilen her bir dairenin içine birbirinden farklı birer doğal sayı yazıla- caktır. Bu sayılardan ikisi şekilde verilmiştir. Bulundukları dörtgenin köşelerindeki daire- lerde yazan dört sayının çarpımına eşit olan A ve B sayıları aralarında asaldır. Buna göre A + B en az kaçtır? A) 162 B) 191 C) 258 D) 289",
+   "answer": "B",
+   "solved": false,
+   "skill": "Aralarında asal çarpımlarla en küçük toplam",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    286.4,
+    78.4,
+    513.9,
+    418.5
+   ],
+   "num": [
+    290.4,
+    81.4,
+    301.4,
+    98.1
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "7. a ! 0 ve m, n tam sayılar olmak üzere m a a n $ a m = a n + m ve a m n - dir. a = n Aşağıda, her bir hücresinde 2’nin birbirinden farklı tam sayı kuvvetlerinin yazılı olduğu iki sütunlu bir tablo verilmiştir. Tabloda bu üslü ifadelerden ikisi E ve F harfleriyle gösteril- miştir. I. Sütun II. Sütun 2 - 1 2 - 2 E F 2 3 2 1 I. sütundaki üç üslü ifadenin çarpımı tam kare pozitif bir tam sayıya ve II. sütundaki üç üslü ifadenin çarpımı da tam kare pozitif bir tam sayıya eşittir. Buna göre E + F en az kaçtır? A) 33 B) 17 C) 9 D) 3",
+   "answer": "A",
+   "solved": false,
+   "skill": "Üslü çarpımın tam kare olma koşulu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p7|q8",
+   "page": 7,
+   "n": 8,
+   "bbox": [
+    43.4,
+    73.2,
+    544.8,
+    345.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "8. Aşağıdaki yakıt göstergelerinde ibrenin ucu 0’ı gösterdiğinde yakıt deposunun tamamının boş ol- duğu, 1’i gösterdiğinde tamamının dolu olduğu ve 0 ile 1 arasına eşit aralıklarla konulan çizgilerden herhangi birini gösterdiğinde ise kaçta kaçının dolu olduğu anlaşılmaktadır. 1 1 1 2 2 2 1 1 1 3 3 3 4 4 4 4 4 4 0 1 0 1 0 1 3 Deponun tamamı boş Deponun tamamı dolu Deponun ’ü dolu 4 Deposu 48 litre yakıt alabilen bir aracın başlangıçta deposunda 30 litre yakıt bulunmaktadır. Bu 1 ile 2 1 arasındaki bir değeri araç x litre yakıt tükettikten sonra yakıt göstergesindeki ibrenin ucu 4 göstermektedi",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kesirli gösterge aralığından eşitsizlik kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p8|q9",
+   "page": 8,
+   "n": 9,
+   "bbox": [
+    43.4,
+    73.2,
+    544.8,
+    394.8
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "9. Dikdörtgen şeklindeki bir koşu parkuru ve bu parkurun uzun kenarı üzerine yerleştirilmiş dikdörtgen şeklindeki K, L, M ve N tribünleri aşağıda modellenmiştir. Modele göre bitiş çizgisi ile N tribününün kenarlarından biri doğrusaldır. Bu tribünlerin birer kenarlarının uzunlukları ve aralarındaki uzaklıklar aşağıda gösterilmiştir. 2 5 m 3 2 m 4 2 m 2 3 m K L M N 4 m 4 m 4 m BİTİŞ ÇİZGİSİ Sarı çizgi Bu parkurun uzun kenarlarına paralel olan sarı çizgi üzerinde bitiş çizgisine doğru koşan iki sporcudan biri K tribünü karşısından geçerken öndeki sporcuyla arasında 46 m mesafe vardır. Buna göre ö",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü uzunlukları hesaplayıp konum yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p9|q10",
+   "page": 9,
+   "n": 10,
+   "bbox": [
+    38.8,
+    77.2,
+    272.4,
+    466.1
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "10. Bir fırında çavdar ve buğday unları karıştırı- larak ekmek yapımında kullanılan bir un elde edilmektedir. Bu undaki çavdar ve buğday unu miktarları arasındaki ilişki aşağıdaki doğrusal grafikte gösterilmiştir. Grafik: Çavdar ve Buğday Unu Miktarları Çavdar Unu (kg) 3 Buğday 0 15 Unu (kg) Bu fırında yanlışlıkla çavdar yerine buğday, buğday yerine çavdar unu kullanılarak 120 kg un hazırlanmıştır. Hazırlanan una sadece buğday unu eklenerek çavdar ve buğday unu miktarları arasındaki doğrusal ilişkinin grafiğe uygun hâle getirilmesi sağla- nacaktır. Buna göre, hazırlanan una kaç kilogram daha b",
+   "answer": "C",
+   "solved": false,
+   "skill": "Doğrusal grafikteki orana göre miktar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p9|q11",
+   "page": 9,
+   "n": 11,
+   "bbox": [
+    280.4,
+    77.2,
+    516.1,
+    378.9
+   ],
+   "num": [
+    284.4,
+    80.2,
+    301.6,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "11. Dikdörtgen şeklindeki bir kâğıt aşağıdaki gibi altı dikdörtgensel bölgeye ayrılmış ve bu bölgelerden bazılarının alanları şekil üzerin- de gösterilmiştir. 44 cm 2 35 cm 2 33 cm 2 21 cm 2 Elde edilen bu dikdörtgensel bölgelerden her birinin kenarlarının uzunlukları santimetre cinsinden 1’den büyük birer doğal sayıdır. Buna göre bu kâğıdın bir yüzünün alanı, santimetrekare cinsinden aşağıdakilerden hangisi olabilir? A) 154 B) 162 C) 180 D) 196",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alanları çarpanlarına ayırarak kenar uzunluklarını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p10|q12",
+   "page": 10,
+   "n": 12,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    575.4
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "12. Dik üçgenlerde, 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı hipotenüsün uzunluğunun karesine eşittir. A a 2 + c 2 = b 2 b c C B a Kenarlarının uzunlukları x cm ve 3x cm olan dikdörtgen şeklindeki karton ile bir yüzünün alanı 80 cm 2 olan kare şeklindeki kâğıt aşağıda verilmiştir. 80 cm 2 x cm 3x cm Bu karton ve kâğıt üst üste yerleştirildiğinde ikişer köşeleri aşağıdaki gibi çakışmaktadır. Buna göre dikdörtgen şeklindeki kartonun çevresinin uzunluğu kaç santimetredir? A) 32 B) 16 10 C) 64 D) 24 10",
+   "answer": "A",
+   "solved": false,
+   "skill": "Pisagor ile dikdörtgen kenarını bulup çevre hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p11|q13",
+   "page": 11,
+   "n": 13,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    415.9
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "13. Kare şeklindeki bir kâğıdın bir yüzü aşağıdaki gibi sekiz eş beyaz bölgeye ve dört eş mavi bölgeye ayrılmıştır. Mavi Mavi Mavi Mavi Beyaz bölgelerden her biri, alanı (4x 2 + 8x + 4) cm 2 olan karesel bölgelerdir. Buna göre mavi bölgelerden birinin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 6(x + 1) 2 B) 8(x + 1) 2 C) 4(x + 2) 2 D) 2(x + 2) 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare özdeşliğiyle kare kenarını bulup alan ifadesi yazma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p12|q14",
+   "page": 12,
+   "n": 14,
+   "bbox": [
+    36.8,
+    74.4,
+    544.8,
+    400.1
+   ],
+   "num": [
+    42.8,
+    81.4,
+    60.4,
+    98.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "14. a ! 0 ve m, n tam sayılar olmak üzere m a m - ve (a n ) m = a n $ m dir. n a = n a İstenilen olası durumların sayısı Bir olayın olma olasılığı = Tüm olası durumların sayısı Aşağıda kenarlarının uzunlukları 2 5 mm ve 8 4 mm olan dikdörtgen şeklinde bir karton verilmiştir. 2 5 mm 8 4 mm Bu karton, kenarlarının uzunluğu 2 5 mm olan kare şeklindeki eş parçalara aşağıdaki gibi ayrılarak sırasıyla sarı, kırmızı, mavi, yeşil ve turuncu renklere boyanıyor. Her bir kare şekildeki gibi kesilerek boş bir torbaya atılıyor. S K M Y T S K M Y T Bu torbadan rastgele çekilen bir karenin kırmızı kare olma ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üslü ifadelerle parça sayısı bulup olasılık hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p13|q15",
+   "page": 13,
+   "n": 15,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    614.9
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "15. Dik üçgenlerde, 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı hipotenüsün uzunluğunun karesine eşittir. A a 2 + c 2 = b 2 b c C B a Eşkenar üçgen şeklindeki beş karton, dikdörtgen şeklindeki panonun ön yüzüne, birer kenarları ve birer köşeleri çakıştırılarak panonun yüzünden taşmayacak biçimde yukarıdaki gibi yerleştirilmiştir. Birer kenarları aynı doğru parçası üzerinde ve birer köşeleri ortak olan eşkenar üçgenlerin benzerlik 1 dir. oranı 2 Bu üçgenlerden birinin çevresinin uzunluğu 96 cm olduğuna göre panonun ön yüzünü",
+   "answer": "A",
+   "solved": false,
+   "skill": "Benzer eşkenar üçgenlerle pano alanının en azını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p14|q16",
+   "page": 14,
+   "n": 16,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    465.5
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "16. Efe aşağıda verilen ABC üçgeninin açılarının ölçülerini esnemeyen bir ip yardımıyla sıralayacaktır. A C B Efe bu ipin bir ucunu; • A köşesine koyup ipi [AB] ve [BC] ile çakıştırdığında ipin diğer ucu P noktasına, • B köşesine koyup ipi [BC] ve [CA] ile çakıştırdığında ipin diğer ucu R noktasına, • C köşesine koyup ipi [CA] ve [AB] ile çakıştırdığında ipin diğer ucu S noktasına gelmektedir. A S R C B P |BP| 2 |AS| 2 |CR| olduğuna göre ABC üçgeninin iç açılarının ölçülerinin doğru sıralanışı aşağıdakilerden hangisidir? W X W W X W _ i _ i _ i _ i _ i _ i A) m A 2 m C 2 m B B) m B 2 m C 2 m A",
+   "answer": "D",
+   "solved": false,
+   "skill": "İp modeliyle kenarları sıralayıp açıları sıralama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p15|q17",
+   "page": 15,
+   "n": 17,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    480.9
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "17. A BLOK C D BLOK BLOK B BLOK Yukarıda oturma planı verilen stadyumda oynanacak bir maç için satışa çıkarılan biletlerin %80’i sa- tılmıştır. Biletlerin bloklara göre ücretlerini gösteren tablo ve satılmayan biletlerin sayısının bloklara göre dağılımını gösteren daire grafiği aşağıda verilmiştir. Tablo: Bloklara Göre Bilet Ücretleri Grafik: Satılmayan Biletlerin Sayısının Bloklara Göre Dağılımı Bloklar 1 Adet Bilet Ücreti (TL) C A 20 B 20 120° B 60° C 10 150° D 10 A D Satılmayan biletlerin toplam ücreti 15 000 TL olduğuna göre bu maç için satışa çıkarılan bilet sayısı kaçtır? A) 5000 B) 6000",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiği ve tablo ile toplam bilet sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p16|q18",
+   "page": 16,
+   "n": 18,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    554.1
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "18. a, b, c birer doğal sayı olmak üzere 2 a b a b = a b c b ( a c ) b dir . + = + Dikdörtgen şeklindeki bir kâğıt, yukarıdaki gibi kesilerek dikdörtgen şeklinde dört eş parça elde edilmiştir. Bu parçaların kısa kenarları ile uzun kenarları çakıştırılarak aşağıdaki gibi iki farklı şekil oluşturulmuştur. 192 cm Zemin Şekil I Şekil II Şekil I’in yüksekliği 192 cm ve Şekil II’nin çevresinin uzunluğu 28 3 cm’dir. Buna göre başlangıçta verilen dikdörtgen şeklindeki kâğıdın bir yüzünün alanı kaç santimet- rekaredir? A) 288 B) 144 C) 96 D) 72",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla çevre ve alan hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p17|q19",
+   "page": 17,
+   "n": 19,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    526.9
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "19. Eğim, dikey uzunluğun yatay uzunluğa oranıdır. Dik üçgenlerde, 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı hipotenüsün uzunluğunun karesine eşittir. A a 2 + c 2 = b 2 b c C B a Bir parkın girişi için yapılacak kapı aşağıda modellenmiştir. Dikey doğru 100 cm 3. çubuk Demir çubuk 2. çubuk Duvar Duvar 1. çubuk Yatay 352 cm Kapının yapımı için her birinin uzunluğu 100 cm olan altı adet demir çubuk modeldeki gibi uç uca ek- lenecektir. Modelde verilen dikey doğru, genişliği 352 cm olan bu kapıyı iki eş parçaya bölmektedir. M",
+   "answer": "A",
+   "solved": false,
+   "skill": "Pisagor yardımıyla çubuk eğimini hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2021|p18|q20",
+   "page": 18,
+   "n": 20,
+   "bbox": [
+    36.8,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2021 LGS",
+   "text": "20. Bir elektronik eşya mağazasında 2019 ve 2020 yıllarında satılan K, L ve M marka televizyon sayıla- rının dağılımı, aşağıdaki daire grafiklerinde gösterilmiştir. Grafik 1: 2019 Yılında Satılan Grafik 2: 2020 Yılında Satılan Televizyonların Dağılımı Televizyonların Dağılımı L K L K 120° M M Bu mağazada 2020 yılında satılan L marka televizyon sayısı 2019 yılına göre 25 azalırken M marka televizyon sayısı 40 artmıştır. Buna göre 2019 yılında satılan K marka televizyon sayısı kaçtır? A) 250 B) 240 C) 225 D) 210 MATEMATİK TESTİ BİTTİ. FEN BİLİMLERİ TESTİNE GEÇİNİZ.",
+   "answer": "C",
+   "solved": false,
+   "skill": "İki daire grafiğini karşılaştırıp sayı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

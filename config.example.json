@@ -1,0 +1,10 @@
+{
+  "student_name": "Öğrenci Adı",
+  "sources": [
+    "kaynaklar/LGS_Matematik"
+  ],
+  "photos_dir": "ogrenci/Sorular",
+  "port": 8765,
+  "claude_path": "",
+  "claude_model": ""
+}

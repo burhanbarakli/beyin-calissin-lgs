@@ -1,0 +1,213 @@
+{
+ "book": {
+  "id": "lgs_mat_8.09_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.09_Tam_Kare_Sayilar_ve_Karekoklu_Sayilarda_Tahmin_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.09",
+  "title": "Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.09_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    270.8,
+    419.4
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayılardan hangileri tam kare sayıdır? 1. 126 16 200 81 64 169 400 196 27 75 1 256 49 324 4 144 265 100 289 8 48 0 225 441",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    284.3,
+    775.7
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "2. Aşağıdaki sayıların hangi ardışık tam kare sayılar arasında yer aldığını örnekteki gibi bulunuz. küçük büyük küçük büyük tam kare sayı tam kare tam kare sayı tam kare 9 12 16 7 45 38 3 116 84 155 72 97 168 33",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    428.9
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki kareköklü sayılara eşit olan doğal sayıları 3. bulunuz. a) 0 = g) 169 = b) 9 = ğ) 196 = c) 16 = h) 4 = ç) 144 = ı) 121 = d) 256 = i) 324 = e) 100 = j) 289 = f) 25 = k) 1 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    430.3,
+    586.2,
+    775.7
+   ],
+   "num": [
+    314.2,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki kareköklü sayıların hangi ardışık doğal 4. sayılar arasında yer aldığını örnekteki gibi bulunuz. 2 3 < 7 < ...... < 91 < ...... ...... < 28 < ...... ...... < 75 < ...... ...... < 15 < ...... ...... < 45 < ...... - ...... < 22 < ...... ...... < 109 < ...... - ...... < 38 < ...... ...... < 170 < ......",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    46.0,
+    280.9,
+    385.9
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki kareköklü sayıların yaklaşık değerlerini 5. sayı doğrusunda örnekteki gibi konumlandırınız. 10 3 4 32 85 102 - 23",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    9.2,
+    409.9,
+    290.6,
+    775.7
+   ],
+   "num": [
+    15.2,
+    416.9,
+    26.5,
+    430.4
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sıralamalarda boş bırakılan yerlere hangi 6. sayının veya sayıların gelebileceğini bulunuz. a) 3 < ...... < 4 21 12 10 b) 7 < ...... < 8 35 60 72 c) −3 < ...... < 1 7 - 0 5 ç) 23 < ...... < 87 5 10 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.9,
+    46.0,
+    578.6,
+    406.2
+   ],
+   "num": [
+    316.0,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayı doğrusu üzerinde verilen harflerin 7. yerine gelebilecek sayılarla eşleştiriniz. A Ç C B 7 8 9 D E G F 3 4 5 8 45 79 3 18 10 12 67 15 51 23 57",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.9,
+    409.9,
+    555.5,
+    760.9
+   ],
+   "num": [
+    314.9,
+    416.9,
+    325.6,
+    430.4
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerde verilmeyenleri bulunuz. 8. a = 4 a = = 4 b b = = c 7 c = ç 2 = 100 ç = d 2 = 44 d = e 2 = 35 e =",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

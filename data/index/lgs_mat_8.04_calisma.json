@@ -1,0 +1,285 @@
+{
+ "book": {
+  "id": "lgs_mat_8.04_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.04_Aralarinda_Asal_Sayilar_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.04",
+  "title": "Aralarında Asal Sayılar",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.04_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    287.4,
+    377.0
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayı çiftlerinin aralarında asal olup olma 1. dıklarını belirleyiniz. 12 - 16 24 - 34 26 - 85 15 - 11 37 - 39 36 - 51 23 - 18 17 - 31 1 - 64 3 - 35 21 - 91 68 - 69",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    267.4,
+    755.7
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aralarında asal iki sayının toplamı 20'dir. 2. Bu iki sayı, aşağıdaki sayı çiftlerinden hangileri olabilir? 2 - 18 3 - 17 9 - 13 5 - 15 1 - 19 10 - 10 9 - 11 4 - 16",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    586.4,
+    376.6
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayı çiftlerinin aralarında asal olup olma 3. dıklarını belirleyiniz. A = 2 2 . 3 2 B = 2 3 . 5 C = 2 4 . 3 3 D = 5 3 . 7 2 E = 2 . 7 2 F = 3 2 . 5 3 G = 3 2 . 7 H = 2 5 . 7 2 . 11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    430.3,
+    566.4,
+    760.1
+   ],
+   "num": [
+    314.2,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aralarında asal iki sayının EKOK'u 48'dir. 4. Bu iki sayı, aşağıdaki sayı çiftlerinden hangileri olabilir? 2 - 24 16 - 12 6 - 8 24 - 48 1 - 48 3 - 16 4 - 12 12 - 8",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    46.0,
+    292.4,
+    86.6
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "20'den küçük doğal sayılardan 20 ile aralarında asal 5. olanlarını belirleyiniz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    9.2,
+    223.8,
+    286.9,
+    271.9
+   ],
+   "num": [
+    15.2,
+    230.8,
+    26.5,
+    244.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "İki basamaklı 3A sayısı ile 12 sayısı aralarında asaldır. 6. A yerine yazılabilecek rakamları belirleyiniz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.2,
+    409.8,
+    270.1,
+    457.9
+   ],
+   "num": [
+    16.9,
+    416.8,
+    26.5,
+    430.4
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "İki basamaklı 2A ve A4 sayıları aralarında asaldır. 7. A yerine yazılabilecek rakamları belirleyiniz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.2,
+    594.7,
+    271.0,
+    775.7
+   ],
+   "num": [
+    15.9,
+    601.7,
+    26.5,
+    615.2
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "EBOB (A,B) + EKOK (A,B) = 21 8. A ve B aralarında asal olduğuna göre A ve B'nin alabileceği değerleri bulunuz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    303.7,
+    46.0,
+    499.4,
+    116.2
+   ],
+   "num": [
+    314.5,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "a ve b aralarında asal sayılardır ve 9. a 20 = ’dir. b 25 Buna göre a + b kaçtır?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    274.2,
+    534.3,
+    344.6
+   ],
+   "num": [
+    309.7,
+    281.2,
+    325.6,
+    294.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "a + 3 ve b − 2 aralarında asal sayılardır ve 10. ] g ^ h ’dir. + = - 12. a 3 18. b 2 Buna göre a . b kaçtır?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_calisma|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    507.7,
+    585.7,
+    737.5
+   ],
+   "num": [
+    313.1,
+    514.7,
+    325.6,
+    528.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 11. belirleyiniz. Aralarında asal sayıların EBOB'ları yoktur. Ardışık sayılar aralarında asaldır. Farklı iki asal sayı aralarında asal olmayabilir. İki çift sayı aralarında asal olamaz. Aralarında asal iki sayının EKOK'ları, bu sayıların çarpımına eşittir.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

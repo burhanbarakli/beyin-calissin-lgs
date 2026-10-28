@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.20_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/07_Dogrusal_Denklemler/8.20_Birinci_Dereceden_Bir_Bilinmeyenli_Denklemler_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Doğrusal Denklemler",
+  "code": "8.20",
+  "title": "Birinci Dereceden Bir Bilinmeyenli Denklemler",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.20_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    258.1,
+    160.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3x − 12 = 2.(x − 6) 1. olduğuna göre x aşağıdakilerden hangisidir? A) −24 B) 0 C) 12 D) 24",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    256.9,
+    409.3
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "−2x + 5 = −5x + 10 2. olduğuna göre x aşağıdakilerden hangisidir? 5 5 A) −3 B) 3 C) D) 3 - 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    252.5,
+    637.5
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "4.(x + 2) − 2.(x + 4) = 24 3. olduğuna göre x aşağıdakilerden hangisidir? A) 12 B) 8 C) 4 D) 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    555.9,
+    165.6
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "+ 2x 1 4. = 3 2 denklemini sağlayan x değeri kaçtır? 2 5 A) 2 B) 4 C) 5 D) 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    551.1,
+    398.6
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "x x + = 15 5. 2 3 denklemini sağlayan x değeri kaçtır? A) 18 B) 15 C) 12 D) 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    551.1,
+    640.4
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "+ x 2 4 6. = x 3 denklemini sağlayan x değeri kaçtır? A) 2 B) 3 C) 6 D) 9",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    258.3,
+    116.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "x + = - 2 4 7. + x 7 denklemini sağlayan x değeri kaçtır? A) −4 B) −5 C) −6 D) −7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    271.1,
+    375.3
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "0,02x = 2,4 8. denklemini sağlayan x değeri kaçtır? A) 1,2 B) 12 C) 120 D) 1200",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    285.8,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "I. 2x + 3 = 2.(x + 1) denklemini x = 0 değeri sağlar. 9. 2 1 = II. denklemini x = 2 değeri sağlar. x 2 + 2 x - - III. 3x + 6 = 3.(x + 2) denklemi bir özdeşliktir. Yukarıdakilerden hangisi veya hangileri doğrudur? A) Yalnız I B) I ve III C) Yalnız III D) I, II ve III",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    585.2,
+    134.3
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Zeki'nin aklından tuttuğu sayının yarısı, aynı sayının 10. 3'te birinin 5 fazlasına eşittir. Buna göre Zeki'nin aklından tuttuğu sayı kaçtır? A) 24 B) 30 C) 36 D) 42",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    587.3,
+    405.0
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Can'ın 3 adımda gidebildiği mesafeyi Canan 4 adımda 11. gidebilmektedir. Can'ın bir adım uzunluğu, Canan'ın bir adım uzunluğundan 20 cm fazladır. Buna göre Canan 1,2 km yolu kaç adımda gider? A) 2000 B) 1500 C) 200s D) 150",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    587.3,
+    687.0
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "12 kişilik bir grup arkadaş, hesabı eşit paylaşmayı 12. düşünerek birlikte akşam yemeğine gitmişlerdir. Ancak yemeğe katılan Rıdvan ve İsmail'in yanlarında para olmadığı için diğerleri altışar lira fazla vererek hesabı ödemişlerdir. Buna göre gelen hesap kaç liradır? A) 240 B) 288 C) 320 D) 360",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

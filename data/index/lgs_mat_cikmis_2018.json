@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_cikmis_2018",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/00_LGS_Cikmis_Sorular/LGS_2018_Matematik.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "lgs_cikmis",
+  "kind_name": "LGS Çıkmış",
+  "unit": "",
+  "code": "",
+  "title": "2018 LGS Matematik",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 9,
+ "key_pages": [
+  9
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_cikmis_2018|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    45.4,
+    133.9,
+    279.5,
+    272.8
+   ],
+   "num": [
+    49.4,
+    136.9,
+    60.4,
+    153.5
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "1. Kenarlarının uzunlukları 6 cm ve 8 cm olan bir dikdörtgene benzer olacak şekilde, kenar uzunlukları santimetre cinsinden doğal sayı olan bir dikdörtgen çizilecektir. Çizilecek bu dikdörtgenin alanı 48 santimet- rekareden büyük olacağına göre en az kaç santimetrekaredir? A) 96 B) 108 C) 144 D) 192",
+   "answer": "B",
+   "solved": false,
+   "skill": "Benzer dikdörtgenin en küçük alanını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    45.4,
+    461.8,
+    278.5,
+    625.0
+   ],
+   "num": [
+    49.4,
+    464.8,
+    60.4,
+    481.5
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "2. A 7 Yukarıdaki sayı doğrusunda 7 ile 10’a karşılık gelen noktaların arası 6 eş parçaya ayrılmıştır. Buna göre A noktasına karşılık gelen sayı aşağıdakilerden hangisi olabilir? A) 94 B) 88 C) 79 D) 68",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sayı doğrusunda kareköklü sayı tahmini",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    292.4,
+    140.9,
+    530.6,
+    423.5
+   ],
+   "num": [
+    296.4,
+    143.9,
+    307.4,
+    160.5
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "3. Ahmet her gün kumbarasından aynı miktarda para alarak harcıyor. Ahmet’in kumbarasındaki para miktarı ve harcadığı toplam para miktarını gösteren doğrusal grafik aşağıda verilmiştir. Grafik: Kumbarada Bulunan ve Harcanan Toplam Para Miktarı Grafiğe göre Ahmet’in kumbarasındaki para kaçıncı günde biter? A) 20 B) 25 C) 30 D) 35",
+   "answer": "A",
+   "solved": false,
+   "skill": "Doğrusal grafikten azalma oranını yorumlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    45.4,
+    77.2,
+    279.5,
+    370.4
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "4. Yukarıda her bir bölümü dikdörtgen şeklinde olan dikdörtgen biçimindeki kat planı üzerinde bazı bölümlerin alanları verilmiştir. Bu dikdörtgenlerin her birinin kenar uzun- lukları metre cinsinden birer doğal sayı olduğuna göre alanı verilmeyen bölümlerin alanları toplamı en az kaç metrekaredir? A) 36 B) 54 C) 64 D) 76",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ortak kenarlardan bölümlerin alanlarını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    292.4,
+    77.2,
+    529.4,
+    307.1
+   ],
+   "num": [
+    296.4,
+    80.2,
+    307.4,
+    96.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "5. 21 000 m 2 lik bir arsa ortaklar arasında paylaş- tırılacaktır. Paylaşım için arsanın tamamı 250 m 2 , 500 m 2 ve 1000 m 2 lik bölümlere ayrı- lıyor. Toplam bölüm sayısı ortakların sayısına eşittir. Her bir bölüm numaralandırılıyor ve bu numaralar özdeş kartların üzerine yazılarak boş bir torbaya atılıyor. Arsanın ortakları ara- sında çekilecek kura ile bu bölümlerin sahipleri belirlenecektir. Bu kurada torbadan çekilecek ilk kartın üzerinde yazan numaranın; alanı 250 m 2 , 500 m 2 ve 1000 m 2 olan bölümlerden birine ait olma olasılıkları eşit olduğuna göre bu arsanın kaç ortağı vardır? A) ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Eşit olasılıktan bölüm sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    292.4,
+    467.8,
+    529.9,
+    632.7
+   ],
+   "num": [
+    296.4,
+    470.8,
+    307.4,
+    487.4
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "6. Altan ve Can, defterlerine kenar uzunlukları santimetre cinsinden doğal sayı olan birer kare çiziyorlar. Altan’ın çizdiği karenin alanı kenar uzunlukları 7 cm ve 9 cm olan bir dikdörtgenin alanından büyük, Can’ın çizdiği karenin alanı ise bu dikdörtgenin alanından küçüktür. Buna göre Altan ile Can’ın çizdiği karelerin alanları arasındaki fark en az kaç santimet- rekaredir? A) 8 B) 15 C) 32 D) 39",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sayıya en yakın tam kareleri belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p3|q7",
+   "page": 3,
+   "n": 7,
+   "bbox": [
+    45.4,
+    77.2,
+    524.3,
+    652.9
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "7. Etkileşimli çalışmalar oluşturulabilecek bir programlama dilinde istenen hareketler tanımlı blokların uygun şekilde yerleştirilmesiyle elde edilmektedir. Bu programlama dilinde bulunan bazı bloklar ve tanımları aşağıda verilmiştir. yönüne dön adım git 1 birim 1 birim 1 birim 1 birim yönüne dön 0 adım git 6 yönüne dön 90 adım git 5 Kareli kâğıtta verilen 1. şekildeki (–3, –1) noktasına yukarıdaki bloklarla belirtilen hareketler yukarıdan aşağıya doğru uygulandığında 2. şekildeki (2, 5) noktası elde edilmiştir. Buna göre K(–1, 5) noktasına aşağıdaki hareketlerden hangisi uygulanırsa L(–4, –1)",
+   "answer": "C",
+   "solved": false,
+   "skill": "Koordinat düzleminde öteleme hareketlerini belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    45.4,
+    77.2,
+    277.4,
+    281.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "8. Bir kenarının uzunluğu 10 m olan kare şek- lindeki bir bahçenin sadece köşelerinde birer sulama sistemi vardır. Her bir sulama sistemi, bulunduğu köşeye uzaklığı en fazla 4 m olan kısma kadar sulama yapabilmektedir. Bu bah- çenin sulama yapılamayan kısmında tabanı kare şeklinde olan bir çardak bulunmaktadır. Bu çardağın tabanının köşegeni ile bahçenin köşegeni çakışıktır. Taban köşegeninin uzunluğu metre cinsin- den bir doğal sayı olan bu çardağın taban alanı en fazla kaç metrekaredir? A) 18 B) 48 C) 52 D) 72",
+   "answer": "A",
+   "solved": false,
+   "skill": "Köşegen uzunluğunu karekök tahminiyle sınırlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p4|q9",
+   "page": 4,
+   "n": 9,
+   "bbox": [
+    45.4,
+    470.1,
+    272.4,
+    564.3
+   ],
+   "num": [
+    49.4,
+    473.1,
+    60.4,
+    489.8
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "9. 0,00013 10 a ifadesinin değeri 1000’den # büyüktür. Buna göre a’nın alabileceği en küçük tam sayı değeri kaçtır? A) 8 B) 7 C) 6 D) 5",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ondalık sayıyı 10'un kuvvetiyle karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p4|q10",
+   "page": 4,
+   "n": 10,
+   "bbox": [
+    285.7,
+    77.2,
+    531.2,
+    334.9
+   ],
+   "num": [
+    289.7,
+    80.2,
+    307.4,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "10. Aşağıdaki tabloda bir lokantada satılan ve her gramında eşit kalori bulunan yemeklerin kütle ve kalorileri verilmiştir. Tablo: Yemeklerin 100 Gramındaki Kalori Miktarları Yemek Kalori Çorba 45 Pilav 72 Nohut 40 Lokantadaki yemekler her bir tabakta 100 gram yemek olacak şekilde satılmaktadır. Bu lokantadan toplam 538 kalori değerinde 10 tabak yemek sipariş verildiğinde kaç tabak nohut sipariş verilmiş olunur? A) 2 B) 3 C) 4 D) 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tablo verisiyle toplam kaloriden adet bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p5|q11",
+   "page": 5,
+   "n": 11,
+   "bbox": [
+    39.4,
+    77.2,
+    279.5,
+    389.4
+   ],
+   "num": [
+    43.4,
+    80.2,
+    60.7,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "11. x birim y birim x birim Küp şeklindeki kutunun tüm yüzlerine şekildeki gibi eşit büyüklükte şeritler yapıştırılıyor ve şe- ritler dışında kalan üçgen biçimindeki bölgeler boyanıyor. Buna göre, boyanan bölgenin alanını birimkare cinsinden gösteren cebirsel ifade aşağıdakilerden hangisidir? A) 6y 2 – 6xy + 3x 2 B) 3y 2 – 6xy + 6x 2 C) 6y 2 – 6xy – 3x 2 D) 3y 2 – 6xy – 6x 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Küp yüzlerinde boyanan alanı ifade etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p5|q12",
+   "page": 5,
+   "n": 12,
+   "bbox": [
+    285.7,
+    77.2,
+    523.2,
+    302.7
+   ],
+   "num": [
+    289.7,
+    80.2,
+    307.4,
+    96.8
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "12. Kareli kâğıtta verilen aşağıdaki dikdörtgenler- den üçü aynı üçgen dik prizmaya ait yüzlerdir. Buna göre hangisi bu üçgen prizmanın bir yüzü olamaz? A) B) C) D)",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üçgen prizmanın yüz boyutlarını ilişkilendirme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p5|q13",
+   "page": 5,
+   "n": 13,
+   "bbox": [
+    285.7,
+    471.1,
+    519.4,
+    565.7
+   ],
+   "num": [
+    289.7,
+    474.1,
+    307.4,
+    490.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "13. Aşağıdakilerden hangisi 3x 2 - 6xy + 3y 2 cebirsel ifadesinin çarpanlarından biridir? A) 3x B) y - x D) 3y 2 C) x + y",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ortak çarpan ve tam kare ile çarpanlara ayırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p6|q14",
+   "page": 6,
+   "n": 14,
+   "bbox": [
+    38.8,
+    79.5,
+    279.5,
+    533.3
+   ],
+   "num": [
+    42.8,
+    82.5,
+    60.4,
+    99.2
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "14. Beyaz kartondan yapılmış bir kare dik piramidin dış yüzünün bir kısmı griye boyanıyor. Bu kare dik piramidin açınımı yapıldığında dış yüzü yu- karıdaki gibi görünüyor. Buna göre aşağıdakilerden hangisi bu pira- midin görünümlerinden biri olamaz? A) B) C) D)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kare dik piramidin açınımı ile görünümünü eşleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p6|q15",
+   "page": 6,
+   "n": 15,
+   "bbox": [
+    285.7,
+    77.2,
+    526.0,
+    334.3
+   ],
+   "num": [
+    289.7,
+    80.2,
+    307.4,
+    96.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "15. İki farklı yüzme kursuna ait ücretler aşağıdaki tabloda verilmiştir. Tablo: Kursların Ücretleri Kurslar Kayıt Ücreti Aylık Ücret (TL) (TL) 1. Kurs 310 40 2. Kurs 130 55 Yüzme kursuna katılan bir kişi bir defalık kayıt ücreti ve devam ettiği her ay için aylık ücret ödemektedir. Tabloda ücretleri verilen kurslardan birine katılmak isteyen bir kişinin en az kaç ay kursa devam etmesi durumunda 1. kursa katılması daha ekonomik olur? A) 8 B) 9 C) 13 D) 14",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ücret karşılaştırmasında eşitsizlik kurup çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p7|q16",
+   "page": 7,
+   "n": 16,
+   "bbox": [
+    38.8,
+    77.2,
+    279.5,
+    270.4
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "16. Bir telefon şirketi müşterilerine fatura ödemele- rinde iki indirim seçeneği sunmaktadır. 1. seçenek: Fatura tutarında %10 indirim 2. seçenek: Fatura tutarında 4 lira indirim 1. seçeneği tercih eden bir müşteri 2. seçeneği tercih etmiş olsaydı 3 lira daha fazla ödeme yapacaktı. Buna göre bu müşterinin fatura tutarı kaç liradır? A) 10 B) 30 C) 50 D) 70",
+   "answer": "D",
+   "solved": false,
+   "skill": "Yüzde indirim probleminden denklem kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p7|q17",
+   "page": 7,
+   "n": 17,
+   "bbox": [
+    38.8,
+    459.5,
+    279.5,
+    622.6
+   ],
+   "num": [
+    42.8,
+    462.5,
+    60.4,
+    479.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "17. Alanı 118 m 2 olan bir evin dikdörtgen biçimin- deki odaları ve salonu dışındaki bölümlerinin toplam alanı 34 m 2 dir. Salonun alanı, metre- kare cinsinden bir tamkare sayıdır ve odaların alanları toplamından küçüktür. Bu salonun kısa kenarının uzunluğu 18 m olduğuna göre uzun kenarının uzunluğu en fazla kaç metredir? A) 7 2 B) 6 2 C) 4 2 D) 3 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare alan ve karekökle kenar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p7|q18",
+   "page": 7,
+   "n": 18,
+   "bbox": [
+    285.7,
+    78.5,
+    531.2,
+    264.9
+   ],
+   "num": [
+    289.7,
+    81.5,
+    307.4,
+    98.1
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "18. % % , ABC üçgeninde m BAC ( ) m ABC ( ) > |AB| = 8 cm ve |BC| = 10 cm’dir. Buna göre |AC|’nun santimetre cinsinden alabileceği kaç farklı tam sayı değeri vardır? A) 5 B) 6 C) 7 D) 8",
+   "answer": "C",
+   "solved": false,
+   "skill": "Açı-kenar ve üçgen eşitsizliğiyle kenar aralığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p8|q19",
+   "page": 8,
+   "n": 19,
+   "bbox": [
+    38.8,
+    77.2,
+    279.5,
+    557.3
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "19. Bir kargo şirketi gönderilen kargonun kilogram cinsinden kütlesi ile desimetreküp cinsinden hacmini hesaplıyor ve hangisine göre kargo ücreti fazla ise o ücreti alıyor. Bu kargo şir- ketine ait ücret tarifesi Tablo 1 ve Tablo 2’de verilmiştir. Tablo 1: Kütlelerine Göre Kargo Ücreti Kütle (x kg) Ücret (TL) 0 < x ≤ 3 5 3 < x ≤ 6 6,50 6 < x ≤ 10 8 Tablo 2: Hacimlerine Göre Kargo Ücreti Hacim (y dm 3 ) Ücret (TL) 0 < y ≤ 9 5,50 9 < y ≤ 18 7 18 < y ≤ 30 9 Buse bu kargo şirketi ile Tablo 3’te yarıçap- larının uzunlukları, yükseklikleri ve kütleleri verilen dik dairesel silindir şeklindeki kargol",
+   "answer": "D",
+   "solved": false,
+   "skill": "Silindir hacmi ile tablodan kargo ücreti bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2018|p8|q20",
+   "page": 8,
+   "n": 20,
+   "bbox": [
+    285.5,
+    77.2,
+    527.7,
+    685.4
+   ],
+   "num": [
+    289.7,
+    80.2,
+    307.4,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2018 LGS",
+   "text": "20. 400 metrelik düz bir yarış pistine başlangıç noktasına uzaklıkları metre cinsinden 2’nin pozitif tam sayı kuvvetleri olacak şekilde yer- leştirilebilecek en fazla sayıda engel yerleş- tiriliyor. Bu pistte 8 atletin yarıştığı bir engelli koşusunda yarışmacılardan biri 20. metrede, bir diğeri 50. metrede yarışı bırakıyor. Diğer yarışmacılar yarışı tamamladığına göre yarış bittiğinde atletlerin her birinin üzerinden atladığı engel sayılarının toplamı kaçtır? A) 57 B) 63 C) 64 D) 72 MATEMATİK TESTİ BİTTİ. FEN BİLİMLERİ TESTİNE GEÇİNİZ.",
+   "answer": "A",
+   "solved": false,
+   "skill": "2'nin kuvvetlerini sayma ve problemde kullanma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

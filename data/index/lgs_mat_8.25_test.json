@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.25_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.25_Ucgende_Kenarortay_Aciortay_ve_Yukseklik_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Üçgenler",
+  "code": "8.25",
+  "title": "Üçgende Kenarortay, Açıortay ve Yükseklik",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.25_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    263.3,
+    279.4,
+    325.4
+   ],
+   "num": [
+    18.1,
+    270.3,
+    26.5,
+    283.8
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki noktalardan hangileri birleştirildiğinde 1. [BC] kenarına ait yükseklik çizilmiş olur? A) B - H B) G - C C) A - D D) A - E",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    444.8,
+    279.4,
+    507.0
+   ],
+   "num": [
+    15.5,
+    451.8,
+    26.5,
+    465.4
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki noktalardan hangileri birleştirildiğinde 2. [BC] kenarına ait kenarortay çizilmiş olur? A) G - H B) A - E C) G - F D) F - A",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    632.1,
+    279.4,
+    709.4
+   ],
+   "num": [
+    16.0,
+    639.1,
+    26.5,
+    652.6
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki noktalardan hangileri birleştirildiğinde 3. oluşan doğru parçası bu üçgenin kenarortayların dan biri değildir? A) G - F B) B - H C) C - G D) A - F",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    288.3
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "I. Üçgende bir açıyı iki eş açıya ayıran doğru parça 4. sına açıortay denir. II. Üçgende bir kenarın orta noktasıyla karşısındaki köşeyi birleştiren doğru parçasına kenarortay denir. III. Dik üçgende hipotenüse ait kenarortayın uzunluğu, hipotenüsün uzunluğunun yarısına eşittir. IV. Kenarortay “V”, açıortay “n”, yükseklik ise “h” harfi ile gösterilir. Yukarıdaki ifadelerden kaç tanesi doğrudur? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    365.7,
+    587.3,
+    466.4
+   ],
+   "num": [
+    314.9,
+    372.7,
+    325.6,
+    386.2
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir KLM üçgeninde kenarlara ait yükseklikler üçgenin 5. dışında bir noktada kesişmektedir. KLM üçgeni aşağıdakilerden hangisi olabilir? A) Dik üçgen B) Eşkenar üçgen C) İkizkenar üçgen D) Dar açılı üçgen",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    535.8,
+    578.5,
+    742.0
+   ],
+   "num": [
+    314.3,
+    542.8,
+    325.6,
+    556.3
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A 6. H C B Yukarıdaki ABC üçgeninde |AH| = |HC| olduğuna göre aşağıdakilerden hangisi kesinlikle doğrudur? ] g ] g ] g ] g % % % % A) s ABH = s BCH B) s ACB = s ABC C) |AB| = |AC| D) |AB| = |BC|",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    291.2,
+    174.3
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir çeşitkenar üçgende bir açıdan çizilen açıortay, 7. kenarortay ve yüksekliğin uzunluklarının sıralaması aşağıdakilerden hangisidir? A) Kenarortay > Açıortay > Yükseklik B) Açıortay > Yükseklik > Kenarortay C) Yükseklik > Açıortay > Kenarortay D) Kenarortay > Yükseklik > Açıortay",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    292.1,
+    479.0
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A 8. K L M N B C Yukarıdaki ABC üçgeninde B noktası ile hangi nokta birleştirilirse B açısının açıortayı çizilmiş olur? A) K B) L C) M D) N",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    270.5,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "K 9. 45° 65° M L N Yukarıdaki üçgende LKM açısının açıortayı [KN] ] g % kaç derecedir? olduğuna göre s KNM A) 100 B) 90 C) 85 D) 80",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    583.7,
+    197.0
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Çeşitkenar bir ABC üçgeninde h a > h b > h c sıralaması 10. veriliyor. Buna göre ABC üçgeninin kenar uzunlukları arasın daki sıralama aşağıdakilerden hangisidir? A) |AB| > |AC| > |BC| B) |BC| > |AC| > |AB| C) |AC| > |BC| > |AB| D) |AB| > |BC| > |AC|",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    587.3,
+    461.1
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "11. Çeşitkenar bir üçgen şekildeki gibi katlanıp açıldı ğında oluşan katlama çizgisi hangi elemanı gösterir? A) Kenarortay B) Açıortay C) Yükseklik D) Köşegen",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    587.3,
+    711.8
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "12. Çeşitkenar bir üçgen şekildeki gibi katlanıp açıldı ğında oluşan katlama çizgisi hangi elemanı gösterir? A) Kenarortay B) Açıortay C) Yükseklik D) Köşegen",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

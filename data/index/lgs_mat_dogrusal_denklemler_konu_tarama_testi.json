@@ -1,0 +1,443 @@
+{
+ "book": {
+  "id": "lgs_mat_dogrusal_denklemler_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/07_Dogrusal_Denklemler/DOGRUSAL_DENKLEMLER_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Doğrusal Denklemler",
+  "code": "",
+  "title": "Dogrusal Denklemler Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 8,
+ "key_pages": [
+  8
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    445.9
+   ],
+   "num": [
+    29.7,
+    71.3,
+    49.1,
+    88.3
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Doğruların geçtiği noktaları koordinatta belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    525.4,
+    575.2,
+    731.0
+   ],
+   "num": [
+    29.7,
+    529.4,
+    47.9,
+    546.5
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareli zeminde yüzde eğim hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    333.3
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tablodan doğrusal ilişki kurup değer bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    330.6
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.7,
+    88.3
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Doğrusal grafikten oran okuyup karışım hesabı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    25.7,
+    511.1,
+    575.2,
+    736.8
+   ],
+   "num": [
+    29.7,
+    515.1,
+    49.1,
+    532.1
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Eş kare kenarlarından denklem kurma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p3|q6",
+   "page": 3,
+   "n": 6,
+   "bbox": [
+    25.7,
+    67.4,
+    575.2,
+    389.9
+   ],
+   "num": [
+    29.7,
+    71.4,
+    49.1,
+    88.4
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Yüzde koşuluyla denklem kurup çözme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p3|q7",
+   "page": 3,
+   "n": 7,
+   "bbox": [
+    25.7,
+    504.2,
+    575.2,
+    738.8
+   ],
+   "num": [
+    29.7,
+    508.2,
+    47.9,
+    525.2
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "İki doğrusal grafikten birim miktar bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    318.9
+   ],
+   "num": [
+    29.7,
+    71.3,
+    49.1,
+    88.3
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Parça uzunluklarından denklem kurma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p4|q9",
+   "page": 4,
+   "n": 9,
+   "bbox": [
+    25.7,
+    504.2,
+    575.2,
+    710.4
+   ],
+   "num": [
+    29.7,
+    508.2,
+    47.9,
+    525.2
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Rampa eğiminden zemindeki uzaklığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p5|q10",
+   "page": 5,
+   "n": 10,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    369.3
+   ],
+   "num": [
+    29.7,
+    71.3,
+    49.1,
+    88.3
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Doğru üzerindeki noktalarla dikdörtgen alanı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p5|q11",
+   "page": 5,
+   "n": 11,
+   "bbox": [
+    25.7,
+    478.5,
+    575.2,
+    729.3
+   ],
+   "num": [
+    29.7,
+    482.5,
+    47.9,
+    499.5
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Maliyet problemini denklem kurarak çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p6|q12",
+   "page": 6,
+   "n": 12,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    417.4
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "İki nokta arası doğrunun eğimini yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p6|q13",
+   "page": 6,
+   "n": 13,
+   "bbox": [
+    25.7,
+    478.5,
+    575.2,
+    740.2
+   ],
+   "num": [
+    29.7,
+    482.5,
+    49.1,
+    499.5
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Doğrusal ilişki grafiğinden oran ve maliyet",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p7|q14",
+   "page": 7,
+   "n": 14,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    312.3
+   ],
+   "num": [
+    29.7,
+    71.3,
+    49.1,
+    88.3
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "İndirimli fiyat problemini denklemle çözme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p7|q15",
+   "page": 7,
+   "n": 15,
+   "bbox": [
+    25.7,
+    397.6,
+    575.2,
+    780.4
+   ],
+   "num": [
+    29.7,
+    401.6,
+    47.9,
+    418.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Doğruların kesişiminden dikdörtgen alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

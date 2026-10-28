@@ -1,0 +1,387 @@
+{
+ "book": {
+  "id": "lgs_mat_uslu_ifadeler_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/02_Uslu_Ifadeler/USLU_IFADELER_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Üslü İfadeler",
+  "code": "",
+  "title": "Uslu Ifadeler Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 6,
+ "key_pages": [
+  6
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    271.9
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ortak tabanda üslü çarpma ile alan bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    477.5,
+    293.6,
+    723.4
+   ],
+   "num": [
+    29.7,
+    481.5,
+    48.0,
+    498.5
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Ortak tabana çevirerek üslü bölme ve karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    368.9
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.8,
+    88.3
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Negatif kuvvetli ifadeyi modelle eşleştirme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    305.5,
+    477.5,
+    575.2,
+    776.2
+   ],
+   "num": [
+    309.5,
+    481.5,
+    327.8,
+    498.5
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Orantı ile 10'un kuvvetleriyle miktar bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    426.1
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Katlama sayısını 2'nin kuvvetiyle modelleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    295.0
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.8,
+    88.3
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ortak tabanda üs karşılaştırarak en az sayı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    25.7,
+    540.7,
+    575.2,
+    753.2
+   ],
+   "num": [
+    29.7,
+    544.7,
+    49.1,
+    561.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü çevreden kare fayans alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p3|q8",
+   "page": 3,
+   "n": 8,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    377.4
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Negatif üslü kütlelerle eşitlikten adet bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p3|q9",
+   "page": 3,
+   "n": 9,
+   "bbox": [
+    25.7,
+    489.5,
+    575.2,
+    745.6
+   ],
+   "num": [
+    29.7,
+    493.5,
+    47.9,
+    510.6
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Negatif ve tam sayı kuvvetlerinin değerini sıralama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p4|q10",
+   "page": 4,
+   "n": 10,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    316.1
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü çarpma ve bölme kurallarıyla bulmaca",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p4|q11",
+   "page": 4,
+   "n": 11,
+   "bbox": [
+    25.7,
+    489.5,
+    575.2,
+    702.0
+   ],
+   "num": [
+    29.7,
+    493.5,
+    47.9,
+    510.6
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tablodan ikiye katlanma süresiyle üslü problem",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p5|q12",
+   "page": 5,
+   "n": 12,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    319.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Eşit değerleri eşleyip bilimsel gösterimle toplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p5|q13",
+   "page": 5,
+   "n": 13,
+   "bbox": [
+    25.7,
+    427.5,
+    575.2,
+    739.3
+   ],
+   "num": [
+    29.7,
+    431.5,
+    47.9,
+    448.5
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Negatif üslü kenarlarla dikdörtgen sayısı farkı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

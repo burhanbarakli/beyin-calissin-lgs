@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.02_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.02_EBOB_EKOK_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.02",
+  "title": "EBOB - EKOK",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.02_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    282.9,
+    154.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 36 ve 54 sayılarının ortak 1. bölenlerinin en büyüğüdür? A) 6 B) 12 C) 18 D) 27",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    282.8,
+    395.3
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 12 ve 18 sayılarının ortak 2. katlarından biri değildir? A) 36 B) 108 C) 144 D) 192",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    280.6,
+    634.3
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayı çiftlerinden hangisinin EKOK’u 48 3. değildir? A) 1 - 48 B) 2 - 24 C) 3 - 16 D) 16 - 24",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    582.7,
+    141.3
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "EBOB (9,16) + EKOK (6,14) işleminin sonucu kaçtır? 4. A) 43 B) 42 C) 13 D) 12",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    567.0,
+    403.9
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A sayısı ile 25 sayısının EBOB’u 5, EKOK’u 150’dir. 5. Buna göre A sayısı aşağıdakilerden hangisidir? A) 5 B) 15 C) 30 D) 50",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    586.8,
+    642.6
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "EBOB (A,B) + EKOK (A,B) = 40 6. A sayısı B sayısının 4 katı olduğuna göre A.B kaçtır? A) 200 B) 256 C) 400 D) 512",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    264.4,
+    112.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "EBOB’ları 20 olan iki sayının toplamı en az kaç 7. olabilir? A) 40 B) 50 C) 60 D) 80",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    226.4,
+    408.5
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A = 2 4 .3 2 .5 8. B = 2 3 .3 2 .7 EKOK (A,B) aşağıdakilerden hangisidir? A) 2 4 .3 2 B) 2 4 .3 2 .5.7 C) 2 4 .3 4 D) 2 4 .3 4 .5.7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    282.8,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "7 5 + işleminde paydaların eşitlendiği en küçük 9. 12 18 doğal sayı A'dır. 120 kesrini sadeleştirmek için kullanılabilecek en 260 büyük doğal sayı B'dir. Buna göre A + B kaçtır? A) 46 B) 56 C) 82 D) 92",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    586.9,
+    253.5
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A B 2 10. C D 2 C E 3 F G 5 H 1 7 1 Yukarıdaki asal çarpanlar algoritmasındaki her bir harf farklı bir sayıyı temsil etmektedir. Buna göre A ve B sayılarının en büyük ortak böleni kaçtır? A) 6 B) 30 C) 90 D) 420",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    573.4,
+    476.6
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A B 2 11. 15 C 3 D C D 1 7 E 1 Yukarıdaki asal çarpanlar algoritmasındaki her bir harf farklı bir sayıyı temsil etmektedir. Buna göre A + B − E işleminin sonucu kaçtır? A) 93 B) 107 C) 163 D) 177",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    582.6,
+    700.7
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "I. İki sayının EBOB’u bu sayılardan büyüktür. 12. II. İki sayının EKOK’u bu sayılara eşit olamaz. III. Birbirinin katı olan iki sayının EBOB’u küçük sayıya, EKOK’u büyük sayıya eşittir. Yukarıda verilen bilgilerden hangisi veya hangileri yanlıştır? A) Yalnız III B) I ve II C) I ve III D) II ve III",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

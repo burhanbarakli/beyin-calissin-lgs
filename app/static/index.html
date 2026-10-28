@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beyin Çalışsın</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">🧠 <b>Beyin Çalışsın</b> <span class="muted">· LGS Matematik</span> <span id="student" class="muted"></span></div>
+  <div id="claudeStatus" class="status"></div>
+  <button id="openSettings" class="ghost small" title="Ayarlar">⚙ Ayarlar</button>
+</header>
+
+<main>
+<!-- ===================================================== 1 · FOTOĞRAFLAR -->
+<section class="panel step">
+  <h2><span class="num">1</span> Yapamadığı soruların fotoğrafları</h2>
+  <div id="drop" class="drop">
+    <div class="drop-text">Fotoğrafları buraya <b>sürükleyin</b>, <b>yapıştırın</b> (Ctrl/⌘ + V) ya da</div>
+    <label class="pick">📷 Fotoğraf seç<input type="file" id="fileIn" multiple accept="image/*" hidden></label>
+  </div>
+  <div id="photos" class="photos"></div>
+  <textarea id="note" rows="2" placeholder="Not (isteğe bağlı): örn. kesirli ifadelerde zorlanıyor, LGS tarzı soru ağırlıklı olsun…"></textarea>
+  <div class="row wrap gap opts">
+    <span class="muted">Soru sayısı:</span>
+    <span class="seg" id="size">
+      <label><input type="radio" name="size" value="az">Az</label>
+      <label><input type="radio" name="size" value="normal" checked>Normal</label>
+      <label><input type="radio" name="size" value="cok">Çok</label>
+    </span>
+    <details class="adv"><summary class="muted">Gelişmiş</summary>
+      <label class="check">Model
+        <select id="model">
+          <option value="">Ayarlardaki</option>
+          <option value="opus">Opus · en iyi teşhis</option>
+          <option value="sonnet">Sonnet · dengeli</option>
+          <option value="haiku">Haiku · en hızlı</option>
+        </select></label>
+      <label class="check"><input type="checkbox" id="deep"> 🔬 Derin analiz <span class="muted small">(her soru ve aday tek tek çözülür; daha yavaş, 2-3 kat maliyet)</span></label>
+      <label class="check"><input type="checkbox" id="allowRepeat"> Daha önce verilen sorular tekrar kullanılabilir</label>
+    </details>
+  </div>
+  <button id="runBrain" class="big">🧠 Beyin Çalışsın</button>
+</section>
+
+<!-- ===================================================== 2 · BEYİN -->
+<section id="live" class="panel step hidden">
+  <div class="row between">
+    <h2><span class="num">2</span> <span id="jobHead"></span></h2>
+    <button id="cancelJob" class="ghost small hidden">Durdur</button>
+  </div>
+  <div id="lastThought" class="last-thought"></div>
+  <details id="feedWrap"><summary class="muted small">Beynin tüm adımları</summary><div id="feed" class="feed"></div></details>
+</section>
+
+<!-- ===================================================== 3 · ADAYLAR -->
+<section id="candidates" class="hidden">
+  <div class="panel step">
+    <h2><span class="num">3</span> Aday sorular <span class="muted small">— kâğıda koymak istediklerinize tıklayın</span></h2>
+    <div id="summary"></div>
+    <div id="diagnosis" class="diag"></div>
+  </div>
+  <div id="groups"></div>
+</section>
+
+<!-- ===================================================== ÖNCEKİLER -->
+<section class="history">
+  <h2>Önceki çalışmalar</h2>
+  <div id="runList"></div>
+</section>
+</main>
+
+<!-- 4 · PDF çubuğu -->
+<div id="pdfBar" class="pdfbar hidden">
+  <span class="num">4</span>
+  <b><span id="bCount">0</span> soru seçildi</b>
+  <input id="pdfTitle" value="Çalışma Kâğıdı" title="PDF başlığı">
+  <label class="check"><input type="checkbox" id="optWrong" checked> Başa yapamadığı soruları ekle</label>
+  <button id="bClear" class="ghost small" title="Seçimi temizle">Temizle</button>
+  <button id="makePdf">📄 PDF Oluştur</button>
+</div>
+
+<div id="settings" class="modal hidden"><div class="modal-body narrow">
+  <button class="close">×</button>
+  <h2>Ayarlar</h2>
+  <label class="field">Öğrenci adı <span class="muted small">(PDF'in üstüne yazılır)</span><input id="setStudent"></label>
+  <label class="field">Varsayılan model
+    <select id="setModel">
+      <option value="">Claude Code varsayılanı</option>
+      <option value="opus">Opus · en iyi</option>
+      <option value="sonnet">Sonnet · dengeli</option>
+      <option value="haiku">Haiku · en ucuz</option>
+    </select></label>
+  <label class="field">Claude Code yolu <span class="muted small">(boş = otomatik bul)</span><input id="setClaude"></label>
+  <p id="bankInfo" class="muted small"></p>
+  <div class="row gap"><button id="saveSettings">Kaydet</button><button id="resetUsed" class="ghost">"Verilen sorular" listesini sıfırla</button></div>
+</div></div>
+
+<div id="modal" class="modal hidden"><div class="modal-body"><button class="close">×</button><div id="modalContent"></div></div></div>
+<div id="toast" class="toast hidden"></div>
+<script src="app.js"></script>
+</body>
+</html>

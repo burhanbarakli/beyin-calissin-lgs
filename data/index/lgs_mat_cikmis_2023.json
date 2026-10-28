@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_cikmis_2023",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/00_LGS_Cikmis_Sorular/LGS_2023_Matematik.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "lgs_cikmis",
+  "kind_name": "LGS Çıkmış",
+  "unit": "",
+  "code": "",
+  "title": "2023 LGS Matematik",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 16,
+ "key_pages": [
+  16
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_cikmis_2023|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    43.4,
+    144.1,
+    510.3,
+    383.8
+   ],
+   "num": [
+    49.4,
+    151.1,
+    60.4,
+    167.7
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "1. Kırmızı Mavi Yeşil Mor - 10 - 5 0 5 10 1 - 5 , ( - 3) 2 , 2 - 3 , - 3 2 üslü ifadeleri yukarıdaki sayı doğrusunda, değerlerine karşılık gelen noktala- ra yerleştirilecektir. Buna göre, hangi renkteki doğru parçası üzerine en fazla sayıda üslü ifade yerleştirilir? A) Kırmızı B) Mavi C) Yeşil D) Mor",
+   "answer": "C",
+   "solved": false,
+   "skill": "Negatif üslü ifadelerin değerini sayı doğrusunda yerleştirme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    45.4,
+    402.1,
+    509.2,
+    714.8
+   ],
+   "num": [
+    49.4,
+    405.1,
+    60.4,
+    421.8
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "2. 46 kg 12 kg I. çuval II. çuval Yukarıda iki adet un çuvalı ve bu çuvallarda bulunan un miktarları verilmiştir. Bu çuvallara belli mik- tarlarda un eklendiğinde çuvallardaki un miktarlarının kilogram cinsinden değerleri, aralarında asal olmaktadır. Buna göre, çuvallara eklenen un miktarlarının kilogram cinsinden değerleri aşağıdakilerin hangisi olabilir? I. çuval II. çuval A) 5 4 B) 8 6 C) 3 2 D) 9 3",
+   "answer": "A",
+   "solved": false,
+   "skill": "İki sayının aralarında asal olup olmadığını belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    43.4,
+    73.2,
+    514.5,
+    391.0
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "3. a, b birer doğal sayı olmak üzere 2 a b a b dir. = Yükseklikleri 5 m ve 6 m olan A ile B direkleri arasına, boyu 2 m olan bir fidan dikilmiştir. B A 6 m 5 m 2 m Zemin Bir süre sonra bu fidanın boyu A direğinin yüksekliğinden fazla, B direğinin yüksekliğinden az olmuş- tur. Buna göre bu fidan, dikildikten sonra kaç metre uzamış olabilir? A) 2 2 B) 2 3 C) 3 2 D) 2 6",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü sayının hangi tam sayılar arasında olduğunu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p3|q4",
+   "page": 3,
+   "n": 4,
+   "bbox": [
+    43.4,
+    73.2,
+    514.5,
+    390.7
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "4. a, b, c, d birer doğal sayı olmak üzere 2 a b a b = a b c d ( a c ) b d dir . $ = $ $ Mavi kutucuklar ' 45 72 100 150 K 80 Sarı kutucuklar L 18 M 36 N 30 Yukarıdaki bölme işlemi tablosunda K, L, M ve N harflerine karşılık gelen sayılar, bu harflerle aynı sütunda bulunan mavi kutucuktaki kareköklü ifadenin bu harflerle aynı satırda bulunan sarı kutucuk- taki kareköklü ifadeye bölünmesiyle elde edilmiştir. Buna göre, bu harflerden hangisi bir irrasyonel sayı belirtmektedir? A) K B) L C) M D) N",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü bölme sonucunun irrasyonelliğini belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    45.4,
+    82.7,
+    514.2,
+    383.8
+   ],
+   "num": [
+    49.4,
+    89.7,
+    60.4,
+    106.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "İstenilen olası durumların sayısı 5. Bir olayın olma olasılığı = Tüm olası durumların sayısı Aşağıda verilen abaküste üç basamaklı 423 sayısı modellenmiştir. 4 2 3 Bu abaküsteki boncuklardan bir tanesi, bulunduğu çubuktan çıkarılarak diğer çubuklardan birine takılıyor. Buna göre, abaküste modellenen yeni sayının 500’den büyük olma olasılığı kaçtır? 1 1 1 1 A) 2 B) 3 C) 6 D) 9",
+   "answer": "B",
+   "solved": false,
+   "skill": "Abaküs modelinde olası durumları sayarak olasılık bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    43.4,
+    73.2,
+    514.5,
+    383.8
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "6. a, b birer doğal sayı olmak üzere 2 a b a b dir. = Kartlar 3 12 6 5 10 7 Yukarıdaki kartların ön yüzlerinde birer kareköklü ifade verilmiştir. Her bir kartın arka yüzünde ise ön yüzünde yazan kareköklü ifadenin a b biçimindeki farklı bir gösterimi yazmaktadır. Buna göre, aşağıdakilerden hangisi bu kartlardan herhangi birinin arka yüzünde yazılı olamaz? A) 5 28 B) 2 27 C) 2 70 D) 3 20",
+   "answer": "C",
+   "solved": false,
+   "skill": "Katsayıyı kök içine alıp farklı gösterimleri eşleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    45.4,
+    493.2,
+    512.0,
+    686.9
+   ],
+   "num": [
+    49.4,
+    496.2,
+    60.4,
+    512.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "7. Efe ve Kuzey’in her ikisinin de bilye sayıları 50’den fazla ve birbirine eşittir. Efe, bilyelerinin tamamı- nı her birinde eşit sayıda bilye olacak şekilde 3 torbaya; Kuzey ise bilyelerinin tamamını her birinde eşit sayıda bilye olacak şekilde 4 torbaya aşağıdaki gibi yerleştirmiştir. Efe’nin bilyeleri Kuzey’in bilyeleri Efe ile Kuzey, birer torba bilyelerini değiştiklerinde Kuzey’in toplam bilye sayısı en az kaç olur? B) 65 A) 55 C) 78 D) 80",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ortak kat ile bilye sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    43.4,
+    73.2,
+    514.5,
+    383.8
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "8. Dikdörtgen şeklindeki bir tarlanın kenarlarının uzunlukları Şekil I’de verilmiştir. Bu tarlanın iç bölge- sine, üç kenarı boyunca kenarlara paralel olacak biçimde Şekil II’de gösterildiği gibi bir yol yapıla- caktır. 6 m 6 m (2x + 13) m (x + 10) m 8 m Şekil I Şekil II Buna göre, yol için ayrılan bölgenin alanını metrekare cinsinden veren cebirsel ifade aşağı- dakilerden hangisidir? A) 4(7x + 32) B) 28(x + 8) C) 2(17x + 66) D) 2(7x + 16)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alan farkını cebirsel ifadeyle yazıp çarpanlara ayırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p7|q9",
+   "page": 7,
+   "n": 9,
+   "bbox": [
+    36.8,
+    75.0,
+    513.1,
+    383.8
+   ],
+   "num": [
+    49.4,
+    82.0,
+    60.4,
+    98.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "9. A B 40 5 Toplam Toplam 40 sayısının pozitif tam sayı çarpanlarının tamamı yukarıdaki gibi iki gruba ayrıldığında A grubunda- ki sayıların toplamı, B grubundaki sayıların toplamına eşit olmaktadır. A grubundaki sayılardan biri 40 ve B grubundaki sayılardan biri 5 olduğuna göre, B grubun- daki en küçük sayı kaçtır? B) 2 A) 1 C) 4 D) 5",
+   "answer": "B",
+   "solved": false,
+   "skill": "Pozitif çarpanları eşit toplamlı iki gruba ayırma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    38.8,
+    462.3,
+    515.7,
+    684.8
+   ],
+   "num": [
+    42.8,
+    465.3,
+    60.4,
+    481.9
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "10. Dört farklı markaya ait televizyonun TL cinsinden fiyatlarının asal çarpanlarının çarpımı şeklinde yazılışı aşağıda gösterilmiştir. Bu asal çarpanlardan küçük olanı a’dır. K L M N a 3 . b 5 a 4 . b 4 a 2 . b 6 a 6 . b 3 Bu televizyonlardan birinin fiyatı 10 000 TL olduğuna göre, televizyonların en ucuzu aşağıda- kilerden hangisidir? B) L A) K C) M D) N",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpanlara ayırıp çarpımları karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p8|q11",
+   "page": 8,
+   "n": 11,
+   "bbox": [
+    38.3,
+    73.2,
+    514.5,
+    383.8
+   ],
+   "num": [
+    43.4,
+    80.2,
+    60.7,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "11. a, b, c birer doğal sayı olmak üzere 2 a b a b = _ i a b c b a c b + = + _ i a b c b a c b dir . - = - 128 dm Parke Parke 2 dm 8 dm Parke Yukarıda verilen dikdörtgen şeklindeki bir zemine parke döşenmektedir. Zeminde döşeli dikdörtgen biçiminde üç özdeş parke ile ilgili bazı ölçüler şekilde verilmiştir. Buna göre, parke döşenmemiş bölgelerin alanları toplamı kaç desimetrekaredir? A) 72 B) 84 C) 96 D) 148",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla boş bölge alanını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p9|q12",
+   "page": 9,
+   "n": 12,
+   "bbox": [
+    36.8,
+    73.2,
+    514.5,
+    390.7
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "12. Bir müşterinin alışveriş yaptığı A ve B mağazalarına TL cinsinden ödeyeceği toplam tutarın dağılı- mı, daire grafiğinde; A mağazasına ödeyeceği toplam tutarın taksitleri, birim kareli zeminde verilen sütun grafiğinde gösterilmiştir. Grafik: A ve B Mağazalarına Ödenecek Grafik: A Mağazasına Ödenecek Taksitler Toplam Tutarın Dağılımı Miktar (TL) A 120° B Taksitler 0 1. taksit 2. taksit 3. taksit Bu müşteri, B mağazasına 1800 TL ödemiştir. Buna göre, bu müşterinin A mağazasına ödeyeceği 1. taksit kaç liradır? A) 450 B) 600 C) 750 D) 900",
+   "answer": "D",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden taksit tutarı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p10|q13",
+   "page": 10,
+   "n": 13,
+   "bbox": [
+    38.3,
+    73.2,
+    514.5,
+    383.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "13. Alanı (36x 2 ) cm 2 olan kare, alanları birbirine eşit olan mavi, sarı ve beyaz renkli üç dikdörtgensel bölgeye aşağıdaki gibi ayrılmıştır. Sarı Mavi Beyaz Buna göre, sarı dikdörtgensel bölgenin çevresinin uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 24x B) 20x C) 14x D) 7x",
+   "answer": "C",
+   "solved": false,
+   "skill": "Eş alanlı bölgelerden çevre ifadesi yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p10|q14",
+   "page": 10,
+   "n": 14,
+   "bbox": [
+    38.8,
+    543.2,
+    509.2,
+    690.2
+   ],
+   "num": [
+    42.8,
+    546.2,
+    60.4,
+    562.8
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "14. a ! 0 ve m, n tam sayılar olmak üzere (a n ) m = a n $ m ve a n $ a m = a n + m dir. Bir buğday ekme makinesinin toprağa tohum bırakan 16 adet bölümü vardır. Her bir bölümden her 15 saniyede 4 5 adet buğday tanesi toprağa ekilmektedir. Bir buğday tanesinin kütlesi 2 - 5 gramdır. Buna göre, bu makine 60 dakikada kaç gram buğday ekmiştir? A) 15 . 2 13 B) 15 . 2 11 C) 60 . 2 13 D) 60 . 2 10",
+   "answer": "A",
+   "solved": false,
+   "skill": "Üslü ifadelerle çarpma kurallarını probleme uygulama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p11|q15",
+   "page": 11,
+   "n": 15,
+   "bbox": [
+    36.8,
+    73.2,
+    515.8,
+    463.9
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "15. a, b, c, d birer doğal sayı olmak üzere _ i a b c b a c b + = + _ i a b c b a c b - = - = _ i a b c d a c b d dir . $ $ $ Her birinin çevresinin uzunluğu 24 2 cm olan eşkenar üçgen şeklindeki 6 adet sarı bayrak, köşele- ri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil I’deki gibi bir ipe dizildiğinde ipin iki ucunda da boşluk kalmamıştır. Sarı Sarı Sarı Sarı Sarı Sarı Şekil I Aynı ipe, Şekil I’de verilen bayraklardan 4 tanesi ve eşkenar üçgen biçimindeki özdeş 3 mavi bay- rak, köşeleri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil II’deki gibi dizildiğinde ipin her ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunlukları eşitleyip kenar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p12|q16",
+   "page": 12,
+   "n": 16,
+   "bbox": [
+    38.3,
+    73.2,
+    514.5,
+    383.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "16. Dikdörtgen biçimindeki bir kâğıt, Şekil I’deki gibi kesiliyor. Daha sonra elde edilen parçaların ke- narları Şekil II’deki gibi çakıştırılarak bir yüzünün alanı (16x 2 ) cm 2 olan, kare şeklinde bir kâğıt elde ediliyor. Şekil I Şekil II Buna göre, başlangıçta verilen dikdörtgen şeklindeki kâğıdın çevresinin uzunluğunu santimet- re cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 40x B) 20x C) 16x D) 10x",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kesilen parçalardan kare kurup çevre ifadesi bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p12|q17",
+   "page": 12,
+   "n": 17,
+   "bbox": [
+    38.8,
+    461.3,
+    512.0,
+    699.7
+   ],
+   "num": [
+    42.8,
+    464.3,
+    60.4,
+    480.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "17. Dokuz eş kareden oluşan kare, Şekil I’de; dört eş dikdörtgenden oluşan dikdörtgen, Şekil II’de veril- miştir. Bu şekillerin yükseklikleri birbirine eşittir. Mavi Sarı h h Mavi Şekil I Şekil II Şekil I’de verilen mavi bölgelerin alanları toplamı, Şekil II’de verilen sarı bölgenin alanına eşittir. Şekil I’in çevresinin uzunluğu (36x + 36) cm olduğuna göre, Şekil II’nin çevresinin uzunluğu- nu santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 34x + 34 B) 26x + 26 C) 18x + 42 D) 16x + 32",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alan eşitliğinden kenar bulup çevre ifadesi yazma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p13|q18",
+   "page": 13,
+   "n": 18,
+   "bbox": [
+    36.8,
+    73.2,
+    514.5,
+    383.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "18. Bir markette başlangıçta eşit kütlelerde kekik, nane, kimyon ve karabiber vardır. Bu ürünlerin belli miktarları satıldıktan sonra kalan kütlelerini gösteren tablo aşağıda verilmiştir. Tablo: Ürünlerin Kalan Kütleleri Ürün Kalan Kütle (kg) 4810 × 10 - 3 Kekik 155000 × 10 - 6 Nane 0,000232 × 10 5 Kimyon 0,0379 × 10 4 Karabiber Buna göre, başlangıçta bu ürünlerden birinin kilogram cinsinden kütlesi aşağıdakilerden hangisi olabilir? A) 0,0000258 × 10 7 B) 0,00625 × 10 4 C) 3800000 × 10 - 5 D) 5010000 × 10 - 4",
+   "answer": "D",
+   "solved": false,
+   "skill": "10'un kuvvetleriyle verilen sayıları karşılaştırma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p14|q19",
+   "page": 14,
+   "n": 19,
+   "bbox": [
+    38.3,
+    73.2,
+    514.5,
+    424.1
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "19. Elektrikli otomobil üreten bir firma, bu otomobillerin tercih edilme nedenlerini araştıran bir anket uy- gulamıştır. Ankete katılan müşterilerin cinsiyetlerine ve verdikleri cevaplara göre dağılımları aşağı- daki daire grafiklerinde gösterilmiştir. Grafik: Ankete Katılanların Cinsiyetlerine Grafik: Ankete Katılanların Verdikleri Göre Dağılımları Cevaplara Göre Dağılımları Ekonomiklik Kadın 160° 160° 80° Erkek Konfor Sağlamlık Anket sonuçlarına göre, • Ekonomikliği tercih eden erkeklerin sayısı, ekonomikliği tercih eden kadınların sayısının 3 katıdır. • Sağlamlığı tercih eden erkeklerin say",
+   "answer": "C",
+   "solved": false,
+   "skill": "İki daire grafiğini koşullarla birleştirip toplam bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2023|p15|q20",
+   "page": 15,
+   "n": 20,
+   "bbox": [
+    36.8,
+    82.7,
+    516.5,
+    683.1
+   ],
+   "num": [
+    42.8,
+    89.7,
+    60.4,
+    106.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2023 LGS",
+   "text": "İstenilen olası durumların sayısı 20. Bir olayın olma olasılığı = Tüm olası durumların sayısı Renkleri dışında özdeş olan yeterli sayıda top vardır. Bu toplar, her bir kutuda eşit sayıda top olacak şekilde başlangıçta boş olan I, II, III ve IV numaralı kutulara yerleştiriliyor. I II III IV Kutulardaki toplar, boş olan A, B, C torbalarında tablodaki gibi birleştirilirse bu torbalardan rastgele çekilen birer topun mavi olma olasılıkları tablodaki gibi olmaktadır. Torbalar Birleştirilen Kutular Mavi Top Çekilme Olasılığı A I ve II %100 B I ve III %75 C I ve IV %50 Buna göre, başlangıçta bu dört k",
+   "answer": "A",
+   "solved": false,
+   "skill": "Birleştirilen kutuların olasılıklarından top sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

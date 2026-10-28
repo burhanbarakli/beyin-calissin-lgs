@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.30_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/10_Eslik_Ve_Benzerlik/8.30_Eslik_ve_Benzerlik_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Eşlik ve Benzerlik",
+  "code": "8.30",
+  "title": "Eşlik ve Benzerlik",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.30_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    291.2,
+    309.9
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "1. d A B C İbrahim ABC üçgeninin d doğrusuna göre simetriğini çiziyor. Çizdiği üçgende d doğrusuna en yakın köşeyi K, en uzak köşeyi M, diğer köşeyi de L harfiyle isim lendiriyor. Buna göre aşağıdakilerden hangisi doğrudur? & & & & A) ABC KLM B) BAC KML , , & & & & C) BCA MKL D) CAB KML , ,",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    348.7,
+    293.4,
+    550.5
+   ],
+   "num": [
+    15.5,
+    355.7,
+    26.5,
+    369.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "2. I II III IV Yukarıda kareli yüzeye sahip 4 masanın her birinin üzerinde üst üste konulmuş 2 adet dikdörtgen kar ton bulunmaktadır. Hangi masadaki kartonlar birbirine benzerdir? A) I B) II C) III D) IV",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    603.4,
+    293.3,
+    715.0
+   ],
+   "num": [
+    16.0,
+    610.4,
+    26.5,
+    623.9
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3. Bir ABC eşkenar üçgeninde, kenarların orta noktaları birleştirilerek DEF üçgeni elde ediliyor. Buna göre DEF ve ABC üçgenlerinin benzerlik oranı aşağıdakilerden hangisi olabilir? 1 1 1 A) 4 B) 3 C) 2 D) 1",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    575.8,
+    242.0
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "I. Benzer çokgenlerin kenar uzunlukları birbirine 4. eşittir. II. Her eş şekil aynı zamanda benzerdir. III. Tüm eşkenar dörtgenler birbirine benzerdir. IV. Dikdörtgenin bir köşegeni, dikdörtgeni iki eş üçgene ayırır. Yukarıdaki ifadelerden kaç tanesi doğrudur? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    308.4,
+    572.0,
+    498.3
+   ],
+   "num": [
+    314.9,
+    315.4,
+    325.6,
+    329.0
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. K L A M N B C P R Bir kenarı [KL] olan bir üçgen çizilecektir. Bu çizimde hangi nokta köşe olarak kullanılırsa oluşan üçgen ABC üçgenine eş olur? A) P B) R C) N D) M",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    578.8,
+    743.5
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "6. A 6 cm 2x - 1 cm 3x - 4 cm C D x + 4 cm E B & & 'tir. Yukarıdaki şekilde ABC EFD , Buna göre [FE]'nın uzunluğu kaç santimetredir? A) 6 B) 7 C) 9 D) 11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    285.5,
+    213.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bilgi: Kağıt standartlarından biri olan A SERİSİ kağıt 7. ların en büyük özelliği, uzun kenarının orta noktala rından ikiye katlandığında kendisine neredeyse ben zer bir kağıt elde edilmesidir. Ayrıca A kağıtlarının isimleri ve yaklaşık alanları şu şekilde devam eder: A0 kağıdı 1 m 2 - A1 kağıdı 0,5 m 2 - A2 kağıdı 0,25 m 2 A serisi kağıtlar benzer kabul edilirse A0 kağıdı ile A4 kağıdının benzerlik oranı hangisi olabilir? A) 2 B) 4 C) 5 D) 8",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    283.8,
+    486.8
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "8. Yukarıdaki fotoğrafın eni ve boyu 2 kat arttırılarak kopyası alınıyor. Bu iki fotoğrafın çevre uzunlukları oranı aşağıdaki lerden hangisi olabilir? A) 2 B) 3 C) 4 D) 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    570.5,
+    282.5,
+    775.7
+   ],
+   "num": [
+    15.5,
+    577.5,
+    26.5,
+    591.1
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "9. Kenarlarının uzunlukları 12 cm ve 18 cm olan dik dörtgen ile kenarlarının uzunlukları 6 cm ve x cm olan dikdörtgen benzerdir. Buna göre x'in alabileceği değerler toplamı kaçtır? A) 4 B) 9 C) 12 D) 13",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    191.5
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bilgi: Haritalardaki / planlardaki küçültme oranına 10. ölçek denir. 1/100 ölçekli bir haritada / planda 1 br olan uzunluk gerçekte 100 br'dir. 1/200 ölçekli bir planda kenar uzunluğu 10 cm olan kare şeklindeki bir havuzun gerçek alanı kaç metre karedir? A) 400 B) 4000 C) 40000 D) 4000000",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    279.9,
+    583.3,
+    453.7
+   ],
+   "num": [
+    313.1,
+    286.9,
+    325.6,
+    300.4
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "11. Yukarıdaki kısa kenarının uzunluğu 4 cm olan eş 18 dikdörtgenden oluşturulmuştur. Buna göre bu şeklin çevresi kaç santimetredir? A) 128 B) 136 C) 144 D) 160",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    531.1,
+    575.7,
+    717.2
+   ],
+   "num": [
+    310.5,
+    538.1,
+    325.6,
+    551.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "12. A E D B F C Paralelkenarlarla oluşturulmuş yukarıdaki şekilde ABCD CFED , |FC| = 4 cm ve |DC| = 10 cm'dir. . Buna göre [AE] uzunluğu kaç santimetredir? A) 21 B) 25 C) 29 D) 32",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

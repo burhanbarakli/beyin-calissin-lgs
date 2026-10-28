@@ -1,0 +1,443 @@
+{
+ "book": {
+  "id": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/CARPANLAR_VE_KATLAR_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "",
+  "title": "Carpanlar Ve Katlar Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 6,
+ "key_pages": [
+  6
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    317.9
+   ],
+   "num": [
+    29.7,
+    71.3,
+    48.0,
+    88.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alan çarpanlarıyla çevrenin asal çarpanları",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    497.6,
+    293.6,
+    652.2
+   ],
+   "num": [
+    29.7,
+    501.6,
+    48.0,
+    518.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Farklı asal sayılarla en küçük çarpım",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    347.0
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.7,
+    88.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alanın çarpan çiftleriyle kenar uzunluğu bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    305.5,
+    497.6,
+    575.2,
+    692.9
+   ],
+   "num": [
+    309.5,
+    501.6,
+    327.8,
+    518.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpan tablosundan sayı çarpımı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    284.2
+   ],
+   "num": [
+    29.7,
+    71.3,
+    48.0,
+    88.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan çarpan çiftleriyle dikdörtgen çevresi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    25.7,
+    434.2,
+    293.6,
+    728.2
+   ],
+   "num": [
+    29.7,
+    438.2,
+    47.9,
+    455.2
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ortak kat ile en küçük çevreli bölmeler",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    263.3
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.7,
+    88.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Saat ve dakikanın aralarında asal olması",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    305.5,
+    434.2,
+    575.2,
+    716.0
+   ],
+   "num": [
+    309.5,
+    438.2,
+    327.7,
+    455.2
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "EKOK ile çakışan sayfa sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p3|q9",
+   "page": 3,
+   "n": 9,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    379.8
+   ],
+   "num": [
+    29.7,
+    71.3,
+    49.1,
+    88.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alan çarpanlarıyla örtüşmeyen bölge alanı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p3|q10",
+   "page": 3,
+   "n": 10,
+   "bbox": [
+    25.7,
+    520.8,
+    293.6,
+    713.3
+   ],
+   "num": [
+    29.7,
+    524.8,
+    47.9,
+    541.9
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Asal çarpanlarla çarpımın kat ilişkisi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p3|q11",
+   "page": 3,
+   "n": 11,
+   "bbox": [
+    306.7,
+    520.8,
+    575.2,
+    694.8
+   ],
+   "num": [
+    310.7,
+    524.8,
+    328.9,
+    541.9
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ardışık sayıların aralarında asal olması",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p4|q12",
+   "page": 4,
+   "n": 12,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    400.8
+   ],
+   "num": [
+    29.7,
+    71.3,
+    49.1,
+    88.3
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "EKOK ile terazi dengesinde kalan şeker",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p4|q13",
+   "page": 4,
+   "n": 13,
+   "bbox": [
+    25.7,
+    520.8,
+    575.2,
+    747.4
+   ],
+   "num": [
+    29.7,
+    524.8,
+    47.9,
+    541.9
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "EBOB ile ortak genişlikten alan bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p5|q14",
+   "page": 5,
+   "n": 14,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    339.4
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Pozitif bölenlerin toplamını karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p5|q15",
+   "page": 5,
+   "n": 15,
+   "bbox": [
+    25.7,
+    426.0,
+    575.2,
+    731.4
+   ],
+   "num": [
+    29.7,
+    430.0,
+    47.9,
+    447.0
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "EKOK ile eşit kütleli yükleme problemi",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

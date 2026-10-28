@@ -1,0 +1,141 @@
+{
+ "book": {
+  "id": "lgs_mat_8.13_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.13_Ondalik_Ifadelerin_Karekokleri_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.13",
+  "title": "Ondalık İfadelerin Karekökleri",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.13_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    248.2,
+    761.3
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki karekök alma işlemlerini yapınız. 1. a) 0,01 = b) 0,04 = c) 0,16 = ç) 1,44 = d) 0,25 = e) 2,89 = f) 2 1,96 = g) 5 0,09 = ğ) 0,0001 = h) 0,0016 = ı) 0,0256 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.13_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    582.7,
+    341.7
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 2. belirleyiniz. = = 0,4 0,2 0,81 0,9 = = 0,025 0,05 0,225 0,15 = = 0,0289 0,17 0,001 0,01",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.13_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.6,
+    379.8,
+    536.6,
+    765.1
+   ],
+   "num": [
+    315.0,
+    386.8,
+    325.6,
+    400.3
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki işlemlerin sonuçlarını bulunuz. 3. a) 0,64 + 0,36 = b) 0,64 + 0,36 = c) 0,16 0,04 = - ç) 1,44 : 0,09 = 1 1 d) + = 81 144 1 1 e) + = 81 144",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.13_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    279.7,
+    775.7
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda kenar uzunlukları verilen şekillerin çevre 4. uzunluklarını bulunuz. a) Dikdörtgenin Çevresi : .......................... cm 0,16 cm 0,04 cm b) Karenin Çevresi : .......................... cm 0,81 cm c) Dikdörtgenin Çevresi : .......................... cm 0,16 cm 0,25 cm ç) Üçgenin Çevresi : .......................... cm 1,96 cm 1,44 cm 1,69 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.13_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.9,
+    46.0,
+    563.7,
+    727.7
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda alanları verilen şekillerle ilgili soruları 5. yanıtlayınız. Alanı 3,24 cm 2 a) Karenin Kenar Uzunluğu : .......................... cm b) Karenin Çevre Uzunluğu : .......................... cm Alanı 2,43 cm 2 ( = 3 alınız) r c) Dairenin Yarıçap Uzunluğu : .......................... cm ç) Dairenin Çap Uzunluğu : .......................... cm e) Dairenin Çevre Uzunluğu : .......................... cm",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.27_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.27_Ucgende_Aci_Kenar_Bagintilari_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Üçgenler",
+  "code": "8.27",
+  "title": "Üçgende Açı Kenar Bağıntıları",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.27_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    284.1,
+    768.1
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda açı ölçüleri verilen üçgenlerin kenar uzun 1. luklarını karşılaştırınız ve sıralayınız. A 70° ......................................... 50° 60° B C D 80° E 40° ......................................... 60° F L 40° K 100° ......................................... M P R 60° 60° ......................................... 60° S Y 70° ......................................... 30° Z V A ......................................... K R",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    578.8,
+    772.2
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda kenar uzunlukları verilen üçgenlerin açı 2. ölçülerini karşılaştırınız ve sıralayınız. A 5 cm 8 cm ......................................... C B 7 cm D 7 cm 6 cm F ......................................... 10 cm E K 11 cm L 11 cm 15 cm ......................................... M P 5 cm R 6 cm 4 cm ......................................... S Y 5 cm 2 5 cm ......................................... Z V 3 2 cm A 3 cm R 3 cm ......................................... 3 cm K",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_calisma|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    9.2,
+    46.0,
+    293.4,
+    461.4
+   ],
+   "num": [
+    16.0,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki şekillerdeki en uzun kenarları işaretleyiniz. 3. 55° 47° 88° 45° 51° 100° 80° 45° 43° 46° 25° 32° 45° 65° 32° 39° 71° 91°",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    469.0,
+    291.5,
+    775.7
+   ],
+   "num": [
+    15.2,
+    476.0,
+    26.5,
+    489.6
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki şekillerdeki en kısa kenarları işaretleyiniz. 4. 52° 68° 29° 65° 67° 60° 59° 60° 74° 77° 47° 88° 47° 80°",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.3,
+    46.0,
+    587.3,
+    258.6
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerde, uzunluğu verilmeyen 5. kenarların uzunluklarına ait değer aralığını bulunuz. K A 5 cm 9 cm 6 cm 7 cm L C B M a k W V S U s(A) s(C) s(L) s(K) 2 2 olduğuna göre; olduğuna göre; ........... < a < ........... ........... < k < ...........",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    273.3,
+    580.0,
+    560.1
+   ],
+   "num": [
+    314.3,
+    280.3,
+    325.6,
+    293.9
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerde, uzunluğu verilmeyen 6. kenarların alabileceği en büyük ve en küçük tam sayı değerlerini bulunuz. R açısı en büyük açı P olduğuna göre; r en büyük 11 cm r S R 13 cm en küçük Y açısı en küçük açı Y olduğuna göre; 10 cm v en büyük v V Z 8 cm en küçük",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    564.8,
+    582.7,
+    775.7
+   ],
+   "num": [
+    316.0,
+    571.8,
+    325.6,
+    585.4
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 7. belirleyiniz. Bir üçgende en uzun kenar en büyük açının karşısındadır. Geniş açılı üçgende en uzun kenarlar geniş açının kollarıdır. Bir üçgende bir açı diğerlerinden büyük ise, karşısındaki kenar diğer kenarlardan kısadır. Dik üçgende en uzun kenar dik açının karşı sındaki kenardır. İkizkenar üçgende eşit olan açıların karşıla",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

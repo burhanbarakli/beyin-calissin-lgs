@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.28_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.28_Ucgen_Cizimleri_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Üçgenler",
+  "code": "8.28",
+  "title": "Üçgen Çizimleri",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.28_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    285.6,
+    259.5
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "I. Üç kenarının uzunluğu verilen üçgen 1. II. İki kenarının uzunluğu ve bu kenarlar arasında kalan açının ölçüsü verilen üçgen III. Bir kenarının uzunluğu ve iki açısının ölçüsü veri len üçgen IV. Üç açısının ölçüsü verilen üçgen Yukarıdaki ifadelerden kaç tanesinde verilen bilgi lerle tek bir üçgen çizilebilir? A) 4 B) 3 C) 2 D) 1",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    281.3,
+    480.0
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "2. Aşağıdaki verilen elemanlardan hangisi ile tek bir üçgen çizilemez? W U ^ h ^ h = = A) m A 60 , m B 70 , |AC| = 10 cm c c B) |AB| = 6 cm , |BC| = 7 cm , |AC| = 9 cm W ^ h = C) m A 60 , |AB| = 12 cm , |AC| = 10 cm c W U V ^ h ^ h ^ h = = = D) m A 80 , m B 70 , m C 30 c c c",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    282.7,
+    711.4
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerden hangisinin çizimi için 3. cetvel ve pergel yeterlidir? A) Üç kenarının uzunluğu verilen üçgen B) İki kenarının uzunluğu ve bu kenarlar arasında kalan açının ölçüsü verilen üçgen C) Bir kenarının uzunluğu ve iki açısının ölçüsü ver ilen üçgen D) Üç açısının ölçüsü verilen üçgen",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    206.8
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "W ^ h 4. = m A 50 , |AB| = 7 cm , |AC| = 8 cm olmak üzere c bir ABC üçgeni çizilmek isteniyor. Bu çizim için aşağıdakilerden hangisi kesinlikle kullanılmalıdır? A) Cetvel - Pergel B) Açıölçer - Pergel C) Açıölçer - Cetvel D) Cetvel - Gönye",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    579.3,
+    445.9
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir ABC üçgenine ait BC kenarının uzunluğu ve B 5. açısının ölçüsü veriliyor. Aşağıdaki bilgilerden hangisinin verilmesi tek bir ABC üçgeninin çizilmesi için yeterli değildir? A) [ AC] uzunluğu B) [ AB] uzunluğu C) A açısının ölçüsü D) C açısının ölçüsü",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    576.1,
+    682.6
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki elemanları verilen üçgenlerden 6. hangisi tek bir şekilde çizilemez? A) Bir kenar uzunluğu verilen eşkenar üçgen B) Hipotenüs uzunluğu verilen ikizkenar dik üçgen C) Tepe açısı verilen ikizkenar üçgen D) Üç kenar uzunluğu verilen çeşitkenar üçgen",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    270.8,
+    161.1
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "|AB| = 4 cm , |AC| = 5 cm ve |BC| = 6 cm olmak 7. üzere bir ABC üçgeni çizilmek isteniyor. Bu çizim için aşağıdakilerden hangisi kesinlikle kullanılmalıdır? A) Cetvel - Pergel B) Açıölçer - Pergel C) Açıölçer - Cetvel D) Cetvel - Gönye",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    282.6,
+    441.7
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "I. |AB| = 8 cm , |BC| = 9 cm , |AC| = 11 cm 8. W ^ h = II. m A 90 , |AB| = 8 cm , |AC| = 4 cm c W U ^ h ^ h = = III. m A 120 , m B 40 , |AC| = 7 cm c c IV. |AB| = 6 cm , |BC| = 12 cm , |AC| = 5 cm Yukarıdaki ifadelerden kaç tanesinde verilen bilgi lerle tek bir ABC üçgeni çizilebilir? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    285.6,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "I. Üç kenarının uzunluğu verilen üçgen 9. II. İki kenarının uzunluğu ve bu kenarlar arasında kalan açının ölçüsü verilen üçgen III. Bir kenarının uzunluğu ve iki açısının ölçüsü veri len üçgen Sadece cetveli ve açıölçeri olan Sadık, yukarıdaki üçgenlerden kaç tanesini çizilebilir? A) 3 B) 2 C) 1 D) 0",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    556.3,
+    160.4
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıda verilen bilgilerden hangisi belirli bir 10. üçgenin çizimi için yeterlidir? A) Tepe açısı verilen ikizkenar üçgen B) Alanı verilen dik üçgen C) Açı ölçüleri verilen çeşitkenar üçgen D) Çevre uzunluğu verilen eşkenar üçgen",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    580.3,
+    443.0
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıdaki verilen elemanlardan hangisi ile tek bir 11. üçgen çizilebilir? U ^ h = A) m K 100 , |KL| = 5 cm , |LM| = 6 cm c B) |KL| = 15 cm , |LM| = 7 cm , |KM| = 8 cm ^ h S = C) m L 80 , |KL| = 10 cm , |KM| = 10 cm c U ^ h S X ^ h ^ h = = = D) m K 20 , m L 90 , m M 70 c c c",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    579.3,
+    670.5
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir ABC üçgenine ait BC ve AC kenarının uzunluğu 12. veriliyor. Aşağıdaki bilgilerden hangisinin verilmesi tek bir ABC üçgeninin çizilmesi için yeterli değildir? A) [ AB] uzunluğu B) B açısının ölçüsü C) Çevre uzunluğu D) C açısının ölçüsü",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

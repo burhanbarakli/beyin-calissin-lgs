@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_cikmis_2024",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/00_LGS_Cikmis_Sorular/LGS_2024_Matematik.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "lgs_cikmis",
+  "kind_name": "LGS Çıkmış",
+  "unit": "",
+  "code": "",
+  "title": "2024 LGS Matematik",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 16,
+ "key_pages": [
+  16
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_cikmis_2024|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    45.4,
+    149.3,
+    268.0,
+    258.8
+   ],
+   "num": [
+    49.4,
+    152.3,
+    60.4,
+    168.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "1. Bir kenar uzunluğu (x + 2) cm olan ka- renin çevresinin uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdaki- lerden hangisidir? A) x + 8 B) 4x + 2 C) 4x + 4 D) 4x + 8",
+   "answer": "D",
+   "solved": false,
+   "skill": "Karenin çevresini cebirsel ifadeyle yazma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    45.4,
+    490.4,
+    272.4,
+    681.3
+   ],
+   "num": [
+    49.4,
+    493.4,
+    60.4,
+    510.0
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "2. Tam kapasiteyle çalıştığında Türkiye’nin elektrik ihtiyacının önemli bir kısmını karşıla- yacak olan Akkuyu Nükleer Güç Santrali’yle, 60 yıllık süreçte 21 # 10 8 ton karbon emisyo- nu engellenecektir. Buna göre Akkuyu Nükleer Güç Santrali’nin tam kapasiteyle çalıştığında 1 yılda engelleyeceği karbon emisyonu- nun kilogram cinsinden bilimsel gösterimi aşağıdakilerden hangisidir? A) 3,5 # 10 7 B) 3,5 # 10 10 C) 21 # 10 7 D) 2,1 # 10 10",
+   "answer": "B",
+   "solved": false,
+   "skill": "Birim dönüştürüp bilimsel gösterimle yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    286.4,
+    148.1,
+    503.3,
+    222.8
+   ],
+   "num": [
+    290.4,
+    151.1,
+    301.4,
+    167.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "3. Aşağıdakilerden hangisi bir irrasyonel sayıdır? – A) 14 B) 1, 2 C) 1 44 , D) 12",
+   "answer": "A",
+   "solved": false,
+   "skill": "İrrasyonel sayıyı tanıma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    286.4,
+    489.2,
+    519.7,
+    558.5
+   ],
+   "num": [
+    290.4,
+    496.2,
+    301.4,
+    512.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "4. 363 75 27 işleminin sonucu aşa- - - ğıdakilerden hangisidir? A) 2 3 B) 3 3 C) 4 3 D) 5 3",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü ifadeleri sadeleştirip çıkarma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    43.4,
+    73.2,
+    529.8,
+    568.4
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "5. Aşağıda kareli zeminde verilen sütun grafiğinde, bir müzeyi belirli bir günün farklı saatlerinde ziyaret eden kişi sayısı gösterilmiştir. Grafik: Saatlere Göre Müzeyi Ziyaret Eden Kişi Sayısı Kişi Sayısı Ziyaret Saati 10.00 11.00 14.00 15.00 16.00 Buna göre, grafikte verilen saatlerde müzeyi ziyaret eden kişi sayısını gösteren tablo aşağıdaki- lerden hangisi olabilir? A) Ziyaret Saati 10.00 11.00 14.00 15.00 16.00 Kişi Sayısı 20 80 110 90 40 B) Ziyaret Saati 10.00 11.00 14.00 15.00 16.00 Kişi Sayısı 30 50 60 50 40 C) Ziyaret Saati 10.00 11.00 14.00 15.00 16.00 Kişi Sayısı 60 100 90 100 70 D",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sütun grafiğine uygun tabloyu belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p3|q6",
+   "page": 3,
+   "n": 6,
+   "bbox": [
+    43.4,
+    73.2,
+    533.0,
+    485.4
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "6. Dikdörtgen şeklindeki bir kilim, eskimiş kısımlarının tamir edilebilmesi için kareli zemin üzerinde simetri doğrusu ile birlikte aşağıdaki gibi modellenmiştir. Simetri Doğrusu Model üzerinde dört beyaz dikdörtgensel bölge ile belirlenen eskimiş kısımlar, simetri doğrusuna göre tamamlanacaktır. Buna göre beyaz dikdörtgensel bölgelerde oluşan görüntülerden biri aşağıdakilerden hangi- si olamaz? A) B) C) D)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Doğruya göre yansıma görüntüsünü tamamlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    43.4,
+    73.2,
+    529.8,
+    327.7
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "7. Kenarlarının uzunlukları 3x cm olan kare şeklindeki beyaz ve mavi kartonlar, üst üste çakıştırıldık- tan sonra mavi karton sabit kalmak şartıyla; beyaz karton, 1 cm yukarı ve 1 cm sola ötelenerek aşağıdaki şekil oluşturulmuştur. 3x cm Yukarı 3x cm Beyaz Sol Sağ Aşağı Mavi Buna göre, şekilde görünen mavi bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 6x - 1 B) 3x(3x + 2) C) 3x(3x - 2) D) 6(x + 1)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Öteleme sonrası görünen alanı cebirsel ifadeyle yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    45.4,
+    440.3,
+    506.4,
+    627.8
+   ],
+   "num": [
+    49.4,
+    443.3,
+    60.4,
+    459.9
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "8. Gülsüm’ün kırmızı, yeşil ve mavi kalemlerinin uzunlukları ile ilgili bilgiler aşağıda verilmiştir. Kırmızı Yeşil 2,8 cm 5,2 cm Yeşil Mavi Gülsüm; 1’er adet kırmızı, yeşil ve mavi kalemi uç uca eklediğinde bu kalemlerin toplam uzunluğu 56,1 cm olmaktadır. Buna göre, kırmızı kalemin uzunluğu kaç santimetredir? A) 15,1 B) 17,9 C) 18,9 D) 20,3",
+   "answer": "A",
+   "solved": false,
+   "skill": "Uzunluk farklarından denklem kurup çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    36.8,
+    73.2,
+    514.7,
+    279.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "9. Bir mağazada 1 günde satılan pantolon ve gömlek sayısı ve 1’er adetlerinin fiyatları aşağıdaki tab- loda verilmiştir. Tablo: 1 Günde Satılan Pantolon ve Gömlek Sayısı ve 1’er Adetlerinin Fiyatları Satılan Ürün Ürün 1 Adet Fiyatı (TL) Sayısı Pantolon 20 240 Gömlek x 180 Bu mağazada bu ürünlerin satışından toplam 12 000 TL’den az gelir elde edildiğine göre, satılan gömlek sayısı en fazla kaçtır? A) 38 B) 39 C) 40 D) 41",
+   "answer": "B",
+   "solved": false,
+   "skill": "Gelir koşulundan eşitsizlik kurup en büyük değeri bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p5|q10",
+   "page": 5,
+   "n": 10,
+   "bbox": [
+    38.8,
+    383.1,
+    516.4,
+    640.2
+   ],
+   "num": [
+    42.8,
+    386.1,
+    60.4,
+    402.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "10. Bir bahçeyi ilaçlamak için bir depo ilaç kullanılmıştır. İlaçlama başladığı andan itibaren depodaki ilaç miktarı ile zaman arasındaki ilişki aşağıdaki doğrusal grafikte verilmiştir. Grafik: Depodaki İlaç Miktarı ile Zaman Arasındaki İlişki Depodaki İlaç Miktarı (L) 90 Zaman (dk.) 0 120 Bu bahçe, depodaki ilacın tamamı kullanılarak 5 saatte ilaçlanmıştır. Buna göre, başlangıçta depoda bulunan ilaç miktarı kaç litredir? B) 150 A) 120 C) 180 D) 240",
+   "answer": "B",
+   "solved": false,
+   "skill": "Doğrusal grafikten başlangıç miktarını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p6|q11",
+   "page": 6,
+   "n": 11,
+   "bbox": [
+    38.0,
+    73.2,
+    529.8,
+    351.7
+   ],
+   "num": [
+    43.4,
+    80.2,
+    60.7,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "11. Bir televizyonun ses seviyesi ile ses göstergesi arasındaki ilişki aşağıda verilmiştir. Bu ilişkide, ses seviyesini gösteren sayı tam kare ise karekök değeri, tam kare değil ise karekök değerinin en yakın olduğu doğal sayı değeri, hoparlör sembolünün yanındaki çizgi sayısı ile gösterilmiştir. Ses Seviyesi Ses Göstergesi 9 8 7 6 5 4 3 2 1 Bu televizyonun ses göstergesi iken, ses seviyesi en fazla kaçtır? A) 10 B) 11 C) 12 D) 13",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekök tahminiyle en büyük sayıyı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p7|q12",
+   "page": 7,
+   "n": 12,
+   "bbox": [
+    36.8,
+    73.2,
+    514.7,
+    397.7
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "12. Doruk, pergel yardımıyla aşağıda verilen ABC üçgeninin kenarları ile açıları arasındaki ilişkiyi bul- mak istiyor. Siyah A Kırmızı C B Mavi Doruk, pergeli AB kenarının uzunluğu kadar açarak; • A merkezli kırmızı çember yayını, • B merkezli mavi çember yayını, • C merkezli siyah çember yayını çiziyor. Buna göre, ABC üçgeninin açılarının ölçülerinin doğru sıralanışı aşağıdakilerden hangisidir? W W X W X W _ i _ i _ i _ i _ i _ i A) s A 2 s B 2 s C B) s B 2 s C 2 s A W W X W X W _ i _ i _ i _ i _ i _ i C) s B 2 s A 2 s C D) s A 2 s C 2 s B",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kenar uzunluklarından açıları sıralama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    38.0,
+    74.9,
+    514.7,
+    342.0
+   ],
+   "num": [
+    42.8,
+    81.9,
+    60.4,
+    98.5
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "13. A B 800 m Uzunluğu 800 m olan doğrusal bir koşu parkurunda, A noktasından başlayıp parkur boyunca koşa- rak B noktasına ulaştıktan sonra A noktasına geri dönmek 1 tur sayılmaktadır. Bu parkurda ikinci turu koşan Efe, bu turu tamamlamadan durduğunda A noktasına uzaklığı 10 m’den fazladır. Efe bu parkurda toplam x m koştuğuna göre, x’in alabileceği değerler aşağıdaki sayı doğru- larının hangisinde gösterilmiştir? A) B) 1610 3190 1590 3190 C) D) 1590 3180 1610 3200",
+   "answer": "A",
+   "solved": false,
+   "skill": "Problem durumunu eşitsizlikle sayı doğrusunda gösterme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p9|q14",
+   "page": 9,
+   "n": 14,
+   "bbox": [
+    36.8,
+    73.2,
+    514.7,
+    384.0
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "14. Her birinin hacmi 12 000 cm 3 olan dik dairesel silindir şeklindeki 3 adet ahşap parça, taban yüzeyle- rinden yapıştırılarak yüksekliği 70 cm olan aşağıdaki gibi bir tabure yapılmıştır. 70 cm Ahşap parçalar Tabure 1 ’i Taburenin alt ve üstteki parçaları özdeş ve her birinin yüksekliği ortadaki parçanın yüksekliğinin 5 kadardır. Verilenlere göre, en üstteki parçanın taban yarıçapının uzunluğunun ortadaki parçanın taban yarıçapının uzunluğuna oranı kaçtır? ( p yerine 3 alınız.) 10 3 5 A) B) C) 2 D) 5 2 5",
+   "answer": "D",
+   "solved": false,
+   "skill": "Silindir hacimlerinden yarıçap oranı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p10|q15",
+   "page": 10,
+   "n": 15,
+   "bbox": [
+    38.0,
+    73.2,
+    529.8,
+    312.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "15. Kenarlarının uzunlukları 2 5 cm ve 2 6 cm olan 10 adet mavi özdeş dikdörtgenin kenarları aşağıdaki gibi çakıştırılarak ABCD dikdörtgeni oluşturulmuştur. 2 6 cm D C 2 5 cm Mavi Sarı A B Buna göre, ABCD dikdörtgeninin içinde kalan sarı renkli dikdörtgensel bölgenin çevresinin uzunluğu kaç santimetredir? A) 2 6 . 3 2 B) 3 . 2 7 C) 2 9 D) 3 . 2 9",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üslü ifadelerle çevre uzunluğu hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p11|q16",
+   "page": 11,
+   "n": 16,
+   "bbox": [
+    36.8,
+    73.2,
+    514.7,
+    415.1
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "16. Her birinin kütlesi 4 g olan mavi ve her birinin kütlesi 28 g olan sarı bilyelerden yeterli sayıda vardır. Bu bilyelerin toplam kütlesi 700 gramdan fazladır. 4 g 4 g 4 g 28 g 28 g 28 g Mavi bilyeler Sarı bilyeler Mavi ve sarı bilyelerin tamamı; her bir A torbasında 36 g, her bir B torbasında ise 60 g bilye olacak şekilde A ve B torbalarına yerleştirilmiştir. A torbalarındaki bilyelerin toplam kütlesi, B torbalarındaki bilyelerin toplam kütlesine eşittir. 36 g 60 g A B Buna göre, başlangıçtaki toplam bilye sayısı en az kaçtır? A) 24 B) 32 C) 48 D) 96",
+   "answer": "C",
+   "solved": false,
+   "skill": "EKOK ile en az bilye sayısını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p12|q17",
+   "page": 12,
+   "n": 17,
+   "bbox": [
+    38.0,
+    73.2,
+    529.8,
+    281.7
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "17. Her birinin dikdörtgen şeklindeki ön yüzünün alanı 135 cm 2 olan 5 adet özdeş çekmece aşağıdaki 3 ’tür. gibi yerleştirildiğinde CB kenarının eğimi 4 C Zemin B A Buna göre, A ve B noktaları arasındaki uzaklık kaç santimetredir? A) 36 B) 45 C) 48 D) 54",
+   "answer": "D",
+   "solved": false,
+   "skill": "Eğim ve alan ile uzunluk hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p13|q18",
+   "page": 13,
+   "n": 18,
+   "bbox": [
+    36.8,
+    73.2,
+    514.7,
+    409.4
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "18. 1 birim N M 1 birim A K B L Yukarıdaki kareli zeminde KLMN karesi verilmiştir. Bir hareketli, şekildeki A noktasından doğrusal bir yol boyunca ilerleyerek B noktasına ulaştığında AKB üçgenini oluşturmuştur. Daha sonra bu hareketli, B noktasından doğrusal bir yol boyunca ilerleyerek ML kenarı üzerindeki bir noktaya ulaş- tığında oluşan üçgen, AKB üçgeni ile benzerdir. Buna göre, A noktasından harekete başlayan bu hareketlinin aldığı toplam yolun uzunluğu en az kaç birimdir? A) 15 B) 18 C) 20 D) 25",
+   "answer": "C",
+   "solved": false,
+   "skill": "Benzer üçgenlerle en kısa yol bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p14|q19",
+   "page": 14,
+   "n": 19,
+   "bbox": [
+    38.0,
+    73.2,
+    529.8,
+    364.3
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "19. 1, 2, 3, 4, 5, 6, 7, 8 ve 9 sayılarından her biri, bir kutucuğa bir sayı gelecek şekilde dokuz özdeş kutucuktan oluşan aşağıdaki tabloya yazıldıktan sonra bu kutucuklardan bazıları şekildeki gibi mavi kartlarla kapatılmıştır. I. satır Mavi Mavi 4 Mavi Mavi 5 II. satır III. satır 7 Mavi 6 Bu tablonun; • I. satırından rastgele seçilen bir kutucuktaki sayının 3’ten küçük olma olasılığı, 3’ten büyük olma olasılığından daha fazladır. • III. satırından rastgele seçilen bir kutucuktaki sayının tek sayı olma olasılığı, çift sayı olma olasılı- ğından daha azdır. Buna göre, tablonun II. satırında ma",
+   "answer": "B",
+   "solved": false,
+   "skill": "Olasılık karşılaştırmasıyla gizli sayıları bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2024|p15|q20",
+   "page": 15,
+   "n": 20,
+   "bbox": [
+    36.8,
+    73.2,
+    514.7,
+    632.7
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2024 LGS",
+   "text": "20. Aşağıda uzunluğu 7 birim, genişliği 2 birim olan dikdörtgen şeklinde bir yol modellenmiştir. [EA]’nın uzunluğu 3 birimdir. Bu modele göre A noktasına 1 adet tabela yerleştirilmiştir. [BC] üzerindeki bir noktaya da 1 adet tabela yerleştirilecektir. Bu noktanın A noktasına olan uzaklığı birim cinsinden doğal sayı olacaktır. C 7 birim B 2 birim D E A 3 birim Buna göre, bu tabela B ile C arasındaki kaç farklı noktaya yerleştirilebilir? A) 2 B) 3 C) 4 D) 5 MATEMATİK TESTİ BİTTİ. FEN BİLİMLERİ TESTİNE GEÇİNİZ.",
+   "answer": "C",
+   "solved": false,
+   "skill": "Pisagor ile doğal sayı uzaklıkları bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

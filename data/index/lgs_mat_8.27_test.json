@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.27_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.27_Ucgende_Aci_Kenar_Bagintilari_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Üçgenler",
+  "code": "8.27",
+  "title": "Üçgende Açı Kenar Bağıntıları",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.27_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    290.9,
+    273.4
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "I. Bir üçgende bir açı diğerlerinden küçük ise, karşı 1. sındaki kenar diğer kenarlardan kısadır. II. Bir üçgende ölçüleri eşit açıların karşılarındaki kenarların uzunlukları eşittir. III. Dik üçgende en uzun kenar her zaman dik açının karşısındaki kenar olmayabilir. IV. Geniş açılı üçgenlerde en uzun kenar geniş açının karşısındaki kenardır. Yukarıdaki ifadelerden kaç tanesi doğrudur? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    287.9,
+    523.0
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A 2. 13 cm 12 cm C B 14 cm Yukarıdaki ABC üçgeninin açı ölçülerinin küçükten büyüğe doğru sıralanışı aşağıdakilerden hangisidir? W U V V U W A) s(A) s(B) s(C) B) s(C) s(B) s(A) 1 1 1 1 U V W W V U C) s(B) 1 s(C) 1 s(A) D) s(A) 1 s(C) 1 s(B)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    281.2,
+    748.2
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3. A C 45° 77° 56° D 24° B Yukarıdaki şekilde verilenlere göre en uzun kenar aşağıdakilerden hangisidir? A) [AB] B) [CA] C) [BC] D) [DB]",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    580.3,
+    263.4
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A C 4. 76° 30° D B Yukarıdaki şekilde verilenlere göre en uzun kenar aşağıdakilerden hangisidir? A) [AC] B) [BC] C) [AB] D) [DB]",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    587.3,
+    566.4
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. A x c b y B C a z Yukarıdaki ABC üçgeninin x, y, z dış açılarının ölçüleri arasında x < y < z sıralaması vardır. Buna göre a, b ve c kenar uzunluklar ile ilgili aşağıda verilen sıralamalardan hangisi doğrudur? A) a < b < c B) c < a < b C) c < b < a D) b < a < c",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    620.7,
+    587.3,
+    719.8
+   ],
+   "num": [
+    314.3,
+    627.7,
+    325.6,
+    641.3
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir ABC üçgeninde |AB| = 4 cm, |AC| = 10 cm ve A 6. açısı üçgenin en büyük açısıdır. Buna göre |BC|’nun alabileceği tam sayı değerlerinin toplamı kaçtır? A) 36 B) 60 C) 70 D) 90",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    281.7,
+    253.8
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A 7. x + 40° 2x + 10° 3x − 20° B C Yukarıdaki ABC üçgeninde açılar sırasıyla x + 40°, 2x + 10° ve 3x − 20° ’dir. Buna göre bu üçgenin kenar uzunluklarının doğru sıralaması aşağıdakilerden hangisidir? A) |AB| < |BC| < |AC| B) |BC| < |AC| < |AB| C) |AB| < |AC| < |BC| D) |AC| < |AB| < |BC|",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    317.4,
+    283.3,
+    418.0
+   ],
+   "num": [
+    15.9,
+    324.4,
+    26.5,
+    337.9
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Kenar uzunlukları tam sayı olan ve en büyük açısı Ö 8. olan ÇÖZ üçgeninde |ÇÖ| = 4 cm, |ÇZ| = 12 cm’dir. Buna göre ÖZ kenarının uzunluğunun alabileceği en büyük değerle en küçük değerin farkı kaçtır? A) 2 B) 3 C) 6 D) 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    495.8,
+    286.0,
+    775.7
+   ],
+   "num": [
+    15.5,
+    502.8,
+    26.5,
+    516.3
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A 9. 35° B C D Yukarıdaki şekilde B, C ve D noktaları doğrusaldır. |AC| = |CD| = |AB| ve D açısının ölçüsü 35° ’dir. Buna göre bu şekildeki en uzun kenar aşağıdakiler den hangisidir? A) [BC] B) [AB] C) [AD] D) [BD]",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    584.0,
+    232.8
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A 10. 75° B C Yukarıdaki ABC üçgeninde A açısının ölçüsü 75° ve |AC| > |AB| olduğuna göre B açısının alabileceği en küçük tam sayı değeri kaç derecedir? A) 51° B) 52° C) 53° D) 54°",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    317.3,
+    581.3,
+    432.1
+   ],
+   "num": [
+    313.1,
+    324.3,
+    325.6,
+    337.8
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir ABC üçgeni ile ilgili şu bilgiler veriliyor; 11. W U ve AB ^ h ^ h m A m B BC 2 2 Buna göre aşağıdaki bilgilerden hangisi doğrudur? A) AC 2 BC B) AC 2 AB W V V W ^ h ^ h ^ h ^ h C) m A m C D) m C m A 2 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.27_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    513.2,
+    573.5,
+    687.0
+   ],
+   "num": [
+    310.5,
+    520.2,
+    325.6,
+    533.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "12. L 61° 57° 60° K P 67° 62° 58° N M Yukarıdaki şekilde verilenlere göre en kısa kenar aşağıdakilerden hangisidir? A) [KM] B) [LN] C) [NP] D) [ML]",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

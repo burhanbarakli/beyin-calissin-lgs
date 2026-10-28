@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.24_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/08_Esitsizlikler/8.24_Esitsizlikler_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Eşitsizlikler",
+  "code": "8.24",
+  "title": "Eşitsizlikler",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.24_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    293.0,
+    190.5
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "\"Bu filmi 13 yaştan küçükler izleyemez.\" 1. Buna göre filmi izleyebilecek kişilerin yaşlarını ifade eden eşitsizlik aşağıdakilerden hangisidir? A) x < 13 B) x ≤ 13 C) x > 13 D) x ≥ 13",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    286.2,
+    431.1
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "\"Ölçüsü 2x + 10° olan A açısı dar açıdır.\" 2. Buna göre A açısının ölçüsünü ifade eden eşitsizlik aşağıdakilerden hangisidir? A) 2x + 10 < 90 B) 90 < 2x + 10 C) 0 < 2x + 10 < 90 D) 90 < 2x + 10 < 180",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    282.5,
+    716.3
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3. 1 1 1 1 x x Yukarıdaki terazi modeline uygun matematiksel ifade aşağıdakilerden hangisidir? A) 2x = 4 B) 2x > 4 C) 2x < 4 D) 2x ≥ 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    278.6
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "\"Bu yoldaki azami hız saatte 100 kilometredir.\" 4. Yukarıdaki ifadeye uygun eşitsizliğin sayı doğrusunda gösterimi aşağıdakilerden hangisidir? A) 100 B) 100 C) 100 D) 100",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    366.7,
+    585.6,
+    486.7
+   ],
+   "num": [
+    314.9,
+    373.7,
+    325.6,
+    387.2
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. -4 3 Yukarıdaki sayı doğrusunda kalın olarak gösterilen eşitsizlik aşağıdakilerden hangisidir? A) −4 < x < 3 B) 3 < x ≤ −4 C) −4 ≤ x < 3 D) −4 < x ≤ 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    592.0,
+    587.3,
+    663.4
+   ],
+   "num": [
+    314.3,
+    599.0,
+    325.6,
+    612.6
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "x + 2 ≤ − 14 6. olduğuna göre x'in en büyük tam sayı değeri kaçtır? A) −17 B) − 16 C) −15 D) −12",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    282.3,
+    176.6
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Dilara bir hafta içerisinde günde en az 100 soru, en 7. fazla 250 soru çözmüştür. Buna göre Dilara'nın bu haftada çözdüğü toplam soru sayısını ifade eden eşitsizlik aşağıdakilerden hangisidir? A) 700 < x < 1750 B) 700 ≤ x ≤ 1750 C) 850 < x < 1600 D) 850 ≤ x ≤ 1600",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    271.5,
+    410.0
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "x ve y tam sayı olmak üzere; 8. x < − 10 ve y ≥ 11 olduğuna göre x'in en büyük değeri ile y'nin en küçük değerinin toplamı kaçtır? A) −1 B) 0 C) 1 D) 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    286.5,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "x ve y gerçek sayı olmak üzere; 9. x < 4 ve y < 10 olduğuna göre 2x + y'nin en büyük tam sayı değeri kaçtır? A) 15 B) 16 C) 17 D) 18",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    117.3
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "− 3x + 10 > 22 10. olduğuna göre x'in en büyük tam sayı değeri kaçtır? A) −5 B) −3 C) 3 D) 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    270.6,
+    587.3,
+    345.9
+   ],
+   "num": [
+    313.1,
+    277.6,
+    325.6,
+    291.1
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "+ x 2 x + ≤ 9 11. 3 2 olduğuna göre x'in en büyük tam sayı değeri kaçtır? A) 10 B) 9 C) 1 D) 0",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    500.3,
+    587.3,
+    627.3
+   ],
+   "num": [
+    310.5,
+    507.3,
+    325.6,
+    520.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bilgi: Bir üçgende herhangi bir kenar uzunluğu diğer 12. iki kenarın uzunlukları toplamından küçük, farklarının mutlak değerinden büyüktür. Buna göre kenar uzunlukları 6,6 cm ve 8,2 cm olan bir üçgenin diğer kenarının uzunluğu aşağıdakiler den hangisi olamaz? A) 2 B) 7 C) 14 D) 16",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

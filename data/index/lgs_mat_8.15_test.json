@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.15_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/04_Veri_Analizi/8.15_Veri_Analizi_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Veri Analizi",
+  "code": "8.15",
+  "title": "Veri Analizi",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.15_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    315.6,
+    273.7,
+    377.9
+   ],
+   "num": [
+    18.1,
+    322.6,
+    26.5,
+    336.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "İzmir il merkezinin beş günlük sıcaklık ortalaması 1. Balıkesir il merkezinden kaç derece fazladır? A) 1,2 B) 1,4 C) 2 D) 2,2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    462.7,
+    275.3,
+    525.0
+   ],
+   "num": [
+    15.5,
+    469.7,
+    26.5,
+    483.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "İstanbul il merkezinin hava sıcaklığının Balıkesir il 2. merkezinden yüksek olduğu gün sayısı kaçtır? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    619.2,
+    289.5,
+    681.5
+   ],
+   "num": [
+    16.0,
+    626.2,
+    26.5,
+    639.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Kaç günde Balıkesir'de hava sıcaklığı bir önceki güne 3. göre yükselirken İzmir'de düşmüştür? A) 0 B) 1 C) 2 D) 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    315.6,
+    584.1,
+    394.9
+   ],
+   "num": [
+    314.2,
+    322.6,
+    325.6,
+    336.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A ve B firmalarının toplam gelirleri arasındaki fark 4. kaç liradır? A) 100 000 B) 200 000 C) 300 000 D) 400 000",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    465.5,
+    581.7,
+    578.9
+   ],
+   "num": [
+    314.9,
+    472.5,
+    325.6,
+    486.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "2018 yılının ilk üç ayına ait aşağıdaki bilgilerden 5. hangisi yanlıştır? A) A firması en çok geliri mart ayında elde etmiştir. B) Ocak ayında B firmasının geliri C firmasından azdır. C) C firmasının geliri sürekli düşüş göstermiştir. D) A firması en az geliri şubat ayında elde etmiştir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    619.2,
+    586.4,
+    732.6
+   ],
+   "num": [
+    314.3,
+    626.2,
+    325.6,
+    639.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "2018 yılının ilk üç ayına ait aşağıdaki bilgilerden 6. hangisi doğrudur? A) A firması şubat ayında gelirini %25 arttırmıştır. B) C firmasının geliri şubat ayında %25 azalmıştır. C) Mart ayında C firmasının geliri A'dan %50 azdır. D) Ocak ayında B firmasının geliri A'dan %20 fazladır.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    293.0,
+    174.1
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Cumhuriyet Ortaokulu’ndan 2019 yılında mezun olan 7. 8. sınıf öğrencilerinin yerleştikleri lise türleri grafik ile gösterilecektir. Bu gösterim için en uygun grafik aşağıdakilerden hangisidir? A) Çizgi Grafiği B) Sütun Grafiği C) Daire Grafiği D) Şekil Grafiği",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    292.8,
+    416.8
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "2018 yılında Avro'nun Türk Lirası karşısındaki değerinin 8. aylık olarak değişimi grafik ile gösterilecektir. Bu gösterim için en uygun grafik aşağıdakilerden hangisidir? A) Çizgi Grafiği B) Sütun Grafiği C) Daire Grafiği D) Şekil Grafiği",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    278.2,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir basketbol müsabakasında hücum oyuncularının 9. attıkları sayı miktarları grafik ile gösterilecektir. Bu gösterim için en uygun grafik aşağıdakilerden hangisidir? A) Çizgi Grafiği B) Sütun Grafiği C) Daire Grafiği D) Şekil Grafiği",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    490.8
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Yandaki grafikte 8B 10. 12 10 sınıfının sınıf başkanlığı 8 OY SAYISI seçimlerinde adayların 6 4 aldıkları oy sayıları 2 verilmiştir. 0 Emirhan Göksu Nil ADAY ÖĞRENCİLER Bu veriler daire grafiği ile gösterilirse Göksu'nun aldığı oy oranını gösteren dilimin merkez açısı kaç derece olur? A) 60 B) 75 C) 90 D) 120 ZARAR (TL) KÂR (TL) 8000 6000 4000 2000 0 -2000 -4000 -6000 Ocak Şubat Mart Nisan Mayıs Haziran AYLAR GRAFİK: Bir kırtasiyenin 2016 yılının ilk altı ayındaki net kâr-zarar durumu 11 ve 12. soruları yukarıdaki grafiğe göre cevaplandırınız.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    495.8,
+    583.7,
+    575.1
+   ],
+   "num": [
+    313.1,
+    502.8,
+    325.6,
+    516.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bu kırtasiyenin ilk 6 ay sonunda kar-zarar durumu 11. nedir? A) 18000 TL kâr B) 6000 TL kâr C) 6000 TL zarar D) 2000 TL zarar",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.15_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    645.8,
+    554.1,
+    699.0
+   ],
+   "num": [
+    310.5,
+    652.8,
+    325.6,
+    666.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bu kırtasiyenin zarar etmediği kaç ay vardır? 12. A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

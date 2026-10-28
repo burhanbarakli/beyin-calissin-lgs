@@ -1,0 +1,117 @@
+{
+ "book": {
+  "id": "lgs_mat_8.28_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.28_Ucgen_Cizimleri_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Üçgenler",
+  "code": "8.28",
+  "title": "Üçgen Çizimleri",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.28_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    275.5,
+    638.4
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen ölçülere uygun üçgenleri pergel, 1. cetvel ve açıölçer kullanarak çiziniz. ABC Üçgeni |AB| = 3 cm |BC| = 5 cm |AC| = 6 cm PRS Üçgeni U = 50° ^ h |PR| = 5 cm |RS| = 7 cm m R KLM Üçgeni U = 60° m L ^ h S = 40° ^ h |KL| = 5 cm m K",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    574.5,
+    631.8
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen ölçülere uygun üçgenleri pergel, 2. cetvel ve açıölçer kullanarak çiziniz. DEF Üçgeni U = 100° ^ h |DE| = 4 cm |EF| = 5 cm m E TUV Üçgeni V = 75° m U W = 45° ^ h ^ h |TV| = 5 cm m T XYZ Üçgeni |XY| = 4 cm |YZ| = 5 cm |XZ| = 3 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_calisma|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    10.0,
+    46.0,
+    282.7,
+    775.7
+   ],
+   "num": [
+    16.0,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen bilgilerin belirli bir üçgenin çizimi 3. için yeterli olup olmadığını belirleyiniz. |AB| = 9 cm |BC| = 5 cm ABC Üçgeni |AC| = 6 cm |PR| = 9 cm U = 62° ^ h m R PRS Üçgeni |RS| = 5 cm |DE| = 15 cm B e l i r l i B i r Ü ç g e n Ç i z i l e b i l i r |DF| = 26 cm DEF Üçgeni B e l i r l i B i r Ü ç g e n Ç i z i l e m e z |EF| = 10 cm V = 81° ^ h m Y W = 48° ^ h m A YAZ Üçgeni |YZ| = 20 cm |Çİ| = 14 cm U = 65° ^ h m Z ÇİZ Üçgeni |ÇZ| = 14 cm W = 50° ^ h m G U = 60° ^ h m E GEO Üçgeni W = 70° ^ h m O |MA| = 7 cm |TM| = 6 cm MAT Üçgeni |AT| = 10 cm U = 43° ^ h m S V = 34° ^ h m T İST ",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.28_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    308.2,
+    46.0,
+    581.8,
+    772.8
+   ],
+   "num": [
+    314.2,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgen Çizimleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen bilgilerin belirli bir üçgenin çizimi 4. için yeterli olup olmadığını belirleyiniz. Üç kenarının uzunluğu verilen üçgen Üç açısının ölçüsü verilen üçgen Bir kenarının uzunluğu B e l i r l i B i r Ü ç g e n Ç i z i l e b i l i r ve iki açısının ölçüsü B e l i r l i B i r Ü ç g e n Ç i z i l e m e z verilen üçgen İki kenarının uzunluğu ve bu kenarlar arasında kalan açının ölçüsü verilen üçgen Çevre uzunluğu verilen eşkenar üçgen Tepe açısı verilen ikizkenar üçgen Hipotenüs uzunluğu verilen ikizkenar dik üçgen Üç kenar uzunluğu verilen çeşitkenar üçgen Dik kenarlarının uzunlukları",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

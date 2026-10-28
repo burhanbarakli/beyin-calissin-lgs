@@ -1,0 +1,303 @@
+{
+ "book": {
+  "id": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/KAREKOKLU_IFADELER_KONU_TARAMA_TESTI_1.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Kareköklü İfadeler",
+  "code": "",
+  "title": "Karekoklu Ifadeler Konu Tarama Testi 1",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 4,
+ "key_pages": [
+  4
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    336.6
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kare alanlarından kenar bulup alan oranı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    484.7,
+    293.6,
+    645.2
+   ],
+   "num": [
+    29.7,
+    488.7,
+    47.9,
+    505.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü sayıyı ölçümle tahmin etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    345.5
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.7,
+    88.3
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare alan koşuluyla en az alan",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    305.5,
+    484.7,
+    575.2,
+    692.1
+   ],
+   "num": [
+    309.5,
+    488.7,
+    327.8,
+    505.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü sayının hangi aralıkta olduğunu tahmin",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    317.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    49.1,
+    88.3
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "a√b yazarak alan ve çevre hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    25.7,
+    417.0,
+    575.2,
+    691.0
+   ],
+   "num": [
+    29.7,
+    421.0,
+    49.1,
+    438.0
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kare çevrelerini kareköklü toplayarak alan bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q7",
+   "page": 3,
+   "n": 7,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    234.8
+   ],
+   "num": [
+    29.7,
+    71.3,
+    48.0,
+    88.3
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareköklü çarpımın doğal sayı olma koşulu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q8",
+   "page": 3,
+   "n": 8,
+   "bbox": [
+    25.7,
+    417.0,
+    293.6,
+    665.5
+   ],
+   "num": [
+    29.7,
+    421.0,
+    47.9,
+    438.0
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kenar aralığından çevreyi kareköklü tahmin",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q9",
+   "page": 3,
+   "n": 9,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    249.6
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.8,
+    88.3
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Katsayıyı içeri alıp sıralama ve tahmin",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q10",
+   "page": 3,
+   "n": 10,
+   "bbox": [
+    305.5,
+    417.0,
+    575.2,
+    695.2
+   ],
+   "num": [
+    309.5,
+    421.0,
+    327.7,
+    438.0
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü kenarlarla alan farkından çevre",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

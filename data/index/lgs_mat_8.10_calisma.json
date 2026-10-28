@@ -1,0 +1,165 @@
+{
+ "book": {
+  "id": "lgs_mat_8.10_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.10_a_kok_b_Seklinde_Yazma_ve_Katsayiyi_Karekok_Icine_Alma_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.10",
+  "title": "a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.10_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    266.5,
+    775.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen ifadeleri a b şeklinde yazınız. 1. a) 8 = ğ) 98 = b) 20 = h) 32 = c) 27 = ı) 216 = ç) 48 = i) 300 = d) 50 = j) 250 = - e) 45 = k) 5 8 = f) 72 = l) 7 12 = g) 75 = m) 2 24 = -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    587.3,
+    775.7
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen ifadelerde katsayıyı kök içine alınız. 2. a) 2 3 = ğ) 6 2 = b) 3 2 = h) 3 11 = c) 5 7 = ı) 11 2 = ç) 2 2 = i) 1 7 = d) 4 3 = j) 15 2 = e) 10 5 = k) 3 6 = - f) 7 2 = l) 3 12 = - g) 5 3 = m) 2 13 = -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_calisma|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    9.2,
+    46.0,
+    278.9,
+    448.6
+   ],
+   "num": [
+    16.0,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen kareköklü ifadeler a b şeklinde 3. yazıldığında a ve b'nin alabileceği farklı tam sayı değerlerini örnekteki gibi bulunuz. = Örnek: 72 a b 72 = = = = 1 72 2 18 3 8 6 2 a) 8 b) 32 c) 162 ç) 200",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    490.0,
+    283.6,
+    775.7
+   ],
+   "num": [
+    15.2,
+    497.0,
+    26.5,
+    510.5
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 4. belirleyiniz. = = 5 25 3 2 2 3 = = 2 2 8 9 3 - - = = 2 7 28 0 0 - -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.3,
+    46.0,
+    587.3,
+    467.2
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sıralamalarda boş bırakılan yerlere hangi 5. sayının veya sayıların gelebileceğini bulunuz. a) 20 < ...... < 32 27 35 15 b) 2 2 < ...... < 3 2 12 21 10 c) 4 3 < ...... < 3 7 35 60 4 5 ç) 2 < ...... < 15 3 5 3 2 d) < ...... < 4 2 3 - 10 3 2 7 -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.10_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    479.8,
+    563.3,
+    718.5
+   ],
+   "num": [
+    314.3,
+    486.8,
+    325.6,
+    500.4
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayıları küçükten büyüğe sıralayınız. 6. a) 32 , 3 7 , 5 2 b) 15 , 3 20 , 8 3 c) 18 , 4 , 3 3 - - -",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

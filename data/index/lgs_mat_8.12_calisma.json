@@ -1,0 +1,141 @@
+{
+ "book": {
+  "id": "lgs_mat_8.12_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.12_Karekoklu_Ifadelerle_Toplama_ve_Cikarma_Islemi_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.12",
+  "title": "Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.12_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    290.9,
+    761.3
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki toplama işlemlerinin sonuçlarını bulunuz. 1. + a) 3 3 = + b) 2 3 2 = + c) 5 6 4 6 = + ç) 5 5 5 = + + d) 7 7 7 = + e) 2 3 5 3 = - + f) 20 5 = + g) 8 32 = + ğ) 27 48 = + h) 2 24 5 54 = + ı) 5 8 200 = -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.12_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    587.3,
+    761.3
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çıkarma işlemlerinin sonuçlarını bulunuz. 2. a) 5 2 3 2 = - b) 6 3 5 3 = - c) 2 7 4 7 = - ç) 3 13 10 13 = - d) 5 5 5 5 = - e) 3 2 4 2 = - - f) 20 5 = - ^ h = g) 45 20 - - ğ) 98 200 = - h) 6 12 27 = - ı) 2 2 72 = - -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.12_calisma|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    9.2,
+    46.0,
+    246.8,
+    407.9
+   ],
+   "num": [
+    16.0,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki işlemlerinin sonuçlarını bulunuz. 3. + + a) 3 5 4 5 7 5 = b) 3 7 + 7 2 7 = - + + c) 5 6 3 2 2 2 6 = - + + ç) 4 2 3 3 3 5 = - + + d) 75 50 18 48 = - + + e) 3 8 3 2 18 98 = - -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.12_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    430.3,
+    288.1,
+    775.7
+   ],
+   "num": [
+    15.2,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki eşitliklerde boş bırakılan yerlere gelecek 4. sayıları bulunuz. + = a) 4 3 .......... 7 3 = b) .......... 2 2 5 2 - = c) 5 6 .......... 8 6 - + = ç) 18 .......... 50 = d) 20 ............ 5 -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.12_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.9,
+    46.0,
+    578.7,
+    741.6
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda kenar uzunlukları verilen şekillerin çevre 5. uzunluklarını bulunuz. a) Dikdörtgenin Çevresi : .......................... cm 72 cm 8 cm b) Karenin Çevresi : .......................... cm 7 cm c) Dikdörtgenin Çevresi : .......................... cm 10 cm 15 cm ç) Üçgenin Çevresi : .......................... cm 18 cm 8 cm 18 cm",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

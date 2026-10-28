@@ -1,0 +1,261 @@
+{
+ "book": {
+  "id": "lgs_mat_8.16_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/05_Basit_Olaylarin_Olma_Olasiligi/8.16_Olasilik_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Basit Olayların Olma Olasılığı",
+  "code": "8.16",
+  "title": "Olasılık",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.16_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    288.7,
+    413.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki deneylere ait olası durumları belirleyiniz. 1. a) Bir madeni paranın havaya atılması b) Hilesiz bir zarın havaya atılması c) Rakamların yazılı olduğu eş kartlardan rastgele birinin seçilmesi ç) 3 mavi, 2 sarı ve 5 kırmızı top arasından rastgele bir top seçilmesi d) 5 hikaye, 4 roman ve 2 şiir kitabı arasından rastgele bir kitap seçilmesi",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    446.6,
+    288.1,
+    761.6
+   ],
+   "num": [
+    15.5,
+    453.6,
+    26.5,
+    467.2
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki cümlelerin doğru olabilmesi için hangisi 2. ile tamamlanması gerektiğini bulunuz. a) Bir madeni para havaya atıldı daha fazladır. ğında üst yüzüne yazı gelme ile daha azdır. tura gelme olasılığı ... eşittir. b) Bir zar atıldığında üst yüze tek daha fazladır. sayı gelme ile asal sayı gelme daha azdır. olasılığı ... eşittir. c) 3 mor, 5 sarı top arasından daha fazladır. rastgele seçilen topun renginin daha azdır. mor olma olasılığı ... eşittir. ç) 10 kız, 8 erkek arasından daha fazladır. rastgele seçilen bir kişinin kız daha azdır. olma olasılığı ... eşittir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    426.5
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki olaylardan kesin olanlara \"K\", imkansız 3. olanlara \"İ\", kesin veya imkansız olmayanlara \"D\" yazınız. Bir zar atıldığında üst yüze gelen sayının bir basamaklı bir sayı olma olasılığı 1'den 10'a kadar numarlandırılmış toplardan çekilen topun üzerinde asal sayı olma olasılığı 10 gül, 15 lale arasından rastgele seçilen çiçeğin papatya olma olasılığı İSTANBUL kelimesinin harfleri arasından rast gele seçilen harfin A olma olasılığı Yeşil ve mavi kalemlerin arasından seçilen bir kalemin yeşil veya mavi olma olasılığı Avrupa kıtasından seçilen bir ülkenin Afrika kıtasında olma olasılığı Rak",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    446.6,
+    587.3,
+    728.7
+   ],
+   "num": [
+    314.2,
+    453.6,
+    325.6,
+    467.2
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki olayların olma olasılıklarını bulunuz. 4. a) Bir madeni para havaya atıldığında üst yüzüne yazı gelme olasılığı b) TÜRKİYE kelimesinin harfleri arasından rastgele seçilen bir harfin E olma olasılığı c) 1'den 30'a kadar numaralandırılmış toplardan rastgele seçilen bir topun üzerinde 17 yazma olasılığı ç) Rakamların yazılı olduğu eş kartlardan seçilen bir kartta 5 yazma olasılığı",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    46.0,
+    292.5,
+    463.3
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Hilesiz bir zarın havaya atılma deneyine ait 5. aşağıdaki olayların olasılıklarını hesaplayınız. a) 6 gelme olasılığı b) Tek sayı gelme olasılığı c) Asal sayı gelme olasılığı ç) 4'ten büyük bir sayı gelme olasılığı d) Rakam gelme olasılığı e) İki basamaklı bir sayı gelme olasılığı f) 3'ün katı gelme olasılığı g) 3'ten küçük veya 5'ten büyük gelme olasılığı h) Tek ve asal sayı gelme olasılığı",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    9.2,
+    482.8,
+    293.5,
+    775.7
+   ],
+   "num": [
+    15.2,
+    489.8,
+    26.5,
+    503.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Hilesiz bir çift zarın havaya atılma dene 6. yine ait aşağıdaki olayların olasılıklarını hesaplayınız. a) İkisinin de 6 gelme olasılığı b) İkisinin de aynı gelme olasılığı c) Toplamlarının 5 olma olasılığı ç) Çarpımlarının 12 olma olasılığı d) İkisinin farklı gelme olasılığı",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    304.0,
+    46.0,
+    587.3,
+    140.5
+   ],
+   "num": [
+    316.0,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Sadece kırmızı ve beyaz topların bulunduğu bir 7. torbada toplam 32 top vardır. Bu torbadan rastgele 1 olduğuna seçilen bir topun beyaz olma olasılığı 4 göre bu torbadaki kırmızı ve beyaz topların sayısını bulunuz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    303.7,
+    217.8,
+    587.3,
+    401.8
+   ],
+   "num": [
+    314.9,
+    224.8,
+    325.6,
+    238.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "RİYAZİYE kelimesinin her bir harfi eş kartlara yazıla 8. rak bir torbaya konuluyor. Bu torbadan rastgele bir kart çekme deneyine ait aşağıdaki olayların olası lıklarını yüzde olarak hesaplayınız. a) Sesli harf gelme olasılığı b) Sessiz harf gelme olasılığı c) \"Y\" gelme olasılığı",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    303.7,
+    435.3,
+    584.5,
+    543.7
+   ],
+   "num": [
+    314.5,
+    442.3,
+    325.6,
+    455.9
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Yandaki karelere ayrılmış 9. bölgeden rastgele seçilen bir karenin boyalı olma olasılığı kaçtır?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_calisma|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    597.8,
+    584.4,
+    708.3
+   ],
+   "num": [
+    309.7,
+    604.8,
+    325.6,
+    618.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Yandaki grafikte bir turist 10. kafilesindekilerin dağılımı İNGİLİZ ALMAN gösterilmiştir. Bu gruptan 90° 150° rastgele seçilen bir kişinin 120° Alman veya İngiliz olma FRANSIZ olasılığı kaçtır?",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

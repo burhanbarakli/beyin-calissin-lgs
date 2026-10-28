@@ -1,0 +1,303 @@
+{
+ "book": {
+  "id": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/10_Eslik_Ve_Benzerlik/ESLIK_VE_BENZERLIK_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Eşlik ve Benzerlik",
+  "code": "",
+  "title": "Eslik Ve Benzerlik Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 6,
+ "key_pages": [
+  6
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    322.6
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Benzerlik oranıyla iç içe üçgen alanı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    463.0,
+    575.2,
+    717.0
+   ],
+   "num": [
+    29.7,
+    467.0,
+    47.9,
+    484.0
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Benzer dikdörtgenlerde en az çevre bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    430.2
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Katlamada oluşan benzer üçgenlerin oranı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    25.7,
+    508.3,
+    575.2,
+    723.2
+   ],
+   "num": [
+    29.7,
+    512.3,
+    47.9,
+    529.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kesilen dikdörtgen parçaların benzerlik oranı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p3|q5",
+   "page": 3,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    305.4
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Benzer dikdörtgenlerde kenar uzunluğu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p3|q6",
+   "page": 3,
+   "n": 6,
+   "bbox": [
+    25.7,
+    418.7,
+    575.2,
+    719.4
+   ],
+   "num": [
+    29.7,
+    422.7,
+    47.9,
+    439.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareli düzlemde benzerlik oranıyla dikdörtgen çizme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    423.7
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Benzerlik oranıyla eşkenar üçgen çevresi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    25.7,
+    418.7,
+    575.2,
+    682.8
+   ],
+   "num": [
+    29.7,
+    422.7,
+    47.9,
+    439.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üst üste benzer üçgenlerde çevre hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    411.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Eş dikdörtgenlerle benzer dikdörtgen oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p5|q10",
+   "page": 5,
+   "n": 10,
+   "bbox": [
+    25.7,
+    494.8,
+    575.2,
+    748.9
+   ],
+   "num": [
+    29.7,
+    498.8,
+    47.9,
+    515.8
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Benzer dik üçgenlerle en büyük çevre",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

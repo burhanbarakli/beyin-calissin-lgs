@@ -1,0 +1,303 @@
+{
+ "book": {
+  "id": "lgs_mat_veri_analizi_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/04_Veri_Analizi/VERI_ANALIZI_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Veri Analizi",
+  "code": "",
+  "title": "Veri Analizi Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 6,
+ "key_pages": [
+  6
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    375.5
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire grafiğini sütun grafiğine dönüştürme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    472.1,
+    575.2,
+    753.8
+   ],
+   "num": [
+    29.7,
+    476.1,
+    47.9,
+    493.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Değişen verilerle yeni merkez açısı hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    389.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sütun grafiği ve ipuçlarıyla veri bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    25.7,
+    472.1,
+    575.2,
+    708.7
+   ],
+   "num": [
+    29.7,
+    476.1,
+    47.9,
+    493.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sütun ve daire grafiğini birlikte yorumlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p3|q5",
+   "page": 3,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    409.3
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Çizgi grafiğinden daire grafiği oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p3|q6",
+   "page": 3,
+   "n": 6,
+   "bbox": [
+    25.7,
+    484.9,
+    575.2,
+    751.9
+   ],
+   "num": [
+    29.7,
+    488.9,
+    47.9,
+    505.9
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiğinden miktar bulup kalanı hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    398.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kümülatif sütun grafiğini yorumlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    25.7,
+    484.9,
+    575.2,
+    710.4
+   ],
+   "num": [
+    29.7,
+    488.9,
+    47.9,
+    505.9
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Merkez açısından tam sayılı öğrenci sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    336.7
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiği ile yüzde hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_veri_analizi_konu_tarama_testi|p5|q10",
+   "page": 5,
+   "n": 10,
+   "bbox": [
+    25.7,
+    435.1,
+    575.2,
+    741.4
+   ],
+   "num": [
+    29.7,
+    439.1,
+    47.9,
+    456.2
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiğinde açı oranından olası süreler",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

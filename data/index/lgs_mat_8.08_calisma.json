@@ -1,0 +1,213 @@
+{
+ "book": {
+  "id": "lgs_mat_8.08_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/02_Uslu_Ifadeler/8.08_10_un_Kuvvetleriyle_Ifade_Etme_ve_Bilimsel_Gosterim_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Üslü İfadeler",
+  "code": "8.08",
+  "title": "10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.08_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    282.6,
+    414.0
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki eşitliklerde verilmeyen sayıları bulunuz. 1. a) 2500000 = 2500.10 A A = b) 320000 = 3,2.10 B B = c) 689000 = 0,0689.10 C C = ç) 72000 = 7200000.10 Ç Ç = d) 18 = 18000.10 D D = e) −34000 = −3,4.10 E E = f) 58000 = F.10 3 F =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    282.6,
+    767.7
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki eşitliklerde verilmeyen sayıları bulunuz. 2. a) 0,00000125 = 125.10 A A = b) 0,000097 = 9,7.10 B B = c) 0,00000001 = 100.10 C C = ç) 0,000045 = 0,045.10 Ç Ç = d) 0,076 = 0,000076.10 D D = e) 0,00007 = E.10 −5 E = f) −0,2 = F.10 2 F =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    577.8,
+    404.8
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen sayılara eşit olanları işaretleyiniz. 3. a) 1000000.10 4 sayısına hangisi / hangileri eşittir? 100.10 8 10.10 −1 10 10 0,001.10 12 b) 0,0025.10 −30 sayısına hangisi / hangileri eşittir? 2,5.10 −27 25.10 −32 0,025.10 −31 25000.10 −37 c) 1,53.10 15 sayısına hangisi / hangileri eşittir? 15,3.10 14 0,00153.10 18 0,0153.10 13 1530.10 12",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    430.3,
+    568.0,
+    749.3
+   ],
+   "num": [
+    314.2,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi veya hangileri bilimsel 4. gösterime örnektir? 0,9.10 85 7,2.10 −31 6,02.10 23 10.10 76 1.10 −31 2,5001.10 −49 −7,9.10 67 0,752.10 15 3.10 84",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.8,
+    46.0,
+    271.9,
+    775.7
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayıları bilimsel gösterimle gösteriniz. 5. a) 1700000000 = b) 453000 = c) 1000000000000 = ç) 2300000 . 10 38 = d) 45,6 . 10 25 = e) 85001 . 10 12 = f) 0,00071 . 10 41 = g) 0,000018 = ğ) 0,0000000000001 = h) 0,0008 . 10 −39 = ı) 0,67 . 10 −53 = i) 0,00000004 . 10 −21 = j) 1050000 . 10 −19 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    580.0,
+    384.6
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki nicelikleri istenilen birime çevirerek 6. bilimsel gösterimle gösteriniz. Bilimsel Gösterim a) 150 km = = mm b) 72000 kg = = g c) 100 L = = cm 3 ç) 15 cm = = km d) 15 sa = = sn e) 45 milyar = = f) 2,5 milyon = =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    412.7,
+    580.6,
+    467.9
+   ],
+   "num": [
+    316.0,
+    419.7,
+    325.6,
+    433.2
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Işık bir saniyede yaklaşık 300 000 kilometre yol alır. 7. Buna göre ışığın 1 dakikada alacağı yolu metre cinsinden bilimsel gösterimle ifade ediniz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.3,
+    565.1,
+    580.3,
+    697.4
+   ],
+   "num": [
+    314.9,
+    572.1,
+    325.6,
+    585.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "8. Türkiye'de ortalama yaşam süresi yaklaşık olarak 41 milyon dakikadır. Bu zamanı bilimsel gösterimle ifade ediniz.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

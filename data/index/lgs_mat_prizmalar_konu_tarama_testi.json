@@ -1,0 +1,303 @@
+{
+ "book": {
+  "id": "lgs_mat_prizmalar_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/12_Geometrik_Cisimler/PRIZMALAR_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Geometrik Cisimler",
+  "code": "",
+  "title": "Prizmalar Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 5,
+ "key_pages": [
+  5
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    296.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Yanal alandan taban çevresini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    463.1,
+    293.6,
+    680.5
+   ],
+   "num": [
+    29.7,
+    467.1,
+    47.9,
+    484.1
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yüz alanlarından dikdörtgenler prizması ayrıtlarını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    329.7
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.7,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Dik prizma yüksekliğini yan yüzden belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    305.5,
+    463.1,
+    575.2,
+    755.8
+   ],
+   "num": [
+    309.5,
+    467.1,
+    327.7,
+    484.1
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Açınımdan kare prizmanın yüzey alanını hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    363.4
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yüzey alanından eksik ayrıtı bulup alan hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    25.7,
+    463.1,
+    575.2,
+    709.2
+   ],
+   "num": [
+    29.7,
+    467.1,
+    47.9,
+    484.1
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üçgen dik prizma açınımında yükseklik bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p3|q7",
+   "page": 3,
+   "n": 7,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    310.8
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kare prizma hacimlerini oranlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p3|q8",
+   "page": 3,
+   "n": 8,
+   "bbox": [
+    25.7,
+    443.0,
+    575.2,
+    697.3
+   ],
+   "num": [
+    29.7,
+    447.0,
+    47.9,
+    464.1
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kare prizma ayrıtlarından yüzey alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p4|q9",
+   "page": 4,
+   "n": 9,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    308.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üçgen prizmada yan yüz alanının en fazlası",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_prizmalar_konu_tarama_testi|p4|q10",
+   "page": 4,
+   "n": 10,
+   "bbox": [
+    25.7,
+    404.2,
+    575.2,
+    736.2
+   ],
+   "num": [
+    29.7,
+    408.2,
+    47.9,
+    425.2
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Ayrıt toplamı eşitliğiyle küp yüzey alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

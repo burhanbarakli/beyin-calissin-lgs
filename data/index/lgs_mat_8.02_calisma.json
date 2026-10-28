@@ -1,0 +1,213 @@
+{
+ "book": {
+  "id": "lgs_mat_8.02_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.02_EBOB_EKOK_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.02",
+  "title": "EBOB - EKOK",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.02_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    291.0,
+    407.0
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda bölenleri verilen sayıların ortak bölenlerini 1. işaretleyiniz ve en büyük ortak bölenlerini bulunuz. a) 16 : 1 , 2 , 4 , 8 , 16 20 : 1 , 2 , 4 , 5 , 10 , 20 EBOB (16,20) = ................. b) 18 : 1 , 2 , 3 , 6 , 9 , 18 36 : 1 , 2 , 3 , 4 , 6 , 9 , 12 , 18 , 36 EBOB (18,36) = ................. c) 25 : 1 , 5 , 25 63 : 1 , 3 , 7 , 9 , 21 , 63 EBOB (25,63) = .................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    441.9,
+    275.0,
+    758.6
+   ],
+   "num": [
+    15.5,
+    448.9,
+    26.5,
+    462.4
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda katları verilen sayıların ortak katlarını 2. işaretleyiniz ve en küçük ortak katlarını bulunuz. a) 4 : 4 , 8 , 12 , 16 , 20 , 24 , 28 , 32 , 36 , 40 , ... 6 : 6 , 12 , 18 , 24 , 30 , 36 , 42 , 48 , 54 , 60 , ... EKOK (4,6) = ................. b) 10 : 10 , 20 , 30 , 40 , 50 , 60 , 70 , 80 , 90 , ... 20 : 20 , 40 , 60 , 80 , 100 , 120 , 140 , 160 , ... EKOK (10,20) = ................. c) 4 : 4 , 8 , 12 , 16 , 20 , 24 , 28 , 32 , 36 , 40 , ... 5 : 5 , 10 , 15 , 20 , 25 , 30 , 35 , 40 , 45 , 50 , ... EKOK (4,5) = .................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    309.0,
+    88.5,
+    559.0,
+    758.5
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen sayıların EBOB ve EKOK'larını 3. bulunuz. a) 8 12 b) 20 30 (8,12) ebob = ................. (20,30) ebob = ................. (8,12) ekok = ................. (20,30) ekok = ................. c) 16 24 ç) 12 32 (16,24) ebob = ................. (12,32) ebob = ................. (16,24) ekok = ................. (12,32) ekok = ................. d) 9 18 e) 24 25 (9,18) ebob = ................. (24,25) ebob = ................. (9,18) ekok = ................. (24,25) ekok = .................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    279.4,
+    437.5
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen sayıların EBOB ve EKOK'larını 4. bulunuz. a) A B 2 b) K L 2 C D 2 K M 2 E F 3 K N 3 G 1 5 P R 5 1 1 R 7 1 EBOB (A,B) = ................. EBOB (K,L) = ................. EKOK (A,B) = ................. EKOK (K,L) = ................. c) P R 3 ç) C D 2 S R 3 E F 3 1 R 5 F G 3 T 11 H 1 7 1 1 EBOB (P,R) = ................. EBOB (C,D) = ................. EKOK (P,R) = ................. EKOK (C,D) = .................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    451.3,
+    274.6,
+    775.7
+   ],
+   "num": [
+    15.8,
+    458.3,
+    26.5,
+    471.9
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda asal çarpanlarına ayrılıp üslü ifade veya 5. üslü ifadelerin çarpımı şeklinde verilen sayıların EBOB ve EKOK'larını bulunuz. a) L = 2 3 . 3 2 EBOB (L,G) = ................. G = 2 2 . 3 4 EKOK (L,G) = ................. b) S = 2 . 5 2 EBOB (S,T) = ................. T = 2 3 . 5 2 EKOK (S,T) = ................. c) A = 3 2 . 5 . 7 EBOB (A,Y) = ................. Y = 3 . 7 2 EKOK (A,Y) = ................. ç) F = 2 . 3 2 . 11 EBOB (F,A) = ................. A = 2 2 . 7 . 11 EKOK (F,A) = .................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    536.3,
+    242.1
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki işlemlerin sonuçlarını bulunuz. 6. a) EBOB (8,14) + EKOK (6,15) = b) EKOK (40,10) + EBOB (40,10) = c) EBOB (18,60) . EKOK (18,60) =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    301.3,
+    587.3,
+    515.7
+   ],
+   "num": [
+    316.0,
+    308.3,
+    325.6,
+    321.9
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerde noktalı yerleri uygun şekilde 7. doldurunuz. a) EBOB'ları 4, EKOK'ları 48 olan iki sayıdan biri 12 ise diğeri ................. b) İki sayının EKOK'u 20 ise bu sayıların toplamı en fazla ................. c) Farklı iki sayının EBOB'u 30 ise bu sayıların toplamı en az .................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.02_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.3,
+    543.2,
+    587.2,
+    775.7
+   ],
+   "num": [
+    314.9,
+    550.2,
+    325.6,
+    563.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 8. belirleyiniz. İki sayının çarpımı, EBOB'ları ile EKOK'larının çarpımına eşittir. Ardışık iki sayının EKOK'u bu sayıların toplamına eşittir. Birbirinin katı olan iki sayının EBOB'u küçük sayıya eşittir. İki sayının EKOK'u her zaman sayılardan büyüktür.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.31_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/11_Donusum_Geometrisi/8.31_Donusum_Geometrisi_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Dönüşüm Geometrisi",
+  "code": "8.31",
+  "title": "Dönüşüm Geometrisi",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.31_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    293.6,
+    299.5
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi yanda 1. verilen şeklin öteleme altındaki görüntüsüdür? A) B) C) D)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    402.9,
+    284.3,
+    483.3
+   ],
+   "num": [
+    15.5,
+    409.9,
+    26.5,
+    423.4
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A (−2 , 3) noktasının 5 br sağa, 3 br aşağı öteleme 2. altındaki görüntüsünün koordinatları aşağıdakiler den hangisidir? A) (3 , 6) B) ( − 7 , 6) C) (3 , 0) D) ( − 7 , 0)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    599.0,
+    290.1,
+    674.5
+   ],
+   "num": [
+    16.0,
+    606.0,
+    26.5,
+    619.5
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "M (5 , −3) noktasının x eksenine göre yansıma altın 3. daki görüntüsünün koordinatları aşağıdakilerden hangisidir? A) (5 , 3) B) (−5 , −3) C) (−3 , 5) D) (−3 , −5)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    304.9
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "y 4. B C A x D Yukarıda koordinat sisteminde verilen hangi nokta, şeklin y eksenine göre yansıma altındaki görüntü sünün dışında kalmaz? A) A B) B C) C D) D",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    402.9,
+    584.8,
+    478.2
+   ],
+   "num": [
+    314.9,
+    409.9,
+    325.6,
+    423.4
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "B (−1 , 1) noktasının y eksenine göre yansıma altın 5. daki görüntüsünün 3 br sola ötelenmesi ile oluşan noktanın koordinatları aşağıdakilerden hangisidir? A) (4 , 1) B) ( − 2 , 1) C) (2 , − 1) D) ( − 4 , − 1)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    599.0,
+    587.3,
+    699.1
+   ],
+   "num": [
+    314.3,
+    606.0,
+    325.6,
+    619.5
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "d Aşağıda verilen noktalardan 6. A K hangisi A noktasının d doğ L rusuna göre yansımasıdır? M N A) K B) L C) M D) N",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    290.2,
+    292.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "y 7. x Yukarıda koordinat sisteminde verilen dikdörtgen 2 birim sola 2 birim aşağı öteleniyor. Aşağıda koordinatları verilen hangi nokta, öteleme sonucundaki şeklin bir köşesidir? A) ( − 4 , 0) B) ( − 1 , 2) C) ( − 4 , 2) D) (1 , − 1)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    322.9,
+    275.0,
+    580.3
+   ],
+   "num": [
+    15.9,
+    329.9,
+    26.5,
+    343.5
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "y 8. x Yukarıda koordinat sisteminde verilen dörtgene aşağıdaki ötelemelerden hangisi uygulanırsa bu dörtgenin herhangi bir köşesi orijin üstünde yer almaz? A) 1 br sağ 2 br yukarı B) 2 br sol 1 br aşağı C) 1 br aşağı 1 br sağ D) 2 br yukarı 1 br sol",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    614.3,
+    292.1,
+    775.7
+   ],
+   "num": [
+    15.5,
+    621.3,
+    26.5,
+    634.9
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "9. T (−7 , −8) noktasının önce x eksenine göre yansıması alınıyor. Ardından oluşan noktanın y eksenine göre yansıması alınıyor. Buna göre son oluşan noktanın koordinatları aşağı dakilerden hangisidir? A) (7 , 8) B) (8 , −7) C) (−8 , 7) D) (−7 , 8)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    292.2
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "y 10. x B A Yukarıda koordinat sisteminde; A noktasının y eksenine göre yansıması alınarak A', B noktasının 2 br yukarı ötelenmesi ile B' elde ediliyor. Buna göre |A'B'| kaç birimdir? A) 1 B) 2 C) 4 D) 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    334.4,
+    579.4,
+    604.7
+   ],
+   "num": [
+    313.1,
+    341.4,
+    325.6,
+    355.0
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "y 11. A B x C D Yukarıdaki koordinat sisteminde verilen üçgenler ile ilgili aşağıdakilerden hangisi doğrudur? A) A'nın y eksenine göre yansıması C’dir. B) B, A’nın 2 br sağa ötelenmiş halidir. C) C'nin y eksenine göre yansıması D'dir . D) D'ye sadece öteleme uygulanarak A, B, C'den hiçbiri elde edilemez.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    651.9,
+    585.2,
+    739.1
+   ],
+   "num": [
+    310.5,
+    658.9,
+    325.6,
+    672.4
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "H (5 , −3) noktasının 6 br sağa 1 br aşağı ötelenmesi 12. ile H’ (x , y − 1) noktası ediliyor. Buna göre x + y kaçtır? A) − 6 B) − 4 C) 6 D) 8",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.03_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.03_EBOB_EKOK_Problemleri_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.03",
+  "title": "EBOB - EKOK Problemleri",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.03_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    272.8,
+    173.5
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir kümesteki hayvan sayısı hem 6’ya hem de 8’e 1. bölünebilmektedir. Buna göre bu kümeste en az kaç hayvan vardır? A) 12 B) 24 C) 36 D) 48",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    286.6,
+    445.6
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "20 kg patates ve 32 kg domates birbirine karıştırıl- 2. madan ve hiç artmayacak şekilde eşit büyüklükte poşetlere doldurulacaktır. Her bir poşetteki ürünlerin kütlesi aşağıdakilerden hangisi olamaz? A) 1 kg B) 2 kg C) 4 kg D) 8 kg",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    285.2,
+    667.6
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Kenar uzunlukları 30 m ve 40 m olan dikdörtgen 3. şeklindeki bir bahçenin etrafına köşelere de gelmek şartıyla eşit aralıklarla ağaç dikilecektir. Bu iş için en az kaç ağaç gereklidir? A) 5 B) 7 C) 10 D) 14",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    220.3
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Merve’nin 16, Sümeyye'nin 24 tane 4. cevizi vardır. Bu iki arkadaş cevizlerini birbirine karıştırmadan, her pakette eşit miktarda ceviz olacak şekilde bütün cevizlerini paketlemek istiyorlar. Buna göre bir pakette en fazla kaç ceviz bulunur? A) 2 B) 4 C) 8 D) 17",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    575.6,
+    442.8
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir sınıftaki öğrenciler dörder dörder ve üçer üçer 5. sıraya dizildiğinde her defasında 1 öğrenci açıkta kalmaktadır. Bu sınıftaki öğrenci sayısının 40 ile 50 arasında olduğu bilindiğine göre sınıf mevcudu kaçtır? A) 49 B) 47 C) 45 D) 41",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    587.3,
+    757.8
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Nihan’ın 15 cm uzunluğunda, 6. Ayşe’nin 20 cm uzunluğunda 15 cm cetveli vardır. Bir uzunluğu ölçer- 20 cm ken ikisi de kendi elindeki cetveli uç uca ekleyerek ölçüm yapmaktadır. Ellerindeki cetvelde herhangi bir sayı olmadığı için sadece cetvelin tam olarak denk geldiği uzunlukları ölçebilmektedirler. Ayşe ve Nihan’ın ikisinin de ölçebileceği uzunluk aşağıdakilerden hangisi olabilir? A) 120 cm B) 100 cm C) 80 cm D) 75 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    289.2,
+    178.1
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Doktor Sevgi Hanım 6 günde bir, 7. Hemşire Demet Hanım 4 günde bir nöbet tutmaktadır. İkisi birlikte Perşembe günü nöbet tuttuktan sonra birlikte tutacakları ilk nöbet hangi güne denk gelir? A) Salı B) Çarşamba C) Cumartesi D) Pazar",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    292.1,
+    404.1
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Eni 24 cm, boyu 30 cm olan dikdörtgen şeklindeki bir 8. kartonun iki yüzüne eş kare etiketler yapıştırılacaktır. Etiketler kesilmeden ve üst üste yapıştırılmadan yapılacak bu işlem için en az kaç etiket gereklidir? A) 9 B) 18 C) 20 D) 40",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    290.8,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir çiçekçide bulunan 500’den fazla karanfil destelere 9. veya düzinelere ayrıldığında her seferinde 5 karanfil artıyor. Buna göre bu çiçekçide en az kaç karanfil vardır? A) 505 B) 535 C) 540 D) 545",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    236.7
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir duraktan A otobüsü 45 dakikada bir, 10. B otobüsü 30 dakikada bir geçmektedir. Bu iki otobüs bu duraktan ilk kez 09.10’da birlikte geçmişlerdir. İlker A otobüsüne, Sefa B otobüsüne binecektir. İlker ve Sefa birlikte saat kaçta bu durağa gelirlerse 10 dakikadan az bekleyerek otobüslerine binmiş olurlar? A) 10.47 B) 11.08 C) 12.02 D) 12.15",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    587.3,
+    414.1
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Birbirleri ile bağlantıları olmayan ve uzunlukları 30 11. metre ve 54 metre olan iki caddenin her iki kenarına, caddelerin başlarına ve sonlarına da denk gelmek şartıyla eşit aralıklarla direk dikilecektir. Bu iş için en az kaç tane direk gereklidir? A) 14 B) 16 C) 28 D) 32",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    587.3,
+    652.7
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Arda bir merdiveni üçer üçer çıkarken bir basamak, 12. dörder dörder inerken ise iki basamak artıyor. Buna göre bu merdivenin basamak sayısı aşağıdaki- lerden hangisi olabilir? A) 11 B) 13 C) 22 D) 24",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

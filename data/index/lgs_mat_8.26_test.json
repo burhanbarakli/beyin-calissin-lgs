@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.26_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.26_Ucgen_Esitsizligi_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Üçgenler",
+  "code": "8.26",
+  "title": "Üçgenin Kenarları Arasındaki İlişki",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.26_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    284.8,
+    243.1
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A 1. 6 cm B C 10 cm Şekildeki ABC üçgeninde |AB| = 6 cm ve |BC| = 10 cm olduğuna göre |AC| aşağıdakilerden hangisi olabilir? A) 3 cm B) 4 cm C) 7 cm D) 17 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    369.7,
+    287.5,
+    450.1
+   ],
+   "num": [
+    15.5,
+    376.7,
+    26.5,
+    390.2
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen uzunluklardan hangisi bir üçgenin 2. kenar uzunlukları olamaz? A) 2 cm - 3 cm - 4 cm B) 5 cm - 12 cm - 8 cm C) 9 cm - 11 cm - 19 cm D) 25 cm - 11 cm - 13 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    581.9,
+    282.9,
+    663.0
+   ],
+   "num": [
+    16.0,
+    588.9,
+    26.5,
+    602.5
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen uzunluklardan hangisi bir üçgenin 3. cm cinsinden kenar uzunlukları olabilir? A) 2,7 - 3,4 - 6,3 B) 7,2 - 5,7 - 15 C) 6,1 - 1,2 - 4,7 D) 9,6 - 5,8 - 3,9",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    288.7
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "A 4. (x − 2) br 8 br C B (2x + 2) br Yukarıdaki ABC üçgeninde |AB| = 8 br, |BC| = 2x + 2 br ve |AC| = x − 2 br’dir x bir tam sayı olduğuna göre ABC üçgeninin çevresi kaç birimdir? A) 14 B) 17 C) 20 D) 23",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    369.7,
+    587.3,
+    453.4
+   ],
+   "num": [
+    314.9,
+    376.7,
+    325.6,
+    390.2
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir üçgenin iki kenarının uzunluğu 15 cm ve 19 cm’dir. 5. Diğer kenarının uzunluğu da doğal sayı ise en fazla kaç cm olabilir? A) 34 B) 33 C) 17 D) 16",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    581.9,
+    587.3,
+    660.1
+   ],
+   "num": [
+    314.3,
+    588.9,
+    325.6,
+    602.5
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Çevresinin uzunluğu 8 cm olan ve kenar uzunlukları 6. santimetre cinsinden tam sayı olan kaç farklı üçgen vardır? A) 1 B) 2 C) 4 D) 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    291.7,
+    247.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A 7. 5 cm 7 cm B C Şekildeki ABC çeşitkenar üçgeninde |AB| = 5 cm ve |AC| = 7 cm’dir. Buna göre |BC| santimetre cinsinden kaç farklı tam sayı değeri alabilir? A) 10 B) 9 C) 8 D) 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    313.8,
+    276.6,
+    504.0
+   ],
+   "num": [
+    15.9,
+    320.8,
+    26.5,
+    334.4
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "10 cm C 8. A 6 cm 8 cm D 14 cm B Yukarıdaki şekilde |AB| = 8 cm, |AC| = 10 cm, |BD| = 14 cm ve |CD| = 6 cm olarak verilmiştir. Buna göre |BC| aşağıdakilerden hangisi olamaz? A) 6 cm B) 9 cm C) 12 cm D) 17 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    276.9,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "2 cm 9. 3 cm 4 cm 5 cm Yukarıdaki çubuklar uç uca birleştirilerek üçgenler oluşturulmak isteniyor. Buna göre kaç farklı üçgen oluşturulabilir? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    584.0,
+    247.2
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "C 10. 7 cm A 7 cm 4 cm D B Yukarıdaki şekilde |AB| = 4 cm, |AC| = 7 cm, |CD| = 7 cm’dir. Buna göre |BD|’nun alabileceği en büyük tam sayı değeri kaçtır? A) 15 cm B) 16 cm C) 17 cm D) 18 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    372.5,
+    587.3,
+    437.8
+   ],
+   "num": [
+    313.1,
+    379.5,
+    325.6,
+    393.0
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Çevre uzunluğu 24 cm olan bir üçgenin bir kenarının 11. uzunluğu aşağıdakilerden hangisi olamaz? A) 12 cm B) 10 cm C) 8 cm D) 4 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.26_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    586.9,
+    650.5
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Çevre uzunluğu tam sayı olan ABC üçgeninde 12. |AB| = |AC| = x cm ve |BC| = 4 cm’dir. Buna göre ABC üçgeninin çevre uzunluğu en az kaç olabilir? A) 10 cm B) 9 cm C) 6 cm D) 5 cm",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

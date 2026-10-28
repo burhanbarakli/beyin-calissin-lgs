@@ -1,0 +1,35 @@
+{
+  "summary": "Alper'in yapamadığı soru 2026 LGS 5. soru (gözleme dilimleri, cevap B: 2/5). Çözüm: 60/12 = 5 olduğundan 25 dilim çıkar; patates-peynir sınırı 30 cm'de (2,5 sıra) olduğu için ortadaki sıradaki 5 dilim karışıktır, sadece peynirli dilim 10 tanedir → 10/25 = 2/5. Asıl eksik, olasılık formülünü bilmekten çok, şekilli bir durumda tüm olası durumları ve istenen durumları doğru sayamamaktır (bölmenin kaç parça verdiğini bulmak, sınırdaki karışık parçaları ve 'sadece' koşulunu ayırt etmek). Set önce olası durum/istenen durum sayımını öğretiyor, sonra parçalara ayırma ve iki özellikli sayma bağlamlarında pekiştiriyor, en sonda LGS düzeyinde sınıyor.",
+  "diagnosis": [
+    {
+      "subject": "mat",
+      "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+      "skill": "Şekilli bir bölme durumunda tüm olası durumları (dilim sayısını) ve 'sadece' koşulunu sağlayan istenen durumları doğru sayamıyor; sınırdaki karışık parçaları ayırt edemiyor",
+      "evidence": ["foto 1 Yapamadı (2026 LGS 5. soru, gözleme dilimleri)"],
+      "priority": 1,
+      "level_note": "Temel kavram eksik (olası/istenen durum sayımı), öğretici ağırlıklı"
+    }
+  ],
+  "groups": [
+    {
+      "title": "Olasılık — olası durumları ve 'sadece' istenen durumları doğru saymak",
+      "subject": "mat",
+      "why": "Öğrenci 60 cm'lik kareden kaç dilim çıktığını ve ortadaki karışık dilimleri hesaba katarak 'sadece peynirli' dilimleri sayamadı. Önce olası durumları belirleme ve kareli bölgede sayma, sonra parçalara bölme ve iki özellikli tablolarda sayma, en sonda benzer LGS soruları.",
+      "source_images": ["ogrenci/Sorular/2026-10-28/191219_1.png"],
+      "items": [
+        {"qid": "lgs_mat_8.16_calisma|p1|q1", "role": "hatirlatici", "why": "Bir deneyin tüm olası durumlarını yazdırır; olasılığın paydasını doğru kurmanın temeli", "recommended": true, "difficulty": 1, "difficulty_note": "olası durumları listeleme"},
+        {"qid": "lgs_mat_8.16_calisma|p2|q9", "role": "hatirlatici", "why": "Karelere ayrılmış bölgede boyalı kare sayısı / toplam kare sayısı — fotoğraftaki dilim sayımının en sade hâli", "recommended": true, "difficulty": 1, "difficulty_note": "kareleri sayıp oranlama"},
+        {"qid": "lgs_mat_8.16_calisma|p1|q4", "role": "hatirlatici", "why": "İstenen durum / tüm durum formülünü farklı deneylerde uygulatır", "recommended": false, "difficulty": 2, "difficulty_note": "doğrudan formül uygulaması"},
+        {"qid": "lgs_mat_8.16_test|p1|q6", "role": "hatirlatici", "why": "Bir özelliği taşıyan elemanları tek tek kontrol ederek sayma (adında A olan isimler)", "recommended": true, "difficulty": 2, "difficulty_note": "dikkatli sayma", "answer": "C", "answer_source": "claude"},
+        {"qid": "lgs_mat_8.16_test|p1|q3", "role": "pekistirme", "why": "İki özellikli tabloda (cinsiyet × gözlük) 'gözlüklü erkek' gibi kesişim durumlarını ayırt etmek — 'sadece peynirli' ayrımına benzer", "recommended": true, "difficulty": 2, "difficulty_note": "tablodan dört karşılaştırma", "answer": "C", "answer_source": "claude"},
+        {"qid": "lgs_mat_cikmis_2020|p11|q14", "role": "pekistirme", "why": "Halının parçalara bölünme durumlarını sayarak olasılık — bölmenin kaç farklı sonuç verdiğini bulma becerisi", "recommended": true, "difficulty": 3, "difficulty_note": "bölme durumlarını sistemli sayma"},
+        {"qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q4", "role": "pekistirme", "why": "Yapboz parçalarından kalanları sayıp olasılık — parça sayısını görselden çıkarma", "recommended": true, "difficulty": 3, "difficulty_note": "görselden kalan parça sayımı"},
+        {"qid": "lgs_mat_cikmis_2023|p4|q5", "role": "pekistirme", "why": "Abaküste tüm olası taşıma durumlarını sayıp istenenleri seçme", "recommended": false, "difficulty": 3, "difficulty_note": "olası durumları sistemli listeleme"},
+        {"qid": "lgs_mat_8.16_test|p2|q12", "role": "pekistirme", "why": "Bölgelere ayrılmış şekilde alan oranıyla olasılık (renkli halka / tüm daire)", "recommended": false, "difficulty": 3, "difficulty_note": "alan hesabı + oran", "answer": "D", "answer_source": "claude"},
+        {"qid": "lgs_mat_cikmis_2021|p12|q14", "role": "zorlayici", "why": "Fotoğraftaki soruya en benzer LGS sorusu: dikdörtgen kartonu eş karelere bölüp parça sayısını bulma, sonra renk olasılığı", "recommended": true, "difficulty": 4, "difficulty_note": "üslü ifadeyle parça sayısı + örüntüde sayma"},
+        {"qid": "lgs_mat_cikmis_2025|p11|q17", "role": "zorlayici", "why": "Kareli zeminden sayıları okuyup yeni eklenenlerin dağılımını bulma; tüm durumların hangi küme olduğuna dikkat ister", "recommended": true, "difficulty": 4, "difficulty_note": "grafik okuma + doğru örneklem uzayını seçme"},
+        {"qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q1", "role": "zorlayici", "why": "Olasılıktan geriye doğru toplam ve istenen durum sayısını bulma", "recommended": false, "difficulty": 4, "difficulty_note": "ters yönden düşünme, en az koşulu"}
+      ]
+    }
+  ]
+}

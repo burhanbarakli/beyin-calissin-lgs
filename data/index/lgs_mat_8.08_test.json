@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.08_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/02_Uslu_Ifadeler/8.08_10_un_Kuvvetleriyle_Ifade_Etme_ve_Bilimsel_Gosterim_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Üslü İfadeler",
+  "code": "8.08",
+  "title": "10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.08_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    289.0,
+    155.2
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 32 000 000 sayısına eşittir? 1. A) 32 . 10 8 B) 3,2 . 10 7 C) 0,32 . 10 10 D) 320 . 10 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    260.7,
+    410.3
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 9,35.10 8 sayısına eşit 2. değildir? A) 935 . 10 7 B) 0,0935 . 10 10 C) 0, 935 . 10 9 D) 93500 . 10 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    252.0,
+    653.9
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "1,618 = 16180 . 10 A 3. 0,00007 = 0,07 . 10 B olduğuna göre A + B kaçtır? A) −1 B) 1 C) −7 D) 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    558.4,
+    156.7
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi bilimsel gösterimdir? 4. A) 0,2 . 10 32 B) 1,5 . 10 −7 C) 12 . 10 14 D) 10 . 10 34",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    570.9,
+    409.9
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "15 200 000 000 000 sayısının bilimsel gösterimi 5. aşağıdakilerden hangisidir? A) 152 . 10 11 B) 1,52 . 10 11 C) 1,52 . 10 13 D) 0,152 . 10 14",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    576.5,
+    648.9
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "0,000000000000984 sayısının bilimsel gösterimi 6. aşağıdakilerden hangisidir? A) 9,84.10 12 B) 9,84.10 13 C) 9,84.10 −12 D) 9,84.10 −13",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    292.7,
+    127.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bilimsel gösterimi 5,67 . 10 5 olan sayı aşağıdakilerden 7. hangisidir? A) 567 000 B) 5 670 000 C) 56 700 000 D) 567 000 000",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    279.7,
+    382.3
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "924 000 000 metrenin santimetre olarak bilimsel 8. gösterimi aşağıdakilerden hangisidir? A) 9,24 . 10 8 B) 9,24 . 10 9 C) 9,24 . 10 10 D) 9,24 . 10 11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    285.6,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "0,00000002 sayısının bilimsel gösterimi a . 10 b ise 9. a . b kaçtır? A) 16 B) 0 C) −14 D) −16",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    207.5
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "New Horizons uzay aracı dünya- 10. dan yaklaşık 4,5 milyar kilometre uzaklıktaki Plüton’a 9 yıl süren bir yolculuk sonrası yandaki fotoğrafı çekmiştir. Plüton ile Dünya arasındaki mesafenin kilometre olarak bilimsel gösterimi aşağıdakilerden hangisidir? A) 4,5 . 10 6 B) 4,5 . 10 7 C) 4,5 . 10 8 D) 4,5 . 10 9",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    573.7,
+    382.3
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "2 35 . 25 19 işleminin sonucunun bilimsel gösterimi 11. aşağıdakilerden hangisidir? A) 5 . 10 35 B) 2,5 . 10 36 C) 1,25 . 10 35 D) 1,25 . 10 37",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.08_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    586.1,
+    732.6
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "12. Bakır atomunun yarı çapı 128 pikometre olduğuna göre bakır atomunun yarı çapının metre cinsinden bilimsel gösterimi aşağıdakilerden hangisidir? (1 pikometre = 10 −12 metre) A) 1,28 . 10 −10 B) 1,28 . 10 −12 C) 1,28 . 10 −14 D) 1,28 . 10 −16",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,237 @@
+{
+ "book": {
+  "id": "lgs_mat_8.05_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/02_Uslu_Ifadeler/8.05_Tam_Sayilarin_Tam_Sayi_Kuvvetleri_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Üslü İfadeler",
+  "code": "8.05",
+  "title": "Tam Sayıların Tam Sayı Kuvvetleri",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.05_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    289.6,
+    386.1
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 1. a) 2 3 = b) 3 2 = c) 4 4 = ç) 5 3 = d) 2 5 = e) 7 2 = f) 9 3 = g) 8 2 = ğ) 10 4 = h) 3 4 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    289.6,
+    743.9
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 2. a) 1 5 = b) 0 4 = c) 7 0 = ç) 9 1 = d) 1 9 = e) 0 0 = f) 0 5 = g) 1 65 = ğ) 42 0 = h) 55 1 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    386.1
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 3. a) (−2) 3 = b) (−3) 4 = c) (−7) 1 = ç) (−1) 7 = d) (−1) 10 = e) (−4) 0 = f) −12 0 = g) −1 6 = ğ) −8 2 = h) −4 3 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    430.3,
+    587.3,
+    743.9
+   ],
+   "num": [
+    314.2,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 4. a) 3 −3 = b) 2 −4 = c) 5 −2 = ç) 4 −3 = d) 8 −2 = e) 1 −5 = f) 9 −2 = g) 7 −3 = ğ) 10 −5 = h) 6 −3 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    46.0,
+    289.9,
+    391.3
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 5. a) (−5) −2 = b) (−3) −3 = c) (−2) −6 = ç) (−1) −7 = d) (−9) −2 = e) (−2) −5 = f) (−4) −3 = g) (−12) −2 = ğ) −2 −4 = h) −4 −3 = ı) −15 −2 = i) −1 −8 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    9.2,
+    414.5,
+    237.5,
+    775.7
+   ],
+   "num": [
+    15.2,
+    421.5,
+    26.5,
+    435.1
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki işlemlerin sonuçlarını bulunuz. 6. a) 2 3 + 5 2 − 3 2 = b) 0 5 + 1 4 − 7 0 = c) 7 −1 + 5 0 + 3 2 = ç) 2 −2 + 2 −3 = d) (−2) 4 + (−3) −1 = e) −5 −2 − (−5) −2 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.5,
+    46.0,
+    582.4,
+    384.5
+   ],
+   "num": [
+    316.0,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 7. belirleyiniz. Her sayının 1. kuvveti 1'e eşittir. Pozitif sayıların bütün kuvvetleri pozitiftir. 1'in bütün kuvvetleri 1'e eşittir. Negatif sayıların çift kuvvetleri pozitiftir. 0'ın bütün kuvvetleri 0'dır. 0 hariç her sayının 0. kuvveti 1'dir. Pozitif sayıların negatif kuvvetleri negatiftir. Negatif sayıların tek kuvvetleri negatiftir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.5,
+    414.6,
+    586.0,
+    510.4
+   ],
+   "num": [
+    314.9,
+    421.6,
+    325.6,
+    435.1
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki üslü ifadeleri küçükten büyüğe doğru 8. sıralayınız. 2 5 5 2 (−3) 4 4 −2 (−6) −2 (−2) −3 3 −3 a b c ç d e f",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.05_calisma|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    308.5,
+    611.8,
+    581.8,
+    642.1
+   ],
+   "num": [
+    314.5,
+    618.8,
+    325.6,
+    632.3
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "a = −2 ve b = −3 ise a b + b a işleminin sonucu kaçtır? 9.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

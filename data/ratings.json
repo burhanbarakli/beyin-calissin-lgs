@@ -1,0 +1,1434 @@
+{
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q1": {
+  "claude": 4,
+  "note": "ters yönden düşünme, en az koşulu"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q2": {
+  "claude": 4,
+  "note": "Olasılık karşılaştırmasıyla en az olasılık bulma"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q3": {
+  "claude": 4,
+  "note": "Ardışık seçimde kalanların renk olasılığı"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q4": {
+  "claude": 3,
+  "note": "görselden kalan parça sayımı"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q5": {
+  "claude": 4,
+  "note": "Aralarında asal olma olasılığını hesaplama"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q6": {
+  "claude": 4,
+  "note": "Kesin olay koşulundan eleman sayısı bulma"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q7": {
+  "claude": 4,
+  "note": "Asal çarpanlara ayırarak kalan kart olasılığı"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q8": {
+  "claude": 3,
+  "note": "Asal çarpan kartlarıyla olasılık karşılaştırma"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p3|q9": {
+  "claude": 4,
+  "note": "Yüzdeli olasılıktan en az kalan sayı"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p3|q10": {
+  "claude": 4,
+  "note": "Daire grafiklerinden olasılık hesaplama"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p4|q11": {
+  "claude": 5,
+  "note": "Örüntü ve olasılık koşuluyla tutar bulma"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p4|q12": {
+  "claude": 4,
+  "note": "Toplamların aralarında asal olma olasılığı"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p5|q13": {
+  "claude": 4,
+  "note": "Durumları listeleyerek olasılık hesaplama"
+ },
+ "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p5|q14": {
+  "claude": 4,
+  "note": "Verilen olasılıklardan dağılım bulup en fazla olasılık"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q1": {
+  "claude": 4,
+  "note": "Alan çarpanlarıyla çevrenin asal çarpanları"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q2": {
+  "claude": 3,
+  "note": "Farklı asal sayılarla en küçük çarpım"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q3": {
+  "claude": 4,
+  "note": "Alanın çarpan çiftleriyle kenar uzunluğu bulma"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p1|q4": {
+  "claude": 3,
+  "note": "Asal çarpan tablosundan sayı çarpımı bulma"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q5": {
+  "claude": 3,
+  "note": "Alan çarpan çiftleriyle dikdörtgen çevresi"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q6": {
+  "claude": 5,
+  "note": "Ortak kat ile en küçük çevreli bölmeler"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q7": {
+  "claude": 3,
+  "note": "Saat ve dakikanın aralarında asal olması"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p2|q8": {
+  "claude": 3,
+  "note": "EKOK ile çakışan sayfa sayısını bulma"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p3|q9": {
+  "claude": 4,
+  "note": "Alan çarpanlarıyla örtüşmeyen bölge alanı"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p3|q10": {
+  "claude": 3,
+  "note": "Asal çarpanlarla çarpımın kat ilişkisi"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p3|q11": {
+  "claude": 4,
+  "note": "Ardışık sayıların aralarında asal olması"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p4|q12": {
+  "claude": 4,
+  "note": "EKOK ile terazi dengesinde kalan şeker"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p4|q13": {
+  "claude": 4,
+  "note": "EBOB ile ortak genişlikten alan bulma"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p5|q14": {
+  "claude": 3,
+  "note": "Pozitif bölenlerin toplamını karşılaştırma"
+ },
+ "lgs_mat_carpanlar_ve_katlar_konu_tarama_testi|p5|q15": {
+  "claude": 4,
+  "note": "EKOK ile eşit kütleli yükleme problemi"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p1|q1": {
+  "claude": 3,
+  "note": "Tam kare özdeşliğinden kenar farkı bulma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p1|q2": {
+  "claude": 3,
+  "note": "Ortak çarpan parantezine alarak kenar bulma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p1|q3": {
+  "claude": 3,
+  "note": "Şeklin alanını tam kare olarak yazma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p1|q4": {
+  "claude": 4,
+  "note": "Eş dikdörtgenlerin kenarlarını çevreden bulma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p2|q5": {
+  "claude": 4,
+  "note": "Cebirsel ifadelerle alan farkı hesaplama"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p2|q6": {
+  "claude": 4,
+  "note": "Alan farkını özdeşlikle çarpanlara ayırma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p3|q7": {
+  "claude": 4,
+  "note": "Alan ifadesinden kenar ve çevre bulma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p3|q8": {
+  "claude": 3,
+  "note": "Cebirsel ifadelerde katsayı ve işlemler"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p3|q9": {
+  "claude": 3,
+  "note": "Cebirsel ifadelerle çarpma ve bölme"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p3|q10": {
+  "claude": 3,
+  "note": "Tam kare özdeşliğiyle kalan alanı bulma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p4|q11": {
+  "claude": 4,
+  "note": "Tam kare ve iki kare farkı özdeşliği"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p4|q12": {
+  "claude": 4,
+  "note": "İç içe karelerde alan farkını özdeşlikle bulma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p4|q13": {
+  "claude": 4,
+  "note": "Çevre ifadesinden kenar bulup alan toplamı"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p5|q14": {
+  "claude": 4,
+  "note": "İki kare farkıyla kenarları bulup alan toplamı"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p5|q15": {
+  "claude": 4,
+  "note": "Tam kare özdeşliğinden kenar ve çevre bulma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p6|q16": {
+  "claude": 3,
+  "note": "Kare alanlarını tam kare açılımıyla toplama"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p6|q17": {
+  "claude": 4,
+  "note": "Kenar ifadeleriyle tarla alanları farkı"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p7|q18": {
+  "claude": 4,
+  "note": "Kenar ifadelerinden dikdörtgen alanı yazma"
+ },
+ "lgs_mat_cebirsel_ifadeler_ve_ozdeslikler_konu_tarama_testi|p7|q19": {
+  "claude": 4,
+  "note": "Problem verisinden toplam tutar ifadesi yazma"
+ },
+ "lgs_mat_cikmis_2018|p1|q1": {
+  "claude": 3,
+  "note": "Benzer dikdörtgenin en küçük alanını bulma"
+ },
+ "lgs_mat_cikmis_2018|p1|q2": {
+  "claude": 3,
+  "note": "Sayı doğrusunda kareköklü sayı tahmini"
+ },
+ "lgs_mat_cikmis_2018|p1|q3": {
+  "claude": 3,
+  "note": "Doğrusal grafikten azalma oranını yorumlama"
+ },
+ "lgs_mat_cikmis_2018|p2|q4": {
+  "claude": 4,
+  "note": "Ortak kenarlardan bölümlerin alanlarını bulma"
+ },
+ "lgs_mat_cikmis_2018|p2|q5": {
+  "claude": 3,
+  "note": "Eşit olasılıktan bölüm sayısını bulma"
+ },
+ "lgs_mat_cikmis_2018|p2|q6": {
+  "claude": 3,
+  "note": "Sayıya en yakın tam kareleri belirleme"
+ },
+ "lgs_mat_cikmis_2018|p3|q7": {
+  "claude": 3,
+  "note": "Koordinat düzleminde öteleme hareketlerini belirleme"
+ },
+ "lgs_mat_cikmis_2018|p4|q8": {
+  "claude": 5,
+  "note": "Köşegen uzunluğunu karekök tahminiyle sınırlama"
+ },
+ "lgs_mat_cikmis_2018|p4|q9": {
+  "claude": 3,
+  "note": "Ondalık sayıyı 10'un kuvvetiyle karşılaştırma"
+ },
+ "lgs_mat_cikmis_2018|p4|q10": {
+  "claude": 4,
+  "note": "Tablo verisiyle toplam kaloriden adet bulma"
+ },
+ "lgs_mat_cikmis_2018|p5|q11": {
+  "claude": 4,
+  "note": "Küp yüzlerinde boyanan alanı ifade etme"
+ },
+ "lgs_mat_cikmis_2018|p5|q12": {
+  "claude": 2,
+  "note": "Üçgen prizmanın yüz boyutlarını ilişkilendirme"
+ },
+ "lgs_mat_cikmis_2018|p5|q13": {
+  "claude": 2,
+  "note": "Ortak çarpan ve tam kare ile çarpanlara ayırma"
+ },
+ "lgs_mat_cikmis_2018|p6|q14": {
+  "claude": 3,
+  "note": "Kare dik piramidin açınımı ile görünümünü eşleme"
+ },
+ "lgs_mat_cikmis_2018|p6|q15": {
+  "claude": 3,
+  "note": "Ücret karşılaştırmasında eşitsizlik kurup çözme"
+ },
+ "lgs_mat_cikmis_2018|p7|q16": {
+  "claude": 3,
+  "note": "Yüzde indirim probleminden denklem kurma"
+ },
+ "lgs_mat_cikmis_2018|p7|q17": {
+  "claude": 4,
+  "note": "Tam kare alan ve karekökle kenar bulma"
+ },
+ "lgs_mat_cikmis_2018|p7|q18": {
+  "claude": 3,
+  "note": "Açı-kenar ve üçgen eşitsizliğiyle kenar aralığı"
+ },
+ "lgs_mat_cikmis_2018|p8|q19": {
+  "claude": 4,
+  "note": "Silindir hacmi ile tablodan kargo ücreti bulma"
+ },
+ "lgs_mat_cikmis_2018|p8|q20": {
+  "claude": 3,
+  "note": "2'nin kuvvetlerini sayma ve problemde kullanma"
+ },
+ "lgs_mat_cikmis_2019|p1|q1": {
+  "claude": 2,
+  "note": "Tablodaki cebirsel ifadenin değerini hesaplama"
+ },
+ "lgs_mat_cikmis_2019|p1|q2": {
+  "claude": 3,
+  "note": "Kareköklüleri sadeleştirip toplama çıkarma yapma"
+ },
+ "lgs_mat_cikmis_2019|p2|q3": {
+  "claude": 3,
+  "note": "Çözümlenmiş ondalık sayıları karşılaştırma"
+ },
+ "lgs_mat_cikmis_2019|p3|q4": {
+  "claude": 4,
+  "note": "Kartonlardan kare prizma kurup yüzey alanı bulma"
+ },
+ "lgs_mat_cikmis_2019|p4|q5": {
+  "claude": 4,
+  "note": "Tam kare özdeşliği ve Pisagor ile çevre bulma"
+ },
+ "lgs_mat_cikmis_2019|p5|q6": {
+  "claude": 4,
+  "note": "Alanların çarpanlarından ortak kenar bulma"
+ },
+ "lgs_mat_cikmis_2019|p6|q7": {
+  "claude": 3,
+  "note": "Kareli zeminde benzer üçgenlerin benzerlik oranı"
+ },
+ "lgs_mat_cikmis_2019|p6|q8": {
+  "claude": 3,
+  "note": "Alandan karekökle kenar uzunluğu bulma"
+ },
+ "lgs_mat_cikmis_2019|p6|q9": {
+  "claude": 3,
+  "note": "Kareli zeminde eğime göre nokta bulma"
+ },
+ "lgs_mat_cikmis_2019|p7|q10": {
+  "claude": 4,
+  "note": "Sıralama koşulundan eşitsizliği sayı doğrusunda gösterme"
+ },
+ "lgs_mat_cikmis_2019|p8|q11": {
+  "claude": 4,
+  "note": "Çubuk uzunluklarından denklem kurup çözme"
+ },
+ "lgs_mat_cikmis_2019|p9|q12": {
+  "claude": 4,
+  "note": "Olasılık karşılaştırmasıyla en büyük olasılık bulma"
+ },
+ "lgs_mat_cikmis_2019|p10|q13": {
+  "claude": 4,
+  "note": "Alan bilgisinden kenar bulup köşegeni hesaplama"
+ },
+ "lgs_mat_cikmis_2019|p10|q14": {
+  "claude": 4,
+  "note": "Yükseklik ilişkisinden denklem kurup sayı bulma"
+ },
+ "lgs_mat_cikmis_2019|p11|q15": {
+  "claude": 3,
+  "note": "Daire grafiği açılarını süreye dönüştürme"
+ },
+ "lgs_mat_cikmis_2019|p12|q16": {
+  "claude": 4,
+  "note": "Kareköklü çarpımların doğal sayı olma olasılığı"
+ },
+ "lgs_mat_cikmis_2019|p12|q17": {
+  "claude": 4,
+  "note": "Üslü çarpımlardan en büyük oranı bulma"
+ },
+ "lgs_mat_cikmis_2019|p13|q18": {
+  "claude": 4,
+  "note": "Prizma köşegeni ile ayrıt toplamı eşitliği"
+ },
+ "lgs_mat_cikmis_2019|p14|q19": {
+  "claude": 4,
+  "note": "Yansıma ile tam kare ve asal sayı şifresi"
+ },
+ "lgs_mat_cikmis_2019|p15|q20": {
+  "claude": 4,
+  "note": "Eşit para ve paket sayısıyla toplam harcama"
+ },
+ "lgs_mat_cikmis_2020|p1|q1": {
+  "claude": 3,
+  "note": "a√b ifadesini iki tam sayı arasında tahmin etme"
+ },
+ "lgs_mat_cikmis_2020|p2|q2": {
+  "claude": 2,
+  "note": "Daire grafiğine uygun sütun grafiği seçme"
+ },
+ "lgs_mat_cikmis_2020|p3|q3": {
+  "claude": 2,
+  "note": "Çözümlenmiş ondalık sayıları karşılaştırma"
+ },
+ "lgs_mat_cikmis_2020|p4|q4": {
+  "claude": 4,
+  "note": "Kareköklü uzunlukları toplayıp sıralama"
+ },
+ "lgs_mat_cikmis_2020|p5|q5": {
+  "claude": 2,
+  "note": "Alan farkını cebirsel ifade ile yazma"
+ },
+ "lgs_mat_cikmis_2020|p6|q6": {
+  "claude": 4,
+  "note": "Cebirsel yükseklikleri toplayıp olası değer bulma"
+ },
+ "lgs_mat_cikmis_2020|p7|q7": {
+  "claude": 4,
+  "note": "Kodlanmış iki basamaklı sayılarla olasılık hesabı"
+ },
+ "lgs_mat_cikmis_2020|p8|q8": {
+  "claude": 3,
+  "note": "EKOK ile eşit kütle ve adet farkı"
+ },
+ "lgs_mat_cikmis_2020|p8|q9": {
+  "claude": 4,
+  "note": "Ondalık karekökleri toplayıp doğal sayı elde etme"
+ },
+ "lgs_mat_cikmis_2020|p9|q10": {
+  "claude": 3,
+  "note": "Üslü kenarlarla alan hesaplama"
+ },
+ "lgs_mat_cikmis_2020|p9|q11": {
+  "claude": 4,
+  "note": "Tam kare alanlı karelerle en küçük alan"
+ },
+ "lgs_mat_cikmis_2020|p9|q12": {
+  "claude": 4,
+  "note": "Karekök tahmini ve kuvvetlerle en büyük alan"
+ },
+ "lgs_mat_cikmis_2020|p10|q13": {
+  "claude": 4,
+  "note": "Sütun ve daire grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_cikmis_2020|p11|q14": {
+  "claude": 3,
+  "note": "bölme durumlarını sistemli sayma"
+ },
+ "lgs_mat_cikmis_2020|p12|q15": {
+  "claude": 4,
+  "note": "Çevreden kenar bulup cebirsel uzunluk yazma"
+ },
+ "lgs_mat_cikmis_2020|p13|q16": {
+  "claude": 4,
+  "note": "Eşit olasılık koşuluyla top sayısı bulma"
+ },
+ "lgs_mat_cikmis_2020|p14|q17": {
+  "claude": 4,
+  "note": "Ortak bölenle çuval kütlesi ve sayısı bulma"
+ },
+ "lgs_mat_cikmis_2020|p14|q18": {
+  "claude": 4,
+  "note": "Üslü kütlelerle toplamdan adet bulma"
+ },
+ "lgs_mat_cikmis_2020|p15|q19": {
+  "claude": 5,
+  "note": "Alan ifadesini çarpanlarına ayırıp çevre bulma"
+ },
+ "lgs_mat_cikmis_2020|p16|q20": {
+  "claude": 5,
+  "note": "Birden çok daire grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_cikmis_2021|p1|q1": {
+  "claude": 2,
+  "note": "Dikdörtgen alanlarını cebirsel ifade ile yazma"
+ },
+ "lgs_mat_cikmis_2021|p2|q2": {
+  "claude": 3,
+  "note": "Kareköklü sayıyı sayı doğrusunda konumlandırma"
+ },
+ "lgs_mat_cikmis_2021|p3|q3": {
+  "claude": 4,
+  "note": "Kare parçalardan alanın olası değerlerini bulma"
+ },
+ "lgs_mat_cikmis_2021|p4|q4": {
+  "claude": 3,
+  "note": "10'un kuvvetleriyle verilen sayıları karşılaştırma"
+ },
+ "lgs_mat_cikmis_2021|p5|q5": {
+  "claude": 3,
+  "note": "Hareket koşulunu eşitsizlikle ifade etme"
+ },
+ "lgs_mat_cikmis_2021|p6|q6": {
+  "claude": 4,
+  "note": "Aralarında asal çarpımlarla en küçük toplam"
+ },
+ "lgs_mat_cikmis_2021|p6|q7": {
+  "claude": 4,
+  "note": "Üslü çarpımın tam kare olma koşulu"
+ },
+ "lgs_mat_cikmis_2021|p7|q8": {
+  "claude": 3,
+  "note": "Kesirli gösterge aralığından eşitsizlik kurma"
+ },
+ "lgs_mat_cikmis_2021|p8|q9": {
+  "claude": 4,
+  "note": "Üslü uzunlukları hesaplayıp konum yorumlama"
+ },
+ "lgs_mat_cikmis_2021|p9|q10": {
+  "claude": 4,
+  "note": "Doğrusal grafikteki orana göre miktar bulma"
+ },
+ "lgs_mat_cikmis_2021|p9|q11": {
+  "claude": 4,
+  "note": "Alanları çarpanlarına ayırarak kenar uzunluklarını bulma"
+ },
+ "lgs_mat_cikmis_2021|p10|q12": {
+  "claude": 4,
+  "note": "Pisagor ile dikdörtgen kenarını bulup çevre hesaplama"
+ },
+ "lgs_mat_cikmis_2021|p11|q13": {
+  "claude": 4,
+  "note": "Tam kare özdeşliğiyle kare kenarını bulup alan ifadesi yazma"
+ },
+ "lgs_mat_cikmis_2021|p12|q14": {
+  "claude": 4,
+  "note": "üslü ifadeyle parça sayısı + örüntüde sayma"
+ },
+ "lgs_mat_cikmis_2021|p13|q15": {
+  "claude": 5,
+  "note": "Benzer eşkenar üçgenlerle pano alanının en azını bulma"
+ },
+ "lgs_mat_cikmis_2021|p14|q16": {
+  "claude": 4,
+  "note": "İp modeliyle kenarları sıralayıp açıları sıralama"
+ },
+ "lgs_mat_cikmis_2021|p15|q17": {
+  "claude": 4,
+  "note": "Daire grafiği ve tablo ile toplam bilet sayısı bulma"
+ },
+ "lgs_mat_cikmis_2021|p16|q18": {
+  "claude": 4,
+  "note": "Kareköklü uzunluklarla çevre ve alan hesaplama"
+ },
+ "lgs_mat_cikmis_2021|p17|q19": {
+  "claude": 5,
+  "note": "Pisagor yardımıyla çubuk eğimini hesaplama"
+ },
+ "lgs_mat_cikmis_2021|p18|q20": {
+  "claude": 4,
+  "note": "İki daire grafiğini karşılaştırıp sayı bulma"
+ },
+ "lgs_mat_cikmis_2022|p1|q1": {
+  "claude": 2,
+  "note": "Üslü ifadeleri ortak tabanda yazıp denkleri eşleme"
+ },
+ "lgs_mat_cikmis_2022|p1|q2": {
+  "claude": 3,
+  "note": "Ondalık sayıları toplayıp bilimsel gösterimle yazma"
+ },
+ "lgs_mat_cikmis_2022|p2|q3": {
+  "claude": 3,
+  "note": "Kareköklü çevreden kenar bulup alan hesaplama"
+ },
+ "lgs_mat_cikmis_2022|p2|q4": {
+  "claude": 3,
+  "note": "Terazi modelinden eşitsizlik kurup çözme"
+ },
+ "lgs_mat_cikmis_2022|p3|q5": {
+  "claude": 3,
+  "note": "En büyük çarpanlardan sayıyı belirleme"
+ },
+ "lgs_mat_cikmis_2022|p3|q6": {
+  "claude": 3,
+  "note": "Tablodan eşitsizlik kurup en büyük değeri bulma"
+ },
+ "lgs_mat_cikmis_2022|p4|q7": {
+  "claude": 3,
+  "note": "Tam kare özdeşliğiyle kenar bulup çevre ifadesi yazma"
+ },
+ "lgs_mat_cikmis_2022|p4|q8": {
+  "claude": 4,
+  "note": "Alandan karekök tahminiyle doğal sayı uzaklık bulma"
+ },
+ "lgs_mat_cikmis_2022|p5|q9": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_cikmis_2022|p6|q10": {
+  "claude": 3,
+  "note": "Öteleme ve yansımanın ardışık uygulanması"
+ },
+ "lgs_mat_cikmis_2022|p7|q11": {
+  "claude": 3,
+  "note": "Kareli zeminde eş üçgen oluşturma"
+ },
+ "lgs_mat_cikmis_2022|p8|q12": {
+  "claude": 4,
+  "note": "Kare kenarlarını bulup Pisagor ile uzaklık hesaplama"
+ },
+ "lgs_mat_cikmis_2022|p9|q13": {
+  "claude": 4,
+  "note": "Artan dikdörtgen alanlarını cebirsel ifadeyle toplama"
+ },
+ "lgs_mat_cikmis_2022|p10|q14": {
+  "claude": 4,
+  "note": "Olasılık karşılaştırmasıyla en az eleman sayısı bulma"
+ },
+ "lgs_mat_cikmis_2022|p11|q15": {
+  "claude": 4,
+  "note": "Eğim oranıyla küp ayrıtını hesaplama"
+ },
+ "lgs_mat_cikmis_2022|p12|q16": {
+  "claude": 5,
+  "note": "Kenar sıralamasından açının en küçük değerini bulma"
+ },
+ "lgs_mat_cikmis_2022|p13|q17": {
+  "claude": 5,
+  "note": "Kareköklü uzaklıkları karşılaştırıp aralık belirleme"
+ },
+ "lgs_mat_cikmis_2022|p13|q18": {
+  "claude": 4,
+  "note": "Hacim ve fiyat probleminde denklem kurma"
+ },
+ "lgs_mat_cikmis_2022|p14|q19": {
+  "claude": 4,
+  "note": "Silindir açınımından ölçü bulup hacim hesaplama"
+ },
+ "lgs_mat_cikmis_2022|p15|q20": {
+  "claude": 4,
+  "note": "Doğrusal grafiklerden değişim oranı yorumlama"
+ },
+ "lgs_mat_cikmis_2023|p1|q1": {
+  "claude": 2,
+  "note": "Negatif üslü ifadelerin değerini sayı doğrusunda yerleştirme"
+ },
+ "lgs_mat_cikmis_2023|p1|q2": {
+  "claude": 2,
+  "note": "İki sayının aralarında asal olup olmadığını belirleme"
+ },
+ "lgs_mat_cikmis_2023|p2|q3": {
+  "claude": 3,
+  "note": "Kareköklü sayının hangi tam sayılar arasında olduğunu bulma"
+ },
+ "lgs_mat_cikmis_2023|p3|q4": {
+  "claude": 3,
+  "note": "Kareköklü bölme sonucunun irrasyonelliğini belirleme"
+ },
+ "lgs_mat_cikmis_2023|p4|q5": {
+  "claude": 3,
+  "note": "olası durumları sistemli listeleme"
+ },
+ "lgs_mat_cikmis_2023|p5|q6": {
+  "claude": 2,
+  "note": "Katsayıyı kök içine alıp farklı gösterimleri eşleme"
+ },
+ "lgs_mat_cikmis_2023|p5|q7": {
+  "claude": 3,
+  "note": "Ortak kat ile bilye sayısını bulma"
+ },
+ "lgs_mat_cikmis_2023|p6|q8": {
+  "claude": 3,
+  "note": "Alan farkını cebirsel ifadeyle yazıp çarpanlara ayırma"
+ },
+ "lgs_mat_cikmis_2023|p7|q9": {
+  "claude": 4,
+  "note": "Pozitif çarpanları eşit toplamlı iki gruba ayırma"
+ },
+ "lgs_mat_cikmis_2023|p7|q10": {
+  "claude": 3,
+  "note": "Asal çarpanlara ayırıp çarpımları karşılaştırma"
+ },
+ "lgs_mat_cikmis_2023|p8|q11": {
+  "claude": 4,
+  "note": "Kareköklü uzunluklarla boş bölge alanını bulma"
+ },
+ "lgs_mat_cikmis_2023|p9|q12": {
+  "claude": 3,
+  "note": "Daire ve sütun grafiğinden taksit tutarı bulma"
+ },
+ "lgs_mat_cikmis_2023|p10|q13": {
+  "claude": 3,
+  "note": "Eş alanlı bölgelerden çevre ifadesi yazma"
+ },
+ "lgs_mat_cikmis_2023|p10|q14": {
+  "claude": 3,
+  "note": "Üslü ifadelerle çarpma kurallarını probleme uygulama"
+ },
+ "lgs_mat_cikmis_2023|p11|q15": {
+  "claude": 4,
+  "note": "Kareköklü uzunlukları eşitleyip kenar bulma"
+ },
+ "lgs_mat_cikmis_2023|p12|q16": {
+  "claude": 4,
+  "note": "Kesilen parçalardan kare kurup çevre ifadesi bulma"
+ },
+ "lgs_mat_cikmis_2023|p12|q17": {
+  "claude": 4,
+  "note": "Alan eşitliğinden kenar bulup çevre ifadesi yazma"
+ },
+ "lgs_mat_cikmis_2023|p13|q18": {
+  "claude": 4,
+  "note": "10'un kuvvetleriyle verilen sayıları karşılaştırma"
+ },
+ "lgs_mat_cikmis_2023|p14|q19": {
+  "claude": 5,
+  "note": "İki daire grafiğini koşullarla birleştirip toplam bulma"
+ },
+ "lgs_mat_cikmis_2023|p15|q20": {
+  "claude": 5,
+  "note": "Birleştirilen kutuların olasılıklarından top sayısı bulma"
+ },
+ "lgs_mat_cikmis_2024|p1|q1": {
+  "claude": 1,
+  "note": "Karenin çevresini cebirsel ifadeyle yazma"
+ },
+ "lgs_mat_cikmis_2024|p1|q2": {
+  "claude": 3,
+  "note": "Birim dönüştürüp bilimsel gösterimle yazma"
+ },
+ "lgs_mat_cikmis_2024|p1|q3": {
+  "claude": 1,
+  "note": "İrrasyonel sayıyı tanıma"
+ },
+ "lgs_mat_cikmis_2024|p1|q4": {
+  "claude": 2,
+  "note": "Kareköklü ifadeleri sadeleştirip çıkarma"
+ },
+ "lgs_mat_cikmis_2024|p2|q5": {
+  "claude": 2,
+  "note": "Sütun grafiğine uygun tabloyu belirleme"
+ },
+ "lgs_mat_cikmis_2024|p3|q6": {
+  "claude": 3,
+  "note": "Doğruya göre yansıma görüntüsünü tamamlama"
+ },
+ "lgs_mat_cikmis_2024|p4|q7": {
+  "claude": 3,
+  "note": "Öteleme sonrası görünen alanı cebirsel ifadeyle yazma"
+ },
+ "lgs_mat_cikmis_2024|p4|q8": {
+  "claude": 3,
+  "note": "Uzunluk farklarından denklem kurup çözme"
+ },
+ "lgs_mat_cikmis_2024|p5|q9": {
+  "claude": 3,
+  "note": "Gelir koşulundan eşitsizlik kurup en büyük değeri bulma"
+ },
+ "lgs_mat_cikmis_2024|p5|q10": {
+  "claude": 3,
+  "note": "Doğrusal grafikten başlangıç miktarını bulma"
+ },
+ "lgs_mat_cikmis_2024|p6|q11": {
+  "claude": 4,
+  "note": "Karekök tahminiyle en büyük sayıyı bulma"
+ },
+ "lgs_mat_cikmis_2024|p7|q12": {
+  "claude": 3,
+  "note": "Kenar uzunluklarından açıları sıralama"
+ },
+ "lgs_mat_cikmis_2024|p8|q13": {
+  "claude": 4,
+  "note": "Problem durumunu eşitsizlikle sayı doğrusunda gösterme"
+ },
+ "lgs_mat_cikmis_2024|p9|q14": {
+  "claude": 4,
+  "note": "Silindir hacimlerinden yarıçap oranı bulma"
+ },
+ "lgs_mat_cikmis_2024|p10|q15": {
+  "claude": 4,
+  "note": "Üslü ifadelerle çevre uzunluğu hesaplama"
+ },
+ "lgs_mat_cikmis_2024|p11|q16": {
+  "claude": 5,
+  "note": "EKOK ile en az bilye sayısını bulma"
+ },
+ "lgs_mat_cikmis_2024|p12|q17": {
+  "claude": 4,
+  "note": "Eğim ve alan ile uzunluk hesaplama"
+ },
+ "lgs_mat_cikmis_2024|p13|q18": {
+  "claude": 4,
+  "note": "Benzer üçgenlerle en kısa yol bulma"
+ },
+ "lgs_mat_cikmis_2024|p14|q19": {
+  "claude": 4,
+  "note": "Olasılık karşılaştırmasıyla gizli sayıları bulma"
+ },
+ "lgs_mat_cikmis_2024|p15|q20": {
+  "claude": 4,
+  "note": "Pisagor ile doğal sayı uzaklıkları bulma"
+ },
+ "lgs_mat_cikmis_2025|p1|q1": {
+  "claude": 2,
+  "note": "Karekökü a√b şeklinde yazıp çevre bulma"
+ },
+ "lgs_mat_cikmis_2025|p1|q2": {
+  "claude": 2,
+  "note": "Alanı üslü ifade olarak yazma"
+ },
+ "lgs_mat_cikmis_2025|p1|q3": {
+  "claude": 2,
+  "note": "Eşitsizliği sağlayan en büyük tam sayı"
+ },
+ "lgs_mat_cikmis_2025|p1|q4": {
+  "claude": 3,
+  "note": "Kareli zeminde karekök çevre farkı"
+ },
+ "lgs_mat_cikmis_2025|p2|q5": {
+  "claude": 4,
+  "note": "Açınımda yansıma ve küp görünümü"
+ },
+ "lgs_mat_cikmis_2025|p3|q6": {
+  "claude": 4,
+  "note": "Çevrelerden cebirsel ifade oluşturma"
+ },
+ "lgs_mat_cikmis_2025|p4|q7": {
+  "claude": 3,
+  "note": "Uzaklık koşulunu eşitsizlikle ifade etme"
+ },
+ "lgs_mat_cikmis_2025|p5|q8": {
+  "claude": 3,
+  "note": "Karışım oranından denklem kurup çözme"
+ },
+ "lgs_mat_cikmis_2025|p5|q9": {
+  "claude": 4,
+  "note": "Dikdörtgen köşegenlerinin olası eğimleri"
+ },
+ "lgs_mat_cikmis_2025|p6|q10": {
+  "claude": 4,
+  "note": "Tam kare açılımıyla bilinmeyen fiyatı bulma"
+ },
+ "lgs_mat_cikmis_2025|p6|q11": {
+  "claude": 4,
+  "note": "Eşit kütlelerden EKOK ile kütle bulma"
+ },
+ "lgs_mat_cikmis_2025|p7|q12": {
+  "claude": 4,
+  "note": "İki doğrusal grafikten başlama farkını bulma"
+ },
+ "lgs_mat_cikmis_2025|p7|q13": {
+  "claude": 3,
+  "note": "Benzer üçgenlerle kareli zeminde uzunluk"
+ },
+ "lgs_mat_cikmis_2025|p8|q14": {
+  "claude": 3,
+  "note": "Üslü ifadelerle orantı problemi çözme"
+ },
+ "lgs_mat_cikmis_2025|p9|q15": {
+  "claude": 4,
+  "note": "Kesilen parçalarla Pisagor ile uzaklık"
+ },
+ "lgs_mat_cikmis_2025|p10|q16": {
+  "claude": 4,
+  "note": "Üçgen eşitsizliğiyle çubuk seçimi"
+ },
+ "lgs_mat_cikmis_2025|p11|q17": {
+  "claude": 4,
+  "note": "grafik okuma + doğru örneklem uzayını seçme"
+ },
+ "lgs_mat_cikmis_2025|p12|q18": {
+  "claude": 3,
+  "note": "Ondalık ifadelerin karekökleriyle uzunluk bulma"
+ },
+ "lgs_mat_cikmis_2025|p13|q19": {
+  "claude": 5,
+  "note": "Yanal alan oranlarından silindir hacmi"
+ },
+ "lgs_mat_cikmis_2025|p14|q20": {
+  "claude": 5,
+  "note": "Sütun ve daire grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_cikmis_2026|p3|q1": {
+  "claude": 1,
+  "note": "Tam kare sayıyı tanıma"
+ },
+ "lgs_mat_cikmis_2026|p3|q2": {
+  "claude": 1,
+  "note": "Doğruya göre yansıma görüntüsü bulma"
+ },
+ "lgs_mat_cikmis_2026|p3|q3": {
+  "claude": 1,
+  "note": "Kesirli birinci derece denklem çözme"
+ },
+ "lgs_mat_cikmis_2026|p3|q4": {
+  "claude": 3,
+  "note": "Alan modelinden cebirsel ifade bulma"
+ },
+ "lgs_mat_cikmis_2026|p4|q5": {
+  "claude": 3,
+  "note": "Parça sayılarıyla olasılık hesaplama"
+ },
+ "lgs_mat_cikmis_2026|p5|q6": {
+  "claude": 3,
+  "note": "Kareköklü uzunluklarla toplama çıkarma"
+ },
+ "lgs_mat_cikmis_2026|p6|q7": {
+  "claude": 2,
+  "note": "Koşullardan eşitsizlik aralığını belirleme"
+ },
+ "lgs_mat_cikmis_2026|p7|q8": {
+  "claude": 4,
+  "note": "İki kare farkı özdeşliğiyle alan bulma"
+ },
+ "lgs_mat_cikmis_2026|p7|q9": {
+  "claude": 4,
+  "note": "10'un kuvvetleriyle orantı problemi çözme"
+ },
+ "lgs_mat_cikmis_2026|p8|q10": {
+  "claude": 4,
+  "note": "Benzer üçgenlerle çevre hesaplama"
+ },
+ "lgs_mat_cikmis_2026|p9|q11": {
+  "claude": 4,
+  "note": "EBOB ile en az paket sayısı bulma"
+ },
+ "lgs_mat_cikmis_2026|p9|q12": {
+  "claude": 4,
+  "note": "Kareköklü uzunlukları bölüp tur sayısı tahmini"
+ },
+ "lgs_mat_cikmis_2026|p10|q13": {
+  "claude": 5,
+  "note": "Negatif üslerle harf harf mürekkep hesabı"
+ },
+ "lgs_mat_cikmis_2026|p11|q14": {
+  "claude": 4,
+  "note": "Değişen konumda eğimin alabileceği değerler"
+ },
+ "lgs_mat_cikmis_2026|p12|q15": {
+  "claude": 4,
+  "note": "Ortalama ve aralıkla eşitsizlik oluşturma"
+ },
+ "lgs_mat_cikmis_2026|p13|q16": {
+  "claude": 4,
+  "note": "Üçgen eşitsizliğiyle doğal sayı kenar bulma"
+ },
+ "lgs_mat_cikmis_2026|p14|q17": {
+  "claude": 4,
+  "note": "Doğrusal grafikten başlangıç uzaklığı bulma"
+ },
+ "lgs_mat_cikmis_2026|p15|q18": {
+  "claude": 5,
+  "note": "Üçgen eşitsizliğiyle olası kenar sayısı"
+ },
+ "lgs_mat_cikmis_2026|p16|q19": {
+  "claude": 5,
+  "note": "Daire ve sütun grafiğiyle en az sayı"
+ },
+ "lgs_mat_cikmis_2026|p17|q20": {
+  "claude": 5,
+  "note": "Birleşik silindirlerin yüzey alanı"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p1|q1": {
+  "claude": 4,
+  "note": "Doğruların geçtiği noktaları koordinatta belirleme"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p1|q2": {
+  "claude": 3,
+  "note": "Kareli zeminde yüzde eğim hesaplama"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p2|q3": {
+  "claude": 4,
+  "note": "Tablodan doğrusal ilişki kurup değer bulma"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p2|q4": {
+  "claude": 3,
+  "note": "Doğrusal grafikten oran okuyup karışım hesabı"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p2|q5": {
+  "claude": 4,
+  "note": "Eş kare kenarlarından denklem kurma"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p3|q6": {
+  "claude": 4,
+  "note": "Yüzde koşuluyla denklem kurup çözme"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p3|q7": {
+  "claude": 3,
+  "note": "İki doğrusal grafikten birim miktar bulma"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p4|q8": {
+  "claude": 4,
+  "note": "Parça uzunluklarından denklem kurma"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p4|q9": {
+  "claude": 4,
+  "note": "Rampa eğiminden zemindeki uzaklığı bulma"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p5|q10": {
+  "claude": 4,
+  "note": "Doğru üzerindeki noktalarla dikdörtgen alanı"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p5|q11": {
+  "claude": 3,
+  "note": "Maliyet problemini denklem kurarak çözme"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p6|q12": {
+  "claude": 4,
+  "note": "İki nokta arası doğrunun eğimini yorumlama"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p6|q13": {
+  "claude": 4,
+  "note": "Doğrusal ilişki grafiğinden oran ve maliyet"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p7|q14": {
+  "claude": 4,
+  "note": "İndirimli fiyat problemini denklemle çözme"
+ },
+ "lgs_mat_dogrusal_denklemler_konu_tarama_testi|p7|q15": {
+  "claude": 4,
+  "note": "Doğruların kesişiminden dikdörtgen alanı bulma"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p1|q1": {
+  "claude": 3,
+  "note": "Öteleme ile yansımayı karşılaştırma"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p1|q2": {
+  "claude": 2,
+  "note": "Noktayı öteleyerek kare oluşturma"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p1|q3": {
+  "claude": 3,
+  "note": "x eksenine göre yansıyan üçgenin bölgesi"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p1|q4": {
+  "claude": 3,
+  "note": "Eksenlere göre yansıma ve üçgen alanı"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p2|q5": {
+  "claude": 4,
+  "note": "Yansıma ve öteleme bileşimini belirleme"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p2|q6": {
+  "claude": 4,
+  "note": "Ötelenen dikdörtgenin köşe koordinatını bulma"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p3|q7": {
+  "claude": 4,
+  "note": "Ardışık dönüşümlerle oluşan görüntüyü belirleme"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p3|q8": {
+  "claude": 5,
+  "note": "Dönüşümlerden başlangıç noktasını bulma"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p4|q9": {
+  "claude": 3,
+  "note": "Öteleme ve yansıma sonrası uzaklık bulma"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p4|q10": {
+  "claude": 5,
+  "note": "Koşullu ötelemede ordinat toplamını maksimize etme"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p5|q11": {
+  "claude": 4,
+  "note": "Öteleme ve yansıma görüntüsünü kareli düzlemde bulma"
+ },
+ "lgs_mat_donusum_geometrisi_konu_tarama_testi|p5|q12": {
+  "claude": 4,
+  "note": "Rakam karakterlerinin doğruya göre yansıması"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p1|q1": {
+  "claude": 3,
+  "note": "Terazi denge durumundan eşitsizlik yazma"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p1|q2": {
+  "claude": 3,
+  "note": "Çevre karşılaştırmasıyla eşitsizlik kurma"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p2|q3": {
+  "claude": 4,
+  "note": "Üst üste konan şekillerden eşitsizlik kurma"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p2|q4": {
+  "claude": 3,
+  "note": "Çevre koşullarından eşitsizliği sayı doğrusunda gösterme"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p3|q5": {
+  "claude": 3,
+  "note": "Birim fiyat karşılaştırmasıyla eşitsizlik kurma"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p3|q6": {
+  "claude": 4,
+  "note": "Eşitsizlik problemiyle en az tutarı bulma"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p4|q7": {
+  "claude": 4,
+  "note": "Eşitsizlik aralıklarından en büyük değeri bulma"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p4|q8": {
+  "claude": 5,
+  "note": "Aralığa bağlı ücret tablosunda en fazla değer"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p5|q9": {
+  "claude": 5,
+  "note": "Daire grafiği verisiyle eşitsizlik çözme"
+ },
+ "lgs_mat_esitsizlikler_konu_tarama_testi|p5|q10": {
+  "claude": 4,
+  "note": "Stok aralıklarına göre toplam tutar hesaplama"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p1|q1": {
+  "claude": 4,
+  "note": "Benzerlik oranıyla iç içe üçgen alanı"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p1|q2": {
+  "claude": 4,
+  "note": "Benzer dikdörtgenlerde en az çevre bulma"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p2|q3": {
+  "claude": 5,
+  "note": "Katlamada oluşan benzer üçgenlerin oranı"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p2|q4": {
+  "claude": 4,
+  "note": "Kesilen dikdörtgen parçaların benzerlik oranı"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p3|q5": {
+  "claude": 3,
+  "note": "Benzer dikdörtgenlerde kenar uzunluğu bulma"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p3|q6": {
+  "claude": 4,
+  "note": "Kareli düzlemde benzerlik oranıyla dikdörtgen çizme"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p4|q7": {
+  "claude": 3,
+  "note": "Benzerlik oranıyla eşkenar üçgen çevresi"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p4|q8": {
+  "claude": 4,
+  "note": "Üst üste benzer üçgenlerde çevre hesaplama"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p5|q9": {
+  "claude": 4,
+  "note": "Eş dikdörtgenlerle benzer dikdörtgen oluşturma"
+ },
+ "lgs_mat_eslik_ve_benzerlik_konu_tarama_testi|p5|q10": {
+  "claude": 5,
+  "note": "Benzer dik üçgenlerle en büyük çevre"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q1": {
+  "claude": 3,
+  "note": "Kare alanlarından kenar bulup alan oranı"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q2": {
+  "claude": 3,
+  "note": "Kareköklü sayıyı ölçümle tahmin etme"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q3": {
+  "claude": 4,
+  "note": "Tam kare alan koşuluyla en az alan"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p1|q4": {
+  "claude": 3,
+  "note": "Kareköklü sayının hangi aralıkta olduğunu tahmin"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p2|q5": {
+  "claude": 4,
+  "note": "a√b yazarak alan ve çevre hesaplama"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p2|q6": {
+  "claude": 3,
+  "note": "Kare çevrelerini kareköklü toplayarak alan bulma"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q7": {
+  "claude": 4,
+  "note": "Kareköklü çarpımın doğal sayı olma koşulu"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q8": {
+  "claude": 3,
+  "note": "Kenar aralığından çevreyi kareköklü tahmin"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q9": {
+  "claude": 4,
+  "note": "Katsayıyı içeri alıp sıralama ve tahmin"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_1|p3|q10": {
+  "claude": 4,
+  "note": "Kareköklü kenarlarla alan farkından çevre"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p1|q1": {
+  "claude": 3,
+  "note": "Dikdörtgen alanından kareköklü kenar bulma"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p1|q2": {
+  "claude": 4,
+  "note": "Terazi koşuluyla kareköklü değer aralığı"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p2|q3": {
+  "claude": 4,
+  "note": "Kare kenarlarını çarparak dikdörtgen alanı"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p2|q4": {
+  "claude": 3,
+  "note": "Kareköklü kenarlarla alan oranı ve sayı"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p3|q5": {
+  "claude": 4,
+  "note": "Kareköklü kenarlarla kare çevresi bulma"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p3|q6": {
+  "claude": 3,
+  "note": "Kare çevresini tahmin ederek doğal sayı bulma"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p3|q7": {
+  "claude": 4,
+  "note": "Kareköklü kart toplamlarını eşitleme"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p4|q8": {
+  "claude": 4,
+  "note": "Kare parçaların çevresini kareköklü bulma"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p4|q9": {
+  "claude": 4,
+  "note": "Kareköklü çarpımlarda doğal sayı sonuçları"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p4|q10": {
+  "claude": 4,
+  "note": "Kareköklü kenarlarla en küçük dikdörtgen alanı"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p5|q11": {
+  "claude": 4,
+  "note": "Katsayıyı kök içine alarak uzaklık sıralama"
+ },
+ "lgs_mat_karekoklu_ifadeler_konu_tarama_testi_2|p5|q12": {
+  "claude": 4,
+  "note": "Kareköklü uzunluklarla yıllık artış problemi"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p1|q1": {
+  "claude": 2,
+  "note": "Yanal alandan taban çevresini bulma"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p1|q2": {
+  "claude": 3,
+  "note": "Yüz alanlarından dikdörtgenler prizması ayrıtlarını bulma"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p1|q3": {
+  "claude": 3,
+  "note": "Dik prizma yüksekliğini yan yüzden belirleme"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p1|q4": {
+  "claude": 4,
+  "note": "Açınımdan kare prizmanın yüzey alanını hesaplama"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p2|q5": {
+  "claude": 3,
+  "note": "Yüzey alanından eksik ayrıtı bulup alan hesaplama"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p2|q6": {
+  "claude": 4,
+  "note": "Üçgen dik prizma açınımında yükseklik bulma"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p3|q7": {
+  "claude": 4,
+  "note": "Kare prizma hacimlerini oranlama"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p3|q8": {
+  "claude": 4,
+  "note": "Kare prizma ayrıtlarından yüzey alanı bulma"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p4|q9": {
+  "claude": 4,
+  "note": "Üçgen prizmada yan yüz alanının en fazlası"
+ },
+ "lgs_mat_prizmalar_konu_tarama_testi|p4|q10": {
+  "claude": 4,
+  "note": "Ayrıt toplamı eşitliğiyle küp yüzey alanı bulma"
+ },
+ "lgs_mat_silindir_konu_tarama_testi|p1|q1": {
+  "claude": 3,
+  "note": "Silindir hacminden yükseklik hesaplama"
+ },
+ "lgs_mat_silindir_konu_tarama_testi|p1|q2": {
+  "claude": 2,
+  "note": "Eşit hacimden silindir yarıçapını bulma"
+ },
+ "lgs_mat_silindir_konu_tarama_testi|p1|q3": {
+  "claude": 3,
+  "note": "Su aktarımında silindir yarıçapı bulma"
+ },
+ "lgs_mat_silindir_konu_tarama_testi|p2|q4": {
+  "claude": 3,
+  "note": "Taban alanından silindir yanal alanı hesaplama"
+ },
+ "lgs_mat_silindir_konu_tarama_testi|p2|q5": {
+  "claude": 4,
+  "note": "Farklı bükülen kartonlardan silindir hacim farkı"
+ },
+ "lgs_mat_silindir_konu_tarama_testi|p3|q6": {
+  "claude": 2,
+  "note": "Silindir yanal alanını günlük durumda kullanma"
+ },
+ "lgs_mat_silindir_konu_tarama_testi|p3|q7": {
+  "claude": 3,
+  "note": "Prizma ve silindir hacmiyle orantı kurma"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p1|q1": {
+  "claude": 4,
+  "note": "Pisagor ve üçgen eşitsizliğiyle tel hesabı"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p1|q2": {
+  "claude": 4,
+  "note": "Açı sıralamasından kenar sıralamasıyla çevre bulma"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p2|q3": {
+  "claude": 5,
+  "note": "Cetvel modelinde üçgen eşitsizliğiyle çevre aralığı"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p2|q4": {
+  "claude": 5,
+  "note": "Geniş ve dar açılı üçgende kenar sınırları"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p3|q5": {
+  "claude": 3,
+  "note": "Kare alanlarından üçgen kenarının en büyük değeri"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p3|q6": {
+  "claude": 4,
+  "note": "Üçgen eşitsizliğiyle çubuk uzunluğunun en büyüğü"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p4|q7": {
+  "claude": 4,
+  "note": "Pisagor ile kare kenarı ve görünen alan"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p4|q8": {
+  "claude": 3,
+  "note": "Dikdörtgen köşegeninden paralelkenar çevresi bulma"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p5|q9": {
+  "claude": 4,
+  "note": "Kare alanları ve Pisagor ile dikdörtgen çevresi"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p5|q10": {
+  "claude": 4,
+  "note": "Kareli zeminde Pisagor ile kenar uzunluğu"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p6|q11": {
+  "claude": 4,
+  "note": "Kare alanlarıyla Pisagor ile yol uzunluğu"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p6|q12": {
+  "claude": 5,
+  "note": "Parçalama ve üçgen eşitsizliğiyle en büyük değer"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p7|q13": {
+  "claude": 4,
+  "note": "Pisagor ile dik üçgen kenarı belirleme"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p7|q14": {
+  "claude": 3,
+  "note": "Pisagor ile dik üçgenleri belirleyip alan"
+ },
+ "lgs_mat_ucgenler_konu_tarama_testi|p7|q15": {
+  "claude": 3,
+  "note": "Tablodan üçgen eşitsizliğine uyan çıtaları sayma"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q1": {
+  "claude": 3,
+  "note": "Ortak tabanda üslü çarpma ile alan bulma"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q2": {
+  "claude": 3,
+  "note": "Ortak tabana çevirerek üslü bölme ve karşılaştırma"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q3": {
+  "claude": 2,
+  "note": "Negatif kuvvetli ifadeyi modelle eşleştirme"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p1|q4": {
+  "claude": 3,
+  "note": "Orantı ile 10'un kuvvetleriyle miktar bulma"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p2|q5": {
+  "claude": 3,
+  "note": "Katlama sayısını 2'nin kuvvetiyle modelleme"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p2|q6": {
+  "claude": 3,
+  "note": "Ortak tabanda üs karşılaştırarak en az sayı"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p2|q7": {
+  "claude": 4,
+  "note": "Üslü çevreden kare fayans alanı bulma"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p3|q8": {
+  "claude": 3,
+  "note": "Negatif üslü kütlelerle eşitlikten adet bulma"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p3|q9": {
+  "claude": 4,
+  "note": "Negatif ve tam sayı kuvvetlerinin değerini sıralama"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p4|q10": {
+  "claude": 4,
+  "note": "Üslü çarpma ve bölme kurallarıyla bulmaca"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p4|q11": {
+  "claude": 4,
+  "note": "Tablodan ikiye katlanma süresiyle üslü problem"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p5|q12": {
+  "claude": 4,
+  "note": "Eşit değerleri eşleyip bilimsel gösterimle toplama"
+ },
+ "lgs_mat_uslu_ifadeler_konu_tarama_testi|p5|q13": {
+  "claude": 5,
+  "note": "Negatif üslü kenarlarla dikdörtgen sayısı farkı"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p1|q1": {
+  "claude": 2,
+  "note": "Daire grafiğini sütun grafiğine dönüştürme"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p1|q2": {
+  "claude": 4,
+  "note": "Değişen verilerle yeni merkez açısı hesaplama"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p2|q3": {
+  "claude": 4,
+  "note": "Sütun grafiği ve ipuçlarıyla veri bulma"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p2|q4": {
+  "claude": 3,
+  "note": "Sütun ve daire grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p3|q5": {
+  "claude": 4,
+  "note": "Çizgi grafiğinden daire grafiği oluşturma"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p3|q6": {
+  "claude": 3,
+  "note": "Daire grafiğinden miktar bulup kalanı hesaplama"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p4|q7": {
+  "claude": 3,
+  "note": "Kümülatif sütun grafiğini yorumlama"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p4|q8": {
+  "claude": 5,
+  "note": "Merkez açısından tam sayılı öğrenci sayısı bulma"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p5|q9": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiği ile yüzde hesaplama"
+ },
+ "lgs_mat_veri_analizi_konu_tarama_testi|p5|q10": {
+  "claude": 5,
+  "note": "Daire grafiğinde açı oranından olası süreler"
+ },
+ "lgs_mat_8.16_calisma|p1|q1": {
+  "claude": 1,
+  "note": "olası durumları listeleme"
+ },
+ "lgs_mat_8.16_calisma|p2|q9": {
+  "claude": 1,
+  "note": "kareleri sayıp oranlama"
+ },
+ "lgs_mat_8.16_calisma|p1|q4": {
+  "claude": 2,
+  "note": "doğrudan formül uygulaması"
+ },
+ "lgs_mat_8.16_test|p1|q6": {
+  "claude": 2,
+  "note": "dikkatli sayma"
+ },
+ "lgs_mat_8.16_test|p1|q3": {
+  "claude": 2,
+  "note": "tablodan dört karşılaştırma"
+ },
+ "lgs_mat_8.16_test|p2|q12": {
+  "claude": 3,
+  "note": "alan hesabı + oran"
+ }
+}

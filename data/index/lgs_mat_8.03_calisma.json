@@ -1,0 +1,213 @@
+{
+ "book": {
+  "id": "lgs_mat_8.03_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.03_EBOB_EKOK_Problemleri_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.03",
+  "title": "EBOB - EKOK Problemleri",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.03_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    285.2,
+    191.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Kenar uzunlukları 20 m ve 30 m olan dikdörtgen 1. şeklindeki bir bahçenin etrafına köşelere de gelmek şartıyla eşit aralıklarla ağaç dikilecektir. Buna göre; a) İki ağaç arası mesafe en fazla kaç metredir? b) Bu iş için en az kaç ağaç gereklidir?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    440.5,
+    279.4,
+    543.7
+   ],
+   "num": [
+    15.5,
+    447.5,
+    26.5,
+    461.0
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Eni 300 m, boyu 500 m olan dikdörtgen şeklindeki 2. bir arsa hiç boşluk kalmayacak şekilde eşit alana sahip kare parsellere ayrılacaktır. Buna göre; a) Bir parselin alanı en fazla kaç m 2 dir? b) Bu arsa en az kaç parsele ayrılır?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    220.5
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir fabrikadaki zillerden biri 45 dakikada bir, 3. diğeri ise 60 dakikada bir çalmaktadır. Bu ziller birlikte 09.40'ta çalmışlardır. Buna göre bu ziller; a) İlk kez kaç saat sonra birlikte çalar? b) Aynı gün 21.00'a kadar kaç kez daha birlikte çalar?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    441.0,
+    581.6,
+    573.2
+   ],
+   "num": [
+    314.2,
+    448.0,
+    325.6,
+    461.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Boyutları 25 cm ve 32 cm olan dikdörtgen şeklinde 4. ki fayanslarla kare şeklindeki bir banyonun tabanı döşenecektir. Döşeme işleminde fayanslar kesilme yecek ve banyonun tabanında hiç boşluk kalmaya caktır. Buna göre; a) Banyonun bir kenarı en az kaç metredir? b) Bu iş için en az kaç fayans gereklidir?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    46.0,
+    292.0,
+    177.9
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir soru bankasında Türkçe dersinden 96, Matematik 5. dersinden 144 ve Fen Bilimleri dersinden 120 soru bulunmaktadır. Bu soru bankası her birinde eşit sayı da soru bulunan testlerden oluşmaktadır. Buna göre; a) Bir testte en fazla kaç soru vardır? b) Her bir teste 30 dakika ayıran Erva, bu soru bankasını en az kaç dakikada bitirir?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    9.2,
+    430.3,
+    277.9,
+    775.7
+   ],
+   "num": [
+    15.2,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Serkan bir miktar kağıdı altışar altışar veya sekizer 6. sekizer zımbaladığında her seferinde üç kağıt art maktadır. Buna göre; a) Serkan'da en az kaç kağıt vardır? b) Kağıt sayısı 300'den fazla ise en az kaçtır?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.9,
+    46.0,
+    587.3,
+    177.9
+   ],
+   "num": [
+    316.0,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "24 lt meyve suyu ve 28 lt limonata birbirine karıştırıl 7. madan ve hiç artmayacak şekilde eşit hacimli şişele re doldurulacaktır. Buna göre; a) Bir şişenin hacminin litre cinsinden alabileceği doğal sayı değerleri nelerdir? b) Bu içecekler en büyük hacimli şişelere konulup tanesi 5 TL'den satılırsa kaç TL elde edilir?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.03_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.9,
+    430.3,
+    587.3,
+    547.8
+   ],
+   "num": [
+    314.9,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Eni 40 cm, boyu 60 cm ve yüksekliği 8. 25 cm olan koliler küp şeklindeki bir depoya hiç boşluk kalmayacak şekil de dizilmiştir. Buna göre; a) Bu deponun bir ayrıtı en az kaç metredir? b) Bu iş için en az kaç koli gereklidir?",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

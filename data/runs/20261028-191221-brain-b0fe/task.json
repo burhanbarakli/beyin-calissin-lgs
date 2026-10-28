@@ -1,0 +1,18 @@
+{
+ "student": "Alper",
+ "teacher_note": "",
+ "images": [
+  {
+   "path": "ogrenci/Sorular/2026-10-28/191219_1.png",
+   "status": "Yapamadı"
+  }
+ ],
+ "counts": {
+  "hatirlatici": 3,
+  "pekistirme": 3,
+  "zorlayici": 2
+ },
+ "max_topics": 4,
+ "exclude_qids": [],
+ "deep": false
+}

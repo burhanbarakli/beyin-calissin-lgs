@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.29_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.29_Pisagor_Bagintisi_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Üçgenler",
+  "code": "8.29",
+  "title": "Pisagor Bağıntısı",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.29_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    291.5,
+    234.8
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "1. 1 cm B C 2 cm Şekildeki ABC dik üçgeninde AB kenarının uzunluğu kaç santimetredir? A) 3 B) 5 C) 3 D) 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    275.9,
+    406.7
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Çevre uzunluğu 36 cm olan eşkenar üçgenin bir 2. kenarına ait yüksekliği kaç santimetredir? A) 12 B) 6 3 C) 6 D) 3 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    526.8,
+    284.9,
+    705.1
+   ],
+   "num": [
+    16.0,
+    533.8,
+    26.5,
+    547.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3. Yukarıdaki çokgenin çevre uzunluğu kaç birimdir? A) 35 B) 37 C) 39 D) 40",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    285.8
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "K 4. 13 cm 5 cm L M N 5 cm Yukarıdaki şekilde M noktası [LN] üzerindedir. |KN| = 13 cm ve |KL| = |MN| = 5 cm olduğuna göre |KM| kaç santimetredir? A) 7 B) 12 C) 74 D) 2 30",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    357.9,
+    574.9,
+    435.4
+   ],
+   "num": [
+    314.9,
+    364.9,
+    325.6,
+    378.4
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Koordinat sisteminde A(3,7) noktasının B( −1,4) 5. noktasına olan uzaklığı kaç birimdir? A) 5 B) 7 C) 13 D) 5 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    526.8,
+    587.3,
+    682.8
+   ],
+   "num": [
+    314.3,
+    533.8,
+    325.6,
+    547.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3 cm 6. 5 cm 4 cm Yukarıda verilenlere göre yamuğun çevre uzunluğu kaç santimetredir? A) 17 B) 18 C) 21 D) 25",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    269.3,
+    179.0
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıda kenar uzunlukları verilen üçgenlerden 7. hangisi dik üçgen değildir? A) 7 cm - 24 cm - 25 cm B) 10 cm - 24 cm - 26 cm C) 8 cm - 15 cm - 17 cm D) 3 5 cm - 4 5 cm - 5 5 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    262.9,
+    274.8,
+    462.4
+   ],
+   "num": [
+    15.9,
+    269.9,
+    26.5,
+    283.4
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "D 8. 5 cm A 6 cm 4 cm C B Yukarıda verilenlere göre ABCD dörtgeninin BC kenarının uzunluğu kaç santimetredir? A) 3 B) 45 C) 7 D) 77",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    275.2,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "7 m 9. A 12 m B 9 m Yukarıda verilenlere göre A noktası ile B noktası arasındaki en kısa uzaklık kaç metredir? A) 20 B) 22 C) 24 D) 25",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    581.1,
+    222.3
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "K 10. 9 cm 12 cm L M U Yukarıda KLM üçgeninde s(K) 90 ’dir. 2 c Buna göre |LM| kaç farklı tam sayı değeri alabilir? A) 5 B) 8 C) 11 D) 17",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    587.3,
+    502.5
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "DUVAR 11. ? 1 m 3 m 2 m Yukarıda duvara yaslanmış iki çubuğun boyları eşittir. Buna sağdaki çubuğun en üst noktasının yerden yüksekliği kaç metredir? A) 2 B) 2,5 C) 5 D) 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.29_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    585.8,
+    741.1
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A A 12. 10 cm 10 cm 5 cm B C B H D C 6 cm 12 cm Yukarıdaki ABC üçgeninde B köşesi [BC] kenarı üzeri ne katlanınca D noktasıyla çakışıyor. Buna göre ABC üçgeninin alanı kaç cm 2 ’dir? A) 60 B) 48 C) 30 D) 24",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

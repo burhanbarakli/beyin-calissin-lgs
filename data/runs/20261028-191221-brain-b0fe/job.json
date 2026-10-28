@@ -1,0 +1,27 @@
+{
+  "id": "20261028-191221-brain-b0fe",
+  "kind": "brain",
+  "title": "1 soru fotoğrafı",
+  "params": {
+    "images": [
+      {
+        "path": "ogrenci/Sorular/2026-10-28/191219_1.png",
+        "status": "Yapamadı"
+      }
+    ],
+    "note": "",
+    "size": "normal",
+    "allow_repeat": false,
+    "model": "",
+    "deep": false
+  },
+  "status": "done",
+  "created": "2026-10-28T19:12:21",
+  "run_dir": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/data/runs/20261028-191221-brain-b0fe",
+  "pid": 96912,
+  "result_text": "Aday listesi hazır ve `data/runs/20261028-191221-brain-b0fe/candidates.json` dosyasına kaydedildi.\n\n**Teşhis:** Alper'in yapamadığı soru 2026 LGS'nin 5. sorusu (gözleme dilimleri). Doğru cevap B, yani 2/5. 60 cm'lik kare 12 cm'lik dilimlere bölününce 25 dilim çıkıyor. Patates ile peynirin sınırı tam ortaya, 30 cm'ye denk geliyor. Bu yüzden ortadaki sıradaki 5 dilimde hem patates hem peynir var. Sadece peynirli dilim 10 tane, olasılık 10/25 = 2/5.\n\nAsıl eksik olasılık formülü değil. Alper şekilli bir durumda iki şeyi doğru sayamıyor:\n- toplam dilim sayısını,\n- \"sadece peynirli\" koşuluna uyan dilimleri (ortadaki karışık dilimleri ayırt edemiyor).\n\n**Set:** Tek grup, 12 aday soru var; hedef 8 soru olduğu için bu sayının yaklaşık 1,5 katı. Önerilen 8 soru:\n- **Öğretici (3):** olası durumları listeleme, kareli bölgede boyalı kareleri sayma, adında \"A\" geçen isimleri sayma.\n- **Pekiştirme (3):** iki özellikli tabloda \"gözlüklü erkek\" gibi durumları ayırt etme, 2020 LGS halı bölme sorusu, yapboz parçası sorusu.\n- **Zorlayıcı (2):** 2021 LGS kartonu karelere bölme sorusu (fotoğraftaki soruya en çok benzeyen), 2025 LGS kareli zemin grafiği sorusu.\n\nFotoğraftaki sorunun kendisi de soru bankasında olduğu için onu sete koymadım. Cevabı bankada olmayan üç kazanım testi sorusunu kendim çözüp cevaplarını ekledim: C, C ve D.",
+  "cost_usd": 0.6788696000000001,
+  "result_error": false,
+  "finished": "2026-10-28T19:13:46",
+  "duration_s": 85.797124
+}

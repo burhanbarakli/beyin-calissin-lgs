@@ -1,0 +1,237 @@
+{
+ "book": {
+  "id": "lgs_mat_8.30_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/10_Eslik_Ve_Benzerlik/8.30_Eslik_ve_Benzerlik_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Eşlik ve Benzerlik",
+  "code": "8.30",
+  "title": "Eşlik ve Benzerlik",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.30_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    283.2,
+    396.0
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çokgenlerden eş olanlarını belirleyiniz. 1. Ç A B C D F E G Ğ H I J K İ L N O Ö M",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    293.0,
+    740.0
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çokgenlerden benzer olanlarını belirleyiniz. 2. A C Ç B G Ğ E D F J I İ H M K L N Ö O",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    427.1
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 3. belirleyiniz. Eş şekillerin karşılıklı açı ölçüleri birbirine eşittir. Benzer şekillerin karşılıklı kenar uzunlukları birbirine eşittir. Her eş şekil aynı zamanda benzerdir, ancak her benzer şekil eş olmak zorunda değildir. Eşlik . sembolü ile, benzerlik + sembolü ile gösterilir. Benzer çokgenlerin çevreleri oranı, benzerlik oranına eşittir. Benzer çokgenlerin alanları oranı, benzerlik oranına eşittir. Bütün kareler benzerdir. Eş şekillerin benzerlik oranı 1'dir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    430.3,
+    581.6,
+    775.7
+   ],
+   "num": [
+    314.2,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çokgenlerin benzerlik oranını bulunuz, 4. benzerlik oranı verilenlere benzer çokgen çiziniz. k = k = k = 2 k = 1 3 k = 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    46.0,
+    284.3,
+    369.8
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki şekillerin eşliğini-benzerliğini sembolle 5. gösteriniz ve benzerlik oranını bulunuz. E F 2 cm 5 cm A B 5 cm 4 cm 4 cm 5 cm G H D 5 cm C 2 cm ........... , ........... Benzerlik Oranı (k) = K P S 6 cm 4 cm 12 cm M L R ........... + ........... Benzerlik Oranı (k) =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    9.2,
+    377.3,
+    292.3,
+    775.7
+   ],
+   "num": [
+    15.2,
+    384.3,
+    26.5,
+    397.8
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki şekillerde verilmeyen kenar uzunluklarını 6. ve açı ölçülerini yazınız. A F 12 cm 16 cm C D 18 cm E B & & ABC EFD , K C A L 75° 100° 90° N B D M ABCD NKML , D F A 6 cm 4 cm B 6 cm 8 cm C E",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.5,
+    46.0,
+    581.2,
+    196.9
+   ],
+   "num": [
+    316.0,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "7. Yukarıdaki şekil eş dikdörtgenlerle oluşturulmuştur. Şeklin çevresi 64 cm ise alanı kaç cm 2 'dir?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.5,
+    297.1,
+    561.9,
+    450.7
+   ],
+   "num": [
+    314.9,
+    304.1,
+    325.6,
+    317.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "A D F 8. B C E ABCD ≈ FDCE |FE| = 12 cm ve |DF| = 8 olduğuna göre ABEF dikdörtgeninin çevresi kaç santimetredir?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.30_calisma|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    308.5,
+    547.7,
+    575.7,
+    704.3
+   ],
+   "num": [
+    314.5,
+    554.7,
+    325.6,
+    568.3
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "A D 9. B C E F ABCD ≈ BEFC |BC| = 16 cm ve |AD| = 12 olduğuna göre |EF|= ?",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

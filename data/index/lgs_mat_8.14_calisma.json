@@ -1,0 +1,141 @@
+{
+ "book": {
+  "id": "lgs_mat_8.14_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.14_Gercek_Sayilar_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.14",
+  "title": "Gerçek Sayılar",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.14_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    287.8,
+    396.9
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda devirli ondalık gösterimleri verilen sayıları 1. a şeklinde (rasyonel olarak) yazınız. b e) 3,69 = a) 0,5 = f) 0,13 = b) 0,6 = g) 2,08 = c) 1,4 = ğ) 12,24 = ç) 1,8 = h) 0,023 = d) 1,45 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    283.6,
+    753.0
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 2. belirleyiniz. Her doğal sayı bir rasyonel sayıdır. Her tam sayı bir gerçek sayıdır. Her rasyonel sayı bir tam sayıdır. Her doğal sayı bir tam sayıdır. Her irrasyonel sayı bir rasyonel sayıdır. Her tam sayı bir rasyonel sayıdır. Gerçek sayılar, rasyonel ve irrasyonel sayılardan oluşur.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    309.0,
+    88.5,
+    584.2,
+    755.5
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki tabloyu örnekteki gibi doldurunuz. 3. Doğal Tam Rasyonel İrrasyonel Gerçek Sayı Sayı Sayı Sayı Sayı { { { −4 # # 4 1,2 15 5 3 0 r 7,6 3 0 3,14 2 - 11 - 29 156 6,111... 1,43256",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.8,
+    506.5,
+    285.1,
+    775.7
+   ],
+   "num": [
+    15.8,
+    513.5,
+    26.5,
+    527.0
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin rasyonel sayı olabilmesi için x 5. yerine gelebilecek doğal sayıları bulunuz. a) 5 x - 32 b) x",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.3,
+    430.3,
+    587.3,
+    698.2
+   ],
+   "num": [
+    314.9,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "8. Aşağıdaki ifadelerin irrasyonel sayı olabilmesi için x 6. yerine gelebilecek doğal sayıları bulunuz. a) 18 x - b) 24 2x -",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

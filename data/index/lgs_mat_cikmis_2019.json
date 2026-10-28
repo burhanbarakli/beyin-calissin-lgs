@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_cikmis_2019",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/00_LGS_Cikmis_Sorular/LGS_2019_Matematik.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "lgs_cikmis",
+  "kind_name": "LGS Çıkmış",
+  "unit": "",
+  "code": "",
+  "title": "2019 LGS Matematik",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 16,
+ "key_pages": [
+  16
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_cikmis_2019|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    45.4,
+    129.9,
+    279.5,
+    357.6
+   ],
+   "num": [
+    49.4,
+    136.9,
+    60.4,
+    153.5
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "1. Bir otelin her bir katındaki oda sayısının, oda ların bulunduğu katın numarasına göre değişi mini gösteren tablo aşağıda verilmiştir. Tablo: Kat Numarasına Göre Kattaki Oda Sayısı Kat Numarası (x) Kattaki Oda Sayısı 1 # x 1 4 90 - 10x 4 # x 1 7 50 - 5x Buna göre bu otelde 2. kattaki oda sayısı 5. kattaki oda sayısından kaç fazladır? A) 40 B) 45 C) 50 D) 55",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tablodaki cebirsel ifadenin değerini hesaplama",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    292.4,
+    135.1,
+    531.2,
+    564.9
+   ],
+   "num": [
+    296.4,
+    138.1,
+    307.4,
+    154.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "2. a, b, c birer gerçek sayı ve b $ 0 olmak üzere a b a b 2 = a b c b ( a c ) b + = + a b c b ( a c ) b dir . - = - Aşağıdaki şekildeki gibi bir vincin havada tuttuğu inşaat malzemesinin yerden yüksekliği 125 m ve malzemenin vincin koluna uzaklığı 45 mʼdir. Vinç kolu 45 m 125 m Yer Vincin kolunun yerden yüksekliği sabit kalmak üzere malzeme şekildeki konumdayken 5 m yukarı çekiliyor. Buna göre son durumda malzemenin yer den yüksekliği, malzemenin vincin koluna uzaklığından kaç metre fazladır? A) 2 5 B) 3 5 C) 4 5 D) 5 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklüleri sadeleştirip toplama çıkarma yapma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    45.4,
+    77.2,
+    521.4,
+    332.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "3. Bir ondalık gösterimin, basamak değerleri toplamı şeklinde yazılmasına ondalık gösterimin çözümlen mesi denir. Uçakla seyahat eden bir yolcu, kütlesi 8 kg’dan az olan valizini kabine alabilmektedir. Aycan’ın valizinin kütlesi 9,08 kg’dır. Bu valizdeki bazı eşyaların kütlelerinin çözümlenmiş şekli aşağı daki tabloda verilmiştir. Tablo: Valizdeki Eşyalardan Bazılarının Kütleleri Eşya Kütlesi (kg) 9 . 10 - 1 + 8 . 10 - 2 Ayakkabı 1 . 10 0 + 1 . 10 - 1 Kitap 9 . 10 - 1 + 5 . 10 - 3 Mont 1 . 10 0 + 9 . 10 - 3 Tablet Aycan, valizinden bu dört eşyadan hangisini çıkarırsa valizini kabine alabilir? ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çözümlenmiş ondalık sayıları karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p3|q4",
+   "page": 3,
+   "n": 4,
+   "bbox": [
+    45.4,
+    77.2,
+    521.4,
+    353.6
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "4. Aşağıda dikdörtgen şeklindeki A, B, C kartonlarının her birinden dörder adet verilmiştir. 2x cm C A B 2x cm 2x cm x cm 4x cm 2x cm Bu kartonların kenarları çakıştırılarak iki tane kare prizma oluşturuluyor. Bu prizmalardan biri aşağıda verilmiştir. B C C Kartonların tamamı kullanıldığına göre diğer prizmanın yüzey alanı kaç santimetrekaredir? A) 16x 2 B) 26x 2 C) 32x 2 D) 40x 2",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kartonlardan kare prizma kurup yüzey alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    45.4,
+    77.2,
+    517.9,
+    563.0
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "5. Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı, hipotenüsün uzunluğunun karesine eşittir. A a 2 + c 2 = b 2 b c C B a Geometri tahtası, bir zeminin üzerine eşit aralıklarla yerleştirilmiş çivilerden oluşur. Şekil I Şekil II Şekil I ’deki geometri tahtasında oluşturulan karenin alanı 4x 2 + 8x + 4 birimkaredir. Bu geometri tahtasında Şekil II ’deki gibi oluşturulan üçgenin çevre uzunluğu x cinsinden kaç birimdir? A) 12x + 12 B) 14x + 14 D) 12(x + 1) 2 C) 12 2 x 12 2 +",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam kare özdeşliği ve Pisagor ile çevre bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    45.4,
+    77.2,
+    528.5,
+    450.8
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "6. 35 cm 2 77 cm 2 110 cm 2 Kenarlarının uzunlukları santimetre cinsinden 1ʼden büyük tam sayı olan dikdörtgen şeklindeki kartonlar ve bu kartonların bir yüzlerinin alanları yukarıda verilmiştir. Bu kartonlardan yüzey alanları farklı olan ikisi seçilip 3 cmʼlik kısımları üst üste yapıştırılarak aşağıdaki gibi bir dikdörtgen karton oluşturulacaktır. 3 cm 3 cm Bu şekilde oluşturulan kartonun bir yüzünün alanı en fazla kaç santimetrekaredir? A) 91 B) 130 C) 154 D) 187",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alanların çarpanlarından ortak kenar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    45.4,
+    77.2,
+    276.9,
+    375.8
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "7. 1 birim 1 birim A B C D E F Yukarıdaki kareli zeminde verilen şekilde A, B, C noktaları sırasıyla D, E, F noktalarıyla birleştirilerek [AD], [BE] ve [CF] çiziliyor. Buna göre aşağıdakilerden hangisi elde edilen üçgenlerden benzer olan herhangi ikisinin benzerlik oranı olamaz? 2 1 1 A) 1 B) 3 C) 2 D) 3",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareli zeminde benzer üçgenlerin benzerlik oranı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    45.4,
+    460.3,
+    278.2,
+    731.2
+   ],
+   "num": [
+    49.4,
+    463.3,
+    60.4,
+    479.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "8. a, b birer gerçek sayı ve b $ 0 olmak üzere a b a b 2 dir. = Dikdörtgen şeklindeki bir kâğıt aşağıdaki gibi kesilerek kare ve dikdörtgen şeklinde iki kâğıt elde ediliyor. Elde edilen kare şeklindeki kâğıdın bir yüzünün alanı 27 cm 2 olup dikdört gen şeklindeki kâğıdın bir yüzünün alanının 3 katına eşittir. Buna göre elde edilen dikdörtgen şeklin deki kâğıdın kısa kenarının uzunluğu kaç santimetredir? A) 9 B) 2 3 C) 3 D) 3",
+   "answer": "D",
+   "solved": false,
+   "skill": "Alandan karekökle kenar uzunluğu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    293.3,
+    77.2,
+    530.5,
+    523.1
+   ],
+   "num": [
+    297.3,
+    80.2,
+    307.9,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "9. Eğim, dikey uzunluğun yatay uzunluğa oranıdır. K L M N 4. Durak DİKEY F G H I 3. Durak B C D E 2. Durak 1. Durak A YATAY Yukarıdaki kareli zeminde verilen A nokta sından yola çıkan bir hareketli, eğimi 1 olan yolu izleyerek 2. duraktaki noktalardan birine ulaştıktan sonra bu noktadan eğimi 2 olan yolu izleyerek 3. duraktaki noktalardan birine ulaşıyor. Ardışık iki durak arasında izlediği yollar doğrusal olduğuna göre bu hareketli, 3. durakta bulunduğu noktadan eğimi 3 olan yolu izleyerek 4. duraktaki hangi noktaya ulaşır? A) K B) L C) M D) N",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareli zeminde eğime göre nokta bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    38.8,
+    77.2,
+    524.1,
+    423.3
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "10. Gülle atma yarışmalarında her bir sporcunun üç atış yapma hakkı vardır. Bu üç atıştan sonra sporcu lar, gülleyi attıkları en uzun mesafeye göre büyükten küçüğe doğru sıralanır. Bu sıralama sonucunda sporculardan birinci sıradaki altın, ikinci sıradaki gümüş, üçüncü sıradaki bronz madalya alır. Aşağıdaki tabloda beş sporcunun katıldığı bir gülle atma yarışmasında bu sporcuların atış mesafeleri verilmiştir. Tablo: Sporcuların Gülle Atış Mesafeleri (Metre) İsim Burak Cihan Dinçer Erdal Fatih Atışlar 1. Atış 15,03 16,25 17,40 14,57 16,86 2. Atış 18,20 15,42 18,57 16,77 17,82 3. Atış 18,06 19,8",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sıralama koşulundan eşitsizliği sayı doğrusunda gösterme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p8|q11",
+   "page": 8,
+   "n": 11,
+   "bbox": [
+    39.4,
+    77.2,
+    526.9,
+    379.6
+   ],
+   "num": [
+    43.4,
+    80.2,
+    60.7,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "11. Eşit uzunluktaki iki çubuğun birinden 8 cmʼlik bir parça kesilerek kalan kısım iki eş parçaya, diğerinden 5 cmʼlik bir parça kesilerek kalan kısım üç eş parçaya aşağıdaki gibi ayrılıyor. 8 cm 5 cm Bu parçalardan birer tanesi ile bir kitabın aynı kenarı aşağıdaki gibi ölçüldüğünde parçalardan birinin uzunluğu kitabın kenar uzunluğundan 10 cm fazla, diğerinin uzunluğu ise 1 cm eksik oluyor. 1 cm KİTAP KİTAP 10 cm Buna göre kesilmeden önce çubuklardan birinin uzunluğu kaç santimetredir? A) 85 B) 80 C) 75 D) 70",
+   "answer": "B",
+   "solved": false,
+   "skill": "Çubuk uzunluklarından denklem kurup çözme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p9|q12",
+   "page": 9,
+   "n": 12,
+   "bbox": [
+    38.8,
+    82.7,
+    522.9,
+    398.3
+   ],
+   "num": [
+    42.8,
+    89.7,
+    60.4,
+    106.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "İstenilen olası durumların sayısı 12. Bir olayın olma olasılığı = Tüm olası durumların sayısı 1. Torba 2. Torba KUTU İçinde kırmızı veya sarı renkli 5 topun bulunduğu 1. torbadan rastgele çekilen bir topun kırmızı olma olasılığı daha fazladır. Ayrıca mavi veya sarı renkli 7 topun bulunduğu 2. torbadan rastgele çekilen bir topun sarı olma olasılığı daha azdır. 1. ve 2. torbadaki topların tamamı boş bir kutuya atılıp karıştırılı yor. Topların tamamı renkleri dışında özdeş olduğuna göre bu kutudan rastgele çekilen bir topun sarı olma olasılığı en fazla kaçtır? 1 1 5 7 A) 6 B) 4 C) 12 D) 12",
+   "answer": "C",
+   "solved": false,
+   "skill": "Olasılık karşılaştırmasıyla en büyük olasılık bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p10|q13",
+   "page": 10,
+   "n": 13,
+   "bbox": [
+    38.8,
+    77.2,
+    279.5,
+    480.7
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "13. Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı, hipotenüsün uzunluğunun karesine eşittir. A a 2 + c 2 = b 2 b c C B a ABCD dikdörtgeni biçimindeki bir kâğıt parça sının bir yüzüne aşağıdaki gibi 10 eş dikdört gen çizilip bu dikdörtgenler boyanıyor. A D B C Kâğıdın bu yüzündeki boyanmayan böl gelerin alanları toplamı 30 cm 2 olduğuna göre ABCD dikdörtgeninin köşegenlerinden birinin uzunluğu kaç santimetredir? A) 3 10 B) 5 26 C) 10 13 D) 26 10",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alan bilgisinden kenar bulup köşegeni hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p10|q14",
+   "page": 10,
+   "n": 14,
+   "bbox": [
+    285.7,
+    77.2,
+    527.2,
+    474.3
+   ],
+   "num": [
+    289.7,
+    80.2,
+    307.4,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "14. Yükseklikleri eşit olan dik dairesel silindir şeklindeki iki eş pakete kakaolu ve vanilyalı bisküviler, tabanları çakışacak şekilde aşağı daki gibi tek sıra hâlinde yerleştiriliyor. 10 cm 14 cm Kakaolu Vanilyalı bisküvi bisküvi Kakaolu bir bisküvinin yüksekliği vanilyalı bir bisküvinin yüksekliğinin yarısı kadardır. Paket lerden birine üç vanilyalı, iki kakaolu bisküvi konulduğunda paketin boş kalan kısmının yüksekliği 10 cm; diğer pakete bir vanilyalı, iki kakaolu bisküvi konulduğunda paketin boş kalan kısmının yüksekliği 14 cm oluyor. Tam dolu bir paketteki vanilyalı bisküvi sa yısı kaka",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yükseklik ilişkisinden denklem kurup sayı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p11|q15",
+   "page": 11,
+   "n": 15,
+   "bbox": [
+    38.8,
+    77.2,
+    529.2,
+    391.9
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "15. Bir televizyon kanalında 24 saat boyunca yayımlanacak programların sürelerine göre dağılımı ve yayın sırası aşağıdaki daire grafiğinde gösterilmiştir. Bu daire grafiğine uygun 24 saatlik yayın akışını göste ren aşağıdaki gibi bir tablo oluşturulacaktır. Grafik: Yayımlanacak Programların Tablo: 24 Saatlik Yayın Akışı Sürelere Göre Dağılımı Sıra Program Adı Yayın Saati 1 El Emeği Göz Nuru 08.00 - ... 1 10 2 2 Başarının Sırrı ... - ... 3 Anadolu’da Lezzet Durakları ... - ... 15° 3 9 4 Piramitlerin Gizemi ... - ... 30° 45° 5 Çanakkale Destanı ... - ... 45° 45° 30° 15° 4 6 Ata Sporlarımız ... -",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiği açılarını süreye dönüştürme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p12|q16",
+   "page": 12,
+   "n": 16,
+   "bbox": [
+    38.8,
+    78.4,
+    279.5,
+    422.4
+   ],
+   "num": [
+    42.8,
+    81.4,
+    60.4,
+    98.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "16. a, b, c, d birer gerçek sayı ve b $ 0, d $ 0 olmak üzere a b c d ( a c ) b d $ = $ $ 2 a b a b dir. = Tablo 1 Tablo 2 12 20 27 3 A 9 2 28 Tablo 1 ʼde verilen ifadelerin her biri Tablo 2 ʼde verilen ifadelerin her biri ile birer kez çarpılıyor. Bu şekilde elde edilen sayıların her biri, bir karta bir sayı gelecek şekilde özdeş kartlara yazılarak boş bir torbaya atılıyor. Torbadan rastgele çekilen bir kartın üzerin de yazan sayının doğal sayı olma olasılığı 1 olması için A yerine aşağıdakilerden nın 8 hangisi yazılmalıdır? A) 2 B) 3 C) 5 D) 7",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü çarpımların doğal sayı olma olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p12|q17",
+   "page": 12,
+   "n": 17,
+   "bbox": [
+    285.7,
+    78.4,
+    523.3,
+    450.3
+   ],
+   "num": [
+    289.7,
+    81.4,
+    307.4,
+    98.1
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "17. a ! 0 ve m, n tam sayılar olmak üzere m a a n . a m = a n + m ve a m n a - = n (a n ) m = a n.m dir. Aşağıda sadece ön yüzlerinde birer üslü ifadenin yazılı olduğu 4 mavi ve 4 kırmızı kart verilmiştir. Mavi Kartlar 2 –2 2 3 2 –1 2 4 Kırmızı Kartlar 4 –1 4 –3 4 2 4 0 Mavi kartlardaki her bir üslü ifade kırmızı kart lardaki kendisine denk olmayan her bir üslü ifade ile birer kez çarpılarak yeni üslü ifadeler elde ediliyor. Elde edilen bu üslü ifadelerden ikisinin birbirine oranı en çok kaçtır? A) 2 12 B) 2 15 C) 2 16 D) 2 17",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü çarpımlardan en büyük oranı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p13|q18",
+   "page": 13,
+   "n": 18,
+   "bbox": [
+    38.8,
+    77.2,
+    528.3,
+    508.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "18. Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı hipotenüsün uzunluğunun karesine eşittir. A a 2 + c 2 = b 2 b c C B a Taban ayrıtlarının uzunlukları 10 cm ve 24 cm olan dikdörtgenler prizması biçimindeki tahta blok Şekil I ’deki gibi taban köşegenleri boyunca tabanlara dik olacak şekilde kesilerek iki eş parçaya ayrı lıyor. Elde edilen iki parça üst üste yapıştırılarak Şekil II ’deki dik üçgen dik prizma biçiminde bir tahta blok oluşturuluyor. 10 cm 24 cm Şekil I Şekil II Elde edilen dik üçgen dik prizma ile ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Prizma köşegeni ile ayrıt toplamı eşitliği",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p14|q19",
+   "page": 14,
+   "n": 19,
+   "bbox": [
+    38.8,
+    77.2,
+    530.8,
+    541.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "19. Braille alfabesi görme engellilerin okuyup yazmaları için geliştirilmiş bir yazı sistemidir. Braille rakamları da aşağıdaki gibi tanımlanmıştır. 0 1 2 3 4 5 6 7 8 9 Bu rakamlar kullanılarak aşağıdaki gibi dört haneli bir şifre oluşturulacaktır. I. II. III. IV. Bu dikdörtgenlerden I. ile II. ve III. ile IV. dikdörtgen aşağıdaki gibi uzun kenarları boyunca çakıştırıl dıklarında bu dikdörtgenlerin belirttiği Braille rakamları çakışma kenarlarına göre birbirinin yansıması olacaktır. I. II. III. IV. Yukarıdaki gibi oluşturulacak bu şifrede I. ve II. dikdörtgenlerdeki Braille rakamlarından oluşa",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yansıma ile tam kare ve asal sayı şifresi",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2019|p15|q20",
+   "page": 15,
+   "n": 20,
+   "bbox": [
+    38.8,
+    77.2,
+    525.8,
+    731.2
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2019 LGS",
+   "text": "20. 30 TL 50 TL B Marka A Marka Kedi Kedi Maması Maması Zeynep parasının yarısı ile paketi 30 lira olan A marka ve diğer yarısı ile paketi 50 lira olan B marka kedi mamalarından alıyor. Bu paketlerden markası aynı olan 6 tanesini evinde beslediği kedileri için ayırdıktan sonra kalan paketleri bir hayvan barınağına veriyor. Zeynep’in hayvan barınağına verdiği A marka ve B marka mamaların paketlerinin sayıları eşit olduğuna göre Zeynep mamalar için toplam kaç lira harcamıştır? A) 300 B) 600 C) 700 D) 900 MATEMATİK TESTİ BİTTİ. FEN BİLİMLERİ TESTİNE GEÇİNİZ.",
+   "answer": "D",
+   "solved": false,
+   "skill": "Eşit para ve paket sayısıyla toplam harcama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

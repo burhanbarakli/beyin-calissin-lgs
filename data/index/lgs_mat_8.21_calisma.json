@@ -1,0 +1,237 @@
+{
+ "book": {
+  "id": "lgs_mat_8.21_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/07_Dogrusal_Denklemler/8.21_Koordinat_Sistemi_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Doğrusal Denklemler",
+  "code": "8.21",
+  "title": "Koordinat Sistemi",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.21_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    282.2,
+    386.3
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki koordinat sisteminde verilen boşlukları 1. doldurunuz. A(2,3)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    398.5,
+    289.0,
+    775.7
+   ],
+   "num": [
+    15.5,
+    405.5,
+    26.5,
+    419.0
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki koordinat sisteminin bölgelerine ve bölge 2. lerde bulunan noktaların işaretlerine ait boşlukları doldurunuz. Bölge Bölge ( , ) ( , ) Bölge Bölge ( , ) ( , ) Koordinat sistemi, Fransız filozof ve matematikçi olan René Descartes tarafından bulunmuştur.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    309.0,
+    88.5,
+    577.9,
+    770.1
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki koordinat sisteminde verilen noktaların 3. koordinatlarını bulunuz. A B Ğ G C J E İ F H Ç I K D A ( , ) G ( , ) B ( , ) Ğ ( , ) C ( , ) H ( , ) Ç ( , ) I ( , ) D ( , ) İ ( , ) E ( , ) J ( , ) F ( , ) K ( , )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    291.6,
+    502.3
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda koordinatları verilen noktaların konumlarını 4. koordinat sisteminde işaretleyiniz. A ( 4 , 3 ) Ç ( −4 , −3 ) F ( −3 , 3 ) B ( − 2 , 1 ) D ( 2 , 0 ) G ( −4 , 0 ) C ( 0 , 0 ) E ( 4 , −2 ) Ğ ( 0 , −3 )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    517.6,
+    282.1,
+    775.7
+   ],
+   "num": [
+    15.8,
+    524.6,
+    26.5,
+    538.2
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki soruları cevaplandırınız. 5. a) Köşe noktalarının koordinatları A(3, − 4), B(3, −1 ), C( − 1, −4 ), D( − 1, −1 ) olan ABCD dikdörtgeninin çevre uzunluğunu ve alanını bulunuz. b) Köşe noktalarının koordinatları K(1,4), L(1, −2 ), M(4,3) olan KLM üçgeninin alanını bulunuz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    578.3,
+    243.8
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki D noktası orijin kabul edilirse diğer 6. noktaların koordinatları nasıl olur, bulunuz. A ( , ) A C B ( , ) Ç D C ( , ) B Ç ( , )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    278.3,
+    587.3,
+    476.8
+   ],
+   "num": [
+    316.0,
+    285.3,
+    325.6,
+    298.9
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki D noktasının koordinatları D(1,2) olduğuna 7. göre diğer noktaların koordinatlarını bulunuz. A ( , ) C A B ( , ) D C ( , ) Ç B Ç ( , )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.3,
+    517.6,
+    583.1,
+    576.5
+   ],
+   "num": [
+    314.9,
+    524.6,
+    325.6,
+    538.2
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "• A ( k + 3 , k − 1) noktası x ekseni üzerindedir. 8. • B ( m − 2 , m − 3) noktası y ekseni üzerindedir. Buna göre k + m kaçtır?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.21_calisma|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    308.3,
+    655.2,
+    567.6,
+    714.0
+   ],
+   "num": [
+    314.5,
+    662.2,
+    325.6,
+    675.7
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "• A ( p , r ) noktası 2. bölgededir. 9. • B ( s , t ) noktası 3. bölgededir. Buna göre C ( p.s , r.t ) noktası hangi bölgededir?",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

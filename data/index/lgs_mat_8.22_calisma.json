@@ -1,0 +1,213 @@
+{
+ "book": {
+  "id": "lgs_mat_8.22_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/07_Dogrusal_Denklemler/8.22_Dogrusal_Denklemler_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Doğrusal Denklemler",
+  "code": "8.22",
+  "title": "Doğrusal Denklemler",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.22_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    283.2,
+    424.2
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki tablolarda verilen x ve y değişkenleri 1. arasında doğrusal ilişki olup olmadığını bulunuz. x 1 2 3 4 y 5 10 15 20 x 2 4 6 8 y 3 5 7 9 x 1 2 3 4 y 1 4 9 16 x 1 2 3 4 y 12 10 8 6 x 1 2 3 4 y 5 5 5 5 x 1 2 3 4 y 2 4 8 10 x 3 5 7 9 y 24 20 16 12 x 1 2 3 4 y −12 −7 −2 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    286.1,
+    775.7
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen grafiklerdeki değişkenler arasında 2. doğrusal ilişki olup olmadığını bulunuz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    583.1,
+    327.2
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki değişkenlerden hangisinin bağımlı, 3. hangisinin bağımsız değişken olduğunu bulunuz. • Bir fırından alınan ekmek sayısı ve ödenen ücret • Aracın aldığı yol ve deposunda kalan yakıt miktarı • Bahçeye dikilen bir fidanın boyu ve geçen zaman • y = 2x + 3 denklemindeki x değişkeni ve y değişkeni",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    331.8,
+    587.3,
+    775.7
+   ],
+   "num": [
+    314.2,
+    338.8,
+    325.6,
+    352.3
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki tablolarda verilen değişkenler arasındaki 4. ilişkinin denklemini yazınız. x y x y 1 6 1 10 2 12 2 13 3 18 3 16 4 24 4 19 x y x y 1 8 1 20 2 8 2 15 3 8 3 10 4 8 4 5 x y x y 3 −20 2 30 4 −16 4 40 5 −12 6 50 6 −8 8 60",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.8,
+    46.0,
+    280.5,
+    775.7
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki doğrusal denklemlerin grafiğini çiziniz. 5. 2x + 3y = 6 x y y = 2x + 4 x y y = −2x x y 2y = 6 x y −3x − 4 = 8 x y",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    587.3,
+    361.2
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "6. Aşağıdaki doğrusal denklemlerin grafiklerinin, verilen noktaların hangilerinden geçtiğini belirleyiniz. a) 2x − 3y = 12 ( 6 , 0 ) ( 0 , 0 ) ( 3 , −2 ) b) y = 3x ( 0 , 0 ) ( 3 , 1 ) ( 2 , −6 ) c) x = 5 ( 2 , 5 ) ( 5 , 4 ) ( 5 , 0 ) ç) x + y = 7 ( 0 , 7 ) ( 4 , 3 ) ( −3 , 10 )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    368.9,
+    584.8,
+    570.6
+   ],
+   "num": [
+    316.0,
+    375.9,
+    325.6,
+    389.5
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "x = 2, y = − 3 doğruları ve eksenler arasında kalan 7. bölgenin alanını bulunuz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.3,
+    578.8,
+    587.3,
+    775.7
+   ],
+   "num": [
+    314.9,
+    585.8,
+    325.6,
+    599.3
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "x + y = 4 doğrusu ile eksenler arasında kalan bölgenin 8. alanını bulunuz.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.09_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.09_Tam_Kare_Sayilar_ve_Karekoklu_Sayilarda_Tahmin_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.09",
+  "title": "Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.09_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    267.3,
+    138.2
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi tam kare sayı değildir? 1. A) 196 B) 125 C) 100 D) 81",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    234.8,
+    414.4
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerden hangisi doğrudur? 2. = = A) 0 0 B) 2 4 = - = C) 36 6 D) 25 5 -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    260.2,
+    617.8
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Alanı 49 br 2 olan karenin çevresi kaç birimdir? 3. A) 7 B) 14 C) 28 D) 49",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    551.1,
+    138.2
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "40’tan küçük kaç tane tam kare sayı vardır? 4. A) 4 B) 5 C) 6 D) 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    584.0,
+    395.3
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda alanı verilmiş karelerden hangisinin bir 5. kenar uzunluğu cm olarak tam kare sayı değildir? A) 16 cm 2 B) 81 cm 2 C) 100 cm 2 D) 256 cm 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    587.3,
+    697.9
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "100 adet karosu olan Nazım, kenar uzunlukları bir- 6. birinden farklı kareler oluşturacaktır. Oluşturduğu kareleri bozmayacak ve bir karede kullandığı karoları diğer karelerde kullanmayacaktır. Buna göre Nazım farklı boyutlarda en fazla kaç kare oluşturabilir? A) 6 B) 7 C) 8 D) 9",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    258.4,
+    97.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "= = 25 a ve b 4 ise a+b kaçtır? 7. A) 7 B) 21 C) 27 D) 42",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    275.6,
+    368.7
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 8 ile 9 arasında değildir? 8. A) 65 B) 77 C) 80 D) 83",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    220.3,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "19 hangi tam sayılar arasındadır? 9. - A) −3 ile −4 B) −4 ile −5 C) −5 ile −6 D) −6 ile −7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    569.1,
+    97.2
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "+ 2 14 aşağıdakilerden hangisine en yakındır? 10. A) 4 B) 5 C) 6 D) 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    585.7,
+    450.6
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A 11. −5 3 Yukarıdaki sayı doğrusunda 3 ile −5 arası 4 eş parçaya ayrılmıştır . Buna göre A sayısı aşağıdakilerden hangisi olabilir? A) 18 B) 15 C) 8 D) 3 - - - -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.09_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    587.3,
+    665.0
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Fatih’in evi ile okulu arasındaki mesafe 25 metreden 12. fazla, 27 metreden azdır. Buna göre Fatih’in evi ile okulu arasındaki mesafe aşağıdakilerden hangisi olabilir? A) 26 B) 53 C) 589 D) 647",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.17_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/06_Cebirsel_Ifadeler_Ve_Ozdeslikler/8.17_Cebirsel_Ifadeler_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Cebirsel İfadeler ve Özdeşlikler",
+  "code": "8.17",
+  "title": "Cebirsel İfadeler",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.17_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    293.6,
+    758.4
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen cebirsel ifadelere göre istenilenleri 1. bulunuz. Değişken Sabit 2x + 5 Terim Terimler Terim Sayısı Katsayılar Katsayılar Toplamı Değişken Sabit −3x 2 + 4x − 1 Terim Terimler Terim Sayısı Katsayılar Katsayılar Toplamı Değişkenler Sabit 6a − b Terim Terimler Terim Sayısı Katsayılar Katsayılar Toplamı Değişkenler Sabit −8y + 4 + x Terim Terimler Terim Sayısı Katsayılar Katsayılar Toplamı Değişkenler Sabit 15xy Terim Terimler Terim Sayısı Katsayılar Katsayılar Toplamı",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.17_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    578.4,
+    396.7
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki toplama ve çıkarma işlemlerini yapınız. 2. a) 5x + 3x = b) −2a + 4a + 7 = c) 6y 2 + 5y − 2y 2 = ç) −8x − 9x + 1 = d) 7b − 3 − 4b + 9 = e) a + 3 − (2a − 4) = f) 4x 2 − 2x 2 + 5 + x 2 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.17_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.6,
+    421.1,
+    517.7,
+    772.4
+   ],
+   "num": [
+    315.0,
+    428.1,
+    325.6,
+    441.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çarpma işlemlerini yapınız. 3. a) 3 . x = b) −4 . 2a = c) (−3b) . (−7b) = ç) 5y . 3y = d) −2a . 9b = e) (6a 2 ) . (−2a) = f) −3x . 2y . z = g) x . 2x . 7x =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.17_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    218.5,
+    397.3
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "4. Aşağıdaki çarpma işlemlerini yapınız. a) 2 . ( x + 1 ) = b) 4 . ( 3a − 2 ) = c) −3 . ( 5 − 2b ) = ç) 6x . ( x + 7 ) = d) 5a . ( 2a + 3b ) = e) −7y . ( 7 − y ) = f) 2a . ( −2 − x ) = g) −9x . ( 2x − 3y ) =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.17_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    410.1,
+    218.5,
+    775.7
+   ],
+   "num": [
+    15.8,
+    417.1,
+    26.5,
+    430.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çarpma işlemlerini yapınız. 5. a) ( x + 1 ) . ( x + 2 ) = b) ( a + 2 ) . ( 3a + 4 ) = c) ( 2x + 3 ) . ( 3x + 2 ) = ç) ( 3a − 1 ) . ( a − 2 ) = d) ( 6x + 5 ) . ( 5 − x ) = e) ( 8a + 1 ) . ( −a − 2 ) = f) ( a + 3b ) . ( a + 3b ) = g) ( 2x − 9 ) . ( 2x + 9 ) =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.17_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    562.0,
+    339.7
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çarpma işlemlerini modelleyiniz. 6. a) 3 . x b) 2x . x c) 2 . ( x + 1 ) ç) 2x . ( x + 2 ) d) ( x + 2 ) . ( x + 1 ) e) ( 2x + 1 ) . ( x − 2 )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.17_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    451.7,
+    587.3,
+    765.0
+   ],
+   "num": [
+    316.0,
+    458.7,
+    325.6,
+    472.2
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangilerinin, verilen cebirsel ifade 7. nin farklı biçimde gösterimi olduğunu bulunuz. a) 12x 2 6x . 2x 3x 2 . 4 12x . x b) −4ab −2a . 2b 4a . (−b) a . (−4) c) 6x 2 y 2y . 3x x 2 . 6y 3x . 2yx ç) −15ab 2 c 5ab . (−3c) −15bc . ab −3ab . 5bac",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

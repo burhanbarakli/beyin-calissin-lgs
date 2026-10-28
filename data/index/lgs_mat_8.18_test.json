@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.18_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/06_Cebirsel_Ifadeler_Ve_Ozdeslikler/8.18_Ozdeslikler_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Cebirsel İfadeler ve Özdeşlikler",
+  "code": "8.18",
+  "title": "Özdeşlikler",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.18_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    275.2,
+    169.6
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki cebirsel ifadelerden hangisi 2.(2x + 3) 1. ifadesine özdeştir? A) 4x + 3 B) 4x + 6 C) 2x + 3 D) 2x + 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    243.0,
+    427.6
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi özdeşlik değildir? 2. A) 2x + 3x = 5x B) −3.(x + 2) = (−6) + (−3x) C) x.(x + 1) = x 2 + x D) x.x.x = 3x",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    213.8,
+    666.6
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi özdeşliktir? 3. A) (x − 1).(x − 1) = x 2 − 1 B) (x + 2) 2 = x 2 + 2x + 4 C) x 2 − 4 = (x − 2).(x + 2) D) x.(2 + x) = 3x",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    562.5,
+    164.0
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "(2x − 3) 2 = 4x 2 + ax + 9 4. ifadesi bir özdeşlik olduğuna göre a kaçtır? A) 6 B) 0 C) −12 D) −72",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    587.3,
+    431.9
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "(3x + 5y) 2 = 9x 2 + 15xy + 25y 2 + Z 5. ifadesinin özdeşlik olabilmesi için Z yerine aşağıda kilerden hangisi yazılmalıdır? A) 15x 2 y 2 B) 15xy C) 0 D) −15xy",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    565.6,
+    698.6
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "I. 2x + 5x = 7x 6. II. x + 12 = 27 III. 9x 2 − 16 = (3x − 4).(3x + 4) IV. 10.(2 + x) = 20 + x Yukarıdaki ifadelerden kaç tanesi denklemdir? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    258.4,
+    121.5
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "2018 2 − 2017 2 7. işleminin sonucu aşağıdakilerden hangisidir? A) 4035 B) 2018 C) 2017 D) 1",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    285.7,
+    264.4,
+    378.8
+   ],
+   "num": [
+    15.9,
+    292.7,
+    26.5,
+    306.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "x − y = 9 8. x . y = 136 olduğuna göre x 2 + y 2 ifadesinin değeri kaçtır? A) 55 B) 191 C) 217 D) 353",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    508.5,
+    292.1,
+    775.7
+   ],
+   "num": [
+    15.5,
+    515.5,
+    26.5,
+    529.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "9. (64x 2 − 25) cm 2 (8x − 5) cm Yukarıdaki şekilde bir dikdörtgenin alanı ve bir kenar uzunluğu verilmiştir. Buna göre x'in alabileceği her değer için diğer ke narının uzunluğunu santimetre cinsinden gösteren cebirsel ifade aşağıdakilerden hangisidir? A) 8x + 5 B) 8x − 5 C) 8x 2 + 5 D) 8x 2 − 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    572.6,
+    121.5
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "10. (4 10 + 8 20 ) 2 = 2 a + 2 b + 2 c olduğuna göre a + b + c ifadesinin değeri kaçtır? A) 160 B) 161 C) 240 D) 241",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    201.9,
+    582.0,
+    399.2
+   ],
+   "num": [
+    313.1,
+    208.9,
+    325.6,
+    222.5
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "11. 7x cm 4 cm Yukarıdaki şekilde kenar uzunlukları 7x cm ve 4 cm olan iç içe kareler verilmiştir. Buna göre taralı bölgenin alanı aşağıdakilerden hangisine eşittir? A) 7x 2 − 16 B) 7x − 4 C) 49x 2 − 16 D) 49x − 16",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    457.3,
+    587.3,
+    706.4
+   ],
+   "num": [
+    310.5,
+    464.3,
+    325.6,
+    477.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Kenar uzunluğu 5a birim olan kare şeklindeki karton 12. aşağıdaki gibi ortadan ikiye katlanıyor. Elde edilen dikdörtgenden, kenar uzunlukları 4b birim olan eş kareler makasla kesip çıkartılıyor. 5a 4b Karton geri açıldığında bir yüzünün alanı birimkare cinsinden aşağıdakilerden hangisine eşittir? A) 2 5a 2 − 64b 2 B) 2 5a 2 − 32b 2 C) 2 5a 2 − 16b 2 D) 2 5a 2 − 8b 2",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.20_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/07_Dogrusal_Denklemler/8.20_Birinci_Dereceden_Bir_Bilinmeyenli_Denklemler_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Doğrusal Denklemler",
+  "code": "8.20",
+  "title": "Birinci Dereceden Bir Bilinmeyenli Denklemler",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.20_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    279.6,
+    775.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki denklemlerde bilinmeyenleri bulunuz. 1. a) x + 4 = 12 f) 3(x + 4) − 2 = x b) 2x − 9 = 17 g) 120 = 4(10 + x) c) 8 − x = 11 ğ) 20 − (x + 10) = 70 ç) 2x + 3 = 5x − 12 h) (2x − 5) − (5x + 2) = 0 d) −5x = 30 + x ı) 3(x + 5) = x + 2(3 + x) e) 2x + 10 = 22 − x i) −12 + 4x = 4(x − 3)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    568.0,
+    775.7
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki denklemlerde bilinmeyenleri bulunuz. 2. x + f) x 3 2 = a) 2 –3 = x 3 – 6 6 – 4 x = b) x 2 = g) 2 x – 3 – 2 3x ğ) x – 1 = c) 4 6 = 2 2 ç) x 2 10 + x 2 = = h) –1 9 3 5 d) x 5 x 2 = x = ı) x 2 – 3 2 + e) x 5 x + + i) x 2 7 – 4 2 x = = 2 3 5 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_calisma|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    10.0,
+    46.0,
+    272.2,
+    775.7
+   ],
+   "num": [
+    16.0,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki denklemlerde bilinmeyenleri bulunuz. 3. a) x – 1 x – 2 5 x + 3 = 7 f) 4 + = 2 7 2 + + 3x 2 – 2 g) x 2 x 1 = = b) 9 – 5 5 3 2 c) x 5 7 11 – 7 3 + = ğ) x + = 2 2 9 9 2 x ç) x 2 10 3 x h) x x x + = + = – – 10 7 9 7 5 10 20 + + ı) .( 2 x 3 ) d) x 3 x 1 x + 3 = + = 12 2 2 5 10 + e) x 1 x 3 x – 6 6 9 + = + = 5 i) x 5 2 – 5 5 x – 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    308.2,
+    46.0,
+    575.9,
+    76.2
+   ],
+   "num": [
+    314.2,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Hangi sayının 3 katı, yarısının 15 fazlasına eşittir? 4.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.2,
+    197.6,
+    587.3,
+    274.7
+   ],
+   "num": [
+    314.9,
+    204.6,
+    325.6,
+    218.2
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "1 'ünü, sonra kalan yolun Bir araba bir yolun önce 3 5. çeyreğini gitmiştir. Geriye 120 km yol kaldığına göre yolun tamamı kaç km'dir?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.2,
+    390.6,
+    583.9,
+    487.7
+   ],
+   "num": [
+    314.3,
+    397.6,
+    325.6,
+    411.2
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Üç katlı bir pastada orta kattaki pastanın ağırlığı en 6. 2 'ü, en üst kattaki pastanın ağırlığı ise altındakinin 3 3 'ü kadardır. ortadakinin ağırlığının 4 Pastanın toplam ağırlığı 2600 gr ise en üst katın ağırlığı kaç gramdır?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.20_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.2,
+    594.9,
+    583.1,
+    672.0
+   ],
+   "num": [
+    316.0,
+    601.9,
+    325.6,
+    615.5
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "2 'i doludur. Bu depoya 8 lt Bir aracın deposunun 5 7. benzin konulunca deponun yarısı dolmuş oluyor. 4 lt benzinle 50 km gidebilen bu araç, deposu tam doluyken kaç km gidebilir?",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

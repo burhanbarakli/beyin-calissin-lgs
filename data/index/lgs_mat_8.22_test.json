@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.22_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/07_Dogrusal_Denklemler/8.22_Dogrusal_Denklemler_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Doğrusal Denklemler",
+  "code": "8.22",
+  "title": "Doğrusal Denklemler",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.22_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    282.3,
+    260.3
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki tabloların hangisindeki sayılar arasında 1. doğrusal bir ilişki vardır? x 1 2 3 4 A) y 0 1 3 6 x 1 2 3 4 B) y 0 3 9 27 x 1 2 3 4 C) y 5 10 15 20 x 1 2 3 4 D) y 5 10 20 40",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    292.3,
+    449.2
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir saatte 70 km yol alan bir aracın aldığı yol “y” (km) 2. ve geçen süre “x” (saat) ile gösterilmektedir. Buna göre x ile y arasındaki ilişkinin denklemi aşa ğıdakilerden hangisi olur? A) y = x + 10 B) y = x + 70 C) y = x.10 D) y = x.70",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.3,
+    287.5,
+    698.6
+   ],
+   "num": [
+    16.0,
+    575.3,
+    26.5,
+    588.8
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir taksinin açılış ücreti 4 liradır ve gidilen her kilo 3. metre için 5 TL alınmaktadır. Buna göre alınan yol “y” (km) ile, ücret “t” (lira) arasındaki doğrusal ilişkinin denklemi aşağıdakiler den hangisidir? A) t = 5y + 4 B) t = 4y + 5 C) y = 5t + 4 D) y = 4t + 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    254.1
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Ayşe aldığı 20 cm boyundaki bir fidanı dikmiş ve fida 4. nın boyunun her hafta 3 cm uzadığını gözlemlemiştir. Buna göre aşağıdakilerden hangisi yanlıştır? A) Fidanın boyu ile geçen süre arasında doğrusal ilişki vardır. B) Süre bağımsız değişken, fidanın boyu bağımlı değişkendir. C) Fidan 71 cm boyuna 17 hafta sonunda ulaşır. D) 10 hafta sonunda fidanın boyu 30 cm olur.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.7,
+    587.3,
+    554.9
+   ],
+   "num": [
+    314.9,
+    336.7,
+    325.6,
+    350.3
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. Einstein'ın 1905 yılında yazdığı makalede yer alan, enerji ile kütle arasında ilişkiyi gösteren formül yu karıda verilmiştir. Formülde \"E\" enerjiyi, \"m\" kütleyi, \"c\" ise ışık hızını temsil etmektedir. Buna göre kütlenin diğer değişkenler cinsinden eşiti aşağıdakilerden hangisidir? E c 2 A) c B) E C) E.c 2 D) c E 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    613.1,
+    583.7,
+    714.9
+   ],
+   "num": [
+    314.3,
+    620.1,
+    325.6,
+    633.6
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerden hangisi yanlıştır? 6. A) y = 3x doğrusunun grafiği orijinden geçer. B) 6x = 12 doğrusunun grafiği y eksenine paraleldir. C) 3y = −5 doğrusunun grafiği x eksenine paraleldir. D) 2x + 3y = 5 doğrusu (1,1) noktasından geçmez.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    291.5,
+    327.0
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Denklemi x = −2y olan doğrunun grafiği aşağıdaki 7. lerden hangisidir? A) B) C) D)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    395.4,
+    283.3,
+    479.3
+   ],
+   "num": [
+    15.9,
+    402.4,
+    26.5,
+    416.0
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "8. Aşağıdaki hangisi (2,3) noktasından geçen bir doğ runun denklemidir? A) 2x + 3y = 0 B) 3x + 2y = 9 C) 2x + y = 7 D) x + 3y = 10",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    587.9,
+    290.7,
+    775.7
+   ],
+   "num": [
+    15.5,
+    594.9,
+    26.5,
+    608.4
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "x = 5 ve y = −2 denklemlerinin grafikleri ile eksenler 9. arasında kalan dikdörtgenin çevresi kaç birimdir? A) 7 B) 10 C) 14 D) 20",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    327.0
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Denklemi 3x − 2y = 6 olan doğrunun grafiği aşağı 10. dakilerden hangisidir? A) B) C) D)",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    395.4,
+    571.4,
+    461.6
+   ],
+   "num": [
+    313.1,
+    402.4,
+    325.6,
+    416.0
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "M(−2, a) noktası koordinat düzleminde y − x = 5 11. doğrusunun üzerinde olduğuna göre a kaçtır? A) 3 B) − 3 C) 7 D) − 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.22_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    588.1,
+    587.0,
+    656.7
+   ],
+   "num": [
+    310.5,
+    595.1,
+    325.6,
+    608.6
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "2x + 5y = 20 denkleminin grafiği ile eksenler arasın 12. da kalan üçgenin alanı kaç birimkaredir? A) 80 B) 40 C) 20 D) 10",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

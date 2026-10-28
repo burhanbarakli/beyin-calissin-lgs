@@ -1,0 +1,141 @@
+{
+ "book": {
+  "id": "lgs_mat_8.11_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.11_Karekoklu_Ifadelerle_Carpma_ve_Bolme_Islemi_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.11",
+  "title": "Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.11_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    286.8,
+    761.0
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki çarpma işlemlerinin sonuçlarını bulunuz. 1. a) 3 . 5 = b) 7 . 14 = c) 6 . 6 = ç) 3 . 3 . 3 = d) 5 2 .2 3 = e) 3.2 5 = f) 7 .4 = g) 2 3 . 6 = - ğ) ( 7 3).( 3 15) = - - ^ h = 2 h) 2 2 ^ h = 4 ı) 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    584.3,
+    505.5
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki kareköklü ifade ile çarpıldığında sonucu 2. doğal sayı yapan ifadeyi veya ifadeleri bulunuz. a) 2 2 8 12 b) 12 3 15 27 c) 45 0 5 125 ç) 72 200 18 48 d) 20 - 5 45 0 -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.6,
+    517.2,
+    586.3,
+    775.7
+   ],
+   "num": [
+    315.0,
+    524.2,
+    325.6,
+    537.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda kenar uzunlukları verilen dikdörtgenlerin 3. alanlarını bulunuz. 72 cm 5 cm ......... cm 2 ......... cm 2 7 cm ......... cm 2 4 cm 7 cm 10 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    281.1,
+    775.7
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki bölme işlemlerinin sonuçlarını bulunuz. 4. a) 75: 5 = b) 12 6 : 4 2 = c) 6 : 6 = 10 10 ç) = 5 2 - 200 = d) 2 5 4 3 = e) 12 6 26 15 = f) 13 30 8 = g) 2 12 = ğ) 3 3 - h) = 3 5 = ı) 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.9,
+    46.0,
+    578.1,
+    772.5
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki geometrik şekillerin alanlarını bulunuz. 5. = a) Dairenin Alanı : ............. cm 2 ( 3 alınız) r r = 6 cm b) Üçgenin Alanı : ............. cm 2 8 cm 12 cm c) Paralelkenarın Alanı : ............. cm 2 15 cm 5 cm ç) Eşkenar Dörtgenin Alanı : ............. cm 2 ( Köşegen Uzunlukları 18 cm ve 10 cm )",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

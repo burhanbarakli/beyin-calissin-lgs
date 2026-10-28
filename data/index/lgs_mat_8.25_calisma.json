@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.25_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/8.25_Ucgende_Kenarortay_Aciortay_ve_Yukseklik_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Üçgenler",
+  "code": "8.25",
+  "title": "Üçgende Kenarortay, Açıortay ve Yükseklik",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.25_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    291.9,
+    428.0
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerin isimlendirilen kenarlarına 1. ait yükseklikleri çiziniz. C D A B I J G H M K L N",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    440.9,
+    291.9,
+    775.7
+   ],
+   "num": [
+    15.5,
+    447.9,
+    26.5,
+    461.5
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerin isimlendirilen kenarlarına 2. ait kenarortayları çiziniz. D A B C E G F H I J K L",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    581.4,
+    430.4
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üçgenlerin isimlendirilen açılarına 3. ait açıortayları çiziniz. A B C D F E",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    440.9,
+    567.5,
+    775.7
+   ],
+   "num": [
+    314.2,
+    447.9,
+    325.6,
+    461.5
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki üçgenlerde hangi yardımcı elemanın 4. verildiğini belirleyiniz. kenarortay yükseklik açıortay kenarortay yükseklik açıortay kenarortay yükseklik açıortay kenarortay yükseklik açıortay",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.8,
+    46.0,
+    289.1,
+    775.7
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda üçgenlerde istenilenleri bulunuz. 5. a) ABC üçgeninde; A [AE] kenarortay, |EC| = 12 cm, |BD| = 8 cm C olduğuna göre E D B |DE| = ? A b) ABC üçgeninde; [AE] yükseklik, [AD] açıortay olduğuna göre ] g % = ? s DAE 64° 36° B C D E ABC üçgeninde; A c) [BD] açıortay olduğuna göre D 95° ] g % = ? s BAC 25° B C E P ç) PRS üçgeninde; |RT| = |TS| olduğuna göre ] g % = ? s RPT 50° S T R d) KLM dik üçgeninde; K [LN] kenarortay, N |KN| = 6 cm, |LM| = 8 cm L olduğuna göre M ] g & = ? Ç NLM",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    587.3,
+    453.3
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki noktalı yerlere kenarortay, açıortay ve 6. yükseklik terimlerinden uygun olanı yazınız. a) Çeşitkenar bir üçgen aşağıdaki gibi katlanıp açıldığında oluşan kat izi ............................ b) Çeşitkenar bir üçgen aşağıdaki gibi katlanıp açıldığında oluşan kat izi ............................ c) Çeşitkenar bir üçgen aşağıdaki gibi katlanıp açıldıktan sonra çizilen çizgi ............................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.25_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    453.3,
+    587.3,
+    775.7
+   ],
+   "num": [
+    316.0,
+    460.3,
+    325.6,
+    473.9
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 7. belirleyiniz. Dar açılı üçgenlerde yükseklikler üçgenin iç bölgesinde bir noktada kesişirler. Geniş açılı üçgenlerde açıortaylar üçgenin dış bölgesinde bir noktada kesişirler. Dik açılı üçgenlerde kenarortaylar üçgenin üzerinde bir noktada kesişirler. Eşkenar üçgenlerde yükseklikler üçgenin iç bölgesinde bir noktada kesişirler. Bir üçgende eşit uzunluktaki kenarlara ait yüksekliklerin uzunlukları eşittir. Bir üçgende kenarortayların kesiştikleri nok taya ağırlık merkezi denir. Açıortay \"n\", kenaortay \"V\", yükseklik \"h\" harfiyle gösterilir. Eş",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

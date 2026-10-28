@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.24_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/08_Esitsizlikler/8.24_Esitsizlikler_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Eşitsizlikler",
+  "code": "8.24",
+  "title": "Eşitsizlikler",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.24_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    287.7,
+    740.1
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelere karşılık gelen eşitsizlikleri yazınız. 1. a) 10'dan büyük gerçek sayılar b) 5'ten küçük gerçek sayılar c) −8 ve −8'den büyük gerçek sayılar ç) 0 ve 0'dan küçük gerçek sayılar d) 12'den büyük olmayan gerçek sayılar e) 25'ten küçük olmayan gerçek sayılar f) 145'ten küçük, 5'ten büyük gerçek sayılar g) 45 ile 90 arasındaki gerçek sayılar ğ) 3 katı 50'den büyük olan gerçek sayılar h) 2 katının 5 eksiği 4'ten küçük olan gerçek sayılar ı) Yarısının 2 fazlası 1 veya 1'den büyük gerçek sayılar",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    586.9,
+    429.0
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki eşitsizliklerin çözüm kümelerini sayı doğ 2. rusunda gösteriniz. a) x > 2 b) x < −10 c) x ≤ 6 ç) x ≥ −5 d) 7 > x e) 0 ≤ x f) 1 < x < 4 g) 3 ≥ x > −2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.6,
+    439.0,
+    587.3,
+    707.4
+   ],
+   "num": [
+    315.0,
+    446.0,
+    325.6,
+    459.6
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen modellere uygun eşitsizlikleri yazınız. 3. 1 1 1 1 x 1 1 1 1 x 1 x",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    274.1,
+    775.7
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen eşitsizlikleri çözünüz. 4. a) x + 4 < 12 h) 65 ≥ 3x + 5 b) x − 10 ≥ 25 ı) 3x − 10 < x + 5 c) −5 < x + 3 i) −2x < 120 ç) 3x + 3 > 2x −2 j) 10 − 3x ≥ 43 d) 5x − 3 < 3x + 17 k) −40 < −5x + 10 ≤ 20 x e) 12 < 4x + 6 ≤ 46 l) 2 > 12 m) x x + f) 10 < x + 2 ≤ 20 > 10 2 3 2 x - + g) 7 ≥ x − 3 ≥ −1 n) 5 < 12 3 3 x ğ) 2x > 20 o) 22 < 10 ≤ 34 - 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.3,
+    46.0,
+    586.3,
+    409.5
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelere karşılık gelen eşitsizlikleri yazınız 5. ve çözünüz. a) Bir sayının 2 katının 3 fazlası 40'tan büyüktür. b) Bu iş yerindeki asgari ücret 3200 TL'dir. c) Eren'in yaşının 3 katı 36'dan fazla değildir. ç) Bu filme 12 yaş ve üzeri kişiler girebilir. d) 3x + 6° geniş bir açıdır. e) x liraya alınan bir mal 3x − 70 liraya satılınca kâr elde edilmemiştir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    451.6,
+    587.3,
+    535.6
+   ],
+   "num": [
+    314.3,
+    458.6,
+    325.6,
+    472.1
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "x ve y tam sayılar olmak üzere; 6. x < 10 ve y < 12 olduğuna göre 2x + 3y ifadesinin alabileceği en büyük değeri bulunuz.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.24_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    609.8,
+    587.3,
+    696.4
+   ],
+   "num": [
+    316.0,
+    616.8,
+    325.6,
+    630.3
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "x ve y gerçek sayılar olmak üzere; 7. x > 5 ve y > −8 olduğuna göre 2x + 3y ifadesinin alabileceği en küçük tam sayı değerini bulunuz.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

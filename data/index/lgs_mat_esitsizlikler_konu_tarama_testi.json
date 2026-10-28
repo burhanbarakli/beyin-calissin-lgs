@@ -1,0 +1,303 @@
+{
+ "book": {
+  "id": "lgs_mat_esitsizlikler_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/08_Esitsizlikler/ESITSIZLIKLER_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Eşitsizlikler",
+  "code": "",
+  "title": "Esitsizlikler Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 6,
+ "key_pages": [
+  6
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    316.5
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Terazi denge durumundan eşitsizlik yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    458.1,
+    575.2,
+    730.1
+   ],
+   "num": [
+    29.7,
+    462.1,
+    47.9,
+    479.1
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çevre karşılaştırmasıyla eşitsizlik kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    409.9
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üst üste konan şekillerden eşitsizlik kurma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    25.7,
+    492.9,
+    575.2,
+    738.8
+   ],
+   "num": [
+    29.7,
+    496.9,
+    47.9,
+    513.9
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Çevre koşullarından eşitsizliği sayı doğrusunda gösterme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p3|q5",
+   "page": 3,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    322.2
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Birim fiyat karşılaştırmasıyla eşitsizlik kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p3|q6",
+   "page": 3,
+   "n": 6,
+   "bbox": [
+    25.7,
+    453.3,
+    575.2,
+    709.3
+   ],
+   "num": [
+    29.7,
+    457.3,
+    47.9,
+    474.4
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Eşitsizlik problemiyle en az tutarı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    249.8
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Eşitsizlik aralıklarından en büyük değeri bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    25.7,
+    453.3,
+    575.2,
+    670.9
+   ],
+   "num": [
+    29.7,
+    457.3,
+    47.9,
+    474.4
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Aralığa bağlı ücret tablosunda en fazla değer",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    374.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiği verisiyle eşitsizlik çözme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_esitsizlikler_konu_tarama_testi|p5|q10",
+   "page": 5,
+   "n": 10,
+   "bbox": [
+    25.7,
+    456.9,
+    575.2,
+    713.2
+   ],
+   "num": [
+    29.7,
+    460.9,
+    47.9,
+    477.9
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Stok aralıklarına göre toplam tutar hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

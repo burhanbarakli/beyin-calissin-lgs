@@ -1,0 +1,213 @@
+{
+ "book": {
+  "id": "lgs_mat_8.01_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.01_Carpanlar_ve_Asal_Carpanlar_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.01",
+  "title": "Çarpanlar ve Asal Çarpanlar",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.01_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    288.2,
+    681.1
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen sayıların pozitif çarpanlarını 1. bulunuz ve pozitif çarpan sayılarını yazınız. a) 5 b) 12 c) 18 ç) 32 d) 33 e) 45 f) 50 g) 64 ğ) 91 h) 120 ı) 144 i) 200",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    570.4,
+    409.4
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda bazı sayıların pozitif çarpanları küçükten 2. büyüğe doğru sıralı bir şekilde verilmiştir. Noktalı yerleri uygun sayılarla doldurunuz. a) Sayı: ...... 1, ...... , ...... , 14 b) Sayı: ...... 1 , ...... , 3 , ....... , 9 , 18 , ...... , ...... c) Sayı: ...... ...... , ....... , 25 ç) Sayı: ...... ...... , 13 d) Sayı: ...... ...... , 7 , ......",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.6,
+    451.0,
+    587.3,
+    775.7
+   ],
+   "num": [
+    315.0,
+    458.0,
+    325.6,
+    471.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayılardan asal sayı olanlarını belirleyiniz. 3. 43 11 18 29 1 7 21 2 87 51 47 91 49 73 61 41",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    292.1,
+    470.6
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayıları asal çarpanlar algoritması ile asal 4. çarpanlarına ayırınız, üslü ifade veya üslü ifadelerin çarpımı şeklinde yazınız. a) 16 b) 25 16 = .................................... 25 = .................................... c) 40 ç) 72 40 = .................................... 72 = .................................... d) 90 e) 135 90 = .................................... 135 = ....................................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    474.4,
+    292.1,
+    775.7
+   ],
+   "num": [
+    15.8,
+    481.4,
+    26.5,
+    494.9
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayıları çarpan ağacı yöntemi ile asal 5. çarpanlarına ayırınız, üslü ifade veya üslü ifadelerin çarpımı şeklinde yazınız. a) 30 b) 85 30 = .................................... 85 = .................................... c) 160 ç) 200 160 = .................................... 200 = ....................................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    587.3,
+    224.1
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda asal çarpanlarının çarpımı şeklinde verilen 6. sayıları bulunuz. a) 2.3 2 b) 3 2 .5 c) 2 2 .3.7 ç) 3 4 d) 3 2 .7 2 e) 5 3 .11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    278.9,
+    572.5,
+    480.2
+   ],
+   "num": [
+    316.0,
+    285.9,
+    325.6,
+    299.4
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki asal çarpanlara ayırma işlemlerindeki 7. verilmeyen sayıları bulunuz. ... ... 2 30 ... 1 8 5 ... ... ... ... 5 ... 2 ... 1",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.01_calisma|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    308.3,
+    499.4,
+    582.7,
+    775.7
+   ],
+   "num": [
+    314.9,
+    506.4,
+    325.6,
+    520.0
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin doğru mu yanlış mı olduğunu 8. belirleyiniz. En küçük asal sayı 2'dir. 49'un 4 tane pozitif çarpanı vardır. 12'nin 3 tane asal çarpanı vardır. 120'nin 16 tane pozitif çarpanı vardır. 30'un asal çarpanlarının toplamı 10'dur. 40'ın en büyük asal çarpanı 2'dir. 90'ın asal olmayan 9 pozitif çarpanı vardır.",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

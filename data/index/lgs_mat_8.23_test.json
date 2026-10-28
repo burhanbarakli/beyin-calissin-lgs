@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.23_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/07_Dogrusal_Denklemler/8.23_Egim_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Doğrusal Denklemler",
+  "code": "8.23",
+  "title": "Eğim",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.23_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    252.3,
+    246.8
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "1. 30 cm 150 cm Yukarıda verilen rampanın eğimi kaçtır? A) 0,15 B) 0,2 C) 0,3 D) 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    362.7,
+    292.3,
+    465.1
+   ],
+   "num": [
+    15.5,
+    369.7,
+    26.5,
+    383.2
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Yanda verilen rampanın eğimi 2. yüzde kaçtır? 5 cm 4 cm A) 75 B) 80 C) 120 D) 125",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    286.8,
+    670.1
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Yanda verilen rampanın 3. eğimi 3/4'tür. 12 cm Buna göre x kaçtır? x A) 9 B) 12 C) 15 D) 16",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    239.0
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "4. 50 cm 250 cm Yukarıdaki şekilde soldaki eğik düzlemin eğimi %150 ise sağdaki eğik düzlemin eğimi yüzde kaçtır? A) 30 B) 50 C) 100 D) 750",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    585.3,
+    492.1
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. d 1 d 3 d 2 Yukarıdaki d 1 , d 2 ve d 3 doğrularının eğimleri sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir? A) Sıfır, Pozitif, Tanımsız B) Tanımsız, Negatif, Sıfır C) Tanımsız, Sıfır, Negatif D) Sıfır, Negatif, Tanımsız",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    596.5,
+    555.7,
+    658.4
+   ],
+   "num": [
+    314.3,
+    603.5,
+    325.6,
+    617.0
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "2y + 3x + 6 = 0 doğrusunun eğimi kaçtır? 6. 2 3 2 3 - - A) 3 B) 2 C) 3 D) 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    291.2,
+    148.0
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bilgi: Paralel doğruların eğimleri birbirine eşittir. 7. Aşağıdaki doğrulardan hangisi y = −2x + 4 doğrusuna paraleldir? A) x + y + 2 = 0 B) 2 x − y + 9 = 0 C) −3x + 6y − 4 = 0 D) 4x + 2y − 12 = 0",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    291.4,
+    555.7
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bilgi: Dik doğruların eğimleri çarpımı −1'e eşittir. 8. Aşağıdaki doğrulardan hangisi x + 2y = − 2 doğrusuna diktir? A) 3x + 4y = 12 B) 2x + y = − 8 C) 2x − y = −10 D) 5x − 10y = 20",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    287.7,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "d 4 Yandaki koordinat sisteminde 9. verilen d doğrusunun eğimi aşağıdakilerden hangisidir? -3 4 3 4 3 - - A) 3 B) 4 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    132.4
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Eğimi −1 olan k doğrusu A(2,3) noktasından geçmektedir. 10. k doğrusunun denklemi aşağıdakilerden hangisidir? A) x − y + 1 = 0 B) x + y − 5 = 0 C) 3x + 3y − 5 = 0 D) 3x − 2y = 0",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    257.8,
+    584.3,
+    338.0
+   ],
+   "num": [
+    313.1,
+    264.8,
+    325.6,
+    278.3
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "p doğrusu E(1, −1 ) ve F( −3, 1) noktasından geçmektedir. 11. Buna göre p doğrusunun eğimi kaçtır? 1 1 - A) 2 B) −2 C) 2 D) 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.23_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    469.9,
+    587.3,
+    702.9
+   ],
+   "num": [
+    310.5,
+    476.9,
+    325.6,
+    490.4
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "12. II. Kısım I. Kısım 20 m 12 m 16 m 20 m Yukarıda bir eğlence merkezinde yapılması planlanan ve iki kısımdan oluşan kaydırağın planı verilmiştir. Buna göre kaydırağın II. kısmının eğimi aşağıdaki lerden hangisine eşittir? 12 8 20 20 A) 16 B) 20 C) 36 D) 20",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

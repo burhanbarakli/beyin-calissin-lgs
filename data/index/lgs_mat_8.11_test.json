@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.11_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.11_Karekoklu_Ifadelerle_Carpma_ve_Bolme_Islemi_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.11",
+  "title": "Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.11_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    212.7,
+    170.2
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "4 3 . 2 2 işleminin sonucu kaçtır? 1. A) 8 6 B) 8 5 C) 6 6 D) 6 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    224.4,
+    395.9
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "2 7 . 5 7 işleminin sonucu kaçtır? 2. - A) 2 7 B) 10 7 - C) 14 D) 70 -",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    280.4,
+    674.4
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Kısa kenarının uzunluğu 3 2 cm olan ve uzun 3. kenarının uzunluğu kısa kenarının uzunluğunun 2 katı olan dikdörtgenin alanı kaç cm 2 ’dir? A) 36 B) 72 C) 36 2 D) 72 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    186.7
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda kenar uzunlukları verilen dikdörtgenlerden 4. hangisinin alanı en küçüktür? A) 2 3 cm ve 3 5 cm B) 3 cm ve 3 3 cm C) 3 2 cm ve 6 cm D) 5 cm ve 3 7 cm",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    293.3,
+    587.3,
+    460.6
+   ],
+   "num": [
+    314.9,
+    300.3,
+    325.6,
+    313.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. 6 cm 14 cm Yukarıda kenar uzunlukları verilen dik üçgenin alanı kaç cm 2 dir? A) 84 B) 42 C) 21 D) 12",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    551.1,
+    622.5
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "12 12 işleminin sonucu kaçtır? 6. 4 3 A) 12 B) 9 C) 6 D) 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    282.7,
+    155.8
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir dikdörtgenin alanı 30 2 cm 2 dir. Bir kenarının 7. uzunluğu 10 2 cm olan bu dikdörtgenin diğer kenarının uzunluğu kaç santimetredir? B) 3 A) 3 2 D) 5 C) 5 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    256.5,
+    355.5
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "75 45 72 + işleminin sonucu kaçtır? 8. - 3 5 2 A) −2 B) 0 C) 2 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    252.0,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "48 2 işleminin sonucu kaçtır? 9. : 3 A) 4 2 B) 4 C) 2 2 D) 2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    131.0
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Uzunluğu 1800 metre olan bir yolun her iki yanına 10. 50 metre aralıklarla ağaç dikilecektir. Bu iş için kaç ağaç gereklidir? A) 6 B) 7 C) 12 D) 14",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    567.5,
+    398.2
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "75 aşağıdaki sayılardan hangisi ile çarpılırsa 11. sonuç bir doğal sayı olur? A) 6 B) 8 C) 10 D) 12",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.11_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    567.3,
+    649.0
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "63 aşağıdaki sayılardan hangisi ile çarpılırsa 12. sonuç bir doğal sayı olmaz? A) 63 B) 28 C) 9 D) 7",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

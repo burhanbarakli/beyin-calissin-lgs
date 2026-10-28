@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.04_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/01_Carpanlar_Ve_Katlar/8.04_Aralarinda_Asal_Sayilar_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Çarpanlar ve Katlar",
+  "code": "8.04",
+  "title": "Aralarında Asal Sayılar",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.04_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    290.3,
+    139.3
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayı çiftlerinden hangisi aralarında asaldır? 1. A) 12 - 15 B) 16 - 22 C) 25 - 32 D) 17 - 51",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    276.6,
+    378.8
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi 42 ile aralarında asaldır? 2. A) 25 B) 14 C) 9 D) 8",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    278.6,
+    631.2
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3. 15’ten küçük pozitif tam sayılardan kaç tanesi 15 ile aralarında asal değildir? A) 3 B) 6 C) 7 D) 11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    580.1,
+    151.0
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki sayı çiftlerinden hangisi aralarında asal 4. değildir? A) 21 - 22 B) 15 - 17 C) 19 - 39 D) 13 - 91",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    587.3,
+    391.6
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aralarında asal iki sayıdan biri 12 ise diğeri aşağıda- 5. kilerden hangisi olamaz? A) 115 B) 123 C) 155 D) 187",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    569.7,
+    654.1
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "6. Aralarında asal iki sayının EKOK’u 24’tür. Buna göre bu sayıların toplamı aşağıdakilerden hangisi olabilir? A) 10 B) 11 C) 14 D) 15",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    280.6,
+    129.5
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "İki pozitif tam sayının toplamı 10’dur. 7. Bu sayıların EBOB’ları 1 olduğuna göre çarpımları aşağıdakilerden hangisi olabilir? A) 16 B) 21 C) 24 D) 25",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    282.2,
+    384.5
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "EBOB (A,B) + EKOK (A,B) = 24 8. A ve B aralarında asal sayılar olduğuna göre A + B kaçtır? A) 10 B) 11 C) 23 D) 24",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    292.1,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir evdeki pencere sayısı ile kapı sayısı aralarında 9. asaldır. Bu evdeki pencere ile kapı sayısının çarpımı 40’tır. Evde birden fazla pencere ve kapı olduğuna göre pencere ve kapı sayılarının toplamı aşağıdakilerden hangisidir? A) 41 B) 22 C) 14 D) 13",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    551.1,
+    153.1
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "a ve b aralarında asal sayılardır. 10. a 12 = 20 b olduğuna göre a + b kaçtır? A) 32 B) 16 C) 8 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    557.5,
+    407.0
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "x + 2 ve y − 3 aralarında asal sayılardır. 11. + x 2 = 1,2 - y 3 olduğuna göre x + y kaçtır? A) 23 B) 21 C) 12 D) 10",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.04_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    582.6,
+    696.5
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "I. Aralarında asal sayıların EBOB’u 1’dir. 12. II. Aralarında asal iki sayının EKOK’u bu sayıların çarpımına eşittir. III. Farklı asal sayılar aralarında asaldır. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur? A) Yalnız I B) I ve II C) II ve III D) I, II ve III",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

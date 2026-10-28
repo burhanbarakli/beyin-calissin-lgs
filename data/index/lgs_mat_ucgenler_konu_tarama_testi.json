@@ -1,0 +1,443 @@
+{
+ "book": {
+  "id": "lgs_mat_ucgenler_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/09_Ucgenler/UCGENLER_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Üçgenler",
+  "code": "",
+  "title": "Ucgenler Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 8,
+ "key_pages": [
+  8
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    287.9
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Pisagor ve üçgen eşitsizliğiyle tel hesabı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    485.5,
+    575.2,
+    733.2
+   ],
+   "num": [
+    29.7,
+    489.5,
+    47.9,
+    506.5
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Açı sıralamasından kenar sıralamasıyla çevre bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    422.2
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Cetvel modelinde üçgen eşitsizliğiyle çevre aralığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    25.7,
+    566.1,
+    575.2,
+    734.6
+   ],
+   "num": [
+    29.7,
+    570.1,
+    47.9,
+    587.1
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Geniş ve dar açılı üçgende kenar sınırları",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p3|q5",
+   "page": 3,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    353.3
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kare alanlarından üçgen kenarının en büyük değeri",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p3|q6",
+   "page": 3,
+   "n": 6,
+   "bbox": [
+    25.7,
+    488.6,
+    575.2,
+    676.5
+   ],
+   "num": [
+    29.7,
+    492.6,
+    47.9,
+    509.6
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üçgen eşitsizliğiyle çubuk uzunluğunun en büyüğü",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    356.1
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Pisagor ile kare kenarı ve görünen alan",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p4|q8",
+   "page": 4,
+   "n": 8,
+   "bbox": [
+    25.7,
+    488.6,
+    575.2,
+    706.3
+   ],
+   "num": [
+    29.7,
+    492.6,
+    47.9,
+    509.6
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Dikdörtgen köşegeninden paralelkenar çevresi bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    362.7
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kare alanları ve Pisagor ile dikdörtgen çevresi",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p5|q10",
+   "page": 5,
+   "n": 10,
+   "bbox": [
+    25.7,
+    465.7,
+    575.2,
+    751.9
+   ],
+   "num": [
+    29.7,
+    469.7,
+    47.9,
+    486.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareli zeminde Pisagor ile kenar uzunluğu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p6|q11",
+   "page": 6,
+   "n": 11,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    388.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kare alanlarıyla Pisagor ile yol uzunluğu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p6|q12",
+   "page": 6,
+   "n": 12,
+   "bbox": [
+    25.7,
+    520.4,
+    575.2,
+    737.3
+   ],
+   "num": [
+    29.7,
+    524.4,
+    47.9,
+    541.5
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Parçalama ve üçgen eşitsizliğiyle en büyük değer",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p7|q13",
+   "page": 7,
+   "n": 13,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    295.6
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Pisagor ile dik üçgen kenarı belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p7|q14",
+   "page": 7,
+   "n": 14,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    290.8
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.7,
+    88.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Pisagor ile dik üçgenleri belirleyip alan",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_ucgenler_konu_tarama_testi|p7|q15",
+   "page": 7,
+   "n": 15,
+   "bbox": [
+    25.7,
+    417.0,
+    575.2,
+    734.9
+   ],
+   "num": [
+    29.7,
+    421.0,
+    47.9,
+    438.0
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tablodan üçgen eşitsizliğine uyan çıtaları sayma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

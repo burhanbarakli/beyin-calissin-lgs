@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_cikmis_2026",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/00_LGS_Cikmis_Sorular/LGS_2026_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "lgs_cikmis",
+  "kind_name": "LGS Çıkmış",
+  "unit": "",
+  "code": "",
+  "title": "2026 LGS SAYISAL BÖLÜM",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 33,
+ "key_pages": [
+  33
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_cikmis_2026|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    36.5,
+    144.1,
+    272.4,
+    354.3
+   ],
+   "num": [
+    42.5,
+    151.1,
+    51.9,
+    167.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "1. Aşağıdakilerden hangisi bir tam kare pozitif tam sayıdır? A) 3 B) 9 C) 18 D) 27",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare sayıyı tanıma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    36.5,
+    382.3,
+    272.4,
+    718.1
+   ],
+   "num": [
+    42.5,
+    385.3,
+    51.9,
+    401.9
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "2. Aşağıdaki kareli zeminde verilen mavi renkli karenin d doğrusuna göre yansıma sonucun daki görüntüsü oluşturulacaktır. I II III IV d Buna göre, bu görüntü numaralanmış karelerin hangisinin üzerinde oluşur? A) I B) II C) III D) IV",
+   "answer": "B",
+   "solved": false,
+   "skill": "Doğruya göre yansıma görüntüsü bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    277.5,
+    150.3,
+    544.8,
+    354.3
+   ],
+   "num": [
+    283.5,
+    157.3,
+    292.8,
+    173.9
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "x 2 - 3. 3 denklemini sağlayan x değeri = 5 kaçtır? A) 11 B) 13 C) 15 D) 17",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kesirli birinci derece denklem çözme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p3|q4",
+   "page": 3,
+   "n": 4,
+   "bbox": [
+    277.5,
+    382.7,
+    544.8,
+    718.1
+   ],
+   "num": [
+    283.5,
+    385.7,
+    292.8,
+    402.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "4. Aşağıda verilen ABCD karesi; dört adet eş sarı dikdörtgen, alanı 4y 2 cm 2 olan bir adet yeşil kare ve alanı 4x 2 cm 2 olan bir adet mavi kareden oluşmuştur. A D S S Y S M S B C Buna göre, sarı dikdörtgenlerden birinin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 6xy B) 4xy C) 2xy D) xy",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alan modelinden cebirsel ifade bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    51.9,
+    96.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "5. Bir gözlemeci, bir kenarının uzunluğu 60 cm olan kare şeklinde iki adet yufka açmıştır. Bu yufka lardan birini, dikdörtgen şeklinde iki eş bölgeye ayırarak bu bölgelerden birine patates diğerine ise peynir koymuş ve diğer yufkayı bu yufkanın üzerini tamamen kapatacak şekilde yerleştirerek yarısı patatesli yarısı peynirli olan kare şeklinde bir gözleme yapmıştır. 12 cm . . . 12 cm Patates . . . Peynir 60 cm Daha sonra bu gözlemenin tamamını, bir kenarının uzunluğu 12 cm olan kare şeklindeki dilimlere ayırarak dilimlerin hepsini bir tabağa koymuştur. Bu tabaktan rastgele alınan bir dilimin sa",
+   "answer": "B",
+   "solved": false,
+   "skill": "Parça sayılarıyla olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    36.5,
+    76.4,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    83.4,
+    51.9,
+    100.0
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "6. Uzunluğu 5 m olan bir otomobil ile uzunluğu 45 m olan bir kamyon Şekil I’deki konumlarınday ken doğrusal bir yol boyunca ok yönünde bir süre ilerledikten sonra durduklarında otomobil ve kam yonun son konumları Şekil II’deki gibi olmuştur. 5 m 45 m Şekil I Şekil II Bu süre boyunca kamyon 24 m ilerlediğine göre otomobil kaç metre ilerlemiştir? 5 A) 13 5 B) 12 5 C) 11 5 D) 10 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla toplama çıkarma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    51.9,
+    96.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "7. Bir lunaparkın girişinde yer alan levhada aşağıdaki uyarılar yazmaktadır. Lunaparktaki oyuncaklardan; • Atlıkarıncaya, boyunun uzunluğu en az 100 cm olanlar; • Çarpışan arabaya, boyunun uzunluğu en az 120 cm olanlar; • Gondola, boyunun uzunluğu en az 120 cm olanlar; • Hızlı trene, boyunun uzunluğu en az 140 cm olanlar; • Dönme dolaba, boyunun uzunluğu en az 150 cm olanlar binebilir. Ümran, bu oyuncaklardan sadece 4 tanesine binebilmektedir. Ümran’ın boyu x cm olduğuna göre, x’in alabileceği değerleri gösteren sayı doğrusu aşağıda kilerden hangisidir? A) B) 140 150 100 140 C) D) 100 120 120 ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Koşullardan eşitsizlik aralığını belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p7|q8",
+   "page": 7,
+   "n": 8,
+   "bbox": [
+    36.5,
+    74.4,
+    544.8,
+    354.3
+   ],
+   "num": [
+    42.5,
+    81.4,
+    51.6,
+    98.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "8. Bir ayrıtının uzunluğu (2x + 5) cm olan küp şeklindeki tahta bloktan yüksekliği 5 cm olan kare dik prizma biçimindeki bir parça Şekil I’deki gibi kesilerek ayrılmıştır. Elde edilen iki parça, sarı renkli yan yüzleri çakışacak biçimde Şekil II’deki gibi yerleştirilmiştir. 5 cm Şekil I Şekil II Buna göre, Şekil II’de görünen sarı bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 4x 2 - 20x + 25 B) 4x 2 - 10x C) x 2 - 10x + 25 D) 4x 2 - 25",
+   "answer": "D",
+   "solved": false,
+   "skill": "İki kare farkı özdeşliğiyle alan bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p7|q9",
+   "page": 7,
+   "n": 9,
+   "bbox": [
+    36.5,
+    542.0,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    545.0,
+    51.5,
+    561.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "9. 1 kg toryumdan elde edilen enerji ile 3,5 . 10 6 kg kömürden elde edilen enerji birbirine eşittir. Günümüz teknolojisinde 10 5 kg kömürden elde edilen enerji ile 80 adet elektrikli aracın enerji ihtiyacı karşılan maktadır. Buna göre, 28 adet elektrikli aracın enerji ihtiyacını karşılamak için kaç kilogram toryum gereklidir? A) 10 2 C) 10 –1 D) 10 –2 B) 10",
+   "answer": "D",
+   "solved": false,
+   "skill": "10'un kuvvetleriyle orantı problemi çözme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p8|q10",
+   "page": 8,
+   "n": 10,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    57.9,
+    96.8
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "10. Kenarlarının uzunlukları 12 cm ve 16 cm olan ABCD dikdörtgeni biçiminde bir kâğıt aşağıda verilmiştir. A D 12 cm B C 16 cm Bu kâğıdın AD kenarı üzerinde ve A ile D noktaları arasında bir E noktası işaretlendikten sonra, [BE] ile [BD] çizilerek BAE ile BCD benzer üçgenleri ve EBD üçgeni elde ediliyor. Buna göre, EBD üçgeninin çevresinin uzunluğu kaç santimetredir? A) 42 B) 45 C) 46 D) 48",
+   "answer": "A",
+   "solved": false,
+   "skill": "Benzer üçgenlerle çevre hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p9|q11",
+   "page": 9,
+   "n": 11,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    354.3
+   ],
+   "num": [
+    42.5,
+    80.2,
+    57.8,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "11. Bir imalathanede 168 adet beyaz renkli mum ile 200 adet sarı renkli mum üretilmiştir. Bu mumların tamamı, her bir pakette eşit sayıda ve tek renk mum olacak şekilde paketlenmiştir. Bu iş için en az sayıda paket kullanılmıştır. Paketleme sonrasında yapılan kontrolde, 17 adet beyaz mum ile 11 adet sarı mumun kırık olduğu tespit edilmiştir. Buna göre, içinde kırık mum bulunmayan paketlerin sayısı en fazla kaçtır? A) 40 B) 41 C) 42 D) 43",
+   "answer": "B",
+   "solved": false,
+   "skill": "EBOB ile en az paket sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p9|q12",
+   "page": 9,
+   "n": 12,
+   "bbox": [
+    36.5,
+    376.9,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    383.9,
+    58.2,
+    400.5
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "12. Uzunluğu 4 2 m olan K yolu ile uzunluğu 2 6 m olan L yolu aşağıda verilmiştir. K yolu L yolu Şarjı tam dolu olan bir oyuncak tren, L yolunda 6 tam tur attığı anda şarjı bitmektedir. L yolunda bulunan bu tren, şarjı tam dolu iken hareket ettirilmiş ve bu yolda 2 tam tur attığı anda durdurulup, K yoluna yerleştirilerek tekrar hareket ettirilmiştir. Buna göre bu trenin şarjı, tren K yolunda kaçıncı turu atarken biter? A) 1. B) 2. C) 3. D) 4.",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunlukları bölüp tur sayısı tahmini",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p10|q13",
+   "page": 10,
+   "n": 13,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    58.2,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "13. Millî futbol takımımızı desteklemek amacıyla hazırlanan afişin her bir satırına, kelimelerin ilk harfleri büyük harf olacak biçimde iki kelimeden oluşan “ Bizim Çocuklar ” ifadesi şekildeki gibi birer kez yazılmıştır. Bizim Çocuklar 1. satır Bizim Çocuklar 2. satır . . . B . . . 9. satır Bu afiş hazırlanırken içinde 2 4 mL mürekkep bulunan bir kalem kullanılmıştır. Afişe yazılan her bir büyük harf için 2 –2 mL, her bir küçük harf için ise 2 –3 mL mürekkep harcanmış ve 9. satırdaki ifade yazılırken kalemdeki mürekkep bitmiştir. Buna göre, bu afiş çalışmasında aşağıdaki harflerden hangisinin",
+   "answer": "A",
+   "solved": false,
+   "skill": "Negatif üslerle harf harf mürekkep hesabı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p11|q14",
+   "page": 11,
+   "n": 14,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    58.2,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "14. Uzunluğu 260 cm olan bir çubuğun orta noktasına, uzunluğu 120 cm olan bir destek, zemine dik olarak yerleştirilip bir tahterevalli yapılmıştır. Şekil I’de modellenen bu tahterevallide, [AB] denge durumundadır. B 130 cm 130 cm 130 cm A B 120 cm 120 cm A Zemin Şekil I Şekil II A noktasına bir kütle yerleştirildiğinde [AB]’nın denge durumu bozularak A noktası zemin ile çakışmış ve [AB]’nın son konumu Şekil II’deki gibi olmuştur. Buna göre, [AB]’nın son konuma gelinceye kadar eğiminin alabileceği değerlerden biri aşağı dakilerden hangisi olamaz? 9 6 13 13 A) 5 B) 5 C) 5 D) 12",
+   "answer": "C",
+   "solved": false,
+   "skill": "Değişen konumda eğimin alabileceği değerler",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p12|q15",
+   "page": 12,
+   "n": 15,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    58.2,
+    96.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "15. Çiftçi Adem Amca, buğday tarlasından alacağı tahminî buğday miktarını aşağıdaki işlemleri yaparak hesaplamıştır. • 1 m 2 lik alanı içine alabilen bir çerçeve yapmış ve bu çerçeveyi tarlasının herhangi bir yerine, içine buğday başakları girecek şekilde yerleştirdiğinde çerçeve içinde 400 adet başak olduğu nu belirlemiştir. • Bu çerçeve içinden aldığı 3 adet başaktan sırasıyla 29, 24 ve 22 adet buğday tanesi çıkmıştır. Bu sayıları toplayıp 3’e bölerek, bir başakta bulunan ortalama buğday tanesi sayısını bulmuş tur. • Daha sonra bulduğu bu sayıyı 400 ile çarparak 1 m 2 lik alanda bulunan topl",
+   "answer": "A",
+   "solved": false,
+   "skill": "Ortalama ve aralıkla eşitsizlik oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p13|q16",
+   "page": 13,
+   "n": 16,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    58.2,
+    96.8
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "16. Bir kenarının uzunluğu 8 cm olan ABC eşkenar üçgeni biçimindeki karton, Şekil I’de verilmiştir. Bu kartonun BC kenarı üzerinde bir K noktası işaretlenmiştir. Daha sonra bu karton [AK] boyunca kesi- lerek Şekil II’deki gibi kenarlarının uzunlukları santimetre cinsinden doğal sayı olan iki üçgen elde edilmiş ve bu üçgenlerden biri maviye boyanmıştır. A B K C Şekil I Şekil II Buna göre, Şekil II’de elde edilen üçgenlerin çevrelerinin uzunlukları toplamı kaç santimetredir? A) 34 B) 36 C) 38 D) 40",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üçgen eşitsizliğiyle doğal sayı kenar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p14|q17",
+   "page": 14,
+   "n": 17,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    58.2,
+    96.8
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "17. Doğrusal bir yol boyunca aynı anda birbirlerine doğru sabit süratle hareket eden A ve B araçları bu yol üzerindeki C noktasında karşılaşmıştır. C A B Bu araçların C noktasına olan uzaklıkları ile zaman arasındaki ilişki aşağıdaki doğrusal grafikte veril miştir. Grafik: A ve B Araçlarının C Noktasına Olan Uzaklıkları ile Zaman Arasındaki İlişki Uzaklık (km) 340 252 204 A B Zaman (sa.) 0 2 3 Buna göre, başlangıçta A aracının C noktasına olan uzaklığı kaç kilometredir? A) 970 B) 720 C) 680 D) 630",
+   "answer": "D",
+   "solved": false,
+   "skill": "Doğrusal grafikten başlangıç uzaklığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p15|q18",
+   "page": 15,
+   "n": 18,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    58.2,
+    96.8
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "18. Her birinin uzunluğu santimetre cinsinden birer doğal sayı olan turuncu, mavi ve yeşil renkli üç adet çubuk uç uca birleştirilerek bir üçgen oluşturulabilmektedir. Çevresinin uzunluğu 36 cm olan bir dikdörtgenin kısa ve uzun kenarlarının uzunlukları ile turuncu çubuğun uzunluğu arasındaki ilişki Şekil I ve Şekil II’de gösterilmiştir. 3 cm 5 cm Şekil I Şekil II Mavi çubuğun uzunluğu, turuncu çubuğun uzunluğundan 2 cm kısa olduğuna göre, yeşil çubuğun uzunluğunun santimetre cinsinden alabileceği kaç farklı değer vardır? A) 8 B) 11 C) 13 D) 16",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üçgen eşitsizliğiyle olası kenar sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p16|q19",
+   "page": 16,
+   "n": 19,
+   "bbox": [
+    36.5,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.5,
+    80.2,
+    58.2,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "19. Bir tavuk çiftliğinde 1 günde üretilen yumurtalar boyutlarına göre küçük, orta ve büyük boy olarak ayrılmıştır. Bu yumurtaların sayılarının yumurta boyutlarına göre dağılımı aşağıdaki daire grafiğinde gösterilmiştir. Grafik: Yumurta Sayılarının Yumurta Boyutlarına Göre Dağılımı Küçük 72o Orta 108o Büyük 1 günde üretilen yumurtaların tamamı; küçük boy olanlar 30’lu, orta boy olanlar 25’li ve büyük boy olanlar ise 20’li olacak şekilde sırasıyla S, M ve L kolilerine konulmuş ve geriye yumurta kalmamıştır. Ancak satış esnasında bazı koliler zarar görmüş ve zarar gören koliler içindeki yumurtal",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğiyle en az sayı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2026|p17|q20",
+   "page": 17,
+   "n": 20,
+   "bbox": [
+    36.1,
+    73.2,
+    544.8,
+    718.1
+   ],
+   "num": [
+    42.1,
+    80.2,
+    57.9,
+    96.8
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2026 LGS",
+   "text": "20. Taban yarıçaplarının uzunlukları 1 cm, 5 cm, 10 cm ve yükseklikleri 50 cm, 2 cm, 2 cm olan dik dairesel silindir biçimindeki üç ahşap parça aşağıda verilmiştir. Taban yarıçapının uzunluğu 1 cm, yüksekliği 50 cm olan parça, diğer iki parçaya dik olacak şekilde bu parçaların merkezlerinden geçirilerek aşağıdaki gibi iki katlı sunum tabağı biçiminde bir geometrik cisim oluşturulmuştur. 1 cm 5 cm 2 cm 48 cm 50 cm 10 cm 2 cm Ahşap parçalar İki katlı sunum tabağı Buna göre, oluşturulan bu cismin toplam yüzey alanı kaç santimetrekaredir? ( p yerine 3 alınız.) A) 1296 B) 1248 C) 1200 D) 1152 MATEM",
+   "answer": "C",
+   "solved": false,
+   "skill": "Birleşik silindirlerin yüzey alanı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

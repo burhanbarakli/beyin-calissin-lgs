@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.14_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/03_Karekoklu_Ifadeler/8.14_Gercek_Sayilar_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Kareköklü İfadeler",
+  "code": "8.14",
+  "title": "Gerçek Sayılar",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.14_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    267.7,
+    233.6
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "I. Her doğal sayı bir rasyonel sayıdır. 1. II. 1,243333... sayısı irrasyonel bir sayıdır. III. Her tam sayı rasyonel sayı değildir. IV. Rasyonel ve irrasyonel sayılar gerçek sayıları oluşturur. Yukarıdaki bilgilerden kaç tanesi doğrudur? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    329.1,
+    269.2,
+    394.7
+   ],
+   "num": [
+    15.5,
+    336.1,
+    26.5,
+    349.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi rasyonel bir sayıdır? 2. 5 A) 1,6 B) 0 C) 0 D) 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    568.2,
+    288.7,
+    631.0
+   ],
+   "num": [
+    16.0,
+    575.2,
+    26.5,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi irrasyonel bir sayı değildir? 3. A) 0,9 B) r C) 7 D) 0,2",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    524.3,
+    186.7
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdakilerden hangisi doğrudur? 4. A) Rasyonel sayılar R harfi ile gösterilir. B) İrrasyonel sayılar I harfi ile gösterilir. C) Gerçek sayılar G harfi ile gösterilir. D) Doğal sayılar D harfi ile gösterilir.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    329.1,
+    587.3,
+    404.8
+   ],
+   "num": [
+    314.9,
+    336.1,
+    325.6,
+    349.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. Devirli ondalık gösterimi 0,5 olan sayının rasyonel sayı olarak gösterimi aşağıdakilerden hangisidir? 5 5 5 5 A) 9 B) 10 C) 90 D) 100",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    587.3,
+    647.9
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "6. Devirli ondalık gösterimi 1,26 olan sayının rasyonel sayı olarak gösterimi aşağıdakilerden hangisidir? 19 62 25 4 A) 15 B) 45 C) 18 D) 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    273.1,
+    200.2
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Rasyonel Sayılar İrrasyonel Sayılar 7. 1 4 0 r 3 7,2 1,4621987234 15 Çeşitli sayılar yukarıdaki panolara yerleştirilmiştir. Kaç tane sayı yanlış panoda yer almaktadır? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    282.2,
+    364.1
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "+ y 1 ifadesi bir irrasyonel sayı olduğuna göre y 8. aşağıdakilerden hangisi olabilir? A) −1 B) 0 C) 1 D) 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    291.4,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "x bir doğal sayı olmak üzere 17 x ifadesini 9. - irrasyonel sayı yapan x değerlerinin sayısı, rasyonel yapan x değerlerinin sayısından kaç fazladır? A) 9 B) 8 C) 7 D) 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    563.5,
+    123.4
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "0 14 0 6 0,17 10. r 3 Yukarıdakilerden kaç tanesi irrasyonel sayıdır? A) 2 B) 3 C) 4 D) 5",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    301.1,
+    581.1,
+    377.6
+   ],
+   "num": [
+    313.1,
+    308.1,
+    325.6,
+    321.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "A6 iki basamaklı bir doğal sayı ve A6 irrasyonel 11. bir sayı olduğuna göre A yerine kaç farklı rakam yazılabilir? A) 9 B) 8 C) 7 D) 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.14_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    551.7,
+    582.8,
+    628.6
+   ],
+   "num": [
+    310.5,
+    558.7,
+    325.6,
+    572.2
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "0,4 + 0,64 işleminin sonucu ile ilgili aşağıdaki 12. ifadelerden hangisi doğrudur? A) Doğal sayıdır B) Tam sayıdır C) Rasyonel sayıdır D) İrrasyonel sayıdır",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

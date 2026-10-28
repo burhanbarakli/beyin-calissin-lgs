@@ -1,0 +1,165 @@
+{
+ "book": {
+  "id": "lgs_mat_8.31_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/11_Donusum_Geometrisi/8.31_Donusum_Geometrisi_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Dönüşüm Geometrisi",
+  "code": "8.31",
+  "title": "Dönüşüm Geometrisi",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.31_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    12.1,
+    88.5,
+    282.5,
+    775.7
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki noktaların belirtilen yansıma altındaki 1. görüntülerinin koordinatlarını yazınız. A'( , ) x A(3,5) y A''( , ) B'( , ) x B(-2,8) y B''( , ) C'( , ) x C(7,-6) y C''( , ) Ç'( , ) x Ç(-8,-1) y Ç''( , ) D'( , ) x D(0,8) y D''( , ) E'( , ) x E(-9,0) y E''( , ) F'( , ) x F(5,2) y F''( , ) G'( , ) x G(-6,12) y G''( , ) Ğ'( , ) x Ğ(0,0) y Ğ''( , ) H'( , ) x H(4,-4) y H''( , ) I'( , ) x I(-3,-2) y I''( , )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    308.6,
+    88.5,
+    583.6,
+    775.7
+   ],
+   "num": [
+    314.6,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki noktaların belirtilen öteleme altındaki 2. görüntülerinin koordinatlarını yazınız. A(4,7) A'( , ) 2 br sağa B(4,-9) B'( , ) 3 br sola C(-5,3) C'( , ) 6 br yukarı Ç(8,10) 5 br aşağı Ç'( , ) D(-5,4) 2 br sağa D'( , ) E(9,7) 7 br aşağı E'( , ) F(-1,-4) 4 br sola F'( , ) G(-2,-5) 9 br yukarı G'( , ) Ğ(-10,0) 10 br sağa ve 7 br aşağı Ğ'( , ) H(2,-6) 4 br sola ve 6 br yukarı H'( , ) I(1,-1) 8 br aşağı ve 5 br sola I'( , )",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_calisma|p2|q3",
+   "page": 2,
+   "n": 3,
+   "bbox": [
+    9.2,
+    46.0,
+    287.7,
+    400.8
+   ],
+   "num": [
+    16.0,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki şekillerin istenilen yansıma altındaki 3. görüntülerini çiziniz. x eksenine göre y eksenine göre önce y sonra x eks. göre önce x sonra y eks. göre",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    406.2,
+    284.6,
+    775.7
+   ],
+   "num": [
+    15.2,
+    413.2,
+    26.5,
+    426.8
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki şekillerin istenilen öteleme altındaki 4. görüntülerini çiziniz. 5 br sağa 3 br aşağı 3 br sola 4 br yukarı 4 br sola 4 br aşağı 3 br yukarı 3 br sağa",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    308.3,
+    46.0,
+    582.6,
+    404.5
+   ],
+   "num": [
+    314.9,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki noktaların belirtilen dönüşümler sonu 5. cunda oluşan görüntülerinin koordinatlarını yazınız. A(2,3) A'( , ) önce y eksenine göre yansıma sonra x eksenine göre yansıma B(-1,7) B'( , ) önce 5 br sağa öteleme sonra 4 br sola öteleme C(-2,4) C'( , ) önce 4 br sola öteleme sonra y eksenine göre yansıma Ç(6,0) Ç'( , ) önce x eksenine göre yansıma sonra 5 br aşağı öteleme D(-7,-5) D'( , ) önce 6 br sağa öteleme sonra 5 br sola öteleme E(10,8) E'( , ) önce y eksenine göre yansıma sonra 10 br sağa öteleme",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.31_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    406.2,
+    580.1,
+    766.3
+   ],
+   "num": [
+    314.3,
+    413.2,
+    325.6,
+    426.8
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki şekillerin istenilen ötelemeli yansıma 6. altındaki görüntülerini çiziniz. 5 br sağa öteleme ve doğruya göre yansıma (2 defa) doğruya göre yansıma ve 4 br sola öteleme (3 defa)",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

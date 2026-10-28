@@ -1,0 +1,309 @@
+{
+ "book": {
+  "id": "lgs_mat_8.16_test",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/05_Basit_Olaylarin_Olma_Olasiligi/8.16_Olasilik_Testi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "kazanim_testi",
+  "kind_name": "Kazanım Testi",
+  "unit": "Basit Olayların Olma Olasılığı",
+  "code": "8.16",
+  "title": "Olasılık",
+  "level": "Temel",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.16_test|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    290.0,
+    205.5
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Çift rakamların her biri ayrı ayrı eş kartlara yazılıp bir 1. torbaya atılıyor. Rastgele çekilen bir kartta yazabilecek sayıların tamamı aşağıdakilerden hangisinde verilmiştir? A) 2, 4, 6, 8 B) 0, 2, 4, 6, 8 C) 2, 4, 6, 8, 10 D) 0, 2, 4, 6, 8, 10",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    264.5,
+    288.8,
+    476.8
+   ],
+   "num": [
+    15.5,
+    271.5,
+    26.5,
+    285.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "I. Bir zar atıldığında çift sayı gelme olasılığı ile 3 2. gelme olasılığı birbirine eşittir. II. Aylardan rastgele seçilen bir ayın “N” ile başla- ma olasılığı “H” ile başlama olasılığından daha fazladır. III. Alfabemizden rastgele seçilen bir harfin sesli olma olasılığı, sessiz olma olasılığından daha azdır. IV. 5’i çürük olan 10 elma arasından rastgele seçilen bir elmanın çürük ve sağlam olma olasılığı eşittir. Yukarıdaki ifadelerden kaç tanesi doğrudur? A) 1 B) 2 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    9.5,
+    525.8,
+    293.6,
+    775.7
+   ],
+   "num": [
+    16.0,
+    532.8,
+    26.5,
+    546.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "3. ERKEK KIZ GÖZLÜKLÜ 6 8 GÖZLÜKSÜZ 9 5 Yukarıdaki tabloda bir sınıftaki öğrencilerin gözlük kullanımları ve cinsiyetlerine göre dağılımı verilmiştir. Sınıf başkanlığı için rastgele bir kişi seçilecektir. Seçilen kişiyle ilgili aşağıdakilerden hangisi yanlıştır? A) Kız olma ve erkek olma olasılıkları eşit değildir. B) Gözlüklü ve gözlüksüz olma olasılıkları eşittir. C) Kız olma olasılığı, gözlüklü erkek olma olasılığından daha azdır. D) Gözlüksüz erkek olma olasılığı, gözlüklü kız olma olasılığından daha fazladır.",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    88.5,
+    587.3,
+    150.9
+   ],
+   "num": [
+    314.2,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Bir çift zar atma deneyinde olası durum 4. sayısı kaçtır? A) 36 B) 18 C) 12 D) 6",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p1|q5",
+   "page": 1,
+   "n": 5,
+   "bbox": [
+    308.2,
+    289.7,
+    587.3,
+    456.3
+   ],
+   "num": [
+    314.9,
+    296.7,
+    325.6,
+    310.2
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "5. Bir zar atıldığında üst yüzüne 10’dan küçük bir sayı gelmesi ............. olaydır. Marmara bölgesinden rastgele seçilen bir ilin Ankara olması ............. olaydır. Yukarıdaki boşluklara sırasıyla aşağıdakilerden hangisi gelmelidir? A) Kesin - Kesin B) Kesin - İmkansız C) İmkansız - Kesin D) İmkansız - İmkansız",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p1|q6",
+   "page": 1,
+   "n": 6,
+   "bbox": [
+    308.2,
+    568.2,
+    580.6,
+    676.6
+   ],
+   "num": [
+    314.3,
+    575.2,
+    325.6,
+    588.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Temel",
+   "rank": 1,
+   "osym": "",
+   "text": "Zeynep, Serkan, Adem, Murat, Tuğçe, Ayşe ve Azra 6. arasından rastgele bir kişi seçilecektir. Seçilen kişinin adında “A” harfi bulunma olasılığı kaçtır? 3 4 5 6 A) 7 B) 7 C) 7 D) 7",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    9.5,
+    46.0,
+    280.6,
+    121.4
+   ],
+   "num": [
+    16.9,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "90 sayfalık bir kitapta rastgele açılan bir sayfanın 7. tam kare sayı olma olasılığı kaçtır? 1 1 4 7 A) 9 B) 10 C) 45 D) 90",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    9.5,
+    301.1,
+    284.8,
+    433.2
+   ],
+   "num": [
+    15.9,
+    308.1,
+    26.5,
+    321.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Sadece kırmızı ve mavi kalemlerin bulunduğu bir 8. kalem kutusunda toplam 24 kalem vardır. Bu kalem kutusundan rastgele seçilen bir kalemin mavi olma 1 ’tür. olasılığı 3 Buna göre bu kalem kutusunda kaç tane kırmızı kalem vardır? A) 6 B) 8 C) 16 D) 18",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p2|q9",
+   "page": 2,
+   "n": 9,
+   "bbox": [
+    9.5,
+    551.7,
+    290.8,
+    775.7
+   ],
+   "num": [
+    15.5,
+    558.7,
+    26.5,
+    572.2
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Sadece bir seçeneğin doğru olduğu dört seçenekli 9. çoktan seçmeli bir soruda Volkan rastgele bir seçe- neği işaretliyor. Volkan'ın doğru cevabı işaretlememe olasılığı yüzde kaçtır? A) 25 B) 50 C) 66 D) 75",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p2|q10",
+   "page": 2,
+   "n": 10,
+   "bbox": [
+    303.7,
+    46.0,
+    587.3,
+    158.3
+   ],
+   "num": [
+    309.7,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "30’dan küçük asal sayılar eş toplara yazılıp bir torbaya 10. atılıyor. Torbadan rastgele bir top seçiliyor. Seçilen topun üzerinde çift sayı veya 20’den büyük bir sayı olma olasılığı kaçtır? 3 3 4 4 A) 9 B) 10 C) 10 D) 11",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p2|q11",
+   "page": 2,
+   "n": 11,
+   "bbox": [
+    303.7,
+    273.9,
+    587.3,
+    390.5
+   ],
+   "num": [
+    313.1,
+    280.9,
+    325.6,
+    294.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "Bir sınıftaki kız öğrencilerin sayısı erkek öğrencilerin 11. sayısının 2 katıdır. Bu sınıfa 4 kız öğrenci daha gelince 3 sınıftan rastgele seçilen birinin kız olma olasılığı 4 oluyor . Buna göre başlangıçta sınıfta kaç kız öğrenci vardır? A) 4 B) 8 C) 16 D) 32",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.16_test|p2|q12",
+   "page": 2,
+   "n": 12,
+   "bbox": [
+    303.7,
+    503.1,
+    579.4,
+    729.8
+   ],
+   "num": [
+    310.5,
+    510.1,
+    325.6,
+    523.6
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Orta",
+   "rank": 2,
+   "osym": "",
+   "text": "12. 1m 1m Bir paraşütçü, şekildeki gibi dairesel iniş bölgesinin herhangi bir noktasına inmiştir. Paraşütçünün renkli bölgeye inme olasılığı kaçtır? 1 1 2 3 A) 2 B) 3 C) 3 D) 4",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

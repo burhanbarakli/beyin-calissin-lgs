@@ -1,0 +1,219 @@
+{
+ "book": {
+  "id": "lgs_mat_silindir_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/12_Geometrik_Cisimler/SILINDIR_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Geometrik Cisimler",
+  "code": "",
+  "title": "Silindir Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 4,
+ "key_pages": [
+  4
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_silindir_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    329.6
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Silindir hacminden yükseklik hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_silindir_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    309.5
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.7,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Eşit hacimden silindir yarıçapını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_silindir_konu_tarama_testi|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    25.7,
+    441.7,
+    575.2,
+    704.4
+   ],
+   "num": [
+    29.7,
+    445.7,
+    47.9,
+    462.8
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Su aktarımında silindir yarıçapı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_silindir_konu_tarama_testi|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    378.7
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Taban alanından silindir yanal alanı hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_silindir_konu_tarama_testi|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    25.7,
+    467.3,
+    575.2,
+    736.6
+   ],
+   "num": [
+    29.7,
+    471.3,
+    47.9,
+    488.3
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Farklı bükülen kartonlardan silindir hacim farkı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_silindir_konu_tarama_testi|p3|q6",
+   "page": 3,
+   "n": 6,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    359.6
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Silindir yanal alanını günlük durumda kullanma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_silindir_konu_tarama_testi|p3|q7",
+   "page": 3,
+   "n": 7,
+   "bbox": [
+    25.7,
+    467.3,
+    575.2,
+    784.1
+   ],
+   "num": [
+    29.7,
+    471.3,
+    47.9,
+    488.3
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Prizma ve silindir hacmiyle orantı kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

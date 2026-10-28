@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.18_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/06_Cebirsel_Ifadeler_Ve_Ozdeslikler/8.18_Ozdeslikler_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Cebirsel İfadeler ve Özdeşlikler",
+  "code": "8.18",
+  "title": "Özdeşlikler",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.18_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    290.3,
+    314.4
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki denklemlerden özdeşlik olanlarını belir 1. leyiniz. x + 2x = 3x x + x = x 2 a + b = ab x − y = y − x x.x.x.x = x 4 3.(x + 1) = 3x + 1 x.(x − y) = x 2 − xy 2.(3 + a) = 6 + 2a (x + 2) 2 = x 2 + 4 (a − 3) 2 = a 2 − 6a +9",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    323.6,
+    235.4,
+    765.0
+   ],
+   "num": [
+    15.5,
+    330.6,
+    26.5,
+    344.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin özdeşlerini bulunuz. 2. a) (x + 1) 2 = b) (x + 2) 2 = c) (2x + 1) 2 = ç) (3x + 5) 2 = d) (4a + 3b) 2 = e) (y − 1) 2 = f) (a − 2) 2 = g) (7a − 8) 2 = ğ) (5 − x) 2 = h) (9x − 3y) 2 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    309.0,
+    88.5,
+    587.3,
+    762.4
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin özdeşlerini iki kare farkı özdeş 3. liğinden faydalanarak bulunuz. a) x 2 − 1 = b) y 2 − 4 = c) 4 z 2 − 9 = ç) 36 a 2 − 144b 2 = d) 16 n 2 − 9 2 = e) 64 − x 2 = f) (9 a) 2 − 25 = g) (2 k) 2 − (3p ) 2 = ğ) 100 − 36x 2 = h) 144a 2 − 49b 2 = ı) x 4 − 1 = i) x 8 − x 4 = j) (x + 1) 2 − x 2 = k) (a − b) 2 − (a + b) 2 = l) (a − b + c) 2 − (a − c + b) 2 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_calisma|p2|q4",
+   "page": 2,
+   "n": 4,
+   "bbox": [
+    9.2,
+    46.0,
+    235.4,
+    400.0
+   ],
+   "num": [
+    15.2,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki ifadelerin özdeşlerini bulunuz. 4. a) (x − 3).(x + 3) = b) (2x + y).(2x − y) = c) (3a − 5b).(3a + 5b) = ç) (7 − x).(7 + x) = d) (x + 6).(x + 6) = e) (2n + 4).(2n + 4) = f) (a − 2).(a − 2) = g) (x + 9).(9 − x) =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    422.5,
+    292.2,
+    775.7
+   ],
+   "num": [
+    15.8,
+    429.5,
+    26.5,
+    443.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda istenilenleri özdeşlikler yardımıyla bulunuz. 5. x 2 + y 2 = 7 x 2 + y 2 = 13 2xy = 18 xy = 2 olduğuna göre x + y = ? olduğuna göre x − y = ? a + b = 8 a + b = 8 a.b = 15 a − b = 1 olduğuna göre a 2 + b 2 = ? olduğuna göre a 2 − b 2 = ? x 2 − y 2 = 12 x 2 + y 2 = 29 x + y = 3 x − y = 7 olduğuna göre x − y = ? olduğuna göre xy = ?",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    308.3,
+    46.0,
+    583.7,
+    446.3
+   ],
+   "num": [
+    314.3,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda modellenmiş özdeşlikleri yazınız. 6. x 1 x 1 x x 1 ............................................ ............................................ x 1 1 a a 1 a x 1 1 ............................................ ............................................ a b b b a a a b b ............................................ ............................................",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.18_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    308.3,
+    458.2,
+    587.3,
+    775.7
+   ],
+   "num": [
+    316.0,
+    465.2,
+    325.6,
+    478.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıdaki taralı alanları temsil eden cebirsel ifade 7. leri ve bu cebirsel ifadelerin özdeşlerini yazınız. a x a x b 1 1 b ............................................ ............................................ x x 2 x x 3 2 3 ............................................ ............................................",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

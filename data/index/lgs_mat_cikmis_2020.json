@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_cikmis_2020",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/00_LGS_Cikmis_Sorular/LGS_2020_Matematik.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "lgs_cikmis",
+  "kind_name": "LGS Çıkmış",
+  "unit": "",
+  "code": "",
+  "title": "2020 LGS Matematik",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 17,
+ "key_pages": [
+  17
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_cikmis_2020|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    45.4,
+    148.1,
+    510.3,
+    473.6
+   ],
+   "num": [
+    49.4,
+    151.1,
+    60.4,
+    167.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "1. a, b birer doğal sayı olmak üzere 2 a b a b dir. = Bir bilye atma oyununa ait, kısa kenar uzunluğu 1 m olan dokuz eş dikdörtgensel bölgeden oluşan oyun parkuru aşağıda verilmiştir. Başlangıç çizgisi Mavi 0 1 m 2 m 3 m 4 m 5 m 6 m 7 m 8 m 9 m Başlangıç çizgisinden atış yapan bir oyuncunun attığı bilye, parkurda gösterilen mavi bölgede kal- mıştır. Buna göre bu bilyenin başlangıç çizgisine uzaklığı metre cinsinden aşağıdakilerden hangisi olamaz? A) 2 10 B) 3 5 C) 4 3 D) 2 13",
+   "answer": "D",
+   "solved": false,
+   "skill": "a√b ifadesini iki tam sayı arasında tahmin etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p2|q2",
+   "page": 2,
+   "n": 2,
+   "bbox": [
+    45.4,
+    77.2,
+    508.5,
+    651.5
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "2. Ayşe’nin bir yılda okuduğu kitapların türlerine göre dağılımı aşağıdaki daire grafiği ile gösterilmiştir. Grafik: Ayşe’nin Okuduğu Kitapların Türlerinin Dağılımı Hikâye 120° Şiir Roman Kareli zeminde verilen sütun grafiklerinden hangisi yukarıdaki daire grafiğine uygun oluştu- rulmuştur? A) Grafik: Ayşe’nin Okuduğu Kitaplar B) Grafik: Ayşe’nin Okuduğu Kitaplar Kitap Sayısı Kitap Sayısı Kitap Kitap Şiir Hikâye Roman Şiir Hikâye Roman Türleri Türleri Grafik: Ayşe’nin Okuduğu Kitaplar Grafik: Ayşe’nin Okuduğu Kitaplar C) D) Kitap Sayısı Kitap Sayısı Kitap Kitap Şiir Hikâye Roman Şiir Hikâye Ro",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiğine uygun sütun grafiği seçme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    45.4,
+    77.2,
+    513.1,
+    406.1
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "3. Bir ondalık gösterimin, basamak değerleri toplamı şeklinde yazılmasına ondalık gösterimin çözüm- lenmesi denir. Bir basketbol takımındaki beş oyuncunun boy uzunluklarının çözümlenmiş şekli aşağıdaki tabloda verilmiştir. Tablo: Oyuncuların Boylarının Uzunlukları İsim Boy Uzunluğu (cm) Ayça 2 $ 10 2 + 1 $ 10 0 + 1 $ 10 - 1 Beyza 1 $ 10 2 + 7 $ 10 1 + 5 $ 10 0 + 5 $ 10 - 1 Ceyda 1 $ 10 2 + 8 $ 10 1 + 4 $ 10 0 Derya 1 $ 10 2 + 8 $ 10 1 + 7 $ 10 0 + 2 $ 10 - 1 Esra 1 $ 10 2 + 8 $ 10 1 + 5 $ 10 0 + 6 $ 10 - 1 Takımın antrenörü, boyu 185 santimetreden kısa olan oyunculardan birini oyun kurucu olar",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çözümlenmiş ondalık sayıları karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    45.4,
+    77.2,
+    515.3,
+    471.4
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "4. a, b, c birer doğal sayı olmak üzere 2 a b a b = _ i a b c b a c b dir . + = + Bir şehrin demir yolu hatları üzerindeki istasyonlar aşağıdaki şekilde noktalar ile gösterilmiştir. Aynı hat üzerinde bulunan ardışık iki istasyon arasındaki mesafeler birbirine eşittir. 2 km Yeşil Hat K A L 5 km D B Mavi Hat S 3 km M Kırmızı Hat C A, B, C istasyonlarından hareket eden K, L ve M trenleri ortak olan D istasyonundan sonra yeşil hattı kullanarak S istasyonuna ulaşıyorlar. Bu trenlerin gittikleri yolların uzunluğuna göre doğru sıralanışı aşağıdakilerden hangisidir? A) K 2 L 2 M B) K 2 M 2 L C) M 2 L ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunlukları toplayıp sıralama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p5|q5",
+   "page": 5,
+   "n": 5,
+   "bbox": [
+    45.4,
+    77.2,
+    514.1,
+    396.8
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "5. Kenarlarının uzunlukları x metre ve 2x metre olan dikdörtgen şeklindeki oyun parkının planı Şekil I’de verilmiştir. Bu oyun parkının kenarları 2’şer metre uzatılarak Şekil II’deki gibi dikdörtgen biçiminde bir oyun parkı planlanmıştır. 2 m Oyun Oyun Parkı 2x Parkı x 2 m Şekil I Şekil II Buna göre Şekil II’deki oyun parkının alanının Şekil I’deki oyun parkının alanından kaç metre- kare fazla olduğunu veren cebirsel ifade aşağıdakilerden hangisidir? A) 6x + 4 B) 6x + 6 C) 3x + 2 D) 3x + 4",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alan farkını cebirsel ifade ile yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p6|q6",
+   "page": 6,
+   "n": 6,
+   "bbox": [
+    45.4,
+    77.2,
+    513.4,
+    430.4
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "6. Yükseklikleri santimetre cinsinden birer tam sayı olan aşağıdaki dikdörtgenler prizması şeklindeki kutuların her birinden üçer adet vardır. 7k cm 5k cm 3k cm k cm Bu kutular aşağıdaki gibi üst üste dizilerek üç ayrı blok oluşturulmuştur. k cm 5k cm 3k cm 7k cm k cm 3k cm 7k cm 5k cm 3k cm 7k cm 5k cm k cm Bloklardaki kutuların yerleri değiştirilmeden bu üç blok üst üste konularak bir kule oluşturuluyor. Daha sonra kulenin en üstünde bulunan kutu alınıyor. Son durumda bu kulenin yüksekliğinin santimetre cinsinden değeri aşağıdakilerden hangisi olamaz? A) 94 B) 90 C) 86 D) 82",
+   "answer": "B",
+   "solved": false,
+   "skill": "Cebirsel yükseklikleri toplayıp olası değer bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p7|q7",
+   "page": 7,
+   "n": 7,
+   "bbox": [
+    45.4,
+    82.7,
+    516.9,
+    479.8
+   ],
+   "num": [
+    49.4,
+    89.7,
+    60.4,
+    106.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "İstenilen olası durumların sayısı 7. Bir olayın olma olasılığı = Tüm olası durumların sayısı Aşağıdaki tabloda • (nokta) ve – (çizgi) karakterleri kullanılarak tanımlanmış rakamlar verilmiştir. 1 • – – – – – • • • • 6 2 • • – – – – – • • • 7 3 • • • – – – – – • • 8 4 • • • • – – – – – • 9 5 • • • • • – – – – – 0 Bu rakamlara karşılık gelen karakterlerle oluşturulan iki basamaklı doğal sayıların tamamı aşağıdaki gibi özdeş kartlara yazılıp boş bir torbaya atılmıştır. Örneğin; • – – – – – – – – – 10 • – – – – • – – – – 11 • – – – – • • – – – 12 Bu torbadan rastgele yapılan bir çekilişte üzerinde",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kodlanmış iki basamaklı sayılarla olasılık hesabı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p8|q8",
+   "page": 8,
+   "n": 8,
+   "bbox": [
+    45.4,
+    77.2,
+    272.4,
+    407.8
+   ],
+   "num": [
+    49.4,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "8. Aşağıda her birinin kütlesi 3 g olan sarı bon- cuklardan ve her birinin kütlesi 5 g olan mavi boncuklardan yeterli sayıda verilmiştir. Bu boncuklar kullanılarak bir kolye yapılmıştır. Kolyedeki mavi boncukların toplam kütlesi sarı boncukların toplam kütlesine eşittir. Kullanılan boncukların toplam kütlesi 230 gramdan az olduğuna göre bu kol- yedeki sarı boncukların sayısı ile mavi boncukların sayısı arasındaki fark en fazla kaçtır? A) 14 B) 15 C) 28 D) 30",
+   "answer": "A",
+   "solved": false,
+   "skill": "EKOK ile eşit kütle ve adet farkı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p8|q9",
+   "page": 8,
+   "n": 9,
+   "bbox": [
+    285.3,
+    77.2,
+    514.5,
+    368.8
+   ],
+   "num": [
+    289.3,
+    80.2,
+    300.3,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "9. Aşağıda dört farklı renkteki kartların her birinden üçer adet verilmiştir. Aynı renkteki kartların üzerinde aynı kareköklü ifade yaz- maktadır. Mavi Kırmızı 0,09 0,25 Yeşil Turuncu 0,64 1,44 Eymen, bu kartlardan seçerek üstlerinde ya- zan kareköklü ifadeleri topladığında bir doğal sayı elde etmektedir. Buna göre Eymen en fazla kaç kart seç- miştir? A) 8 B) 9 C) 10 D) 11",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ondalık karekökleri toplayıp doğal sayı elde etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p9|q10",
+   "page": 9,
+   "n": 10,
+   "bbox": [
+    38.8,
+    78.4,
+    272.4,
+    436.1
+   ],
+   "num": [
+    42.8,
+    81.4,
+    60.4,
+    98.1
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "10. a ! 0 ve m, n tam sayılar olmak üzere m a a n $ a m = a n + m ve a m n a - dir. = n Bir kenarının uzunluğu 5 4 cm olan kare şeklindeki kâğıdın bir yüzüne aşağıdaki gibi 12 eş dikdörtgen ve 1 kare çizilmiştir. Bu şekillerden kare ve 2 eş dikdörtgen kırmızıya boyanmıştır. Kırmızı Kırmızı 5 4 cm Kırmızı Buna göre kırmızı bölgelerin alanları top- lamı kaç santimetrekaredir? A) 2 $ 5 7 B) 5 7 C) 2 $ 5 6 D) 5 6",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü kenarlarla alan hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p9|q11",
+   "page": 9,
+   "n": 11,
+   "bbox": [
+    280.4,
+    77.2,
+    513.4,
+    344.4
+   ],
+   "num": [
+    284.4,
+    80.2,
+    301.6,
+    96.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "11. Dikdörtgen şeklindeki bir kâğıt, alanları santimetrekare cinsinden 10’dan büyük birer tam kare pozitif tam sayıya eşit olan karesel bölgelere aşağıdaki gibi ayrılmıştır. A C A D B B Eşit alanlı bölgeler aynı harf ile göste- rildiğine göre dikdörtgen şeklindeki bu kâğıdın bir yüzünün alanı en az kaç santi- metrekaredir? A) 168 B) 255 C) 364 D) 392",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam kare alanlı karelerle en küçük alan",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p9|q12",
+   "page": 9,
+   "n": 12,
+   "bbox": [
+    279.7,
+    505.1,
+    513.4,
+    657.0
+   ],
+   "num": [
+    283.7,
+    508.1,
+    301.4,
+    524.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "12. Alanı 1050 cm 2 olan kare şeklindeki bir pa- noya kenarlarından birinin uzunluğu 5’in tam sayı kuvveti, diğerinin uzunluğu 2’nin tam sayı kuvveti olan dikdörtgen şeklindeki bir afiş, pano yüzeyinden taşmayacak şekilde asılacaktır. Buna göre afişin bir yüzünün alanı en fazla kaç santimetrekaredir? A) 1000 B) 800 C) 640 D) 400",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekök tahmini ve kuvvetlerle en büyük alan",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p10|q13",
+   "page": 10,
+   "n": 13,
+   "bbox": [
+    38.8,
+    77.2,
+    509.2,
+    459.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "13. Bir lokantada hazırlanan yemek çeşitleri ve porsiyon sayıları sütun grafiği ile bu yemekler için kullanılan toplam 60 g tuzun yemek çeşitlerine göre dağılımı daire grafiği ile aşağıda gösterilmiştir. Bir çeşit yemeğin her porsiyonunda eşit miktarda tuz bulunmaktadır. Grafik: Yemek Çeşitleri ve Porsiyon Sayıları Grafik: 60 g Tuzun Yemek Çeşitlerine Göre Dağılımı Porsiyon Sayısı Taze 10 Fasulye Köfte 54° Makarna 36° 6 5 60° 72° 4 Musakka 48° Çorba Pilav Yemek 0 Çorba Pilav Musakka Makarna Taze Fasulye Köfte Çeşitleri Bu lokantada üç farklı yemekten birer porsiyon yiyen bir müşteri toplam 5 g",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sütun ve daire grafiğini birlikte yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p11|q14",
+   "page": 11,
+   "n": 14,
+   "bbox": [
+    38.8,
+    82.7,
+    513.5,
+    330.0
+   ],
+   "num": [
+    42.8,
+    89.7,
+    60.4,
+    106.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "İstenilen olası durumların sayısı 14. Bir olayın olma olasılığı = Tüm olası durumların sayısı 9 m 1 m Siyah Sarı Beyaz Kırmızı Mavi Kahverengi Mor Turuncu Yeşil Kenarlarının uzunlukları 1 m ve 9 m olan dikdörtgen biçimindeki bir halının ön yüzü, şekildeki gibi farklı renklere boyanmıştır. Bu renklerin her birinin kapladığı karesel bölgenin alanı birbirine eşittir. Bu halı, parçalarda aynı renk olmayacak şekilde iki parçaya bölünecektir. Buna göre bu parçalardan birinin boyalı yüzünün alanının, diğerinin boyalı yüzünün alanının 2 katı olması olasılığı kaçtır? 1 1 1 1 A) 3 B) 4 C) 8 D) 9",
+   "answer": "B",
+   "solved": false,
+   "skill": "Bölme durumlarını sayarak olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p12|q15",
+   "page": 12,
+   "n": 15,
+   "bbox": [
+    38.8,
+    78.4,
+    513.1,
+    339.3
+   ],
+   "num": [
+    42.8,
+    81.4,
+    60.4,
+    98.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "15. Aşağıda çevresinin uzunluğu (2x + 2) m olan dikdörtgenlerden yeterli sayıda verilmiştir. Bu dikdörtgenler [AB] boyunca sırasıyla önce uzun kenarı sonra kısa kenarı üzerine aralarında boş- luk kalmayacak şekilde aşağıdaki gibi yerleştirilmiştir. Uzun kenarı üzerine yerleştirilen ilk dikdörtge- nin bir köşesi A noktası ile kısa kenarı üzerine yerleştirilen son dikdörtgenin bir köşesi B noktası ile çakışıktır. A B Bu dikdörtgenler (x + 1) kez kısa kenarı üzerine yerleştirildiğine göre [AB]’nın uzunluğunu metre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) x 2 + x + 2 B) 2x 2 +",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çevreden kenar bulup cebirsel uzunluk yazma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p13|q16",
+   "page": 13,
+   "n": 16,
+   "bbox": [
+    38.8,
+    82.7,
+    514.2,
+    324.6
+   ],
+   "num": [
+    42.8,
+    89.7,
+    60.4,
+    106.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "İstenilen olası durumların sayısı 16. Bir olayın olma olasılığı = Tüm olası durumların sayısı Renkleri dışında özdeş olan toplardan 4’ü kırmızı, geri kalanı beyazdır. Bu topların tamamı aşağıda- ki boş A, B ve C torbalarına dağıtılıyor. A B C Bu torbaların her birinden rastgele çekilen bir topun kırmızı olma olasılığı birbirine eşittir. Buna göre başlangıçtaki beyaz top sayısı aşağıdakilerden hangisi olamaz? A) 80 B) 82 C) 88 D) 92",
+   "answer": "B",
+   "solved": false,
+   "skill": "Eşit olasılık koşuluyla top sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p14|q17",
+   "page": 14,
+   "n": 17,
+   "bbox": [
+    38.8,
+    77.2,
+    272.4,
+    518.6
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "17. Her birinin kütlesi 40 kg’dan az ve birbirine eşit olan buğday çuvalları aşağıdaki gibi bir kantarda tartıldığında çuvalların toplam kütle- si 720 kg gelmektedir. kg Kantar üzerindeki çuvalların sayısı, bu çuval- larla eşit kütleye sahip çuvallar konularak arttırıldığında toplam kütle 1344 kg olmakta- dır. kg Buna göre kantar üzerine sonradan konu- lan çuvalların sayısı en az kaçtır? A) 52 B) 39 C) 26 D) 13",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ortak bölenle çuval kütlesi ve sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p14|q18",
+   "page": 14,
+   "n": 18,
+   "bbox": [
+    278.6,
+    78.4,
+    515.1,
+    538.0
+   ],
+   "num": [
+    282.6,
+    81.4,
+    300.3,
+    98.1
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "18. a ! 0 ve m, n tam sayılar olmak üzere m a a n . a m = a n + m ve a m n - a = n (a n ) m = a n.m dir. Bir fabrikada üretilen mavi ve kırmızı renkli otomobiller bir galeriye iki tır ile taşınmakta- dır. Bu otomobillerin birer adedinin kütleleri Tablo 1’de, tırların taşıdığı otomobillerin sayıları Tablo 2’de gösterilmiştir. Tablo 1: Otomobillerin Kütleleri Otomobil Kütle (kg) 4 5 Mavi otomobil 2 11 Kırmızı otomobil Tablo 2: Tırların Taşıdığı Otomobil Sayıları Otomobil Mavi Kırmızı otomobil otomobil Tır A B 4 3 A tırı ile taşınan mavi ve kırmızı otomobillerin sayıları birbirine eşittir. İki tı",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü kütlelerle toplamdan adet bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p15|q19",
+   "page": 15,
+   "n": 19,
+   "bbox": [
+    38.8,
+    77.2,
+    516.4,
+    420.8
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "19. Kare şeklindeki boş bir panoya kare şeklindeki üç eş mavi karton, köşegenleri panonun köşegeni ile çakışacak şekilde aşağıdaki gibi yerleştirilmiştir. Mavi 1 cm 2 Mavi 1 cm 2 Mavi Panoda boş bırakılan bölgelerin alanları toplamı 6x 2 + 36x + 54 santimetrekaredir. Kartonların üst üste gelen bölgelerinin her biri, alanları 1 cm 2 olan karesel bölgelerdir. Buna göre panonun çevresinin uzunluğunu santimetre cinsinden veren cebirsel ifade aşağı- dakilerden hangisidir? A) 12x + 40 B) 12x + 36 C) 12x + 32 D) 12x + 28",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alan ifadesini çarpanlarına ayırıp çevre bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_cikmis_2020|p16|q20",
+   "page": 16,
+   "n": 20,
+   "bbox": [
+    38.8,
+    77.2,
+    515.8,
+    714.0
+   ],
+   "num": [
+    42.8,
+    80.2,
+    60.4,
+    96.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "2020 LGS",
+   "text": "20. Bir okulun Ordu iline düzenleyeceği gezide ziyaret edilecek yerlerle ilgili yapılan anket çalışmasında her bir öğrenci ziyaret edilebilecek yerlerle ilgili yalnız bir tercihte bulunmuştur. Bu anketin sonuçları sütun grafiği ile ankete katılan kız ve erkek öğrencilerin sayılarının dağılımı daire grafiği ile aşağıda gösterilmiştir. Grafik: Ziyaret Etmek İstedikleri Yerlere Grafik: Ankete Katılan Kız ve Erkek Göre Öğrenci Sayıları Öğrencilerin Sayılarının Dağılımı Öğrenci Sayısı 30 Erkek Öğrenci 15 150° 10 5 Kız Öğrenci Ziyaret Edilecek 0 Yason Burnu Ulugöl Kaya Mezarları Boztepe Yerler Anket",
+   "answer": "D",
+   "solved": false,
+   "skill": "Birden çok daire grafiğini birlikte yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

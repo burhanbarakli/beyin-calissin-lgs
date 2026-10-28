@@ -1,0 +1,189 @@
+{
+ "book": {
+  "id": "lgs_mat_8.07_calisma",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/02_Uslu_Ifadeler/8.07_Rasyonel_Sayilarin_Kuvvetleri_Calisma_Kagidi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "calisma_kagidi",
+  "kind_name": "Çalışma Kağıdı",
+  "unit": "Üslü İfadeler",
+  "code": "8.07",
+  "title": "Rasyonel Sayıların Kuvvetleri",
+  "level": "Öğretici",
+  "rank": 1
+ },
+ "pages": 2,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_8.07_calisma|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    9.5,
+    88.5,
+    290.7,
+    393.2
+   ],
+   "num": [
+    18.1,
+    95.5,
+    26.5,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen tekrarlı çarpımları üslü ifade olarak 1. yazınız. 1 1 a) 5 = $ 5 2 2 2 2 2 b) 3 = $ $ $ $ 3 3 3 3 5 5 5 b l b l b l = c) – 2 – 2 – 2 $ $ ç) 0,1 . 0,1 = d) (–0,7).(–0,7).(–0,7) =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.07_calisma|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    9.5,
+    430.3,
+    287.0,
+    727.4
+   ],
+   "num": [
+    15.5,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 2. b l 1 3 a) = 2 - b l 2 3 b) = 5 c) (0,3) 2 = ç) (0,1) 4 = d) (−0,5) 2 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.07_calisma|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    308.2,
+    88.5,
+    586.0,
+    405.0
+   ],
+   "num": [
+    315.0,
+    95.5,
+    325.6,
+    109.1
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 3. b l 3 –1 a) = 4 b l 1 –2 b) = 3 b l 1 –3 c) – 4 = b 1 l –4 ç) 10 = 2 b l –2 d) 1 3 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.07_calisma|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    308.2,
+    430.3,
+    586.0,
+    726.9
+   ],
+   "num": [
+    314.2,
+    437.3,
+    325.6,
+    450.9
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen üslü ifadelerin değerlerini bulunuz. 4. a) (0,2) −5 = b) (1,2) −2 = c) (−0,4) −3 = ç) (0,01) −3 = d) (−0,005) −2 =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.07_calisma|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    9.2,
+    46.0,
+    288.4,
+    379.4
+   ],
+   "num": [
+    15.8,
+    53.0,
+    26.5,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen eşitliklerde harfle gösterilen sayıları 5. bulunuz. b l 5 25 A = a) 7 A = 49 b 1 l 1 B = b) 2 B = 32 b l 2 3 C c) 3 = C = 2 b l 1 Ç = ç) – 6 –216 Ç = b l d) 1 D D = = 81 3",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.07_calisma|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    9.2,
+    430.3,
+    291.1,
+    775.7
+   ],
+   "num": [
+    15.2,
+    437.3,
+    26.5,
+    450.9
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen eşitliklerde harfle gösterilen sayıları 6. bulunuz. a) (0,7) A = 0,49 A = b) (– 0,3) B = – 0,027 B = c) (0,5) C = 8 C = ç) (0,2) Ç = 625 Ç = D =",
+   "answer": "",
+   "solved": false
+  },
+  {
+   "qid": "lgs_mat_8.07_calisma|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    310.0,
+    46.0,
+    562.0,
+    702.0
+   ],
+   "num": [
+    316.0,
+    53.0,
+    325.6,
+    66.6
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "Öğretici",
+   "rank": 1,
+   "osym": "",
+   "text": "Aşağıda verilen işlemlerin sonuçlarını bulunuz. 7. 1 1 b l b l 3 2 a) 2 + 3 1 3 b l 2 b l 4 b) – 4 + 2 1 1 c m 2 c) 2 + 3 1 1 b l b l –2 –3 ç) 5 – 2 d) (0,4) 3 + (0,3) 2 e) (–0,5) –2 + (0,2) –3",
+   "answer": "",
+   "solved": false
+  }
+ ],
+ "answers_filled": false
+}

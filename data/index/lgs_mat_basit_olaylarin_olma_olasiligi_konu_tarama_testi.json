@@ -1,0 +1,415 @@
+{
+ "book": {
+  "id": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi",
+  "path": "/Users/bob/CALISMALAR/gökşin/beyin-calissin/kaynaklar/LGS_Matematik/05_Basit_Olaylarin_Olma_Olasiligi/BASIT_OLAYLARIN_OLMA_OLASILIGI_KONU_TARAMA_TESTI.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "tarama",
+  "kind_name": "Konu Tarama",
+  "unit": "Basit Olayların Olma Olasılığı",
+  "code": "",
+  "title": "Basit Olaylarin Olma Olasiligi Konu Tarama Testi",
+  "level": "Yeni Nesil",
+  "rank": 2
+ },
+ "pages": 6,
+ "key_pages": [
+  6
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q1",
+   "page": 1,
+   "n": 1,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    294.4
+   ],
+   "num": [
+    29.7,
+    71.3,
+    48.0,
+    88.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kalan toplarla verilen olasılıktan sayı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q2",
+   "page": 1,
+   "n": 2,
+   "bbox": [
+    25.7,
+    429.0,
+    293.6,
+    710.8
+   ],
+   "num": [
+    29.7,
+    433.0,
+    47.9,
+    450.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Olasılık karşılaştırmasıyla en az olasılık bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q3",
+   "page": 1,
+   "n": 3,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    252.8
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.8,
+    88.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Ardışık seçimde kalanların renk olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q4",
+   "page": 1,
+   "n": 4,
+   "bbox": [
+    305.5,
+    429.0,
+    575.2,
+    720.3
+   ],
+   "num": [
+    309.5,
+    433.0,
+    327.7,
+    450.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kalan parçalar arasından olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q5",
+   "page": 2,
+   "n": 5,
+   "bbox": [
+    25.7,
+    67.3,
+    293.6,
+    253.7
+   ],
+   "num": [
+    29.7,
+    71.3,
+    48.0,
+    88.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "A",
+   "solved": false,
+   "skill": "Aralarında asal olma olasılığını hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q6",
+   "page": 2,
+   "n": 6,
+   "bbox": [
+    25.7,
+    429.0,
+    293.6,
+    647.7
+   ],
+   "num": [
+    29.7,
+    433.0,
+    47.9,
+    450.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kesin olay koşulundan eleman sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q7",
+   "page": 2,
+   "n": 7,
+   "bbox": [
+    305.5,
+    67.3,
+    575.2,
+    275.1
+   ],
+   "num": [
+    309.5,
+    71.3,
+    327.8,
+    88.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpanlara ayırarak kalan kart olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p2|q8",
+   "page": 2,
+   "n": 8,
+   "bbox": [
+    305.5,
+    429.0,
+    575.2,
+    683.6
+   ],
+   "num": [
+    309.5,
+    433.0,
+    327.7,
+    450.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Asal çarpan kartlarıyla olasılık karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p3|q9",
+   "page": 3,
+   "n": 9,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    293.7
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Yüzdeli olasılıktan en az kalan sayı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p3|q10",
+   "page": 3,
+   "n": 10,
+   "bbox": [
+    25.7,
+    433.8,
+    575.2,
+    696.7
+   ],
+   "num": [
+    29.7,
+    437.8,
+    47.9,
+    454.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiklerinden olasılık hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p4|q11",
+   "page": 4,
+   "n": 11,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    312.7
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Örüntü ve olasılık koşuluyla tutar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p4|q12",
+   "page": 4,
+   "n": 12,
+   "bbox": [
+    25.7,
+    433.8,
+    575.2,
+    694.4
+   ],
+   "num": [
+    29.7,
+    437.8,
+    47.9,
+    454.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "D",
+   "solved": false,
+   "skill": "Toplamların aralarında asal olma olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p5|q13",
+   "page": 5,
+   "n": 13,
+   "bbox": [
+    25.7,
+    67.3,
+    575.2,
+    327.0
+   ],
+   "num": [
+    29.7,
+    71.3,
+    47.9,
+    88.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "C",
+   "solved": false,
+   "skill": "Durumları listeleyerek olasılık hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p5|q14",
+   "page": 5,
+   "n": 14,
+   "bbox": [
+    25.7,
+    433.8,
+    575.2,
+    723.1
+   ],
+   "num": [
+    29.7,
+    437.8,
+    47.9,
+    454.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "Yeni Nesil",
+   "rank": 2,
+   "osym": "",
+   "text": "",
+   "answer": "B",
+   "solved": false,
+   "skill": "Verilen olasılıklardan dağılım bulup en fazla olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}
