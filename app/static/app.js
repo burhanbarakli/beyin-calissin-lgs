@@ -24,7 +24,7 @@ const when = (iso) => (iso || "").replace("T", " ").slice(0, 16);
 
 // photos: yüklenen fotoğraflar [{path, status}] — sayfa yenilense de kalsın
 // basket: seçilen sorular (qid → öğe), her beyin çalışması için ayrı saklanır
-const S = { state: null, photos: store.get("photos", []), job: null, since: 0, poll: null, cand: null, runId: "",
+const S = { state: null, photos: store.get("photos", []), job: null, running: false, since: 0, poll: null, cand: null, runId: "",
   runImages: [], basket: new Map() };
 const savePhotos = () => { store.set("photos", S.photos); renderPhotos(); };
 function loadBasket() { S.basket = new Map(store.get("basket:" + S.runId, []).map((x) => [x.qid, x])); return S.basket.size > 0; }
@@ -91,8 +91,15 @@ function renderPhotos() {
     $$("input", el).forEach((r) => (r.onchange = () => { S.photos[i].status = r.value; store.set("photos", S.photos); }));
     $("[data-zoom]", el).onclick = () => modal(`<img src="${fileUrl(S.photos[i].path)}">`);
   });
-  $("#runBrain").disabled = !S.photos.length;
-  $("#runBrain").textContent = S.photos.length ? `🧠 Beyin Çalışsın (${S.photos.length} soru)` : "🧠 Beyin Çalışsın — önce fotoğraf ekleyin";
+  renderRunButton();
+}
+// beyin çalışırken büyük düğme "Beyni Durdur" olur (ikinci bir iş de böylece başlatılamaz)
+function renderRunButton() {
+  const b = $("#runBrain");
+  b.classList.toggle("stop", !!S.running);
+  b.disabled = !S.running && !S.photos.length;
+  b.textContent = S.running ? "⏹ Beyni Durdur"
+    : S.photos.length ? `🧠 Beyin Çalışsın (${S.photos.length} soru)` : "🧠 Beyin Çalışsın — önce fotoğraf ekleyin";
 }
 
 // ------------------------------------------------------------------ 2 · beyin
@@ -100,6 +107,7 @@ try { $("#model").value = localStorage.getItem("model") || ""; } catch {}
 $("#model").onchange = () => { try { localStorage.setItem("model", $("#model").value); } catch {} };
 
 $("#runBrain").onclick = async () => {
+  if (S.running) return stopBrain();
   await loadState();  // giriş sonradan yapılmış olabilir: sayfayı yenilemeden tekrar bak
   if (!S.state.claude) return toast("Claude Code bulunamadı — Ayarlar'a bakın.");
   if (S.state.claude_login === false)
@@ -138,13 +146,19 @@ async function pollJob() {
   S.runImages = j.images;
   $("#jobHead").innerHTML = `${running ? '<span class="spinner"></span>' : ""}Beyin ${statusTr(j.status)} <span class="muted small">· ${esc(when(j.created))}${j.duration_s ? ` · ${(j.duration_s / 60).toFixed(1)} dk` : ""}</span>`;
   $("#cancelJob").classList.toggle("hidden", !running);
+  S.running = running; renderRunButton();
   if (!running) {
     clearInterval(S.poll);
     if (r.has_candidates) loadCandidates(j.id, S.live);
     if (S.live) loadRuns();
   }
 }
-$("#cancelJob").onclick = async () => { await api(`/api/jobs/${S.job}/cancel`, { method: "POST" }); toast("Durduruldu"); };
+async function stopBrain() {
+  if (!S.job || !confirm("Beyin durdurulsun mu? Bu çalışmanın adayları oluşmaz.")) return;
+  await api(`/api/jobs/${S.job}/cancel`, { method: "POST" });
+  toast("Beyin durduruldu"); pollJob();
+}
+$("#cancelJob").onclick = stopBrain;
 
 // ------------------------------------------------------------------ 3 · adaylar
 async function loadCandidates(id, scroll = false) {

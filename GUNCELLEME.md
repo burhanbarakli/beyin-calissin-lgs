@@ -18,6 +18,8 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
   kitapçıktaki anahtardan, 12. denemeninki (anahtarı yayımlanmamış) Claude'un çözümünden gelir.
 - Yeni 744 sorunun hepsi kazanım, ölçtüğü beceri, rol ve 1-5 zorlukla etiketlendi. Beyin bu soruları
   pekiştirme ve zorlayıcı adaylarda kullanır. Bankada artık 1679 soru var.
+- Beyin çalışırken büyük düğme kırmızı **⏹ Beyni Durdur** olur; durdurmadan önce onay sorulur. Beyin
+  çalışırken yanlışlıkla ikinci bir çalışma başlatılamaz.
 
 **Düzeltmeler**
 - İndeksleyici: iki sütunlu sayfada boydan boya uzanan sorular, sütunlar arası sıralanan numaralar,

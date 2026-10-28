@@ -13,6 +13,7 @@ button:hover { filter: brightness(1.08); }
 button:disabled { opacity: .5; cursor: default; }
 button.ghost { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
 button.ghost.danger { color: var(--z); border-color: #f3c4bf; }
+button.stop { background: var(--z); color: #fff; }
 button.small { padding: 3px 9px; font-size: 12px; }
 button.big { width: 100%; padding: 13px; font-size: 16px; font-weight: 600; margin-top: 12px; }
 button.chip { background: var(--accent-2); color: var(--accent); padding: 2px 9px; border-radius: 99px; font-size: 12px; }

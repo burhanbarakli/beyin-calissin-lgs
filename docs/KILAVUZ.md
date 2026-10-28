@@ -60,6 +60,8 @@ Fotoğraflar `ogrenci/Sorular/<tarih>/` klasörüne kaydedilir. iPhone'da fotoğ
 4. Cevap anahtarı olmayan test sorularını kendisi çözer.
 
 Ekranda beynin son düşüncesi görünür; **"Beynin tüm adımları"** ile ne yaptığını ayrıntılı izleyebilirsiniz.
+Beyin çalışırken büyük düğme kırmızı **⏹ Beyni Durdur** olur (2. adımın başlığında da **⏹ Durdur** vardır):
+yanlış fotoğraf ya da ayar seçtiyseniz beklemeden durdurup yeniden başlatabilirsiniz.
 
 ## 3. Aday soruları seçin
 
