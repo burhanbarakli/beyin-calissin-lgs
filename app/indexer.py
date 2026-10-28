@@ -24,14 +24,16 @@ KINDS = {
     "kazanim_testi": ("Kazanım Testi", "Temel", 1),
     "tarama": ("Konu Tarama", "Yeni Nesil", 2),
     "lgs_cikmis": ("LGS Çıkmış", "LGS", 3),
+    "deneme": ("MEBİ Deneme", "LGS", 3),
+    "meb_kitap": ("MEB Çalışma Kitabı", "LGS", 3),
 }
 
 TP_FLAGS = pymupdf.TEXTFLAGS_DICT & ~pymupdf.TEXT_PRESERVE_IMAGES
-QNUM_RE = re.compile(r"^\s*(\d{1,2})\s*[.)](?!\d)\s*(.*)$")  # "15.00" saat/ondalık değil
+QNUM_RE = re.compile(r"^\s*(\d{1,3})\s*[.)](?!\d)\s*(.*)$")  # "15.00" saat/ondalık değil
 KEY_PAIR_RE = re.compile(r"(?<![\d,])(\d{1,2})\s*\.\s*([A-D])\b")
 # sınav kapağındaki "1. Bu testte 20 soru vardır." gibi yönerge satırları soru değildir
 INSTRUCTION_RE = re.compile(r"Bu testte|Cevaplarınızı|cevap kâğıdı|SINAV BAŞLAMADAN", re.I)
-SKIP_PAGE_RE = re.compile(r"SINAV BAŞLAMADAN|her hakkı saklıdır", re.I)
+SKIP_PAGE_RE = re.compile(r"SINAV BAŞLAMADAN|her hakkı saklıdır|Bu kitapçıkta \d+ soru", re.I)
 SUBJECT_HEAD_RE = re.compile(r"FEN BİLİMLERİ|MATEMATİK")
 
 
@@ -51,10 +53,12 @@ def norm(s: str) -> str:
 
 
 # ---------------------------------------------------------------- Soru tespiti
-def detect_questions(page, tp=None) -> list[dict]:
+def detect_questions(page, tp=None, ignore=(), bottom=0.925) -> list[dict]:
+    """ignore: kırpıma girmemesi gereken süs alanları (katalogdaki "ignore_rects": sayfa numarası vb.)
+    bottom: altbilginin başladığı yer (sayfa yüksekliğinin oranı; katalogdaki "bottom")"""
     W, H = page.rect.width, page.rect.height
     mid = W / 2
-    top_limit, bottom_limit = H * 0.05, H * 0.925
+    top_limit, bottom_limit = H * 0.04, H * bottom  # başlıksız kitaplarda ilk soru y≈41
     tp = tp or page.get_textpage(flags=TP_FLAGS)
     d = page.get_text("dict", textpage=tp)
     lines = []
@@ -71,13 +75,13 @@ def detect_questions(page, tp=None) -> list[dict]:
     for bbox, spans in lines:
         first = spans[0]
         txt = fix_text(first["text"])
-        if len(spans) > 1 and re.fullmatch(r"\s*\d{1,2}\s*", txt):
+        if len(spans) > 1 and re.fullmatch(r"\s*\d{1,3}\s*", txt):
             txt += fix_text(spans[1]["text"])
         m = QNUM_RE.match(txt)
         if not m:
             continue
         n = int(m.group(1))
-        if n == 0 or n > 60:
+        if n == 0 or n > 160:  # MEB çalışma kitabında ünite boyunca 154'e kadar
             continue
         x0, y0 = first["bbox"][0], first["bbox"][1]
         if y0 < top_limit or y0 > bottom_limit:
@@ -85,12 +89,12 @@ def detect_questions(page, tp=None) -> list[dict]:
         bold = bool(first["flags"] & 16) or "bold" in first["font"].lower() or "black" in first["font"].lower()
         # "1. ADIM", "2020 TYT" vb. yanlış pozitifleri ele
         rest = norm(" ".join(s["text"] for s in spans))
-        if re.search(r"ADIM|TEST|BÖLÜM|ÜNİTE", rest, re.I) and len(rest) < 20:
+        if re.search(r"ADIM|TEST|BÖLÜM|ÜNİTE|DENEME", rest, re.I) and len(rest) < 20:
             continue
         if INSTRUCTION_RE.search(rest):
             continue
         # numaranın ("12.") kapladığı alan: PDF'te orijinal numarayı kapatıp yenisini yazmak için
-        if len(spans) > 1 and re.fullmatch(r"\s*\d{1,2}\s*", fix_text(first["text"])):
+        if len(spans) > 1 and re.fullmatch(r"\s*\d{1,3}\s*", fix_text(first["text"])):
             nx1 = spans[1]["bbox"][2]
         else:
             # span "14.   " gibi sondaki boşluklarla gelebilir: karakter genişliği oranıyla böl
@@ -98,7 +102,7 @@ def detect_questions(page, tp=None) -> list[dict]:
             fx0, fx1 = first["bbox"][0], first["bbox"][2]
             ftxt = fix_text(first["text"])
             cw = lambda ch: 0.556 if ch.isdigit() else 0.278 if ch in ".) " else 0.5  # noqa: E731
-            numlen = len(re.match(r"\s*\d{1,2}\s*[.)]", ftxt).group(0))
+            numlen = len(re.match(r"\s*\d{1,3}\s*[.)]", ftxt).group(0))
             nx1 = fx0 + (fx1 - fx0) * sum(map(cw, ftxt[:numlen])) / max(0.1, sum(map(cw, ftxt)))
         num = [round(x0, 1), round(y0, 1), round(nx1 + 1, 1), round(first["bbox"][3], 1)]
         cands.append({"n": n, "x0": x0, "y0": y0, "bold": bold, "col": 0 if x0 < mid - 10 else 1, "num": num})
@@ -138,20 +142,32 @@ def detect_questions(page, tp=None) -> list[dict]:
 
     # sütun sınırları
     items = page_items(page)
+    # iki sütunlu sayfada sol sütundan başlayıp sütun ortasını geçen yazı satırı olan soru tam genişliktedir
+    # (ör. deneme kitapçığında üstte iki soru yan yana, altta tek soru boydan boya)
+    for c in result:
+        c["full"] = False
+        if two_col and c["col"] == 0:
+            below = [o["y0"] for o in result if o["col"] == 0 and o["y0"] > c["y0"] + 2]
+            y1 = min(below, default=bottom_limit)
+            c["full"] = any(x0 < mid - 20 and x1 > mid + 20 and c["y0"] - 4 <= y0 < y1 - 8  # alttakinin ilk satırı değil
+                            for (x0, y0, x1, _), _ in lines)
     out = []
     for c in result:
-        if two_col:
+        if c["full"]:
+            cx0, cx1 = c["left"] - 6, W - 8
+        elif two_col:
             cx0 = c["left"] - 6
             cx1 = mid - 4 if c["col"] == 0 else W - 8
             if c["col"] == 1:
                 cx0 = max(mid - 4, c["left"] - 6)
         else:
             cx0, cx1 = c["left"] - 6, W - 8
-        same = [o for o in result if o["col"] == c["col"] and o["y0"] > c["y0"] + 2]
+        # alttaki sınır: aynı sütundaki sonraki soru ya da (sağ sütunda) alttaki tam genişlikli soru
+        same = [o for o in result if (o["col"] == c["col"] or o["full"]) and o["y0"] > c["y0"] + 2]
         y_end = min([o["y0"] for o in same], default=bottom_limit) - 7  # numara simgesi yazıdan yukarıda başlar
         clip = pymupdf.Rect(cx0, c["y0"] - 4, cx1, y_end)
         # içeriğe sıkıştır
-        tight = content_rect(items, clip, next_below=bool(same))
+        tight = content_rect(items, clip, next_below=bool(same), ignore=ignore)
         if tight is None:  # taranmış sayfa (tam sayfa görsel + görünmez metin): sütun parçasını olduğu gibi al
             tight = clip
         if tight.height < 12:
@@ -198,7 +214,7 @@ def page_items(page) -> list:
     return items
 
 
-def content_rect(items, clip, next_below=False):
+def content_rect(items, clip, next_below=False, ignore=()):
     r = None
     for it in items:
         br = it & clip
@@ -206,6 +222,11 @@ def content_rect(items, clip, next_below=False):
             continue
         # arka plan / sayfa genişliğindeki çerçeveleri sayma
         if it.width > clip.width * 1.2 or it.height > clip.height * 1.5:
+            continue
+        # soru alanını boydan boya saran kutu (sayfa çerçevesi) içerik değildir
+        if it.x0 <= clip.x0 + 6 and it.x1 >= clip.x1 - 20 and it.y0 <= clip.y0 + 6 and it.y1 >= clip.y1 - 6:
+            continue
+        if any(z.contains(it) for z in ignore):
             continue
         # sütun kenarındaki dikey şerit ve onun (çizgi olarak çizilmiş) dikey yazısı
         if it.height > 30 and it.height > it.width * 6 and (br.x1 > clip.x1 - 25 or br.x0 < clip.x0 + 25):
@@ -302,7 +323,9 @@ def book_meta(path: Path) -> dict:
                                "calisma_kagidi" if "calisma" in path.stem.lower() else "kazanim_testi")
     subject = cat.get("subject", "mat")
     code, title, unit = cat.get("code", ""), cat.get("title", path.stem), cat.get("unit", "")
-    if kind == "lgs_cikmis":
+    if cat.get("id"):
+        bid = cat["id"]
+    elif kind == "lgs_cikmis":
         year = re.search(r"20\d\d", path.stem)
         bid = f"lgs_{subject}_cikmis_{year.group(0) if year else slug(path.stem)}"
     elif code:
@@ -373,6 +396,8 @@ def index_book(path: Path, progress=None) -> dict:
     topic = book_topic(meta)
     year = re.search(r"20\d\d", path.stem) if meta["kind"] == "lgs_cikmis" else None
     questions, key, key_pages = [], {}, []
+    cat = load_catalog(path)
+    ignore = [pymupdf.Rect(r) for r in cat.get("ignore_rects", [])]
     for i in range(doc.page_count):
         page = doc[i]
         tp = page.get_textpage(flags=TP_FLAGS)
@@ -388,10 +413,11 @@ def index_book(path: Path, progress=None) -> dict:
         ps = page_subject(text)
         if ps and ps != meta["subject"]:  # Sayısal Bölüm kitapçığında diğer dersin sayfaları
             continue
-        found = [] if meta["kind"] == "tarama" else detect_questions(page, tp)
+        found = [] if meta["kind"] == "tarama" else detect_questions(page, tp, ignore, cat.get("bottom", 0.925))
         if not found or not readable(" ".join(q["text"] for q in found)):
             found = [{**b, "text": ""} for b in detect_badges(page)]
-        for q in found:
+        # sayfa içinde numara sırasıyla: bazı kitapçıklarda sıra sol, sağ, sonra yine sol sütundur
+        for q in sorted(found, key=lambda q: q["n"]):
             # numaralar kitap boyunca artar: geriye dönen ya da çok ileri atlayan numara
             # soru içindeki madde işaretidir (ör. "15." bir tablo satırı)
             last = questions[-1]["n"] if questions else 0
@@ -418,6 +444,8 @@ def index_book(path: Path, progress=None) -> dict:
         for q in questions:
             if q["n"] > half:
                 q["level"], q["rank"] = "Orta", 2
+    # kitabın anahtarı ayrı sayfada/kitapta ise katalogda verilir: {"key": {"1": "C", ...}}
+    key = key or {int(n): a for n, a in load_catalog(path).get("key", {}).items()}
     for q in questions:
         q["answer"] = key.get(q["n"], "")
     return {"book": meta, "pages": doc.page_count, "key_pages": key_pages, "questions": questions,

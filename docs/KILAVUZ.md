@@ -24,7 +24,8 @@ Tek ekran, dört adım: **fotoğrafı yükle → Beyin Çalışsın → sorular�
    Pencere açık kalmalı; o sunucudur. Tarayıcıda `http://localhost:8765` açılır.
 4. Sağ üstte yeşil **"Claude Code hazır"** yazısını görüyorsanız hazırsınız.
 
-Soru bankası (kerimhoca.com LGS matematik kaynakları, 935 soru) hazır gelir; indeksleme gerekmez.
+Soru bankası hazır gelir; indeksleme gerekmez: kerimhoca.com LGS matematik kaynakları, MEB LGS Çalışma Kitabı ve
+12 MEBİ deneme (toplam 1679 soru).
 
 ---
 
@@ -54,7 +55,8 @@ Fotoğraflar `ogrenci/Sorular/<tarih>/` klasörüne kaydedilir. iPhone'da fotoğ
 1. Her fotoğrafı açar, soruyu çözer ve **asıl eksik beceriyi** tek cümleyle yazar.
 2. Soru bankasında o kazanıma ve beceriye benzeyen soruları arar.
 3. Her konu için sıralar: **Öğretici** (çalışma kâğıdı alıştırmaları, temel test soruları) →
-   **Pekiştirme** (kazanım testi, konu tarama) → **Zorlayıcı** (LGS çıkmış sorular).
+   **Pekiştirme** (kazanım testi, konu tarama, MEB kitabı, denemeler) → **Zorlayıcı** (LGS çıkmış sorular ve
+   zor MEB/deneme soruları).
 4. Cevap anahtarı olmayan test sorularını kendisi çözer.
 
 Ekranda beynin son düşüncesi görünür; **"Beynin tüm adımları"** ile ne yaptığını ayrıntılı izleyebilirsiniz.

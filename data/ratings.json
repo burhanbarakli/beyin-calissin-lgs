@@ -9,7 +9,7 @@
  },
  "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q3": {
   "claude": 4,
-  "note": "Ardışık seçimde kalanların renk olasılığı"
+  "note": "8 durumu tek tek inceleme"
  },
  "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p1|q4": {
   "claude": 3,
@@ -48,8 +48,8 @@
   "note": "Toplamların aralarında asal olma olasılığı"
  },
  "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p5|q13": {
-  "claude": 4,
-  "note": "Durumları listeleyerek olasılık hesaplama"
+  "claude": 3,
+  "note": "yeni nesil, koşul okuma"
  },
  "lgs_mat_basit_olaylarin_olma_olasiligi_konu_tarama_testi|p5|q14": {
   "claude": 4,
@@ -209,7 +209,7 @@
  },
  "lgs_mat_cikmis_2018|p2|q5": {
   "claude": 3,
-  "note": "Eşit olasılıktan bölüm sayısını bulma"
+  "note": "ters yönden akıl yürütme"
  },
  "lgs_mat_cikmis_2018|p2|q6": {
   "claude": 3,
@@ -317,7 +317,7 @@
  },
  "lgs_mat_cikmis_2019|p9|q12": {
   "claude": 4,
-  "note": "Olasılık karşılaştırmasıyla en büyük olasılık bulma"
+  "note": "çok adımlı koşul yorumu"
  },
  "lgs_mat_cikmis_2019|p10|q13": {
   "claude": 4,
@@ -376,8 +376,8 @@
   "note": "Cebirsel yükseklikleri toplayıp olası değer bulma"
  },
  "lgs_mat_cikmis_2020|p7|q7": {
-  "claude": 4,
-  "note": "Kodlanmış iki basamaklı sayılarla olasılık hesabı"
+  "claude": 5,
+  "note": "kombinasyonlu sayma, 17/90"
  },
  "lgs_mat_cikmis_2020|p8|q8": {
   "claude": 3,
@@ -404,8 +404,8 @@
   "note": "Sütun ve daire grafiğini birlikte yorumlama"
  },
  "lgs_mat_cikmis_2020|p11|q14": {
-  "claude": 3,
-  "note": "bölme durumlarını sistemli sayma"
+  "claude": 4,
+  "note": "olası bölmeleri listeleme"
  },
  "lgs_mat_cikmis_2020|p12|q15": {
   "claude": 4,
@@ -413,7 +413,7 @@
  },
  "lgs_mat_cikmis_2020|p13|q16": {
   "claude": 4,
-  "note": "Eşit olasılık koşuluyla top sayısı bulma"
+  "note": "durum analizi, bölünebilme"
  },
  "lgs_mat_cikmis_2020|p14|q17": {
   "claude": 4,
@@ -609,7 +609,7 @@
  },
  "lgs_mat_cikmis_2023|p4|q5": {
   "claude": 3,
-  "note": "olası durumları sistemli listeleme"
+  "note": "ortalama LGS, listeleme"
  },
  "lgs_mat_cikmis_2023|p5|q6": {
   "claude": 2,
@@ -1413,11 +1413,11 @@
  },
  "lgs_mat_8.16_calisma|p2|q9": {
   "claude": 1,
-  "note": "kareleri sayıp oranlama"
+  "note": "kareli zeminde sayma"
  },
  "lgs_mat_8.16_calisma|p1|q4": {
-  "claude": 2,
-  "note": "doğrudan formül uygulaması"
+  "claude": 1,
+  "note": "tek adımlı tanım"
  },
  "lgs_mat_8.16_test|p1|q6": {
   "claude": 2,
@@ -1425,10 +1425,3006 @@
  },
  "lgs_mat_8.16_test|p1|q3": {
   "claude": 2,
-  "note": "tablodan dört karşılaştırma"
+  "note": "tablodan sayma, seçenek karşılaştırma"
  },
  "lgs_mat_8.16_test|p2|q12": {
+  "claude": 2,
+  "note": "iki alanı karşılaştırma"
+ },
+ "lgs_mat_8.16_calisma|p2|q5": {
+  "claude": 1,
+  "note": "tek deney, çok koşul"
+ },
+ "lgs_mat_8.16_test|p1|q2": {
+  "claude": 2,
+  "note": "dört öncül, her biri tek adım"
+ },
+ "lgs_mat_8.16_calisma|p2|q10": {
+  "claude": 2,
+  "note": "grafikten oran kurma"
+ },
+ "lgs_mat_8.16_test|p2|q7": {
+  "claude": 2,
+  "note": "sayma + sadeleştirme"
+ },
+ "lgs_mat_8.16_test|p2|q10": {
+  "claude": 2,
+  "note": "liste + koşul"
+ },
+ "lgs_mat_meb_kitap_u1|p2|q1": {
   "claude": 3,
-  "note": "alan hesabı + oran"
+  "note": "Bölenlerin toplamını bulma ve karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p2|q2": {
+  "claude": 3,
+  "note": "EKOK ile çevre uzunluklarından ortak mesafe"
+ },
+ "lgs_mat_meb_kitap_u1|p3|q3": {
+  "claude": 4,
+  "note": "Yüzde ve EKOK ile en az ortak miktar"
+ },
+ "lgs_mat_meb_kitap_u1|p3|q4": {
+  "claude": 3,
+  "note": "EKOK ve bölenlerle kare yerleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p4|q5": {
+  "claude": 3,
+  "note": "EKOK ile yükseklik ve bölenlik ilişkisi"
+ },
+ "lgs_mat_meb_kitap_u1|p5|q6": {
+  "claude": 3,
+  "note": "EKOK ile yerleştirme ve boşluk problemi"
+ },
+ "lgs_mat_meb_kitap_u1|p5|q7": {
+  "claude": 3,
+  "note": "EKOK ile en çok taş sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p6|q8": {
+  "claude": 3,
+  "note": "EBOB ile en az basamak sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p6|q9": {
+  "claude": 2,
+  "note": "Rakamların karesiyle şifre oluşturma"
+ },
+ "lgs_mat_meb_kitap_u1|p7|q10": {
+  "claude": 2,
+  "note": "Kuvvet ve tam kare sayıları ayırt etme"
+ },
+ "lgs_mat_meb_kitap_u1|p7|q11": {
+  "claude": 3,
+  "note": "Üslü ifadelerde çarpım kuralı ve tablo"
+ },
+ "lgs_mat_meb_kitap_u1|p8|q12": {
+  "claude": 4,
+  "note": "Negatif tabanlı üslü ifadelerin en büyük çarpımı"
+ },
+ "lgs_mat_meb_kitap_u1|p8|q13": {
+  "claude": 3,
+  "note": "Üslü ifadelerle bakteri artışı ve oran"
+ },
+ "lgs_mat_meb_kitap_u1|p9|q14": {
+  "claude": 2,
+  "note": "Ondalık/bilimsel gösterimle büyütme oranı"
+ },
+ "lgs_mat_meb_kitap_u1|p9|q15": {
+  "claude": 2,
+  "note": "Bilimsel gösterimle birim dönüşümü ve çarpma"
+ },
+ "lgs_mat_meb_kitap_u1|p10|q16": {
+  "claude": 3,
+  "note": "EKOK ile karşılıklı istasyon sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p10|q17": {
+  "claude": 3,
+  "note": "Yüzde ve hacimle bilimsel gösterim"
+ },
+ "lgs_mat_meb_kitap_u1|p11|q18": {
+  "claude": 3,
+  "note": "10'un kuvvetiyle çarpma ve tolerans aralığı"
+ },
+ "lgs_mat_meb_kitap_u1|p12|q19": {
+  "claude": 3,
+  "note": "Ondalık gösterimin çözümlenmesi ve 10'un tam sayı kuvvetleri"
+ },
+ "lgs_mat_meb_kitap_u1|p13|q20": {
+  "claude": 4,
+  "note": "Ortak bölenle alandan kenar ve yükseklik bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p14|q21": {
+  "claude": 4,
+  "note": "Aralarında asal ve asal çarpanlardan şifre kurma"
+ },
+ "lgs_mat_meb_kitap_u1|p15|q22": {
+  "claude": 3,
+  "note": "Tek asal çarpanlı sayılar ve EKOK"
+ },
+ "lgs_mat_meb_kitap_u1|p16|q23": {
+  "claude": 3,
+  "note": "EKOK ile eşit uzunlukta ip ve maliyet"
+ },
+ "lgs_mat_meb_kitap_u1|p17|q24": {
+  "claude": 3,
+  "note": "EBOB ile parçaları eşit bölme ve basamak sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p18|q25": {
+  "claude": 3,
+  "note": "Kesirlerin tam sayı olması ve EKOK"
+ },
+ "lgs_mat_meb_kitap_u1|p19|q26": {
+  "claude": 3,
+  "note": "Negatif üslü ve negatif tabanlı değerleri eşleme"
+ },
+ "lgs_mat_meb_kitap_u1|p19|q27": {
+  "claude": 2,
+  "note": "Çözümlenmiş ondalık gösterimleri karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p20|q28": {
+  "claude": 3,
+  "note": "Aralarında asal sayıları şekle yerleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p20|q29": {
+  "claude": 2,
+  "note": "Çarpımı bilimsel gösterimle yazma"
+ },
+ "lgs_mat_meb_kitap_u1|p21|q30": {
+  "claude": 3,
+  "note": "EKOK ile karşılıklı noktaları sayma"
+ },
+ "lgs_mat_meb_kitap_u1|p21|q31": {
+  "claude": 3,
+  "note": "Üslü ifadelerle nüfus ve alan değişimi"
+ },
+ "lgs_mat_meb_kitap_u1|p21|q32": {
+  "claude": 3,
+  "note": "EKOK ile eşit kütleden para sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p22|q33": {
+  "claude": 3,
+  "note": "Ondalık gösterimi çözümleme ve eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p22|q34": {
+  "claude": 3,
+  "note": "EKOK ile eşit gelirden en az satış miktarı"
+ },
+ "lgs_mat_meb_kitap_u1|p23|q35": {
+  "claude": 4,
+  "note": "EKOK ile aynı anda hareket sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p23|q36": {
+  "claude": 3,
+  "note": "Aynı sayının farklı kuvvetlerini aralıkta bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p24|q37": {
+  "claude": 3,
+  "note": "Yüzde ve oran ile alan toplamını belirleme"
+ },
+ "lgs_mat_meb_kitap_u1|p24|q38": {
+  "claude": 2,
+  "note": "3'ün kuvvetleriyle çözümleme ve takip numarası"
+ },
+ "lgs_mat_meb_kitap_u1|p25|q39": {
+  "claude": 3,
+  "note": "Yüzde ve birim dönüşümüyle bilimsel gösterim"
+ },
+ "lgs_mat_meb_kitap_u1|p26|q40": {
+  "claude": 4,
+  "note": "2'nin kuvvetleriyle artan süreleri toplama"
+ },
+ "lgs_mat_meb_kitap_u1|p27|q41": {
+  "claude": 3,
+  "note": "Dakika ve saniye değerlerinin aralarında asal olması"
+ },
+ "lgs_mat_meb_kitap_u1|p27|q42": {
+  "claude": 4,
+  "note": "EKOK ile eşit kütleli paket ve sayı farkı"
+ },
+ "lgs_mat_meb_kitap_u1|p28|q43": {
+  "claude": 3,
+  "note": "Asal çarpan sayısına göre kartları sınıflama"
+ },
+ "lgs_mat_meb_kitap_u1|p28|q44": {
+  "claude": 2,
+  "note": "Üslü ifadelerle alan ve kenar uzunluğu"
+ },
+ "lgs_mat_meb_kitap_u1|p29|q45": {
+  "claude": 3,
+  "note": "EKOK ile eşit miktardan en az gelir"
+ },
+ "lgs_mat_meb_kitap_u1|p29|q46": {
+  "claude": 3,
+  "note": "EKOK ile raf uzunluğu ve fiyat aralığı"
+ },
+ "lgs_mat_meb_kitap_u1|p30|q47": {
+  "claude": 3,
+  "note": "Üslü birim dönüşümü ve boş alan"
+ },
+ "lgs_mat_meb_kitap_u1|p31|q48": {
+  "claude": 3,
+  "note": "Bilimsel gösterimle harita ölçeklerini karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p32|q49": {
+  "claude": 4,
+  "note": "Yüzde ve üslü ifadelerle gelir hesabı"
+ },
+ "lgs_mat_meb_kitap_u1|p32|q50": {
+  "claude": 3,
+  "note": "Eşit toplam hacimden bardak sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p33|q51": {
+  "claude": 4,
+  "note": "EKOK ile döngü sürelerinden ortak zamanı üslü yazma"
+ },
+ "lgs_mat_meb_kitap_u1|p34|q52": {
+  "claude": 4,
+  "note": "2'nin kuvvetleriyle sayfa numaralandırma ve çarpım"
+ },
+ "lgs_mat_meb_kitap_u1|p35|q53": {
+  "claude": 4,
+  "note": "Aralarında asal ve iki asal çarpanlı en küçük sayı"
+ },
+ "lgs_mat_meb_kitap_u1|p35|q54": {
+  "claude": 3,
+  "note": "Üslü ifadelerle enerji tüketimi toplamı"
+ },
+ "lgs_mat_meb_kitap_u1|p36|q55": {
+  "claude": 3,
+  "note": "Çarpanlara göre durmayan asansör sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p36|q56": {
+  "claude": 4,
+  "note": "Alandan ortak bölenlerle kenar uzunluğu bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p37|q57": {
+  "claude": 4,
+  "note": "Aralarında asal ve iki asal çarpanlı sayılar"
+ },
+ "lgs_mat_meb_kitap_u1|p37|q58": {
+  "claude": 3,
+  "note": "Ortak bölenle fiyat ve en az litre farkı"
+ },
+ "lgs_mat_meb_kitap_u1|p38|q59": {
+  "claude": 3,
+  "note": "Asal çarpan sayısına göre toplam hesaplama"
+ },
+ "lgs_mat_meb_kitap_u1|p38|q60": {
+  "claude": 3,
+  "note": "Aralarında asal uzama değerleri"
+ },
+ "lgs_mat_meb_kitap_u1|p39|q61": {
+  "claude": 3,
+  "note": "EKOK ile raf uzunluğu ve eleman sayısı farkı"
+ },
+ "lgs_mat_meb_kitap_u1|p39|q62": {
+  "claude": 4,
+  "note": "Aralarında asal ve iki asal çarpanlı en küçük sayı"
+ },
+ "lgs_mat_meb_kitap_u1|p40|q63": {
+  "claude": 3,
+  "note": "Asal çarpanlara ayırarak etiket numarasından fiyat bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p40|q64": {
+  "claude": 3,
+  "note": "EKOK ile eşit kâr için en az adet"
+ },
+ "lgs_mat_meb_kitap_u1|p41|q65": {
+  "claude": 3,
+  "note": "2'nin kuvvetleri toplamıyla kodlama"
+ },
+ "lgs_mat_meb_kitap_u1|p41|q66": {
+  "claude": 4,
+  "note": "Üslü ifadelerde desen ve çarpım"
+ },
+ "lgs_mat_meb_kitap_u1|p42|q67": {
+  "claude": 3,
+  "note": "Negatif tabanlı üslü ifadelerin işareti ve çarpımı"
+ },
+ "lgs_mat_meb_kitap_u1|p42|q68": {
+  "claude": 3,
+  "note": "3'ün kuvvetleriyle toplam ve en büyük puan"
+ },
+ "lgs_mat_meb_kitap_u1|p43|q69": {
+  "claude": 4,
+  "note": "Bilimsel gösterim, yüzde ve yarıçap-çap ilişkisi"
+ },
+ "lgs_mat_meb_kitap_u1|p43|q70": {
+  "claude": 4,
+  "note": "Üslü ifadelerde tabanı eşitleyerek çarpma"
+ },
+ "lgs_mat_meb_kitap_u1|p44|q71": {
+  "claude": 4,
+  "note": "Negatif üslü ifadelerin çarpım ve oranının en büyüğü"
+ },
+ "lgs_mat_meb_kitap_u1|p44|q72": {
+  "claude": 3,
+  "note": "Alan, kişi sayısı ve bilimsel gösterim hesabı"
+ },
+ "lgs_mat_meb_kitap_u1|p45|q73": {
+  "claude": 3,
+  "note": "Üslü ifadelerle bölme ve karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p45|q74": {
+  "claude": 2,
+  "note": "Çözümlenmiş ondalık sayıları toplama ve eşik"
+ },
+ "lgs_mat_meb_kitap_u1|p46|q75": {
+  "claude": 3,
+  "note": "Asal çarpanlara ayırarak en az parça sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p46|q76": {
+  "claude": 3,
+  "note": "EKOK ile eşit gelirden en az tişört sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p47|q77": {
+  "claude": 3,
+  "note": "Üslü ifadelerle adım sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p47|q78": {
+  "claude": 4,
+  "note": "Üslü ve onluk kuvvetlerle kütle hesaplama"
+ },
+ "lgs_mat_meb_kitap_u1|p48|q79": {
+  "claude": 3,
+  "note": "Ortak bölenle en fazla kutu sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p48|q80": {
+  "claude": 4,
+  "note": "Üslü ifadelerle birim ve oran problemi"
+ },
+ "lgs_mat_meb_kitap_u1|p49|q81": {
+  "claude": 4,
+  "note": "EKOK ile karşılaşma sayılarını karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p49|q82": {
+  "claude": 4,
+  "note": "Üslünün üssü ile denk ifade oluşturma"
+ },
+ "lgs_mat_meb_kitap_u1|p50|q83": {
+  "claude": 4,
+  "note": "Üslü ifadelerle paket ve yerleştirme problemi"
+ },
+ "lgs_mat_meb_kitap_u1|p50|q84": {
+  "claude": 4,
+  "note": "EKOK ile uçuş günlerini yorumlama"
+ },
+ "lgs_mat_meb_kitap_u1|p51|q85": {
+  "claude": 3,
+  "note": "EKOK ile geliş saati bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p51|q86": {
+  "claude": 4,
+  "note": "EBOB ile en büyük kare kenarını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p51|q87": {
+  "claude": 2,
+  "note": "EBOB ile en az koli sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p52|q88": {
+  "claude": 3,
+  "note": "Üslü ifadelerle bölme ve desen sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p52|q89": {
+  "claude": 4,
+  "note": "EBOB'un çıkarma işleminde korunmasını yorumlama"
+ },
+ "lgs_mat_meb_kitap_u1|p53|q90": {
+  "claude": 2,
+  "note": "10'un kuvvetleriyle yazılan miktarları sıralama"
+ },
+ "lgs_mat_meb_kitap_u1|p53|q91": {
+  "claude": 4,
+  "note": "Bilimsel gösterimle alan ve hacim hesaplama"
+ },
+ "lgs_mat_meb_kitap_u1|p54|q92": {
+  "claude": 3,
+  "note": "Ondalık gösterimi çözümleyerek işlem yapma"
+ },
+ "lgs_mat_meb_kitap_u1|p54|q93": {
+  "claude": 4,
+  "note": "Asal çarpanlardan kenar uzunluğu bulup çevre hesaplama"
+ },
+ "lgs_mat_meb_kitap_u1|p55|q94": {
+  "claude": 4,
+  "note": "Üslü ifadelerle nüfus artışı problemi"
+ },
+ "lgs_mat_meb_kitap_u1|p55|q95": {
+  "claude": 4,
+  "note": "Alan ve çarpanlardan dikdörtgen kenarlarını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p55|q96": {
+  "claude": 4,
+  "note": "EBOB'un bölenleriyle poşet sayısı ve fark"
+ },
+ "lgs_mat_meb_kitap_u1|p56|q97": {
+  "claude": 4,
+  "note": "Üslü ifadelerle kütle ve boncuk sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p56|q98": {
+  "claude": 4,
+  "note": "Çarpımı 30'un kuvveti yapan kart sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p56|q99": {
+  "claude": 4,
+  "note": "EKOK ile iki yayın akışını eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p57|q100": {
+  "claude": 4,
+  "note": "Ondalık gösterimi çözümleyerek sayı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p57|q101": {
+  "claude": 4,
+  "note": "Üslü ifadelerle kutu ve boncuk sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p58|q102": {
+  "claude": 4,
+  "note": "EKOK ile tutarı eşit alanları bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p58|q103": {
+  "claude": 4,
+  "note": "Alanın çarpanlarından kare kenarını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p59|q104": {
+  "claude": 4,
+  "note": "6'nın kuvveti şeklinde tutar ve koli sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p59|q105": {
+  "claude": 3,
+  "note": "Üslü uzunluklarla desen çevresi hesaplama"
+ },
+ "lgs_mat_meb_kitap_u1|p60|q106": {
+  "claude": 4,
+  "note": "Asal çarpanlarla EBOB ve EKOK yorumlama"
+ },
+ "lgs_mat_meb_kitap_u1|p60|q107": {
+  "claude": 3,
+  "note": "EBOB ile kap sayısından kap hacmini bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p61|q108": {
+  "claude": 4,
+  "note": "Alanın çarpanlarından olanaksız alanı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p61|q109": {
+  "claude": 4,
+  "note": "Aralarında asal çiftlerle toplam eşitleme"
+ },
+ "lgs_mat_meb_kitap_u1|p62|q110": {
+  "claude": 4,
+  "note": "EKOK ile eşit uzunluk için bağlantı sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p62|q111": {
+  "claude": 3,
+  "note": "EBOB ile parça uzunluğu ve çerçeve farkı"
+ },
+ "lgs_mat_meb_kitap_u1|p63|q112": {
+  "claude": 4,
+  "note": "Üslü uzunluklarla katlanmış kâğıt alanı"
+ },
+ "lgs_mat_meb_kitap_u1|p63|q113": {
+  "claude": 4,
+  "note": "Taban ve kuvvet seçerek üslü ifadeleri karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p64|q114": {
+  "claude": 5,
+  "note": "Negatif ve pozitif kuvvetli kartlarla toplam bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p64|q115": {
+  "claude": 3,
+  "note": "Üslü ifadelerle direk ve lamba sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p65|q116": {
+  "claude": 3,
+  "note": "Onluk kuvvetlerle çarpma ve bölme"
+ },
+ "lgs_mat_meb_kitap_u1|p65|q117": {
+  "claude": 3,
+  "note": "Çözümlenmiş ondalık kütlelerle en az boncuk sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p66|q118": {
+  "claude": 3,
+  "note": "Onluk kuvvetlerle çevre ve uzunluk hesaplama"
+ },
+ "lgs_mat_meb_kitap_u1|p66|q119": {
+  "claude": 4,
+  "note": "Aralarında asal kenarlardan en büyük çevreyi bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p67|q120": {
+  "claude": 4,
+  "note": "EBOB ile en az sınıf sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p67|q121": {
+  "claude": 4,
+  "note": "2 ve 3'ün kuvvetleriyle para miktarı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p67|q122": {
+  "claude": 3,
+  "note": "EKOK ile ortak günleri paylaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p68|q123": {
+  "claude": 3,
+  "note": "Üslü sürelerle üretim miktarı karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u1|p68|q124": {
+  "claude": 4,
+  "note": "Aralarında asal ve ortak bölenle parça sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p69|q125": {
+  "claude": 4,
+  "note": "EKOK ve bilimsel gösterimle su miktarı"
+ },
+ "lgs_mat_meb_kitap_u1|p69|q126": {
+  "claude": 3,
+  "note": "Üslü uzunluklarla çubuk sayısı ve uzaklık"
+ },
+ "lgs_mat_meb_kitap_u1|p70|q127": {
+  "claude": 4,
+  "note": "Ortak kısa kenar bulup en küçük çevre"
+ },
+ "lgs_mat_meb_kitap_u1|p70|q128": {
+  "claude": 4,
+  "note": "Sayıların asal çarpan sayısını sayma"
+ },
+ "lgs_mat_meb_kitap_u1|p71|q129": {
+  "claude": 4,
+  "note": "Bilimsel gösterimle sayıları sıralama"
+ },
+ "lgs_mat_meb_kitap_u1|p71|q130": {
+  "claude": 4,
+  "note": "Üslü kenar uzunluklarıyla çevre bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p72|q131": {
+  "claude": 4,
+  "note": "EBOB ile bayrak aralığı ve en kısa yol"
+ },
+ "lgs_mat_meb_kitap_u1|p72|q132": {
+  "claude": 4,
+  "note": "Çıta parçalarından en az çerçeve sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p73|q133": {
+  "claude": 5,
+  "note": "Tabloda taban ve üs ilişkisiyle çarpma"
+ },
+ "lgs_mat_meb_kitap_u1|p73|q134": {
+  "claude": 4,
+  "note": "Aralarında asal çarpımlar ve en küçük toplam"
+ },
+ "lgs_mat_meb_kitap_u1|p74|q135": {
+  "claude": 4,
+  "note": "EBOB ile kutu sayısı ve gelir problemi"
+ },
+ "lgs_mat_meb_kitap_u1|p74|q136": {
+  "claude": 3,
+  "note": "Üslü ifadelerle bölme ve çarpma problemi"
+ },
+ "lgs_mat_meb_kitap_u1|p75|q137": {
+  "claude": 4,
+  "note": "EKOK ile seans başlangıçlarını eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p75|q138": {
+  "claude": 2,
+  "note": "Üslü ifadeleri sadeleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p75|q139": {
+  "claude": 2,
+  "note": "10'un kuvvetleriyle çarpımdan bilinmeyen üssü bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p75|q140": {
+  "claude": 3,
+  "note": "EBOB ile kavanoz sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p75|q141": {
+  "claude": 2,
+  "note": "Tam sayıların kuvvetlerini değerleriyle eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p76|q142": {
+  "claude": 4,
+  "note": "Bölenlerle birim fiyat ve ödeme bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p76|q143": {
+  "claude": 3,
+  "note": "EKOK ile parça sayıları farkından uzunluk bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p76|q144": {
+  "claude": 4,
+  "note": "Üslü oranlarla tekerlek tur sayısı"
+ },
+ "lgs_mat_meb_kitap_u1|p77|q145": {
+  "claude": 2,
+  "note": "Üslü ifadeleri aynı tabana çevirip sadeleştirme"
+ },
+ "lgs_mat_meb_kitap_u1|p77|q146": {
+  "claude": 4,
+  "note": "EBOB ile en az paket sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p77|q147": {
+  "claude": 2,
+  "note": "EKOK ile ortak mola noktasını bulma"
+ },
+ "lgs_mat_meb_kitap_u1|p77|q148": {
+  "claude": 4,
+  "note": "Üslü ifadelerle bölme ve en büyük çarpım"
+ },
+ "lgs_mat_meb_kitap_u1|p78|q149": {
+  "claude": 2,
+  "note": "Aralarında asal olmayan sayıları sayma"
+ },
+ "lgs_mat_meb_kitap_u1|p78|q150": {
+  "claude": 1,
+  "note": "Negatif ve pozitif üslü ifadelerle toplama"
+ },
+ "lgs_mat_meb_kitap_u1|p78|q151": {
+  "claude": 4,
+  "note": "EKOK ile ortak kalem sayısı ve fiyat"
+ },
+ "lgs_mat_meb_kitap_u1|p78|q152": {
+  "claude": 2,
+  "note": "Tabloda taban ve üs eşitliğiyle çarpım"
+ },
+ "lgs_mat_meb_kitap_u1|p79|q153": {
+  "claude": 3,
+  "note": "EBOB ile paket sayısı ve oran"
+ },
+ "lgs_mat_meb_kitap_u1|p79|q154": {
+  "claude": 3,
+  "note": "Üslü ifadelerle alan ve gelir hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p2|q1": {
+  "claude": 3,
+  "note": "Karekökü verilen doğal sayıya yakın sayıları bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p3|q2": {
+  "claude": 3,
+  "note": "Karekökün en yakın tam sayısına göre gruplama"
+ },
+ "lgs_mat_meb_kitap_u2|p3|q3": {
+  "claude": 3,
+  "note": "Karekökü alıp yuvarlama adımlarını uygulama"
+ },
+ "lgs_mat_meb_kitap_u2|p4|q4": {
+  "claude": 2,
+  "note": "Karekökün en yakın tam sayısıyla kodlama"
+ },
+ "lgs_mat_meb_kitap_u2|p4|q5": {
+  "claude": 2,
+  "note": "Karekökün en yakın tam sayı değerini bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p5|q6": {
+  "claude": 4,
+  "note": "Karekök tahminiyle toplam uzunluğu en büyük değer bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p6|q7": {
+  "claude": 3,
+  "note": "a√b biçimindeki ifadenin değerini tahmin etme"
+ },
+ "lgs_mat_meb_kitap_u2|p6|q8": {
+  "claude": 3,
+  "note": "Kare alanından çevre ve fiyat hesabı (a√b)"
+ },
+ "lgs_mat_meb_kitap_u2|p7|q9": {
+  "claude": 4,
+  "note": "Alanları karekökle verilen parçalarda en küçük alan"
+ },
+ "lgs_mat_meb_kitap_u2|p7|q10": {
+  "claude": 3,
+  "note": "Kareköklü boyutlarla alan ve yüzde hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p8|q11": {
+  "claude": 3,
+  "note": "Alandan kare kenarını a√b yazıp en küçük çevreyi bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p8|q12": {
+  "claude": 3,
+  "note": "Kareköklü sayıların çarpımının rasyonel olması"
+ },
+ "lgs_mat_meb_kitap_u2|p9|q13": {
+  "claude": 3,
+  "note": "Daire ve sütun grafiğinde işçi başına üretimi karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u2|p9|q14": {
+  "claude": 3,
+  "note": "Sütun grafiğinden aritmetik ortalama ve yorum"
+ },
+ "lgs_mat_meb_kitap_u2|p10|q15": {
+  "claude": 4,
+  "note": "Tablo ve daire grafiğinden sütun grafiği oluşturma"
+ },
+ "lgs_mat_meb_kitap_u2|p11|q16": {
+  "claude": 4,
+  "note": "Sütun grafiğinden daire grafiği oluşturma"
+ },
+ "lgs_mat_meb_kitap_u2|p12|q17": {
+  "claude": 3,
+  "note": "Alan oranından kartın çevresini bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p12|q18": {
+  "claude": 3,
+  "note": "Kareköklü sayının en yakın doğal sayısıyla yol bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p13|q19": {
+  "claude": 3,
+  "note": "Karekökten büyük ve küçük doğal sayılarla puan hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p13|q20": {
+  "claude": 4,
+  "note": "Kareköklü uzunluklardan bayrak alanı bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p14|q21": {
+  "claude": 3,
+  "note": "a√b ifadesini sınır değerle karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u2|p14|q22": {
+  "claude": 3,
+  "note": "Bölümün tahminiyle en çok tam tur sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p15|q23": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğini birlikte yorumlayıp en az miktar bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p15|q24": {
+  "claude": 3,
+  "note": "Daire ve sütun grafiğinden toplam öğrenci sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p16|q25": {
+  "claude": 3,
+  "note": "Alanlardan kenar bulup yükseklik farkı oranlama"
+ },
+ "lgs_mat_meb_kitap_u2|p16|q26": {
+  "claude": 4,
+  "note": "Sütun grafiğinden yeni daire grafiği oluşturma"
+ },
+ "lgs_mat_meb_kitap_u2|p17|q27": {
+  "claude": 3,
+  "note": "Kareköklü sayıyı iki değer arasında tahmin etme"
+ },
+ "lgs_mat_meb_kitap_u2|p17|q28": {
+  "claude": 5,
+  "note": "Grafik ve tablodan aralık sınırlarıyla en fazla miktarı bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p18|q29": {
+  "claude": 3,
+  "note": "Cetvelden kareköklü uzunluğu tahmin etme"
+ },
+ "lgs_mat_meb_kitap_u2|p18|q30": {
+  "claude": 3,
+  "note": "Daire grafiklerinden sütun grafiğini belirleme"
+ },
+ "lgs_mat_meb_kitap_u2|p19|q31": {
+  "claude": 3,
+  "note": "Kareköklü yüksekliği iki sınır arasında tahmin etme"
+ },
+ "lgs_mat_meb_kitap_u2|p19|q32": {
+  "claude": 3,
+  "note": "Karekökün en yakın tam sayısıyla puan hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p20|q33": {
+  "claude": 4,
+  "note": "Alandan kenar bulup toplam uzaklığı hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p21|q34": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğinden defolu ürün sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p21|q35": {
+  "claude": 3,
+  "note": "Alandan kısa kenarı kareköklü bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p22|q36": {
+  "claude": 4,
+  "note": "Daire grafiği ve ücret tarifesiyle toplam ücret"
+ },
+ "lgs_mat_meb_kitap_u2|p23|q37": {
+  "claude": 4,
+  "note": "Çarpımı rasyonel olan kareköklü ifadeleri eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u2|p24|q38": {
+  "claude": 4,
+  "note": "Kareköklü süre toplamlarını karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u2|p24|q39": {
+  "claude": 2,
+  "note": "Daire grafiğinden öğrenci sayısı ve toplam ücret"
+ },
+ "lgs_mat_meb_kitap_u2|p25|q40": {
+  "claude": 4,
+  "note": "Kareköklü uzunluklardan en çok parça sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p25|q41": {
+  "claude": 4,
+  "note": "Kareköklü sayının en yakın doğal sayısıyla ardışık dizi oluşturma"
+ },
+ "lgs_mat_meb_kitap_u2|p26|q42": {
+  "claude": 4,
+  "note": "Kareköklü uzaklık aralığında en küçük ve en büyük tam sayı"
+ },
+ "lgs_mat_meb_kitap_u2|p27|q43": {
+  "claude": 3,
+  "note": "Sütun grafiğinden yüklenen miktarlarla daire grafiği"
+ },
+ "lgs_mat_meb_kitap_u2|p28|q44": {
+  "claude": 5,
+  "note": "Kareköklü uzunluklarla adım sayısından mesafe aralığı bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p28|q45": {
+  "claude": 3,
+  "note": "Çevreden kenar bulup boyalı kare sayısını hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p29|q46": {
+  "claude": 3,
+  "note": "Ondalık ifadenin karekökünden taş dizisi çevresi"
+ },
+ "lgs_mat_meb_kitap_u2|p29|q47": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğinden su miktarı dağılımı"
+ },
+ "lgs_mat_meb_kitap_u2|p30|q48": {
+  "claude": 3,
+  "note": "Daire grafiğinden birim fiyat ve toplam gelir hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p30|q49": {
+  "claude": 4,
+  "note": "Kareköklü uzunlukla rafa en çok kutu yerleştirme"
+ },
+ "lgs_mat_meb_kitap_u2|p31|q50": {
+  "claude": 4,
+  "note": "Kareköklü kenarlarla tam sayı boyutları kestirip çevre bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p31|q51": {
+  "claude": 2,
+  "note": "Kareköklü sayıyı 7 ile karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u2|p32|q52": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğinden katılmayan kişi sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p32|q53": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğiyle atık yağ ve bilimsel gösterim"
+ },
+ "lgs_mat_meb_kitap_u2|p33|q54": {
+  "claude": 3,
+  "note": "Karekökü alanlardan kenar toplamı ve yaklaşık değer"
+ },
+ "lgs_mat_meb_kitap_u2|p33|q55": {
+  "claude": 3,
+  "note": "Kareköklü uzaklıklarla konum aralığı belirleme"
+ },
+ "lgs_mat_meb_kitap_u2|p34|q56": {
+  "claude": 4,
+  "note": "Kareköklü kütlelerle bilye sayısı koşulu"
+ },
+ "lgs_mat_meb_kitap_u2|p34|q57": {
+  "claude": 3,
+  "note": "Kareköklü katsayıyla yıllık büyüme hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p35|q58": {
+  "claude": 4,
+  "note": "Kare alanlarından kenar bulup en kısa kanal uzunluğu"
+ },
+ "lgs_mat_meb_kitap_u2|p35|q59": {
+  "claude": 4,
+  "note": "Kareköklü çubuk uzunluklarından adet bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p36|q60": {
+  "claude": 4,
+  "note": "Daire grafiklerini birleştirip en fazla değeri bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p36|q61": {
+  "claude": 4,
+  "note": "Sütun ve daire grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_meb_kitap_u2|p37|q62": {
+  "claude": 3,
+  "note": "Karekökü iki ardışık doğal sayı arasında tahmin etme"
+ },
+ "lgs_mat_meb_kitap_u2|p37|q63": {
+  "claude": 4,
+  "note": "Daire grafiği ve tablodan gelir hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p38|q64": {
+  "claude": 4,
+  "note": "Karekökle alan ve kenar uzunluğu hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p38|q65": {
+  "claude": 4,
+  "note": "Sütun grafiğinden daire grafiği oluşturma"
+ },
+ "lgs_mat_meb_kitap_u2|p39|q66": {
+  "claude": 4,
+  "note": "Daire grafiğinden sütun grafiği oluşturma"
+ },
+ "lgs_mat_meb_kitap_u2|p40|q67": {
+  "claude": 4,
+  "note": "Kareköklü ifadelerle alan ve çevre hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p40|q68": {
+  "claude": 4,
+  "note": "Kampanyalı fiyatlarla daire grafiği yorumlama"
+ },
+ "lgs_mat_meb_kitap_u2|p41|q69": {
+  "claude": 3,
+  "note": "Kareköklü kenarlı şeklin çevresini bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p41|q70": {
+  "claude": 4,
+  "note": "Üslü verili sütun grafiğinden daire grafiği"
+ },
+ "lgs_mat_meb_kitap_u2|p42|q71": {
+  "claude": 4,
+  "note": "Daire grafiği ve kâr oranıyla toplam kâr"
+ },
+ "lgs_mat_meb_kitap_u2|p42|q72": {
+  "claude": 3,
+  "note": "Kareköklü kenarları karşılaştırıp kare sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p43|q73": {
+  "claude": 4,
+  "note": "Kareköklü çarpımları karşılaştırıp tahmin etme"
+ },
+ "lgs_mat_meb_kitap_u2|p43|q74": {
+  "claude": 4,
+  "note": "Kareköklü uzunluğu tahmin edip aralık belirleme"
+ },
+ "lgs_mat_meb_kitap_u2|p44|q75": {
+  "claude": 4,
+  "note": "Kareköklü uzunlukları yüzdeyle artırıp karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u2|p45|q76": {
+  "claude": 4,
+  "note": "Sayı doğrusunda karekökün yerini belirleme"
+ },
+ "lgs_mat_meb_kitap_u2|p45|q77": {
+  "claude": 3,
+  "note": "Karenin alanından kenar ve çevre bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p46|q78": {
+  "claude": 4,
+  "note": "Kareköklü kenarlarla birleşik şeklin çevresi"
+ },
+ "lgs_mat_meb_kitap_u2|p47|q79": {
+  "claude": 4,
+  "note": "Kareköklü parçalardan oluşan şeklin çevresi"
+ },
+ "lgs_mat_meb_kitap_u2|p47|q80": {
+  "claude": 4,
+  "note": "İki daire grafiğinden oran ve adet hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p48|q81": {
+  "claude": 4,
+  "note": "Kareköklü uzunlukları toplayıp çıkararak uzunluk bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p48|q82": {
+  "claude": 3,
+  "note": "Ondalık ifadenin karekökünü hesaplayıp karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u2|p49|q83": {
+  "claude": 4,
+  "note": "Tablo ve daire grafiğiyle öğrenci sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p49|q84": {
+  "claude": 4,
+  "note": "Kareköklü kenarlarla uzunluğu tahmin etme"
+ },
+ "lgs_mat_meb_kitap_u2|p50|q85": {
+  "claude": 4,
+  "note": "Tam kare sayılarla karekök tahmini ve çarpım"
+ },
+ "lgs_mat_meb_kitap_u2|p50|q86": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğinden yeni daire açısı"
+ },
+ "lgs_mat_meb_kitap_u2|p51|q87": {
+  "claude": 4,
+  "note": "İki daire grafiğiyle yaş farkı bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p51|q88": {
+  "claude": 4,
+  "note": "Kareköklü çevre uzunluğundan çevre hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p52|q89": {
+  "claude": 4,
+  "note": "Katlama ile kareköklü uzunluk hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p52|q90": {
+  "claude": 4,
+  "note": "Rasyonel ve irrasyonel sayıları ayırt edip toplama"
+ },
+ "lgs_mat_meb_kitap_u2|p53|q91": {
+  "claude": 4,
+  "note": "İki daire grafiğinden toplam öğrenci sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p53|q92": {
+  "claude": 4,
+  "note": "Kareköklü sayıları aralıklara yerleştirme"
+ },
+ "lgs_mat_meb_kitap_u2|p54|q93": {
+  "claude": 3,
+  "note": "Karekök tahminiyle sayı doğrusunda çarpım"
+ },
+ "lgs_mat_meb_kitap_u2|p54|q94": {
+  "claude": 4,
+  "note": "Kareköklü uzunluklarla alan ve kenar hesabı"
+ },
+ "lgs_mat_meb_kitap_u2|p55|q95": {
+  "claude": 4,
+  "note": "Sütun ve daire grafiklerini birleştirme"
+ },
+ "lgs_mat_meb_kitap_u2|p56|q96": {
+  "claude": 4,
+  "note": "Kareköklü parçalarla oluşan dikdörtgenin çevresi"
+ },
+ "lgs_mat_meb_kitap_u2|p56|q97": {
+  "claude": 4,
+  "note": "Kareköklü uzunlukların toplam ve farkıyla kenar bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p57|q98": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğinden bilet geliri"
+ },
+ "lgs_mat_meb_kitap_u2|p57|q99": {
+  "claude": 4,
+  "note": "Kareköklü çevreden alan hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p58|q100": {
+  "claude": 4,
+  "note": "İki daire grafiğinden birim fiyat sütun grafiği"
+ },
+ "lgs_mat_meb_kitap_u2|p58|q101": {
+  "claude": 1,
+  "note": "Karekökü iki ardışık doğal sayı arasında bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p59|q102": {
+  "claude": 3,
+  "note": "Daire ve sütun grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_meb_kitap_u2|p59|q103": {
+  "claude": 4,
+  "note": "İki daire grafiğinden en az boya tüpü sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p60|q104": {
+  "claude": 4,
+  "note": "Kareköklü kenarlarla dikdörtgenin alanını bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p60|q105": {
+  "claude": 3,
+  "note": "Karekök koşullarından iki basamaklı sayıyı bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p61|q106": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğinden süre hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p62|q107": {
+  "claude": 4,
+  "note": "Alanlardan kareköklü kenar uzunluğu hesaplama"
+ },
+ "lgs_mat_meb_kitap_u2|p62|q108": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğini birleştirip karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u2|p63|q109": {
+  "claude": 3,
+  "note": "Dairenin alanından yarıçapı tahmin edip konumlandırma"
+ },
+ "lgs_mat_meb_kitap_u2|p63|q110": {
+  "claude": 3,
+  "note": "Tablo ve daire grafiğinden toplam yüzey alanı"
+ },
+ "lgs_mat_meb_kitap_u2|p64|q111": {
+  "claude": 2,
+  "note": "Ondalık ifadelerin karekökleriyle işlem yapma"
+ },
+ "lgs_mat_meb_kitap_u2|p64|q112": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğinden boş koltuk sayısı"
+ },
+ "lgs_mat_meb_kitap_u2|p64|q113": {
+  "claude": 4,
+  "note": "Kareköklü uzunluğu tahmin edip aralık belirleme"
+ },
+ "lgs_mat_meb_kitap_u2|p65|q114": {
+  "claude": 4,
+  "note": "Daire grafiğinden sütun grafiğine nüfus yorumlama"
+ },
+ "lgs_mat_meb_kitap_u2|p66|q115": {
+  "claude": 3,
+  "note": "Karekök çarpımı doğal sayı olacak değerleri bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p66|q116": {
+  "claude": 4,
+  "note": "Yüzdeler ve daire grafiğiyle oran bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p67|q117": {
+  "claude": 3,
+  "note": "Çevrenin tam kare olması koşuluyla kenar bulma"
+ },
+ "lgs_mat_meb_kitap_u2|p67|q118": {
+  "claude": 4,
+  "note": "Sütun ve daire grafiğiyle başlangıç sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p2|q1": {
+  "claude": 3,
+  "note": "Özdeşliği şekil işlemleriyle eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u3|p3|q2": {
+  "claude": 3,
+  "note": "Alan oranlarıyla cebirsel ifade çıkarma"
+ },
+ "lgs_mat_meb_kitap_u3|p3|q3": {
+  "claude": 4,
+  "note": "Parçalara ayrılan alanda özdeşlik kullanma"
+ },
+ "lgs_mat_meb_kitap_u3|p4|q4": {
+  "claude": 3,
+  "note": "Kare alanını (a-n)² özdeşliğiyle yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p5|q5": {
+  "claude": 3,
+  "note": "Dikdörtgen bölgelerin alanını cebirsel yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p6|q6": {
+  "claude": 3,
+  "note": "Kare farkı özdeşliğini alana uygulama"
+ },
+ "lgs_mat_meb_kitap_u3|p7|q7": {
+  "claude": 3,
+  "note": "Bileşik şekilde alanı cebirsel ifadeyle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p7|q8": {
+  "claude": 3,
+  "note": "Yüzey alanı değişimini cebirsel ifadeyle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p8|q9": {
+  "claude": 2,
+  "note": "Özdeşliği alan modeliyle eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u3|p9|q10": {
+  "claude": 2,
+  "note": "Özdeşlik modelini şekille ilişkilendirme"
+ },
+ "lgs_mat_meb_kitap_u3|p10|q11": {
+  "claude": 3,
+  "note": "Resfebeyi cebirsel ifadeye çevirme (tam kare)"
+ },
+ "lgs_mat_meb_kitap_u3|p11|q12": {
+  "claude": 3,
+  "note": "Farklı olası durumların sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p11|q13": {
+  "claude": 3,
+  "note": "Olasılıktan madeni para sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p12|q14": {
+  "claude": 3,
+  "note": "Olasılık koşuluna uygun daire grafiği seçme"
+ },
+ "lgs_mat_meb_kitap_u3|p12|q15": {
+  "claude": 2,
+  "note": "Olasılık değişimini yorumlama"
+ },
+ "lgs_mat_meb_kitap_u3|p13|q16": {
+  "claude": 3,
+  "note": "Boş koltuklardan olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p13|q17": {
+  "claude": 3,
+  "note": "Asal sayı olasılığından n değerini bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p14|q18": {
+  "claude": 3,
+  "note": "İndirim seçeneklerinden olasılık bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p14|q19": {
+  "claude": 4,
+  "note": "Daire grafiğiyle olasılık aralığını yorumlama"
+ },
+ "lgs_mat_meb_kitap_u3|p15|q20": {
+  "claude": 3,
+  "note": "Karşıt olayın olasılığını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p15|q21": {
+  "claude": 3,
+  "note": "Asal sayı olasılığından kart değerini bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p16|q22": {
+  "claude": 3,
+  "note": "Yüzde artışla olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p17|q23": {
+  "claude": 3,
+  "note": "Olasılık bilgisinden en az değeri bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p17|q24": {
+  "claude": 3,
+  "note": "Alan oranına göre uygun parçaları belirleme"
+ },
+ "lgs_mat_meb_kitap_u3|p18|q25": {
+  "claude": 3,
+  "note": "Asal sayı olasılığının en çok değerini bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p19|q26": {
+  "claude": 3,
+  "note": "Şekil boyutlarından alanı cebirsel ifadeyle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p19|q27": {
+  "claude": 4,
+  "note": "Çerçeve alanını özdeşlikle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p20|q28": {
+  "claude": 3,
+  "note": "Koşullu kümeler üzerinden olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p21|q29": {
+  "claude": 3,
+  "note": "Alan farkını kare farkı özdeşliğiyle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p22|q30": {
+  "claude": 4,
+  "note": "Alan farkından kenar uzunluğunu bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p23|q31": {
+  "claude": 3,
+  "note": "Eşdeğer cebirsel ifadeleri çarpanlara ayırarak eşleştirme"
+ },
+ "lgs_mat_meb_kitap_u3|p24|q32": {
+  "claude": 3,
+  "note": "Tam kare özdeşliğini model sınırlarıyla yorumlama"
+ },
+ "lgs_mat_meb_kitap_u3|p25|q33": {
+  "claude": 2,
+  "note": "Asal numaralı park yerlerini sayma"
+ },
+ "lgs_mat_meb_kitap_u3|p25|q34": {
+  "claude": 3,
+  "note": "kurala göre sıraları inceleme"
+ },
+ "lgs_mat_meb_kitap_u3|p26|q35": {
+  "claude": 4,
+  "note": "Katlama ve kesmeyle kalan alanı özdeşlikle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p26|q36": {
+  "claude": 4,
+  "note": "İfadeleri çarpıp tam kare olanı belirleme"
+ },
+ "lgs_mat_meb_kitap_u3|p26|q37": {
+  "claude": 3,
+  "note": "Farklı tam kare seçimlerini sayma"
+ },
+ "lgs_mat_meb_kitap_u3|p27|q38": {
+  "claude": 3,
+  "note": "Kare farkı özdeşliğini alana uygulama"
+ },
+ "lgs_mat_meb_kitap_u3|p28|q39": {
+  "claude": 3,
+  "note": "Tablodan veri okuyarak olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p29|q40": {
+  "claude": 3,
+  "note": "Tablodan boş hücre sayısıyla olasılık bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p30|q41": {
+  "claude": 4,
+  "note": "Çarkla belirlenen ifadeleri çarpıp katsayıları yorumlama"
+ },
+ "lgs_mat_meb_kitap_u3|p31|q42": {
+  "claude": 4,
+  "note": "Dikdörtgenlerden kalan alanı tam kare özdeşliğiyle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p32|q43": {
+  "claude": 4,
+  "note": "Olasılık bilgisinden sınıftaki öğrenci sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p33|q44": {
+  "claude": 4,
+  "note": "Bölge alanları farkını cebirsel ifadeyle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p34|q45": {
+  "claude": 3,
+  "note": "Çerçeve içindeki alanı tam kare özdeşliğiyle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p35|q46": {
+  "claude": 3,
+  "note": "Asal çarpan sayısına göre olası durumları sayma"
+ },
+ "lgs_mat_meb_kitap_u3|p35|q47": {
+  "claude": 3,
+  "note": "Fiyat bilgisinden olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p36|q48": {
+  "claude": 3,
+  "note": "Kenar uzunluğundan karenin alanını özdeşlikle yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p36|q49": {
+  "claude": 4,
+  "note": "Olasılık koşullarından en az maliyeti bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p37|q50": {
+  "claude": 4,
+  "note": "Cebirsel ifadelerle yüzey alanını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p38|q51": {
+  "claude": 3,
+  "note": "Çarpımı doğal sayı olan kareköklüleri bulup olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p38|q52": {
+  "claude": 3,
+  "note": "Katlanmış kutu yüzünün alanını cebirsel yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p39|q53": {
+  "claude": 4,
+  "note": "Asal sayı koşuluyla en az olasılığı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p39|q54": {
+  "claude": 4,
+  "note": "Farklı iki kare özdeşliğiyle uzunluk bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p40|q55": {
+  "claude": 4,
+  "note": "Alan farkını çarpanlara ayırarak bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p40|q56": {
+  "claude": 4,
+  "note": "Alan farkından fiyat hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p41|q57": {
+  "claude": 4,
+  "note": "Yarım daire alanından kare alanını özdeşlikle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p41|q58": {
+  "claude": 3,
+  "note": "Koşullu bilgilerle kalem renk olasılığı"
+ },
+ "lgs_mat_meb_kitap_u3|p41|q59": {
+  "claude": 3,
+  "note": "Grup oranlarından kız sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p42|q60": {
+  "claude": 3,
+  "note": "Tam kare alandan kenar ve uzaklık bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p42|q61": {
+  "claude": 3,
+  "note": "Özdeşlik türünü belirleyip değer hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p43|q62": {
+  "claude": 3,
+  "note": "parça sınıflandırma + kalan durumları sayma"
+ },
+ "lgs_mat_meb_kitap_u3|p43|q63": {
+  "claude": 3,
+  "note": "Alan bilgisinden çevre ifadesi yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p44|q64": {
+  "claude": 4,
+  "note": "Dağıtım koşuluyla en büyük olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p44|q65": {
+  "claude": 4,
+  "note": "Tablodan bilinmeyeni bulup olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p45|q66": {
+  "claude": 3,
+  "note": "Alan oranından çevre ifadesi yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p45|q67": {
+  "claude": 3,
+  "note": "Parola sayılarında 5'e bölünme olasılığı"
+ },
+ "lgs_mat_meb_kitap_u3|p46|q68": {
+  "claude": 3,
+  "note": "Dikdörtgenden oluşan karenin alanını ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p46|q69": {
+  "claude": 4,
+  "note": "Tam sayı gram dağılımlarında olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p47|q70": {
+  "claude": 3,
+  "note": "Birleşik şeklin çevresini cebirsel yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p47|q71": {
+  "claude": 4,
+  "note": "Kare bölgelerin alanını özdeşlikle ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p48|q72": {
+  "claude": 3,
+  "note": "Hacim farkını çarpanlarına ayırma"
+ },
+ "lgs_mat_meb_kitap_u3|p48|q73": {
+  "claude": 3,
+  "note": "Asal çarpan koşuluyla sayı olasılığı"
+ },
+ "lgs_mat_meb_kitap_u3|p49|q74": {
+  "claude": 4,
+  "note": "Tam kare alanlardan dikdörtgen alanı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p49|q75": {
+  "claude": 4,
+  "note": "Değişen oranlardan şeker sayısı olasılığı"
+ },
+ "lgs_mat_meb_kitap_u3|p50|q76": {
+  "claude": 3,
+  "note": "Kaydırılmış blokların yüzey alanını ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p50|q77": {
+  "claude": 4,
+  "note": "Daire grafiği ve tabloyla olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p51|q78": {
+  "claude": 4,
+  "note": "Olasılıktan kart sayılarını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p51|q79": {
+  "claude": 3,
+  "note": "Çevreden kenarı bulup boyalı alanı ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p52|q80": {
+  "claude": 3,
+  "note": "Etiket dağılımında olamayacak olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p52|q81": {
+  "claude": 3,
+  "note": "Çerçeve içi alan farkını özdeşlikle bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p52|q82": {
+  "claude": 3,
+  "note": "Verilen olasılıklardan top sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p53|q83": {
+  "claude": 4,
+  "note": "Çevre bilgisiyle boyanmayan alanı ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p53|q84": {
+  "claude": 4,
+  "note": "Poster kenarlarından alan farkını bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p53|q85": {
+  "claude": 4,
+  "note": "Eşit olasılıklardan olası durum sayısı"
+ },
+ "lgs_mat_meb_kitap_u3|p54|q86": {
+  "claude": 5,
+  "note": "Tablodan telefon üretim olasılığı"
+ },
+ "lgs_mat_meb_kitap_u3|p54|q87": {
+  "claude": 3,
+  "note": "Kesilen kâğıttan oluşan karenin alanı"
+ },
+ "lgs_mat_meb_kitap_u3|p55|q88": {
+  "claude": 4,
+  "note": "Verilen sayılardan kart dağılımını çıkarıp olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p55|q89": {
+  "claude": 3,
+  "note": "Tam kare ve iki kare farkı özdeşliklerini ayırt etme"
+ },
+ "lgs_mat_meb_kitap_u3|p56|q90": {
+  "claude": 4,
+  "note": "Para eşitliği koşulunda en büyük olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p56|q91": {
+  "claude": 4,
+  "note": "Tam sayı tabanlı üslü ifade durumlarını sayma"
+ },
+ "lgs_mat_meb_kitap_u3|p56|q92": {
+  "claude": 4,
+  "note": "Kaydırılan kâğıdın dışarıda kalan alanı"
+ },
+ "lgs_mat_meb_kitap_u3|p57|q93": {
+  "claude": 3,
+  "note": "Katlanan karenin alanını özdeşlikle ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p57|q94": {
+  "claude": 4,
+  "note": "Değişmeyen olasılıktan bilye dağılımı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p57|q95": {
+  "claude": 4,
+  "note": "Alan koşullarıyla dikdörtgen alan farkı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p58|q96": {
+  "claude": 3,
+  "note": "Tam kare ifadeden sıra başına öğrenci sayısı"
+ },
+ "lgs_mat_meb_kitap_u3|p58|q97": {
+  "claude": 4,
+  "note": "Kare sayısı kısıtıyla olamayacak olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p59|q98": {
+  "claude": 3,
+  "note": "Kutulardaki kartları birleştirip olasılık bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p59|q99": {
+  "claude": 2,
+  "note": "Tam kare özdeşlikte katsayıları bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p59|q100": {
+  "claude": 4,
+  "note": "Karesel bölge koşuluyla dikdörtgen alanı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p60|q101": {
+  "claude": 4,
+  "note": "Grup oranlarından en büyük olasılığı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p60|q102": {
+  "claude": 3,
+  "note": "Kare ve dikdörtgenli şekilde boyalı alan"
+ },
+ "lgs_mat_meb_kitap_u3|p60|q103": {
+  "claude": 4,
+  "note": "ızgara modeli, örüntü, kalan parçalar"
+ },
+ "lgs_mat_meb_kitap_u3|p61|q104": {
+  "claude": 2,
+  "note": "Ortak çarpan parantezine alarak çarpan bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p61|q105": {
+  "claude": 3,
+  "note": "Tekrarlı kartlarda asal sayı olasılığı"
+ },
+ "lgs_mat_meb_kitap_u3|p61|q106": {
+  "claude": 4,
+  "note": "Tam kare alanlardan kesilen parçanın alanı"
+ },
+ "lgs_mat_meb_kitap_u3|p62|q107": {
+  "claude": 3,
+  "note": "Perde alanından kayma miktarını ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p62|q108": {
+  "claude": 4,
+  "note": "Sayı okunuşlarından kart olasılığı bulma"
+ },
+ "lgs_mat_meb_kitap_u3|p63|q109": {
+  "claude": 2,
+  "note": "Daire grafiğinden olasılık hesaplama"
+ },
+ "lgs_mat_meb_kitap_u3|p63|q110": {
+  "claude": 4,
+  "note": "Fayans örüntüsünün alanını cebirsel ifade etme"
+ },
+ "lgs_mat_meb_kitap_u3|p64|q111": {
+  "claude": 4,
+  "note": "Dizilimli boncuklarda en büyük olasılık"
+ },
+ "lgs_mat_meb_kitap_u3|p64|q112": {
+  "claude": 4,
+  "note": "Ölçülerden dikdörtgen alanını cebirsel yazma"
+ },
+ "lgs_mat_meb_kitap_u3|p65|q113": {
+  "claude": 3,
+  "note": "Tam kare alandan kenar ve çevre ilişkisi"
+ },
+ "lgs_mat_meb_kitap_u3|p65|q114": {
+  "claude": 4,
+  "note": "Tam kare sayı olasılığından en az kart sayısı"
+ },
+ "lgs_mat_meb_kitap_u4|p2|q1": {
+  "claude": 3,
+  "note": "Grafikten doğrusal denklem kurup kesişim noktasını bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p3|q2": {
+  "claude": 4,
+  "note": "Tasarruf ve maliyet eşitliğini denklemle çözme"
+ },
+ "lgs_mat_meb_kitap_u4|p3|q3": {
+  "claude": 3,
+  "note": "Eşit parçalarla denklem kurup çekmece sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p4|q4": {
+  "claude": 4,
+  "note": "Yüzde ve taksit ilişkisinden denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p4|q5": {
+  "claude": 3,
+  "note": "Çarpma yöntemi tablosundan bilinmeyen bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p5|q6": {
+  "claude": 3,
+  "note": "İki fiyat seçeneğini eşitleyen denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p5|q7": {
+  "claude": 4,
+  "note": "Yuvarlama koşuluyla ortalama aralığından eşitsizlik kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p6|q8": {
+  "claude": 3,
+  "note": "Parça uzunluklarıyla denklem kurup çevre bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p7|q9": {
+  "claude": 3,
+  "note": "Ardışık küp kenarlarıyla denklem kurup boy bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p7|q10": {
+  "claude": 3,
+  "note": "KDV dahil toplam tutardan denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p8|q11": {
+  "claude": 3,
+  "note": "Bilet sayıları arasındaki ilişkiden denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p8|q12": {
+  "claude": 3,
+  "note": "Alan ve birim fiyattan denklem kurup tişört sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p8|q13": {
+  "claude": 4,
+  "note": "Disk kütle oranlarıyla denklem kurup en az değeri bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p9|q14": {
+  "claude": 2,
+  "note": "Hedef tahtasında noktanın koordinatını okuma"
+ },
+ "lgs_mat_meb_kitap_u4|p10|q15": {
+  "claude": 2,
+  "note": "Grafikte artan-azalan ilişkiyi yorumlama"
+ },
+ "lgs_mat_meb_kitap_u4|p11|q16": {
+  "claude": 4,
+  "note": "Doğrusal grafikten tüketim hızını bulup maliyet hesaplama"
+ },
+ "lgs_mat_meb_kitap_u4|p11|q17": {
+  "claude": 2,
+  "note": "Kareli zeminde iki noktadan eğim bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p12|q18": {
+  "claude": 2,
+  "note": "Basamak yükseklik ve derinliklerinden rampa eğimi bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p13|q19": {
+  "claude": 3,
+  "note": "Eşit eğimden yükseklik bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p14|q20": {
+  "claude": 3,
+  "note": "Boy aralığına göre uygun eşitsizliği yazma"
+ },
+ "lgs_mat_meb_kitap_u4|p15|q21": {
+  "claude": 3,
+  "note": "Yükseklik sınırından eşitsizlik kurup en büyük tam sayıyı bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p16|q22": {
+  "claude": 4,
+  "note": "Sıralama koşullarıyla en çok satılmayan menü sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p17|q23": {
+  "claude": 3,
+  "note": "Boşluk ve taşma koşuluyla eşitsizlik kurup en büyük değeri bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p18|q24": {
+  "claude": 4,
+  "note": "Sıralama koşullarıyla en çok toplam yolcu sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p18|q25": {
+  "claude": 3,
+  "note": "Ters orantıyla süre denklemi kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p19|q26": {
+  "claude": 3,
+  "note": "Mesafe ilişkisinden denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p20|q27": {
+  "claude": 4,
+  "note": "Yüzde değişiminden müşteri sayısı denklemi kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p21|q28": {
+  "claude": 4,
+  "note": "Katlanmış kâğıt kesirleriyle denklem kurup kenar bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p22|q29": {
+  "claude": 3,
+  "note": "Çalışılan gün sayısı ve süre oranından denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p23|q30": {
+  "claude": 4,
+  "note": "Adım uzunluklarından denklem kurup en fazla mesafeyi bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p23|q31": {
+  "claude": 3,
+  "note": "Top sayıları ve toplam değerlerle denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p24|q32": {
+  "claude": 4,
+  "note": "Adımlı hareketle noktanın doğru üzerine gelmesini bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p24|q33": {
+  "claude": 4,
+  "note": "Kareköklü uzaklıkları aralık eşitsizliğiyle karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u4|p25|q34": {
+  "claude": 5,
+  "note": "Katlanmış kâğıtta uzunluk ilişkilerinden denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p25|q35": {
+  "claude": 3,
+  "note": "Doğrusal grafiklerden uzama oranı bulup değer hesaplama"
+ },
+ "lgs_mat_meb_kitap_u4|p26|q36": {
+  "claude": 3,
+  "note": "Çatı eğimi aralığından yükseklik eşitsizliği kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p26|q37": {
+  "claude": 3,
+  "note": "Bölme sayılarıyla uzunluk denklemi kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p27|q38": {
+  "claude": 4,
+  "note": "Satır aralığı ve yüksekliğiyle denklem kurup sayfa sayısı bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p27|q39": {
+  "claude": 2,
+  "note": "Yüzdeli ağırlıklı ortalamadan bilinmeyeni bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p28|q40": {
+  "claude": 3,
+  "note": "Gösterge bölgesinden aylık miktar eşitsizliği kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p28|q41": {
+  "claude": 4,
+  "note": "Alan oranından denklem kurup çevre bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p28|q42": {
+  "claude": 3,
+  "note": "Alan oranlarını eşitleyip jeton kenarını bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p29|q43": {
+  "claude": 3,
+  "note": "Taksit ve peşinat ilişkisinden denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p29|q44": {
+  "claude": 2,
+  "note": "Koordinat sisteminde doğru denklemini sağlayan noktayı bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p30|q45": {
+  "claude": 3,
+  "note": "Ortak alışverişte payları denklemle bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p30|q46": {
+  "claude": 3,
+  "note": "Grafiklerden hız ve tüketim bulup yol uzunluğu hesaplama"
+ },
+ "lgs_mat_meb_kitap_u4|p31|q47": {
+  "claude": 3,
+  "note": "Yüzde ve oranlı yüksekliklerle denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p31|q48": {
+  "claude": 2,
+  "note": "Gelir-maliyet koşulundan eşitsizlik kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p31|q49": {
+  "claude": 4,
+  "note": "Doğrusal grafiklerden kalan ip uzunluklarını eşitleme"
+ },
+ "lgs_mat_meb_kitap_u4|p32|q50": {
+  "claude": 4,
+  "note": "Blok boyutlarından en büyük eğimi bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p32|q51": {
+  "claude": 4,
+  "note": "Kareköklü kütlelerle eşitsizlik kurup en az kutu sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p33|q52": {
+  "claude": 3,
+  "note": "İki doğrusal grafiğin eşitlendiği günü bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p33|q53": {
+  "claude": 3,
+  "note": "Kütle ve adet aralığından para üstü eşitsizliği kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p34|q54": {
+  "claude": 3,
+  "note": "Pisagor ile yatay uzunluğu bulup eğim hesaplama"
+ },
+ "lgs_mat_meb_kitap_u4|p35|q55": {
+  "claude": 3,
+  "note": "Kareli zeminde iki noktadan geçen yolun eğimini bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p36|q56": {
+  "claude": 4,
+  "note": "Eğim ve Pisagor ile ikinci yolun eğimini bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p36|q57": {
+  "claude": 3,
+  "note": "Dikdörtgen çevresi koşuluyla eşitsizlik kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p37|q58": {
+  "claude": 3,
+  "note": "Doğrusal grafikten iki hızlı şarj bitiş süresini bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p37|q59": {
+  "claude": 2,
+  "note": "Paket sayılarından iki bilinmeyenli denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p38|q60": {
+  "claude": 4,
+  "note": "İki doğrusal bitki grafiğinde fark denklemi kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p38|q61": {
+  "claude": 2,
+  "note": "Kesirli birinci dereceden denklemi çözme"
+ },
+ "lgs_mat_meb_kitap_u4|p38|q62": {
+  "claude": 3,
+  "note": "Her durakta değişim sınırlarından yolcu aralığı bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p39|q63": {
+  "claude": 3,
+  "note": "Kumaş uzunluğunu peçete sayılarıyla denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p39|q64": {
+  "claude": 3,
+  "note": "İki doğrusal grafikten toplam fidan sayısını bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p40|q65": {
+  "claude": 3,
+  "note": "Eğim değişiminden denklem kurup kenar uzunluğu bulma"
+ },
+ "lgs_mat_meb_kitap_u4|p40|q66": {
+  "claude": 3,
+  "note": "Çuval ve paket kütlelerinden denklem kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p40|q67": {
+  "claude": 2,
+  "note": "Kütle aralıklarını toplayıp sayı doğrusunda gösterme"
+ },
+ "lgs_mat_meb_kitap_u4|p41|q68": {
+  "claude": 1,
+  "note": "Eşit ödemeden fiyat denklemi kurma"
+ },
+ "lgs_mat_meb_kitap_u4|p41|q69": {
+  "claude": 4,
+  "note": "İki doğrusal grafikten hız bulup yol uzunluğu hesaplama"
+ },
+ "lgs_mat_meb_kitap_u4|p42|q70": {
+  "claude": 4,
+  "note": "Eğimden kare kenarını bulup alan farkı hesaplama"
+ },
+ "lgs_mat_meb_kitap_u5|p2|q1": {
+  "claude": 3,
+  "note": "Üçgen eşitsizliğiyle en az çevreyi bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p3|q2": {
+  "claude": 2,
+  "note": "Karenin köşegeniyle ardışık kare kenarlarını bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p3|q3": {
+  "claude": 3,
+  "note": "Eşkenar dörtgenin köşegenlerinden kenar uzunluğu bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p4|q4": {
+  "claude": 3,
+  "note": "Dik üçgen kenarlarından hipotenüsü bulup kare kenarı hesaplama"
+ },
+ "lgs_mat_meb_kitap_u5|p5|q5": {
+  "claude": 3,
+  "note": "Kare köşegeninden kenar bulup eşitsizlik kurma"
+ },
+ "lgs_mat_meb_kitap_u5|p6|q6": {
+  "claude": 3,
+  "note": "Dikdörtgenin köşegeniyle çevrel çemberin çapını bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p7|q7": {
+  "claude": 3,
+  "note": "Kareli zeminde Pisagor ile doğru parçası uzunluklarını karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u5|p8|q8": {
+  "claude": 4,
+  "note": "Eş üçgenlerden kenar bulup yüzde ilişkisiyle uzunluk hesaplama"
+ },
+ "lgs_mat_meb_kitap_u5|p9|q9": {
+  "claude": 3,
+  "note": "Kenar oranlarına göre benzer üçgenlerin yerleşimini belirleme"
+ },
+ "lgs_mat_meb_kitap_u5|p10|q10": {
+  "claude": 5,
+  "note": "Katlamada oluşan benzer üçgenlerin benzerlik oranını bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p11|q11": {
+  "claude": 3,
+  "note": "Benzer şekillerde benzerlik oranını ölçülerden bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p12|q12": {
+  "claude": 3,
+  "note": "Eş ip parçalarından kenarortayların özelliğini çıkarma"
+ },
+ "lgs_mat_meb_kitap_u5|p12|q13": {
+  "claude": 4,
+  "note": "Eğimden yatay uzaklığı bulup Pisagor ile kablo uzunluğu hesaplama"
+ },
+ "lgs_mat_meb_kitap_u5|p13|q14": {
+  "claude": 4,
+  "note": "Hatalı cetvel ölçümlerinden üçgen eşitsizliğiyle kenar aralığı bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p14|q15": {
+  "claude": 3,
+  "note": "Dikdörtgeni eş parçaya bölen doğruların eğimlerini belirleme"
+ },
+ "lgs_mat_meb_kitap_u5|p14|q16": {
+  "claude": 3,
+  "note": "Üçgen eşitsizliğiyle toplam çevrenin en küçük değerini bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p15|q17": {
+  "claude": 3,
+  "note": "Eş uzaklıklı noktalarla oluşan üçgenlerde açı-kenar karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u5|p16|q18": {
+  "claude": 4,
+  "note": "Prizma açınımında Pisagor ve çevre koşuluyla alan bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p16|q19": {
+  "claude": 4,
+  "note": "Benzerlik oranıyla ardışık yükseklikleri bulup toplama"
+ },
+ "lgs_mat_meb_kitap_u5|p17|q20": {
+  "claude": 3,
+  "note": "Eş alanlı dikdörtgenlerde Pisagor ile uzunluk bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p17|q21": {
+  "claude": 4,
+  "note": "Açı sıralamasından kenar sıralaması kurup en büyük uzunluğu bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p18|q22": {
+  "claude": 4,
+  "note": "Eş ve benzer üçgenlerde yanlış ifadeyi belirleme"
+ },
+ "lgs_mat_meb_kitap_u5|p18|q23": {
+  "claude": 3,
+  "note": "Kare alanlarından dik üçgenin hipotenüsünü bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p19|q24": {
+  "claude": 4,
+  "note": "Paralelkenardan elde edilen üçgenlerin benzerlik oranını bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p19|q25": {
+  "claude": 3,
+  "note": "Eşkenar üçgen oluşturan açılardan kenar karşılaştırma"
+ },
+ "lgs_mat_meb_kitap_u5|p20|q26": {
+  "claude": 3,
+  "note": "Takozun yüksekliğini Pisagor ile bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p20|q27": {
+  "claude": 3,
+  "note": "Benzer ikizkenar dik üçgenlerin olası benzerlik oranını belirleme"
+ },
+ "lgs_mat_meb_kitap_u5|p21|q28": {
+  "claude": 3,
+  "note": "Çember üzerindeki üçgenin kenarlarını yay uzunluğuyla sıralama"
+ },
+ "lgs_mat_meb_kitap_u5|p21|q29": {
+  "claude": 3,
+  "note": "Alan ve çarpan koşuluyla üçgen kenarlarını bulup çevre hesaplama"
+ },
+ "lgs_mat_meb_kitap_u5|p22|q30": {
+  "claude": 4,
+  "note": "Kareli zeminde dikdörtgen çevreleri farkından eşitsizlik kurma"
+ },
+ "lgs_mat_meb_kitap_u5|p22|q31": {
+  "claude": 3,
+  "note": "İç içe eşkenar üçgenlerde benzerlik oranıyla çevre bulma"
+ },
+ "lgs_mat_meb_kitap_u5|p23|q32": {
+  "claude": 3,
+  "note": "Açı toplamından üçgenin türünü ve kenar karşılaştırmasını çıkarma"
+ },
+ "lgs_mat_meb_kitap_u5|p24|q33": {
+  "claude": 3,
+  "note": "Pisagor ve benzerlik oranıyla dikdörtgen çevresi bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p2|q1": {
+  "claude": 3,
+  "note": "Yansıma ve ötelemeyle hedef tahtasında puan bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p3|q2": {
+  "claude": 2,
+  "note": "Düzlem aynada rakam kartlarının görüntüsünü bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p3|q3": {
+  "claude": 3,
+  "note": "Silindirin yanal alanından ölçü bulup cisim yerleştirme"
+ },
+ "lgs_mat_meb_kitap_u6|p4|q4": {
+  "claude": 4,
+  "note": "Silindirlerin boyalı yüzey alanından hacim bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p5|q5": {
+  "claude": 4,
+  "note": "Silindir hacim ve alan ilişkisinden toplam hacim bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p6|q6": {
+  "claude": 3,
+  "note": "Silindir hacimleri oranıyla fiyat hesaplama"
+ },
+ "lgs_mat_meb_kitap_u6|p6|q7": {
+  "claude": 3,
+  "note": "Ötelemeyi ve yansımaları ardışık uygulayıp görüntüyü belirleme"
+ },
+ "lgs_mat_meb_kitap_u6|p7|q8": {
+  "claude": 4,
+  "note": "Silindir açınımının karton sınırlarından en büyük hacmi bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p7|q9": {
+  "claude": 3,
+  "note": "Ötelemeyi ve yansımayı birleştirerek istenen görüntüyü elde etme"
+ },
+ "lgs_mat_meb_kitap_u6|p8|q10": {
+  "claude": 3,
+  "note": "Silindir hacminden tünel uzunluğunu bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p8|q11": {
+  "claude": 4,
+  "note": "Kesilip birleştirilen prizmanın ayrıt uzunlukları toplamını bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p9|q12": {
+  "claude": 3,
+  "note": "Ötelemeden sonra doğruya göre yansımayı uygulama"
+ },
+ "lgs_mat_meb_kitap_u6|p10|q13": {
+  "claude": 4,
+  "note": "Etiket ölçüleri ve hacim eşitliğinden etiket alanı bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p10|q14": {
+  "claude": 3,
+  "note": "Silindir hacimlerinin ortak katıyla depo hacmini bulma"
+ },
+ "lgs_mat_meb_kitap_u6|p11|q15": {
+  "claude": 2,
+  "note": "Simetri doğrusuna göre şekillerin yansımasını bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p3|q1": {
+  "claude": 2,
+  "note": "Aralarında asal olmayan kart çiftini belirleme"
+ },
+ "lgs_mat_mebi_deneme_01|p3|q2": {
+  "claude": 2,
+  "note": "Tabanları eşitleyerek üslü sayıları sıralama"
+ },
+ "lgs_mat_mebi_deneme_01|p3|q3": {
+  "claude": 3,
+  "note": "EBOB ile eşit aralık ve bölen sayısı"
+ },
+ "lgs_mat_mebi_deneme_01|p4|q4": {
+  "claude": 3,
+  "note": "EBOB koşuluyla bilinmeyen kütleyi bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p4|q5": {
+  "claude": 3,
+  "note": "Üslü ifadelerin çarpımını eşitlik koşuluyla bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p4|q6": {
+  "claude": 3,
+  "note": "Ondalık sayının 10 un kuvvetleriyle çözümlenmesi"
+ },
+ "lgs_mat_mebi_deneme_01|p5|q7": {
+  "claude": 3,
+  "note": "Asal çarpan modeline göre sayı belirleme"
+ },
+ "lgs_mat_mebi_deneme_01|p5|q8": {
+  "claude": 3,
+  "note": "EKOK ile tekrarlayan zamanları bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p6|q9": {
+  "claude": 3,
+  "note": "Bilimsel gösterimle eşitsizlik koşulu çözme"
+ },
+ "lgs_mat_mebi_deneme_01|p6|q10": {
+  "claude": 2,
+  "note": "Problemi bilimsel gösterimle ifade etme"
+ },
+ "lgs_mat_mebi_deneme_01|p6|q11": {
+  "claude": 2,
+  "note": "Çarpan listesinden sayıyı bulup çarpan belirleme"
+ },
+ "lgs_mat_mebi_deneme_01|p6|q12": {
+  "claude": 3,
+  "note": "Çarpan sayısı ve asal çarpan sayısı koşulu"
+ },
+ "lgs_mat_mebi_deneme_01|p6|q13": {
+  "claude": 2,
+  "note": "EBOB ile en az paket sayısını bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p7|q14": {
+  "claude": 3,
+  "note": "EKOK periyodunda toplam üretimden süre bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p7|q15": {
+  "claude": 3,
+  "note": "Aralarında asal kenarlardan en büyük kare alanı"
+ },
+ "lgs_mat_mebi_deneme_01|p7|q16": {
+  "claude": 1,
+  "note": "Negatif üslü eşitlikten değer bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p7|q17": {
+  "claude": 2,
+  "note": "Tanımlı işlemle üslü ifadeleri hesaplama"
+ },
+ "lgs_mat_mebi_deneme_01|p7|q18": {
+  "claude": 3,
+  "note": "Üslü uzunluklarla dikdörtgen alanı bulma"
+ },
+ "lgs_mat_mebi_deneme_01|p8|q19": {
+  "claude": 3,
+  "note": "Çözümlenmiş ondalık farkını bilimsel gösterme"
+ },
+ "lgs_mat_mebi_deneme_01|p8|q20": {
+  "claude": 4,
+  "note": "Negatif üslü rasyonel değerlerin işaretini belirleme"
+ },
+ "lgs_mat_mebi_deneme_02|p3|q1": {
+  "claude": 3,
+  "note": "Üslü ifadeleri sadeleştirip kodlarla eşleştirme"
+ },
+ "lgs_mat_mebi_deneme_02|p4|q2": {
+  "claude": 2,
+  "note": "Sadeleştirerek çarpımı doğal sayı olan kökleri eşleme"
+ },
+ "lgs_mat_mebi_deneme_02|p4|q3": {
+  "claude": 3,
+  "note": "Kareköklü uzunluklarla çakışan kısmı bulma"
+ },
+ "lgs_mat_mebi_deneme_02|p5|q4": {
+  "claude": 2,
+  "note": "Çözümlenmiş ondalık sayıdan kütleyi belirleme"
+ },
+ "lgs_mat_mebi_deneme_02|p5|q5": {
+  "claude": 3,
+  "note": "Karekök kenarlı karelerle boyalı alan bulma"
+ },
+ "lgs_mat_mebi_deneme_02|p5|q6": {
+  "claude": 3,
+  "note": "Üslü kenar uzunluğuyla kare ve daire alanı farkı"
+ },
+ "lgs_mat_mebi_deneme_02|p5|q7": {
+  "claude": 3,
+  "note": "Üslü ifadelerle yük toplamını bilimsel gösterme"
+ },
+ "lgs_mat_mebi_deneme_02|p6|q8": {
+  "claude": 3,
+  "note": "Ondalık karekökle ekran boyutunu tam sayıya tamamlama"
+ },
+ "lgs_mat_mebi_deneme_02|p6|q9": {
+  "claude": 3,
+  "note": "Üslü ifadelerle orantılı uzunluk bulma"
+ },
+ "lgs_mat_mebi_deneme_02|p7|q10": {
+  "claude": 4,
+  "note": "EBOB ile en az çerçeve sayısı ve duvar uzunluğu"
+ },
+ "lgs_mat_mebi_deneme_02|p8|q11": {
+  "claude": 3,
+  "note": "Asal çarpanlar toplamıyla kare boyutlarını sıralama"
+ },
+ "lgs_mat_mebi_deneme_02|p8|q12": {
+  "claude": 4,
+  "note": "Kat kısıtıyla en küçük üslü ifadeyi oluşturma"
+ },
+ "lgs_mat_mebi_deneme_02|p9|q13": {
+  "claude": 2,
+  "note": "Tam kare günleri sayarak toplam tutar bulma"
+ },
+ "lgs_mat_mebi_deneme_02|p9|q14": {
+  "claude": 3,
+  "note": "Su yüksekliği aralığını belirleme (karekök tahmini)"
+ },
+ "lgs_mat_mebi_deneme_02|p9|q15": {
+  "claude": 2,
+  "note": "Karekökü en yakın tam sayıya yuvarlayarak gruplama"
+ },
+ "lgs_mat_mebi_deneme_02|p9|q16": {
+  "claude": 3,
+  "note": "Ortak bölen koşuluyla en çok bilet sayısı"
+ },
+ "lgs_mat_mebi_deneme_02|p10|q17": {
+  "claude": 2,
+  "note": "Katsayıyı karekök içine alarak sıralama"
+ },
+ "lgs_mat_mebi_deneme_02|p10|q18": {
+  "claude": 3,
+  "note": "Kareköklü uzunlukları toplama ve çıkarma"
+ },
+ "lgs_mat_mebi_deneme_02|p10|q19": {
+  "claude": 3,
+  "note": "Sayı kümelerine göre yanlış yerleştirmeyi bulma"
+ },
+ "lgs_mat_mebi_deneme_02|p10|q20": {
+  "claude": 2,
+  "note": "Aralarında asal süre koşulunu sağlayan saati bulma"
+ },
+ "lgs_mat_mebi_deneme_03|p3|q1": {
+  "claude": 3,
+  "note": "Üslü kütleleri toplayıp bilimsel gösterme"
+ },
+ "lgs_mat_mebi_deneme_03|p3|q2": {
+  "claude": 3,
+  "note": "Aralarında asal tek sayıları sayma"
+ },
+ "lgs_mat_mebi_deneme_03|p3|q3": {
+  "claude": 4,
+  "note": "Kareköklü ifadelerle alan çıkarıp tam sayı aralığı bulma"
+ },
+ "lgs_mat_mebi_deneme_03|p4|q4": {
+  "claude": 3,
+  "note": "Katsayıyı karekök içine alarak harcanan kaloriyi kıyaslama"
+ },
+ "lgs_mat_mebi_deneme_03|p4|q5": {
+  "claude": 3,
+  "note": "şekli birimlere bölme, tümleyen olay"
+ },
+ "lgs_mat_mebi_deneme_03|p4|q6": {
+  "claude": 2,
+  "note": "Ondalık karekökleri hesaplayıp işlem yapma"
+ },
+ "lgs_mat_mebi_deneme_03|p5|q7": {
+  "claude": 4,
+  "note": "Daire ve sütun grafiğiyle toplam sayı koşulu"
+ },
+ "lgs_mat_mebi_deneme_03|p5|q8": {
+  "claude": 3,
+  "note": "Üslü çarpanlarla değeri bulup 10 un kuvvetiyle ifade etme"
+ },
+ "lgs_mat_mebi_deneme_03|p6|q9": {
+  "claude": 2,
+  "note": "Çözümlenmiş ondalık mesafeleri karşılaştırma"
+ },
+ "lgs_mat_mebi_deneme_03|p6|q10": {
+  "claude": 4,
+  "note": "Asal çarpan toplamı koşuluyla sayı bulup çarpan sayısı"
+ },
+ "lgs_mat_mebi_deneme_03|p7|q11": {
+  "claude": 2,
+  "note": "Sütun grafiğinden yanlış yorumu bulma"
+ },
+ "lgs_mat_mebi_deneme_03|p7|q12": {
+  "claude": 3,
+  "note": "Olasılık sıralamasından en az kırmızı top sayısı"
+ },
+ "lgs_mat_mebi_deneme_03|p8|q13": {
+  "claude": 4,
+  "note": "Kareköklü kenarlı levhalarla alan ve çevre bulma"
+ },
+ "lgs_mat_mebi_deneme_03|p8|q14": {
+  "claude": 3,
+  "note": "Daire grafiği ve fiyatla satılan ürün sayısı"
+ },
+ "lgs_mat_mebi_deneme_03|p9|q15": {
+  "claude": 3,
+  "note": "Tam sayı taban ve üslerden 0 ile 1 arası değerler"
+ },
+ "lgs_mat_mebi_deneme_03|p9|q16": {
+  "claude": 2,
+  "note": "Ondalık maliyet farkını bilimsel gösterme"
+ },
+ "lgs_mat_mebi_deneme_03|p10|q17": {
+  "claude": 3,
+  "note": "Aralarında asal kenar koşuluyla levha çevresi"
+ },
+ "lgs_mat_mebi_deneme_03|p10|q18": {
+  "claude": 2,
+  "note": "Kök içine alarak elde edilemeyen çarpımı bulma"
+ },
+ "lgs_mat_mebi_deneme_03|p11|q19": {
+  "claude": 3,
+  "note": "Hedef tahtası puanlarından olası toplamları sayma"
+ },
+ "lgs_mat_mebi_deneme_03|p11|q20": {
+  "claude": 3,
+  "note": "Aritmetik ortalamadan yüksek olma olasılığı"
+ },
+ "lgs_mat_mebi_deneme_04|p3|q1": {
+  "claude": 3,
+  "note": "Üslü ifadelerle kat sayısından bina yüksekliği bulma"
+ },
+ "lgs_mat_mebi_deneme_04|p3|q2": {
+  "claude": 3,
+  "note": "Daire grafiği açıları ve fark koşuluyla toplam sayı"
+ },
+ "lgs_mat_mebi_deneme_04|p3|q3": {
+  "claude": 2,
+  "note": "Bilimsel gösterimde üs için eşitsizlik koşulu"
+ },
+ "lgs_mat_mebi_deneme_04|p3|q4": {
+  "claude": 2,
+  "note": "Tam kare özdeşlikten katsayıları bulma"
+ },
+ "lgs_mat_mebi_deneme_04|p3|q5": {
+  "claude": 2,
+  "note": "Cebirsel ifadelerde çıkarma ve çarpma"
+ },
+ "lgs_mat_mebi_deneme_04|p4|q6": {
+  "claude": 5,
+  "note": "EKOK ile ortak delik sayısına göre uzunluk bulma"
+ },
+ "lgs_mat_mebi_deneme_04|p4|q7": {
+  "claude": 4,
+  "note": "Üslü uzunluklarla örüntüden karo sayısı bulma"
+ },
+ "lgs_mat_mebi_deneme_04|p5|q8": {
+  "claude": 5,
+  "note": "Kareköklü uzunlukların toplamını tam sayı aralığında tahmin etme"
+ },
+ "lgs_mat_mebi_deneme_04|p5|q9": {
+  "claude": 3,
+  "note": "Daire grafiğiyle öğrenci sayısı için en az değer"
+ },
+ "lgs_mat_mebi_deneme_04|p6|q10": {
+  "claude": 2,
+  "note": "Aritmetik ortalamayla olasılık hesaplama"
+ },
+ "lgs_mat_mebi_deneme_04|p6|q11": {
+  "claude": 3,
+  "note": "Ondalık karekökle katlanmış şeridin uzunluğunu bulma"
+ },
+ "lgs_mat_mebi_deneme_04|p7|q12": {
+  "claude": 3,
+  "note": "Boşalma hızından karışım oranlarını daire grafiğine dönüştürme"
+ },
+ "lgs_mat_mebi_deneme_04|p8|q13": {
+  "claude": 3,
+  "note": "İki kare farkı özdeşliğiyle çerçeve alanını ifade etme"
+ },
+ "lgs_mat_mebi_deneme_04|p8|q14": {
+  "claude": 4,
+  "note": "Alan ve bölen koşuluyla raflara sığan en çok koli"
+ },
+ "lgs_mat_mebi_deneme_04|p9|q15": {
+  "claude": 3,
+  "note": "Tam kare ifadeden iki kare farkı alanı bulma"
+ },
+ "lgs_mat_mebi_deneme_04|p9|q16": {
+  "claude": 3,
+  "note": "Asal çarpanlarına göre tam kare sayıları belirleme"
+ },
+ "lgs_mat_mebi_deneme_04|p10|q17": {
+  "claude": 3,
+  "note": "Cebirsel kenarlı parçaların kesişim alanını bulma"
+ },
+ "lgs_mat_mebi_deneme_04|p10|q18": {
+  "claude": 4,
+  "note": "İki daire grafiğini birleştirerek satılmayan ürün sayısı"
+ },
+ "lgs_mat_mebi_deneme_04|p11|q19": {
+  "claude": 3,
+  "note": "EKOK periyoduyla iki lambanın birlikte yanma olasılığı"
+ },
+ "lgs_mat_mebi_deneme_04|p11|q20": {
+  "claude": 2,
+  "note": "Sütun grafiğinden doğru yorumu seçme"
+ },
+ "lgs_mat_mebi_deneme_05|p3|q1": {
+  "claude": 3,
+  "note": "Ortak bölen ve kutu sayısı kısıtıyla en çok kutu"
+ },
+ "lgs_mat_mebi_deneme_05|p3|q2": {
+  "claude": 1,
+  "note": "Koordinat düzleminde noktaları okuma"
+ },
+ "lgs_mat_mebi_deneme_05|p3|q3": {
+  "claude": 2,
+  "note": "Karekök değerini tahmin edip en yakın noktayı bulma"
+ },
+ "lgs_mat_mebi_deneme_05|p4|q4": {
+  "claude": 4,
+  "note": "Tam kare düzenine göre fayans sayısı ve artanı en aza indirme"
+ },
+ "lgs_mat_mebi_deneme_05|p4|q5": {
+  "claude": 3,
+  "note": "Üslü kart çiftlerinin çarpımlarını eşitleyerek bilinmeyeni bulma"
+ },
+ "lgs_mat_mebi_deneme_05|p5|q6": {
+  "claude": 3,
+  "note": "Eşit aralıklı hat uzunluğundan denklem kurma"
+ },
+ "lgs_mat_mebi_deneme_05|p5|q7": {
+  "claude": 2,
+  "note": "Cebirsel ifadelerle tekrarlı hareketin toplam mesafesi"
+ },
+ "lgs_mat_mebi_deneme_05|p6|q8": {
+  "claude": 3,
+  "note": "Üst üste geçmeli borularla doğrusal ilişki kurma"
+ },
+ "lgs_mat_mebi_deneme_05|p6|q9": {
+  "claude": 4,
+  "note": "Üslü kenarlı L taşlarla desen çevresi bulma"
+ },
+ "lgs_mat_mebi_deneme_05|p7|q10": {
+  "claude": 4,
+  "note": "Kareköklü kenarlı bölgelerin alanını bulma"
+ },
+ "lgs_mat_mebi_deneme_05|p7|q11": {
+  "claude": 4,
+  "note": "İki daire grafiğinden eşitlik koşuluyla toplam öğrenci sayısı"
+ },
+ "lgs_mat_mebi_deneme_05|p8|q12": {
+  "claude": 3,
+  "note": "Sütun ve daire grafiğini birleştirip yanlış sayısı farkı"
+ },
+ "lgs_mat_mebi_deneme_05|p8|q13": {
+  "claude": 3,
+  "note": "Cebirsel kenarlı parçalarla çerçeve çevresi bulma"
+ },
+ "lgs_mat_mebi_deneme_05|p9|q14": {
+  "claude": 2,
+  "note": "Tam kare numaralı koltuk için olasılık hesaplama"
+ },
+ "lgs_mat_mebi_deneme_05|p9|q15": {
+  "claude": 2,
+  "note": "Kağıttan daire dilimleri çıkarılarak kalan alanı ifade etme"
+ },
+ "lgs_mat_mebi_deneme_05|p10|q16": {
+  "claude": 2,
+  "note": "Kesirli şerit koşullarıyla ortak kat bulma"
+ },
+ "lgs_mat_mebi_deneme_05|p10|q17": {
+  "claude": 3,
+  "note": "Çözümlenmiş ondalık fiyatlarla toplam bütçe"
+ },
+ "lgs_mat_mebi_deneme_05|p11|q18": {
+  "claude": 3,
+  "note": "Doğrusal denklemle oluşan bölgelerin alan oranı"
+ },
+ "lgs_mat_mebi_deneme_05|p11|q19": {
+  "claude": 2,
+  "note": "Çarpanlara ayırarak ortak çarpanı olan ifadeleri sayma"
+ },
+ "lgs_mat_mebi_deneme_05|p12|q20": {
+  "claude": 3,
+  "note": "Karekökle kesişen şeritlerin çevresini bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p3|q1": {
+  "claude": 3,
+  "note": "Olasılık koşulundan denklem kurup yolcu sayısı bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p3|q2": {
+  "claude": 3,
+  "note": "Üslü ifadelerin en küçüğü ve en büyüğünü bulup çarpma"
+ },
+ "lgs_mat_mebi_deneme_06|p3|q3": {
+  "claude": 2,
+  "note": "Kâr aralığından eşitsizlik yazma"
+ },
+ "lgs_mat_mebi_deneme_06|p3|q4": {
+  "claude": 2,
+  "note": "Ondalık farkı bulup 10 un kuvvetleriyle çözümleme"
+ },
+ "lgs_mat_mebi_deneme_06|p4|q5": {
+  "claude": 4,
+  "note": "EKOK ile iki taraftaki ev sayısını bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p4|q6": {
+  "claude": 4,
+  "note": "Daire grafiği ve fiyat koşuluyla birim fiyat bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p5|q7": {
+  "claude": 3,
+  "note": "Hareketi doğrusal denklem grafiğiyle gösterme"
+ },
+ "lgs_mat_mebi_deneme_06|p6|q8": {
+  "claude": 3,
+  "note": "10 un kuvvetleriyle yazılan sayıları karşılaştırma"
+ },
+ "lgs_mat_mebi_deneme_06|p6|q9": {
+  "claude": 3,
+  "note": "Periyodik üretimde beyaz kazak olasılığı"
+ },
+ "lgs_mat_mebi_deneme_06|p6|q10": {
+  "claude": 2,
+  "note": "Karekökü tahmin ederek boy aralığı bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p6|q11": {
+  "claude": 2,
+  "note": "İki kare farkı özdeşliğiyle cebirsel çarpım"
+ },
+ "lgs_mat_mebi_deneme_06|p7|q12": {
+  "claude": 4,
+  "note": "Adım uzunluklarından denklem kurup çözme"
+ },
+ "lgs_mat_mebi_deneme_06|p7|q13": {
+  "claude": 4,
+  "note": "Olasılık koşullarından en az para miktarını bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p8|q14": {
+  "claude": 4,
+  "note": "Cebirsel boylarla platform yüksekliği ifadesi bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p8|q15": {
+  "claude": 3,
+  "note": "Katsayıyı kök içine alarak kısalan mumları sıralama"
+ },
+ "lgs_mat_mebi_deneme_06|p9|q16": {
+  "claude": 4,
+  "note": "Ondalık kök uzunluklarıyla eşkenar üçgen oluşturma"
+ },
+ "lgs_mat_mebi_deneme_06|p9|q17": {
+  "claude": 3,
+  "note": "Tam kare ifadeleri çarpanlarına ayırıp yarıçap bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p10|q18": {
+  "claude": 2,
+  "note": "İki nokta arasındaki eğimi yüzde olarak bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p10|q19": {
+  "claude": 3,
+  "note": "EKOK ile en fazla kutu sayısını bulma"
+ },
+ "lgs_mat_mebi_deneme_06|p11|q20": {
+  "claude": 3,
+  "note": "Tam kare alandan kenar bulup yarım daire dizisi uzunluğu"
+ },
+ "lgs_mat_mebi_deneme_07|p3|q1": {
+  "claude": 2,
+  "note": "Eşit kareköklü uzunluklardan bilinmeyen bulma"
+ },
+ "lgs_mat_mebi_deneme_07|p3|q2": {
+  "claude": 4,
+  "note": "Açıortay ve kenarortayla alan ilişkisi kurma"
+ },
+ "lgs_mat_mebi_deneme_07|p4|q3": {
+  "claude": 3,
+  "note": "Üslü ifadeleri aynı tabana çevirip bölme"
+ },
+ "lgs_mat_mebi_deneme_07|p4|q4": {
+  "claude": 3,
+  "note": "Üçgen eşitsizliğiyle olası kenar sayısını bulma"
+ },
+ "lgs_mat_mebi_deneme_07|p5|q5": {
+  "claude": 4,
+  "note": "Orantılı parçalarda olasılık değerlerini inceleme"
+ },
+ "lgs_mat_mebi_deneme_07|p5|q6": {
+  "claude": 5,
+  "note": "Kareköklü uzunluklarla alan ve değer tahmini"
+ },
+ "lgs_mat_mebi_deneme_07|p6|q7": {
+  "claude": 3,
+  "note": "Sayıların asal çarpan sayısına göre sınıflandırılması"
+ },
+ "lgs_mat_mebi_deneme_07|p6|q8": {
+  "claude": 3,
+  "note": "Parça uzunluklarıyla denklem kurup çözme"
+ },
+ "lgs_mat_mebi_deneme_07|p7|q9": {
+  "claude": 3,
+  "note": "Doğrusal grafikten değişim oranını yorumlama"
+ },
+ "lgs_mat_mebi_deneme_07|p7|q10": {
+  "claude": 2,
+  "note": "Sütun grafiğini yorumlayıp yüzde hesaplama"
+ },
+ "lgs_mat_mebi_deneme_07|p8|q11": {
+  "claude": 2,
+  "note": "Bileşik eşitsizliğin tam sayı çözümlerini bulma"
+ },
+ "lgs_mat_mebi_deneme_07|p8|q12": {
+  "claude": 3,
+  "note": "Kâr problemini eşitsizlikle modelleme"
+ },
+ "lgs_mat_mebi_deneme_07|p8|q13": {
+  "claude": 3,
+  "note": "EBOB ile en az kesim sayısını bulma"
+ },
+ "lgs_mat_mebi_deneme_07|p8|q14": {
+  "claude": 3,
+  "note": "Uzunluk ifadesini tam kare özdeşliğiyle yazma"
+ },
+ "lgs_mat_mebi_deneme_07|p9|q15": {
+  "claude": 4,
+  "note": "İki daire grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_mebi_deneme_07|p9|q16": {
+  "claude": 2,
+  "note": "Ondalık çözümlemeden fark hesaplama"
+ },
+ "lgs_mat_mebi_deneme_07|p10|q17": {
+  "claude": 3,
+  "note": "Kareköklü değerleri aralıklarla karşılaştırma"
+ },
+ "lgs_mat_mebi_deneme_07|p10|q18": {
+  "claude": 3,
+  "note": "10'un kuvvetleriyle ondalık değer ve yüzde artış"
+ },
+ "lgs_mat_mebi_deneme_07|p11|q19": {
+  "claude": 1,
+  "note": "Denklemi verilen doğrunun grafiğini seçme"
+ },
+ "lgs_mat_mebi_deneme_07|p11|q20": {
+  "claude": 4,
+  "note": "Katlama ile cebirsel ifade uzunluğu bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p3|q1": {
+  "claude": 3,
+  "note": "Kenarları cebirsel olan dikdörtgenin alanını bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p3|q2": {
+  "claude": 3,
+  "note": "Sütun ve daire grafiğini birlikte yorumlama"
+ },
+ "lgs_mat_mebi_deneme_08|p4|q3": {
+  "claude": 3,
+  "note": "Aralarında asal kenarlarla çevre hesaplama"
+ },
+ "lgs_mat_mebi_deneme_08|p4|q4": {
+  "claude": 4,
+  "note": "Çekilişler sonrası kalan toplarda olasılık hesaplama"
+ },
+ "lgs_mat_mebi_deneme_08|p4|q5": {
+  "claude": 5,
+  "note": "EBOB koşullarıyla alanların en büyük değerini bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p5|q6": {
+  "claude": 3,
+  "note": "Uzunluk ilişkilerinden denklem kurup çözme"
+ },
+ "lgs_mat_mebi_deneme_08|p5|q7": {
+  "claude": 2,
+  "note": "Benzer dikdörtgenlerde oranla kenar bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p6|q8": {
+  "claude": 4,
+  "note": "İki doğrusal grafiği birlikte yorumlama"
+ },
+ "lgs_mat_mebi_deneme_08|p6|q9": {
+  "claude": 3,
+  "note": "Kareköklü uzunluklarla dikdörtgen alanı bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p7|q10": {
+  "claude": 3,
+  "note": "Çarpımı tam kare yapacak sayıyı bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p7|q11": {
+  "claude": 4,
+  "note": "Tam kare ifadeden kenar bulup alan ifadesi yazma"
+ },
+ "lgs_mat_mebi_deneme_08|p8|q12": {
+  "claude": 2,
+  "note": "Su israfı miktarını bilimsel gösterimle yazma"
+ },
+ "lgs_mat_mebi_deneme_08|p8|q13": {
+  "claude": 2,
+  "note": "Rasyonel ve irrasyonel sayıları ayırt etme"
+ },
+ "lgs_mat_mebi_deneme_08|p9|q14": {
+  "claude": 3,
+  "note": "Katlanarak artışı üslü ifadeyle oranlama"
+ },
+ "lgs_mat_mebi_deneme_08|p9|q15": {
+  "claude": 4,
+  "note": "Benzer üçgenlerle gerçek hayat uzaklığı bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p10|q16": {
+  "claude": 3,
+  "note": "Taşma koşulunu eşitsizlikle modelleme"
+ },
+ "lgs_mat_mebi_deneme_08|p10|q17": {
+  "claude": 3,
+  "note": "Koordinat düzleminde Pisagor ile yarıçap bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p11|q18": {
+  "claude": 4,
+  "note": "Katlamada Pisagor bağıntısıyla kenar bulma"
+ },
+ "lgs_mat_mebi_deneme_08|p11|q19": {
+  "claude": 3,
+  "note": "Kâr karşılaştırmasını eşitsizlikle çözme"
+ },
+ "lgs_mat_mebi_deneme_08|p12|q20": {
+  "claude": 4,
+  "note": "Pisagorla kenarları bulup açıları sıralama"
+ },
+ "lgs_mat_mebi_deneme_09|p3|q1": {
+  "claude": 3,
+  "note": "Kareköklü ifadeleri karşılaştırıp toplamları sıralama"
+ },
+ "lgs_mat_mebi_deneme_09|p3|q2": {
+  "claude": 3,
+  "note": "Üslü ifadeleri aynı tabana çevirip bölme"
+ },
+ "lgs_mat_mebi_deneme_09|p3|q3": {
+  "claude": 3,
+  "note": "Ortak bölenle en az parça sayısını bulma"
+ },
+ "lgs_mat_mebi_deneme_09|p4|q4": {
+  "claude": 4,
+  "note": "İki daire grafiğiyle toplam geliri hesaplama"
+ },
+ "lgs_mat_mebi_deneme_09|p4|q5": {
+  "claude": 4,
+  "note": "Çözümlenmiş ondalık fiyatlarla problem çözme"
+ },
+ "lgs_mat_mebi_deneme_09|p5|q6": {
+  "claude": 4,
+  "note": "İki doğrusal grafikten boşalma süresini bulma"
+ },
+ "lgs_mat_mebi_deneme_09|p6|q7": {
+  "claude": 3,
+  "note": "Kareköklü uzunlukları bölüp parça sayısı bulma"
+ },
+ "lgs_mat_mebi_deneme_09|p6|q8": {
+  "claude": 4,
+  "note": "Eğim oranlarıyla en küçük genişliği bulma"
+ },
+ "lgs_mat_mebi_deneme_09|p7|q9": {
+  "claude": 4,
+  "note": "Tablodan eşitsizlik sistemi kurup tam sayı sayma"
+ },
+ "lgs_mat_mebi_deneme_09|p7|q10": {
+  "claude": 3,
+  "note": "Benzer üçgenlerle koordinat uzaklığı bulma"
+ },
+ "lgs_mat_mebi_deneme_09|p8|q11": {
+  "claude": 3,
+  "note": "Çerçeve iç alanını iki kare farkıyla yazma"
+ },
+ "lgs_mat_mebi_deneme_09|p8|q12": {
+  "claude": 3,
+  "note": "Zaman planından eşitsizlik aralığı bulma"
+ },
+ "lgs_mat_mebi_deneme_09|p8|q13": {
+  "claude": 3,
+  "note": "Yarım silindirin yüzey alanını hesaplama"
+ },
+ "lgs_mat_mebi_deneme_09|p8|q14": {
+  "claude": 4,
+  "note": "Asal sayı koşuluyla olası olasılıkları inceleme"
+ },
+ "lgs_mat_mebi_deneme_09|p9|q15": {
+  "claude": 3,
+  "note": "Daire ve sütun grafiğiyle ortalama karşılaştırma"
+ },
+ "lgs_mat_mebi_deneme_09|p9|q16": {
+  "claude": 4,
+  "note": "İkizkenar üçgenlerde açılardan kenar sıralama"
+ },
+ "lgs_mat_mebi_deneme_09|p10|q17": {
+  "claude": 4,
+  "note": "Köşegenle kesilen dikdörtgende çevre ve alan"
+ },
+ "lgs_mat_mebi_deneme_09|p10|q18": {
+  "claude": 4,
+  "note": "Benzerlik oranıyla kenar uzunluklarını bulma"
+ },
+ "lgs_mat_mebi_deneme_09|p11|q19": {
+  "claude": 4,
+  "note": "Alanlardan küp kenarlarını bulup toplamı tahmin"
+ },
+ "lgs_mat_mebi_deneme_09|p11|q20": {
+  "claude": 4,
+  "note": "Ardışık yansımalar ve noktalar arası uzaklık"
+ },
+ "lgs_mat_mebi_deneme_10|p3|q1": {
+  "claude": 2,
+  "note": "Katsayıyı kök içine alıp karşılaştırma"
+ },
+ "lgs_mat_mebi_deneme_10|p3|q2": {
+  "claude": 3,
+  "note": "Hacim farkını tam kare özdeşliğiyle yazma"
+ },
+ "lgs_mat_mebi_deneme_10|p4|q3": {
+  "claude": 4,
+  "note": "Kareköklü uzunluklarla toplam alan hesaplama"
+ },
+ "lgs_mat_mebi_deneme_10|p4|q4": {
+  "claude": 4,
+  "note": "Asal sayı koşullarıyla prizma ayrıtlarını bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p4|q5": {
+  "claude": 2,
+  "note": "Uzaklık koşulunu eşitsizlikle ifade etme"
+ },
+ "lgs_mat_mebi_deneme_10|p4|q6": {
+  "claude": 3,
+  "note": "Benzer dikdörtgenlerle katlama uzunluğu bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p5|q7": {
+  "claude": 5,
+  "note": "Tam kare alandan kenar bulup alan ifadesi yazma"
+ },
+ "lgs_mat_mebi_deneme_10|p5|q8": {
+  "claude": 4,
+  "note": "Üslü çarpım koşullarından bilinmeyen bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p6|q9": {
+  "claude": 3,
+  "note": "Negatif üslü ifadelerin değerlerini karşılaştırma"
+ },
+ "lgs_mat_mebi_deneme_10|p6|q10": {
+  "claude": 2,
+  "note": "Öteleme sonrası köşe koordinatlarını bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p7|q11": {
+  "claude": 5,
+  "note": "Asal çarpan koşullarıyla en küçük toplamı bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p7|q12": {
+  "claude": 5,
+  "note": "Katlamada açılardan kenar ilişkilerini belirleme"
+ },
+ "lgs_mat_mebi_deneme_10|p8|q13": {
+  "claude": 4,
+  "note": "Daire grafiğinden oranlarla adım adım hesaplama"
+ },
+ "lgs_mat_mebi_deneme_10|p8|q14": {
+  "claude": 3,
+  "note": "10'un kuvvetlerinin toplamıyla ödeme hesaplama"
+ },
+ "lgs_mat_mebi_deneme_10|p9|q15": {
+  "claude": 3,
+  "note": "Halka yükseklikleriyle denklem kurup çözme"
+ },
+ "lgs_mat_mebi_deneme_10|p9|q16": {
+  "claude": 4,
+  "note": "Kareköklü çarpımın rasyonel olma olasılığı"
+ },
+ "lgs_mat_mebi_deneme_10|p10|q17": {
+  "claude": 3,
+  "note": "Cisimler üzerindeki çubukların eğimini bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p10|q18": {
+  "claude": 5,
+  "note": "İç içe karelerde Pisagorla alan bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p11|q19": {
+  "claude": 4,
+  "note": "EKOK toplamından bilinmeyen sayıları bulma"
+ },
+ "lgs_mat_mebi_deneme_10|p11|q20": {
+  "claude": 3,
+  "note": "Fiyat aralıklarıyla toplam eşitsizliği kurma"
+ },
+ "lgs_mat_mebi_deneme_11|p3|q1": {
+  "claude": 2,
+  "note": "Birim dönüşümü ve farkı 10'un kuvvetiyle yazma"
+ },
+ "lgs_mat_mebi_deneme_11|p3|q2": {
+  "claude": 3,
+  "note": "Çevreden kare kenarı bulup alanı özdeşlikle yazma"
+ },
+ "lgs_mat_mebi_deneme_11|p3|q3": {
+  "claude": 3,
+  "note": "Tam kare şifrelerde kalan durumlarla olasılık"
+ },
+ "lgs_mat_mebi_deneme_11|p3|q4": {
+  "claude": 2,
+  "note": "Taşıma kapasitesini eşitsizlikle modelleme"
+ },
+ "lgs_mat_mebi_deneme_11|p4|q5": {
+  "claude": 2,
+  "note": "Verilen elemanlarla tek üçgen çizilebilirliği"
+ },
+ "lgs_mat_mebi_deneme_11|p4|q6": {
+  "claude": 3,
+  "note": "Hareket problemiyle Pisagordan uzaklık bulma"
+ },
+ "lgs_mat_mebi_deneme_11|p4|q7": {
+  "claude": 4,
+  "note": "Yamukta benzer üçgenlerle uzunluk bulma"
+ },
+ "lgs_mat_mebi_deneme_11|p4|q8": {
+  "claude": 3,
+  "note": "Çevre bilgisinden denklemle kenar bulma"
+ },
+ "lgs_mat_mebi_deneme_11|p5|q9": {
+  "claude": 3,
+  "note": "Yansıma ve ötelemeden koordinat bulma"
+ },
+ "lgs_mat_mebi_deneme_11|p5|q10": {
+  "claude": 3,
+  "note": "Kareköklü değerlerle tam sayı aralığı bulma"
+ },
+ "lgs_mat_mebi_deneme_11|p6|q11": {
+  "claude": 4,
+  "note": "İki doğrusal grafikten birlikte dolma süresi"
+ },
+ "lgs_mat_mebi_deneme_11|p6|q12": {
+  "claude": 5,
+  "note": "Aralarında asal bölüm koşuluyla olası toplamlar"
+ },
+ "lgs_mat_mebi_deneme_11|p7|q13": {
+  "claude": 4,
+  "note": "Kare alanlardan kenar bulup uzunluğu tahmin etme"
+ },
+ "lgs_mat_mebi_deneme_11|p7|q14": {
+  "claude": 4,
+  "note": "Daire grafiğinden tam kare alan oranlarını bulma"
+ },
+ "lgs_mat_mebi_deneme_11|p8|q15": {
+  "claude": 3,
+  "note": "Ortalama aralığından eşitsizlik kurma"
+ },
+ "lgs_mat_mebi_deneme_11|p8|q16": {
+  "claude": 2,
+  "note": "Hatalı çözümleme ile gerçek değer farkı"
+ },
+ "lgs_mat_mebi_deneme_11|p9|q17": {
+  "claude": 5,
+  "note": "Koni açınımında taban çevresi farkını bulma"
+ },
+ "lgs_mat_mebi_deneme_11|p9|q18": {
+  "claude": 4,
+  "note": "Kaydırılan üçgenlerde alanı cebirsel yazma"
+ },
+ "lgs_mat_mebi_deneme_11|p10|q19": {
+  "claude": 5,
+  "note": "Çember kesişim noktasından eğim hesaplama"
+ },
+ "lgs_mat_mebi_deneme_11|p10|q20": {
+  "claude": 4,
+  "note": "Ondalık kareköklerle Pisagor uygulama"
+ },
+ "lgs_mat_mebi_deneme_12|p3|q1": {
+  "claude": 2,
+  "note": "Birim dönüşümünde katsayıyı kök içine alma"
+ },
+ "lgs_mat_mebi_deneme_12|p3|q2": {
+  "claude": 4,
+  "note": "Dikdörtgene sığan tam kare alanları bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p3|q3": {
+  "claude": 2,
+  "note": "Kâr-zarar koşulunu eşitsizlikle çözme"
+ },
+ "lgs_mat_mebi_deneme_12|p3|q4": {
+  "claude": 3,
+  "note": "Prizma açınımından ayrıt uzunlukları toplamı"
+ },
+ "lgs_mat_mebi_deneme_12|p4|q5": {
+  "claude": 2,
+  "note": "Üslü ifadeleri aynı tabana çevirip sıralama"
+ },
+ "lgs_mat_mebi_deneme_12|p4|q6": {
+  "claude": 4,
+  "note": "Kare kenarlarını bulup toplam uzunluğu tahmin"
+ },
+ "lgs_mat_mebi_deneme_12|p4|q7": {
+  "claude": 4,
+  "note": "İki kare farkıyla ifadeyi sadeleştirme"
+ },
+ "lgs_mat_mebi_deneme_12|p5|q8": {
+  "claude": 4,
+  "note": "Üslü uzunluklarla kesilen şeklin çevresi"
+ },
+ "lgs_mat_mebi_deneme_12|p5|q9": {
+  "claude": 3,
+  "note": "Kareköklü hacimle doğal sayı aralığı bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p6|q10": {
+  "claude": 3,
+  "note": "Üçgen eşitsizliğiyle çevre aralığını bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p6|q11": {
+  "claude": 3,
+  "note": "Olası durum sayılarını eşitleyerek bilinmeyen bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p6|q12": {
+  "claude": 3,
+  "note": "Kesirli ifadelerle denklem kurup çözme"
+ },
+ "lgs_mat_mebi_deneme_12|p6|q13": {
+  "claude": 4,
+  "note": "Koordinatlarda dikdörtgen alanından nokta bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p7|q14": {
+  "claude": 4,
+  "note": "Birleştirilen üçgenlerde açılardan kenar sıralama"
+ },
+ "lgs_mat_mebi_deneme_12|p7|q15": {
+  "claude": 2,
+  "note": "Pisagor ile yatay uzaklığı bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p8|q16": {
+  "claude": 3,
+  "note": "Eksenlere göre yansıyan motifi belirleme"
+ },
+ "lgs_mat_mebi_deneme_12|p8|q17": {
+  "claude": 5,
+  "note": "İki daire grafiğiyle en az değeri bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p9|q18": {
+  "claude": 3,
+  "note": "Kenar ilişkilerinden alan ifadesi yazma"
+ },
+ "lgs_mat_mebi_deneme_12|p9|q19": {
+  "claude": 5,
+  "note": "Katlamada benzer üçgenlerle kenar bulma"
+ },
+ "lgs_mat_mebi_deneme_12|p10|q20": {
+  "claude": 4,
+  "note": "Oranlı alanlardan üslü ifadeyle alan bulma"
  }
 }

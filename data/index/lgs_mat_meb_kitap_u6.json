@@ -1,0 +1,441 @@
+{
+ "book": {
+  "id": "lgs_mat_meb_kitap_u6",
+  "path": "kaynaklar/LGS_Matematik/14_MEB_Calisma_Kitabi/MEB_Calisma_Kitabi_Unite6_Donusum_Geometrisi-Geometrik_Cisimler.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "meb_kitap",
+  "kind_name": "MEB Çalışma Kitabı",
+  "unit": "Dönüşüm Geometrisi · Geometrik Cisimler",
+  "code": "",
+  "title": "MEB LGS Çalışma Kitabı · 6. Ünite",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 12,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p2|q1",
+   "page": 2,
+   "n": 1,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    585.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. İki sayı doğrusunun birbirleriyle dik kesişmesiyle oluşan sisteme koordinat sistemi denir. Sayı doğrularının kesişim noktasına başlangıç noktası (orijin), yatay sayı doğrusuna x ekseni, dikey sayı doğrusuna y ekseni denir. yukarı 10 9 8 1 7 2 6 3 4 5 5 4 6 3 7 8 2 9 1 10 sol sağ –10 –9 –8 –7 –6 –5 –4 –3 –2 –1 1 2 3 4 5 6 7 8 9 10 –1 –2 –3 –4 –5 –6 –7 –8 –9 –10 aşağı Yukarıda bir hedef tahtası ve bu hedef tahtasındaki dairesel şeritlerin vurulmaları durumunda kazandıracağı puanlar verilmiştir. Bu hedef tahtasının üzerine sağdaki gibi orijini hedef tahtasının tam orta noktası olacak şekilde b",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yansıma ve ötelemeyle hedef tahtasında puan bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    453.1
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Düzlem aynalarda görüntü aynaya göre cismin simetriğidir. Simetri, cismin ve cismin görüntüsünün ayna ekseninde katlandığında birbiriyle çakışacak biçimde üst üste gelmesidir. Braille Alfabesi, görme engellilerin kullandığı bir kâğıt üzerine iğne yardımıyla yazılabilen alfabedeki harflerin, sayıların, bağlaçların ve noktalama işaretlerinin de belirtildiği sistemdir. Bu sistemdeki rakamları ifade eden kartlar aşağıda verilmiştir. 1 2 3 4 5 6 7 8 9 0 Düzlem Ayna 345 sayısını oluşturan kartlar düzlem aynanın önüne şekildeki gibi yerleştirilmiştir. Buna göre bu kartların düzlem aynadaki görüntü",
+   "answer": "A",
+   "solved": false,
+   "skill": "Düzlem aynada rakam kartlarının görüntüsünü bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    24.3,
+    485.9,
+    573.7,
+    751.9
+   ],
+   "num": [
+    28.3,
+    492.9,
+    36.2,
+    506.7
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Yarıçapının uzunluğu r ve yüksekliği h olan bir dik dairesel silindirin yanal yüzeyinin alanı 2 rh dir. r h r Taban çapının uzunluğu yüksekliğine eşit olan dik dairesel silindir şeklindeki bir kutunun yanal yüzeyinin alanı 300 cm 2 dir. Bu kutunun içerisine yüzlerinden biri kutunun tabanına oturacak şekilde bir cisim yerleştirilecektir. Bu cisim aşağıdakilerden hangisi olamaz? ( r yerine 3 alınız.) A) B) C) D)",
+   "answer": "C",
+   "solved": false,
+   "skill": "Silindirin yanal alanından ölçü bulup cisim yerleştirme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    478.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Alan: r 2 r h Alan: 2 r rh h r 2 Hacim: r h r r Bir pastane vitrine koymak için pasta maketi yapacaktır. Bu maket için dik dairesel silindir biçimindeki üç tahta üst üste konulup yapıştırılarak aşağıdaki gibi bir yapı oluşturulmuştur. Bu yapıda üzerine tahta yapıştırılan her bir tahtanın taban yarıçapının uzunluğu bir üstündeki tahtanın taban yarıça- pının uzunluğunun iki katıdır. Tahtaların yükseklikleri ise ortadaki tahtanın taban yarıçapının uzunluğuna eşittir. Bu yapının tabanı dâhil tüm yüzleri boyandığında 72 000 cm 2 lik alan boyanmış oluyor. Buna göre bu yapıdaki en küçük tahtanın h",
+   "answer": "C",
+   "solved": false,
+   "skill": "Silindirlerin boyalı yüzey alanından hacim bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p5|q5",
+   "page": 5,
+   "n": 5,
+   "bbox": [
+    22.3,
+    35.1,
+    573.7,
+    529.3
+   ],
+   "num": [
+    28.3,
+    42.1,
+    36.3,
+    55.9
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Yarıçapı r olan dairenin alanı r r 2 formülü ile hesaplanır. 5. Yarıçapı r yüksekliği h olan dik dairesel silindirin hacmi r r 2 h formülü ile hesaplanır. Anadolu’nun bazı yörelerinde tahta baskı kalıpları ile farklı desenler oluşturularak kumaşlar üzerine motifler yapılmak- tadır. Bu şekilde bir baskı yapmak isteyen Ahmet Usta, silindir şeklindeki tahta parçasının üst tabanını 8 eş parçaya ayırdık- tan sonra tabanın 18 cm yukarısından toplam hacmi 108 cm 3 olan 4 parçayı kesip çıkarıyor. r   18 cm h Silindir tahta Tahta baskı kalıbı Aşağıda Ahmet Usta’nın bu tahta baskı kalıb",
+   "answer": "A",
+   "solved": false,
+   "skill": "Silindir hacim ve alan ilişkisinden toplam hacim bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p6|q6",
+   "page": 6,
+   "n": 6,
+   "bbox": [
+    22.3,
+    35.1,
+    573.7,
+    418.1
+   ],
+   "num": [
+    28.3,
+    42.1,
+    36.3,
+    55.9
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Yarıçapı r olan dairenin alanı r r 2 formülü ile hesaplanır. 6. Yarıçapı r, yüksekliği h olan dik dairesel silindirin hacmi r r 2 h formülü ile hesaplanır. Bir markette yükseklikleri eşit silindir şeklindeki teneke kutularda bal ve kaymak satılmaktadır. Yarıçaplarının uzunlukları 4 cm ve 6 cm olan bu kutularda satılan bal ve kaymağın fiyatları bulundukları kapların hacimleri ile orantılıdır. BAL BAL KAYMAK KAYMAK Arif Bey küçük balın 36 TL ve büyük kaymağın 18 TL olduğu bu marketten büyük bal ile küçük kaymaktan birer tane almak için toplam kaç TL öder? A) 95 B) 89 C) 78 D) 60",
+   "answer": "B",
+   "solved": false,
+   "skill": "Silindir hacimleri oranıyla fiyat hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    24.3,
+    427.1,
+    573.7,
+    775.7
+   ],
+   "num": [
+    28.3,
+    434.1,
+    36.3,
+    448.0
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Aşağıda koordinat sistemi üzerine çizilmiş bir şekil verilmiştir. Rabia ve Neşe bu şekle öteleme ve yansıma hareket- lerini uygulayacaklardır. y 8 7 6 5 4 3 2 1 x 0 -8 -7 -6 -5 -4 -3 -2 -1-1 1 2 3 4 5 6 7 8 -2 -3 -4 -5 -6 -7 -8 Rabia önce bu şekli 1 birim sola öteleyip y eksenine göre yansımasını alıyor. Sonra oluşan görüntüyü x eksenine göre yansıtıp kırmızıya boyuyor. Neşe ise başlangıçtaki şeklin önce x eksenine göre, ardından oluşan görüntünün y ekse- nine göre yansımasını alıyor. Buna göre son durumda oluşan görüntü aşağıdakilerden hangisidir? A) B) C) D)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Ötelemeyi ve yansımaları ardışık uygulayıp görüntüyü belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p7|q8",
+   "page": 7,
+   "n": 8,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    329.1
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Aşağıda kenar uzunlukları 20 cm ve 30 cm olan dikdörtgen şeklinde bir karton verilmiştir. Bu karton üzerine bir dik dairesel silindirin açınımı aşağıdaki gibi çizilmiştir. 30 cm 20 cm Çizilen dik dairesel silindirin yarıçap uzunluğu santimetre cinsinden bir doğal sayı olduğuna göre bu silindi- rin hacmi en fazla kaç santimetreküptür? ( p yerine 3 alınız.) A) 48 B) 144 C) 216 D) 264",
+   "answer": "C",
+   "solved": false,
+   "skill": "Silindir açınımının karton sınırlarından en büyük hacmi bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p7|q9",
+   "page": 7,
+   "n": 9,
+   "bbox": [
+    24.4,
+    413.9,
+    566.2,
+    710.6
+   ],
+   "num": [
+    28.4,
+    416.9,
+    36.3,
+    430.8
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Aşağıdaki koordinat sisteminde AB doğru parçası ile KLM ikizkenar üçgeni verilmiştir. 1 birim y 1 birim A B x o K L M & nin KM kenarı- Buna göre AB doğru parçasına aşağıdakilerden hangisi uygulanırsa oluşacak görüntü, KLM na ait kenarortayı olur? A) y eksenine göre yansıtıldıktan sonra 5 birim aşağı öteleme B) 7 birim sağa ötelendikten sonra 9 birim aşağı öteleme C) x eksenine göre yansıtıldıktan sonra 9 birim sağa öteleme D) 7 birim aşağı ötelendikten sonra y eksenine göre yansıma",
+   "answer": "D",
+   "solved": false,
+   "skill": "Ötelemeyi ve yansımayı birleştirerek istenen görüntüyü elde etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p8|q10",
+   "page": 8,
+   "n": 10,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    132.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "NMK&=^vrasya=qüneliI=^sya=ile=^vrupa=kıtalarını=kara=yolu=ile=birbirine=bağlarK=aeniz=tabanında=açılan=bu=tünelin=çapının==uzunluğu=NPIT=metre=olan=dik=dairesel=silindir=şeklindeki=bir=kısmından=çıkarılan=toprağın=hacmi=PM =@= NPT=O==metreküptürK=_una=göreI=^vrasya=qüneli’nin=toprak=çıkarılan=bu=kısmının=uzunluğu=kaç=kilometredir\\===E=r==yerine$=P=alınızKF==^F=P&=_F=PIS&=`F=Q&=aF=RIQ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Silindir hacminden tünel uzunluğunu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p8|q11",
+   "page": 8,
+   "n": 11,
+   "bbox": [
+    24.3,
+    381.4,
+    570.9,
+    553.1
+   ],
+   "num": [
+    28.3,
+    384.4,
+    41.2,
+    398.3
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Ayrıtlarının uzunlukları 3 cm, 5 cm ve 24 cm olan dikdörtgenler prizması şeklindeki tahta blok, en uzun ayrıtını ortala- yacak şekilde aşağıdaki gibi kesilmiştir. 24 cm 5 cm 5 cm 3 cm 3 cm 12 cm 12 cm Elde edilen iki parçanın birer yüzleri çakıştırılarak bir dik üçgen dik prizma oluşturulacaktır. Buna göre, bu prizmanın ayrıtlarının uzunlukları toplamı kaç santimetredir? A) 126 B) 128 C) 129 D) 132",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kesilip birleştirilen prizmanın ayrıt uzunlukları toplamını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p9|q12",
+   "page": 9,
+   "n": 12,
+   "bbox": [
+    22.3,
+    33.9,
+    556.1,
+    469.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. d Yukarı Aşağı 1 birim 1 birim Yukarıda kareli zemin üzerinde verilen şekildeki sarı üçgen 4 birim yukarı ötelendikten sonra oluşan yeni şekil, d doğrusuna göre yansıtılıyor. Buna göre, oluşan görüntü aşağıdakilerden hangisidir? A) B) C) D) d d d d",
+   "answer": "A",
+   "solved": false,
+   "skill": "Ötelemeden sonra doğruya göre yansımayı uygulama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p10|q13",
+   "page": 10,
+   "n": 13,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    302.7
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Dikdörtgen biçimindeki iki özdeş etiket, dik dairesel silindir ve kare dik prizma şeklindeki kutuların etrafına alt ve üst tabanlardan eşit uzaklıkta olacak şekilde yapıştırılmıştır. A B r = 9 cm 5 cm 6 cm A B D C 6 cm A B 5 cm D C 6 cm D C Bu durumda, silindir şeklindeki kutuya yapıştırılan etiketin AD ve BC kenarları çakışmış, kare prizma şeklindeki kutu- ya yapıştırılan etiketin ise AD ve BC kenarları arasındaki uzaklık 6 cm olmuştur. Bu kutuların hacimleri birbirine eşit olduğuna göre, etiketlerden birinin bir yüzünün alanı kaç santimetreka- redir? ( p yerine 3 alınız.) A) 540 B) 720 C",
+   "answer": "C",
+   "solved": false,
+   "skill": "Etiket ölçüleri ve hacim eşitliğinden etiket alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p10|q14",
+   "page": 10,
+   "n": 14,
+   "bbox": [
+    24.4,
+    510.7,
+    573.7,
+    722.6
+   ],
+   "num": [
+    28.4,
+    513.7,
+    41.6,
+    527.6
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Aşağıda, dik dairesel silindir şeklinde iki kap verilmiştir. 2 dm 3 dm 3 dm 1 dm I. kap II. kap Ahmet boş bir depoyu yalnızca I. kabı her seferinde tam dolu olacak şekilde kullanarak depoyu taşırmadan tamamen doldurabilmektedir. Mehmet ise aynı depoyu yalnızca II. kabı her seferinde tam dolu olacak ve taşmayacak şekilde kullanarak depoyu taşırmadan tamamen doldurabilmektedir. Buna göre, bu deponun hacmi kaç desimetreküp olabilir? A) 18 p B) 24 p C) 27 p D) 36 p",
+   "answer": "D",
+   "solved": false,
+   "skill": "Silindir hacimlerinin ortak katıyla depo hacmini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u6|p11|q15",
+   "page": 11,
+   "n": 15,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    464.4
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Bir yüzünde geometrik şekiller bulunan noktalı kâğıt aşağıdaki gibi ortadan ikiye katlandığında katlama çizgisi simetri doğrusu olmaktadır. Simetri doğrusu Buna göre bu kâğıdın geometrik şekillerin bulunduğu diğer yarısı aşağıdakilerden hangisidir? A) B) Simetri Simetri doğrusu doğrusu C) D) Simetri Simetri doğrusu doğrusu",
+   "answer": "A",
+   "solved": false,
+   "skill": "Simetri doğrusuna göre şekillerin yansımasını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

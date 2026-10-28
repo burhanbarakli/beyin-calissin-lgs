@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_03",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_03_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 3 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 23,
+ "key_pages": [
+  23
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.3,
+    86.4,
+    272.4,
+    330.1
+   ],
+   "num": [
+    36.3,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Bir bilimsel deneyde, iki farklı karışımın (P ve R) saf bileşenleri incelenmiştir. • P karışımının toplam kütlesi 2 6 gramdır. Bu kütlenin 2 -3 ü kadar saf madde elde edilmiştir. • R karışımının toplam kütlesi 3 4 gramdır. 1 Bu kütlenin ’i kadar saf madde elde 3 edilmiştir. Buna göre elde edilen saf madde kütlelerinin toplamının miligram cinsinden bilimsel gösterimi aşağıdakilerden hangisidir? (1 gram = 1000 miligram) A) B) 3 5 10 3 , ⋅ 3 5 10 4 , ⋅ C) D) 3 5 10 5 , ⋅ 3 5 10 6 , ⋅",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü kütleleri toplayıp bilimsel gösterme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    280.3,
+    90.4,
+    520.6,
+    222.2
+   ],
+   "num": [
+    284.3,
+    93.4,
+    292.4,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Bir dijital güvenlik sisteminin giriş onayı için oluşturulan sayı havuzu, 1’den 29’a kadar olan tek sayılardan oluşmaktadır. Sistem, bu havuzdan seçilen sayının anahtar değeri olan 21 ile aralarında asal olmasını istemektedir. Buna göre havuzda bulunan sayılardan kaçı sistemin bu şartını sağlar? A) 7 B) 8 C) 9 D) 10",
+   "answer": "C",
+   "solved": false,
+   "skill": "Aralarında asal tek sayıları sayma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    30.3,
+    443.9,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.3,
+    450.9,
+    44.3,
+    466.2
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Kısa kenar uzunluğu ( 5 4) cm ve uzun kenar uzunluğu (2 5 4) 3. cm olan dikdörtgen şeklinde bir + + karton aşağıda gösterilmiştir. ( 2 5 4 ) cm 1 ( 5 4 ) cm 1 Bu kartondan, en büyük alanlı iki eş ikizkenar dik üçgen şeklinde parça kesilerek çıkarılıyor. Kalan parçanın bir yüzünün alanının santimetrekare cinsinden değeri hangi iki ardışık tam sayı arasındadır? A) 13 ile 14 B) 14 ile 15 C) 15 ile 16 D) 16 ile 17",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareköklü ifadelerle alan çıkarıp tam sayı aralığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    32.0,
+    90.4,
+    508.4,
+    403.9
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Aşağıdaki tabloda yapılan aktivitelerde geçen süreye göre harcanan ortalama kalori miktarları gösterilmiştir. Tablo: Yapılan Aktivitelerde Süreye Bağlı Harcanan Ortalama Kalori Yapılan Aktivite Süre (dk.) Harcanan Ortalama Kalori (kcal) Bisiklet Sürmek 3 125 Voleybol Oynamak 2 24 Yüzmek 2 63 Yürüyüş Yapmak 5 50 Buna göre aşağıda verilenlerden hangisinin sonucunda harcanan kalori miktarı diğerlerinden fazladır? A) 6 dakika bisiklet sürmek B) 10 dakika voleybol oynamak C) 6 dakika yüzmek D) 15 dakika yürüyüş yapmak",
+   "answer": "B",
+   "solved": false,
+   "skill": "Katsayıyı karekök içine alarak harcanan kaloriyi kıyaslama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    30.0,
+    411.9,
+    272.4,
+    674.2
+   ],
+   "num": [
+    36.4,
+    414.9,
+    44.5,
+    430.2
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Aşağıda 7 eş dikdörtgen ve 4 eş kareden oluşan bir hedef tahtası verilmiştir. Hedef tahtasına ok ile bir atış yapılmıştır. Atılan okun hedef tahtasına isabet ettiği bilindiğine göre okun kırmızı bölgeye isabet etmeme olasılığı kaçtır? A) 18 D) 3 B) 8 C) 7 25 11 25 11",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alan oranıyla boyalı olmayan bölgeye isabet olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    278.9,
+    408.4,
+    544.8,
+    734.6
+   ],
+   "num": [
+    282.9,
+    415.4,
+    290.9,
+    430.7
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "0 81 , 0 64 , 6 25 , 6. işleminin sonucu 1 3 0 09 , 0 04 , 0 25 , kaçtır? A) 20 B) 12 C) 2 D) 0",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ondalık karekökleri hesaplayıp işlem yapma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    32.3,
+    90.4,
+    519.5,
+    361.2
+   ],
+   "num": [
+    36.3,
+    93.4,
+    43.7,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Aşağıda A, B ve C mağazalarında gün boyunca satılan ayakkabı sayılarının dağılımı Grafik 1’de, her bir mağazada satılan ayakkabılardan siyah olanlarının yüzdeleri ise Grafik 2’de verilmiştir. Grafik 1: Satılan Ayakkabı Sayılarının Grafik 2: Mağazalarda Satılan Siyah Mağazalara Göre Dağılımı Ayakkabıların Yüzdeleri Yüzde (%) A 18 C 15 120 o 10 B Mağaza A B C Buna göre gün boyunca mağazalarda satılan toplam siyah ayakkabı sayısı aşağıdakilerden hangisi olabilir? A) 120 B) 108 C) 86 D) 80",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğiyle toplam sayı koşulu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p5|q8",
+   "page": 5,
+   "n": 8,
+   "bbox": [
+    30.1,
+    400.1,
+    544.8,
+    738.3
+   ],
+   "num": [
+    36.1,
+    403.1,
+    44.2,
+    418.4
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Aşağıdaki satranç tahtasının C2 karesinde kırmızı bir pul bulunmaktadır. Kırmızı pula başlangıçta 0,12 . 10 5 şeklinde bir değer verilmiştir. Bu pulun değeri, pul yukarıya doğru her bir kare hareket ettiğinde 25 katına, sağa doğru her bir kare hareket ettiğinde ise 4 katına çıkmaktadır. Sadece sağa ve yukarıya hareket edecek olan bu pulun F6 karesine geldiğinde alacağı değer aşağıdakilerden hangisine eşittir? A) 0,03 . 10 13 B) 0,03 . 10 9 C) 0,48 . 10 7 D) 0,48 . 10 11",
+   "answer": "A",
+   "solved": false,
+   "skill": "Üslü çarpanlarla değeri bulup 10 un kuvvetiyle ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    32.3,
+    90.4,
+    503.7,
+    480.2
+   ],
+   "num": [
+    36.3,
+    93.4,
+    44.3,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Dört farklı telsiz modelinin iç mekândaki çekim mesafesi ve fiyatları Tablo 1’de verilmiştir. =qablo=NW==qelsizlerin=jarkalara=döre=Çekim=jesafesi=ve=ciyatı=qelsiz=jarkası=Çekim=jesafesi=EmetreF=ciyat=EqiF=m=OM=POR=o=ON=PRM=p=OO=PRR=q=OP=PSM=juharrem=ve=eacer=çifti=yeni=doğan=çocuklarının=odasına=yukarıdaki=telsizlerden=birini=alacaktırK==_u=ailenin=evlerindeki=odalarınI=telsizi=koyacakları=yere=olan=en=uzak=mesafesinin=metre=cinsinden==çözümlenmiş=hâli= qablo=O’de=verilmiştirK=qablo=OW==ldaların=qelsizin=honulacağı=vere=llan=bn=rzak=jesafesi=ldalar=bn=rzak=jesafe=EmF=lturma=ldası=O=K==NM=N",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çözümlenmiş ondalık mesafeleri karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p6|q10",
+   "page": 6,
+   "n": 10,
+   "bbox": [
+    30.0,
+    559.1,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.0,
+    563.7,
+    49.1,
+    579.0
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "250 cm 10. Yukarıda verilen 250 cm uzunluğundaki ip, uzunlukları santimetre cinsinden doğal sayı olan 3 parçaya ayrılıyor. Birinci parçanın uzunluğu, farklı asal çarpanlarının toplamı 9 olan iki basamaklı en büyük doğal sayı; ikinci parçanın uzunluğu ise farklı asal çarpanlarının toplamı 10 olan üç basamaklı en küçük doğal sayıya eşittir. Buna göre üçüncü parçanın uzunluğunun pozitif çarpan sayısı kaçtır? A) 2 B) 4 C) 6 D) 8",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpan toplamı koşuluyla sayı bulup çarpan sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p7|q11",
+   "page": 7,
+   "n": 11,
+   "bbox": [
+    32.0,
+    90.4,
+    472.5,
+    405.4
+   ],
+   "num": [
+    36.0,
+    93.4,
+    48.5,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Aşağıdaki sütun grafiğinde Eylül ile Elif’in dört günde okudukları sayfa sayıları verilmiştir. Grafik: Günlere Göre Okunan Sayfa Sayısı Sayfa Sayısı 60 Elif Eylül 50 40 30 20 10 0 Günler 1. gün 2. gün 3. gün 4. gün Buna göre aşağıdaki bilgilerden hangisi yanlıştır? A) Eylül ile Elif toplam 340 sayfa okumuştur. B) Eylül’ün bir önceki güne göre daha fazla sayfa okuduğu gün sayısı 3’tür. C) Elif’in bir önceki güne göre daha fazla sayfa okuduğu gün sayısı 2’dir. D) Eylül’ün okuduğu toplam sayfa sayısı Elif’in okuduğu toplam sayfa sayısından daha azdır.",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sütun grafiğinden yanlış yorumu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p7|q12",
+   "page": 7,
+   "n": 12,
+   "bbox": [
+    30.0,
+    472.4,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    475.4,
+    49.2,
+    490.6
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Sadece sarı, kırmızı ve mavi renkte özdeş topların bulunduğu bir torbadan rastgele alınan bir topun olasılığı ile ilgili aşağıdaki bilgiler verilmiştir. • Sarı renkli top olma olasılığı en azdır. • Kırmızı renkli top olma olasılığı en fazladır. • Mavi renkli top olma olasılığı 1 ’dir. 4 Torbada toplam 40 top olduğuna göre kırmızı top sayısı en az kaçtır? A) 14 B) 16 C) 19 D) 21",
+   "answer": "D",
+   "solved": false,
+   "skill": "Olasılık sıralamasından en az kırmızı top sayısı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    32.0,
+    90.4,
+    521.0,
+    295.9
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Dikdörtgen şeklindeki özdeş iki cam levha, iki kenarı ve birer köşesi çakışacak şekilde üst üste konularak aşağıdaki yapı oluşturulmuştur. Camların üst üste gelen bölgesinin alanı 24 cm 2 olup üst üste gelmeyen kısımların (I ve II) alanları santimetrekare cinsinden birer doğal sayıdır. 24 cm II 2 I III Buna göre yapıyı karesel bölgeye tamamlayacak olan III numaralı parçanın çevre uzunluğu santimetre cinsinden aşağıdakilerden hangisi olabilir? 45 75 96 112 A) B) C) D)",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü kenarlı levhalarla alan ve çevre bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p8|q14",
+   "page": 8,
+   "n": 14,
+   "bbox": [
+    30.0,
+    451.3,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.9,
+    454.3,
+    49.9,
+    469.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Aşağıdaki tabloda bir büfede satılan poğaça çeşitleri ve fiyatları, daire grafiğinde ise bu büfede bir günde satılan poğaça sayılarının çeşitlerine göre dağılımı verilmiştir. Grafik: Büfede Bir Günde Satılan Poğaça Tablo: Büfede Satılan Poğaça Sayılarının Çeşitlerine Göre Dağılımı Çeşitleri ve Fiyatları Poğaça Çeşidi Fiyat (TL) Sade Sade 15 120 o Patatesli Patatesli 20 120 o 40 o Kaşarlı 80 o Zeytinli 20 Zeytinli Kaşarlı 25 Bir günde bu büfedeki poğaçaların tamamı satıldığında 3400 TL gelir elde edildiğine göre, satılan patatesli poğaça sayısı kaçtır? A) 20 B) 40 C) 50 D) 60",
+   "answer": "D",
+   "solved": false,
+   "skill": "Daire grafiği ve fiyatla satılan ürün sayısı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    32.9,
+    90.4,
+    504.9,
+    331.3
+   ],
+   "num": [
+    36.9,
+    93.4,
+    50.0,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Üzerinde tam sayıların yazılı olduğu toplar iki ayrı kutu içerisine konulmuş ve bu kutulardan birer top seçilmiştir. 5 -4 -1 -1 4 4 -3 2 2 2 3 3 -2 -2 -2 1. Kutu 2. Kutu 1. kutudan seçilen topun üzerindeki sayı taban, 2. kutudan seçilen topun üzerindeki sayı üs olacak şekilde üslü ifadeler oluşturularak değerleri hesaplanmıştır. Buna göre 0 ile 1 arasında kaç farklı değer elde edilmiştir? A) 6 B) 7 C) 8 D) 9",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam sayı taban ve üslerden 0 ile 1 arası değerler",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p9|q16",
+   "page": 9,
+   "n": 16,
+   "bbox": [
+    30.0,
+    426.7,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    433.7,
+    49.1,
+    449.0
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Bir otomobil fabrikasının üretim planlama departmanı, aylık üretim maliyetlerini düşürmek amacıyla boya alımı ile ilgili bir çalışma yapmıştır. Fabrika yöneticileri, aşağıdaki tabloda verilen bilgilere göre iki farklı marka arasından seçim yapacaktır. Tablo: Boya Markalarına Göre Litre Fiyatları ve Kullanılan Boya Miktarı Bir Otomobilin Boyanmasında Boya Markası Bir Litre Boya Fiyatı (TL) Kullanılan Boya Miktarı (L) A Marka 45 1,6 B Marka 40 2 Fabrika, ayda 12 500 adet otomobil üretmektedir. Yöneticiler daha az ödeme yapacak şekilde boya markası tercih etmiştir. Buna göre diğer marka terci",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ondalık maliyet farkını bilimsel gösterme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    32.3,
+    90.4,
+    501.6,
+    324.0
+   ],
+   "num": [
+    36.3,
+    93.4,
+    48.6,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "NTK&=Şekil=N’de=verilen=dikdörtgen=levhaI=kısa=kenarı=ikiI=uzun=kenarı=üç=eş=parça=olacak=şekilde=kesilerek== Şekil=O’deki=gibi=altı=parça=elde=edilmiştirK=Şekil=N=Şekil=O=henar=uzunlukları=santimetre=cinsinden=tam=sayı=olan=bu=parçaların=her=birinin=alanı=PM=cm=O=dirK=Şekil=N’de=verilen=dikdörtgen=levhanın=kısa=ve=uzun=kenar=uzunlukları=santimetre=cinsinden==aralarında=asal=sayılar=olduğuna=göre=bu=levhanın=çevre=uzunluğu=kaç=santimetredir\\=^F&=RS=_F&=RU=`F&=TO=aF&=VU",
+   "answer": "D",
+   "solved": false,
+   "skill": "Aralarında asal kenar koşuluyla levha çevresi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p10|q18",
+   "page": 10,
+   "n": 18,
+   "bbox": [
+    28.8,
+    492.2,
+    544.8,
+    734.6
+   ],
+   "num": [
+    34.8,
+    495.2,
+    48.0,
+    510.5
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Aşağıda 1. grupta üzerinde tam sayıların yazılı olduğu üç kart, 2. grupta kareköklü ifadelerin yazılı olduğu iki kart verilmiştir. 2 3 4 2 3 1. Grup 2. Grup Her iki gruptan birer kart alınıp üzerinde yazan sayılar çarpılacaktır. Buna göre aşağıdaki sonuçlardan hangisi elde edilemez? A) 12 B) 24 C) 27 D) 32",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kök içine alarak elde edilemeyen çarpımı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p11|q19",
+   "page": 11,
+   "n": 19,
+   "bbox": [
+    30.0,
+    90.4,
+    272.4,
+    702.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Bir oyunda Fatih ve Mert aşağıda verilen dört bölgeye ayrılmış hedef tahtasına atış yapacaktır. -1 0 1 2 Yaptıkları atışlar sonunda okların isabet ettiği bölgelerde yazan sayılar toplanarak oyuncunun puanı hesaplanacaktır. Puanı fazla olan oyuncu oyunu kazanacaktır. Oyuncuların her ikisi de hedef tahtasındaki bölgelere isabetli ikişer atış yapmıştır. Mert 0 (sıfır) puan almış ve yarışmayı Fatih kazanmıştır. Buna göre Fatih kaç farklı puan almış olabilir? A) 6 B) 5 C) 4 D) 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Hedef tahtası puanlarından olası toplamları sayma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_03|p11|q20",
+   "page": 11,
+   "n": 20,
+   "bbox": [
+    278.9,
+    90.6,
+    544.8,
+    672.7
+   ],
+   "num": [
+    282.9,
+    93.6,
+    296.4,
+    108.9
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Bir sınıftaki öğrencilerin Türkçe sınavından aldıkları puanları gösteren sütun grafiği aşağıda verilmiştir. Grafik: Öğrencilerin Türkçe Sınavından Aldıkları Puanlar Kişi Sayısı 5 4 3 2 1 0 Puan 60 70 80 90 100 Buna göre sınıftan rastgele seçilen bir öğrencinin Türkçe sınavından aldığı puanın sınıf ortalamasından daha yüksek olma olasılığı kaçtır? C) 1 A) 1 B) 2 D) 9 2 4 7 16",
+   "answer": "D",
+   "solved": false,
+   "skill": "Aritmetik ortalamadan yüksek olma olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

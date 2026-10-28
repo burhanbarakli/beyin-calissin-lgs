@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_10",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_10_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 10 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 24,
+ "key_pages": [
+  24
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    86.4,
+    521.1,
+    306.0
+   ],
+   "num": [
+    36.0,
+    93.4,
+    43.7,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Ahmet, bilgisayarında bulunan dört farklı dosyadan herhangi birini, içerisinde 6 GB boş alan bulunan bir klasöre yükleyecektir. Müzik Fotoğraf Video Belge 2 5 GB 5 2 GB 3 3 GB 4 2 GB Bir dosyanın klasöre yüklenebilmesi için dosya boyutunun, klasördeki boş alandan küçük veya boş alana eşit olması gerekmektedir. Buna göre görselde boyutları verilen dosyalardan kaç tanesi bu klasöre yüklenebilir? A) 1 B) 2 C) 3 D) 4",
+   "answer": "C",
+   "solved": false,
+   "skill": "Katsayıyı kök içine alıp karşılaştırma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    32.0,
+    427.8,
+    523.5,
+    653.8
+   ],
+   "num": [
+    36.0,
+    430.8,
+    44.1,
+    446.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Aşağıda ayrıt uzunlukları verilen kare dik prizma biçimindeki A kabı ve taban çapı 2 cm olan dik silindir biçimindeki B kabı gösterilmiştir. 2 cm 1 cm (2x + 7) cm (x + 5) cm (x + 5) cm A kabı B kabı Başlangıçta A kabının tamamı su ile dolu, B kabı ise boştur. A kabındaki suyun bir miktarı ile B kabının tamamı dolduruluyor. Buna göre son durumda A kabında kalan suyun hacmini santimetreküp cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? ( π yerine 3 alınız.) A) (x + 1) 2 B) (x + 2) 2 C) (x + 3) 2 D) (x + 4) 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Hacim farkını tam kare özdeşliğiyle yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p4|q3",
+   "page": 4,
+   "n": 3,
+   "bbox": [
+    32.3,
+    90.4,
+    272.4,
+    364.1
+   ],
+   "num": [
+    36.3,
+    93.4,
+    44.3,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Dört adet eş ikizkenar üçgenin eşit uzunlukta olmayan kenarları, bir karenin dört kenarıyla çakıştırılarak bir park modeli oluşturulmuştur. A B Karenin alanı 108 m 2 olup A ve B köşe noktaları arasındaki uzaklık 22 3 m ’ dir. Buna göre park modelinin toplam alanı kaç metrekaredir? A) 576 B) 486 C) 432 D) 396",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla toplam alan hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    32.0,
+    406.8,
+    272.4,
+    736.2
+   ],
+   "num": [
+    36.0,
+    409.8,
+    43.9,
+    425.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Ayrıt uzunlukları santimetre cinsinden asal sayı olan iki adet eş kare dik prizma ve bir adet küp biçimindeki blok aşağıda verilmiştir. Bu prizmaların tabanları ile küpün bir yüzeyi eştir. Bu bloklar aşağıdaki gibi üst üste konulduğunda oluşan yapının yüksekliği santimetre cinsinden bir asal sayı olmaktadır. Buna göre kare dik prizmalardan birinin ayrıt uzunlukları toplamı en az kaç santimetredir? A) 24 B) 28 C) 32 D) 44",
+   "answer": "B",
+   "solved": false,
+   "skill": "Asal sayı koşullarıyla prizma ayrıtlarını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    279.5,
+    90.4,
+    522.8,
+    262.8
+   ],
+   "num": [
+    283.5,
+    93.4,
+    291.4,
+    108.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Üç yarışmacının aynı noktadan aynı doğrultuda gülle attığı bir yarışmada Can 18 m, Burak ise 27 m uzaklığa atış yapmıştır. Ali bu yarışmada ikinci olmuştur. Ali'nin atış mesafesi, Can'ın ve Burak'ın atış mesafelerinin her birine en az 3 m uzaklıktadır. Buna göre Ali’nin atış mesafesini (x) metre cinsinden gösteren eşitsizlik aşağıdakilerden hangisidir? A) 21 ≤ x ≤ 24 B) 21 < x < 30 C) 15 ≤ x ≤ 24 D) 15 < x < 30",
+   "answer": "A",
+   "solved": false,
+   "skill": "Uzaklık koşulunu eşitsizlikle ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    278.9,
+    356.6,
+    521.5,
+    712.2
+   ],
+   "num": [
+    282.9,
+    359.6,
+    290.8,
+    374.9
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Ön yüzü sarı, arka yüzü mavi renkte olan dikdörtgen şeklindeki kâğıt Görsel 1’de verilmiştir. 45 cm Sarı 15 cm Sarı Görsel 1 Bu kâğıt her iki ucundan kısa kenarına paralel olacak şekilde Görsel 2 'deki gibi katlanıyor. ? Mavi Mavi Sarı Sarı Görsel 2 Görsel 2'deki mavi dikdörtgenler ile Görsel 1’deki dikdörtgen benzerdir. Buna göre Görsel 2’deki sarı bölgenin uzun kenar uzunluğu kaç santimetredir? A) 35 B) 30 C) 25 D) 20",
+   "answer": "C",
+   "solved": false,
+   "skill": "Benzer dikdörtgenlerle katlama uzunluğu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    32.0,
+    90.4,
+    523.4,
+    350.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    43.4,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Renkleri dışında özdeş dikdörtgen biçimindeki kırmızı ve sarı cam levhalar, Görsel 1’deki gibi kenarları ve köşeleri çakışacak şekilde yerleştirilmiştir. K S Görsel 1 Bu levhalar, Görsel 2’deki gibi birbirlerinin üzerine bir miktar kaydırıldığında üst üste gelen bölge turuncu görünmektedir. Oluşan bu turuncu bölgenin görünen yüzü karesel olup alanı (4x 2 – 12xy + 9y 2 ) cm 2 dir. K T S Görsel 2 Görsel 2’de oluşan yapının çevre uzunluğu (24x – 36y) santimetre olduğuna göre, Görsel 1’deki yapının görünen yüzünün alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir?",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare alandan kenar bulup alan ifadesi yazma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p5|q8",
+   "page": 5,
+   "n": 8,
+   "bbox": [
+    32.0,
+    462.2,
+    517.3,
+    628.3
+   ],
+   "num": [
+    36.0,
+    465.2,
+    44.1,
+    480.5
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Her satırında 3’ün tam sayı kuvvetlerinden üçer adet bulunan aşağıdaki tabloda, üslü ifadelerden ikisinin yerine A ve B yazılmıştır. 1. Satır 3 4 A 3 - 2 2. Satır 3 - 3 B 3 1 1. satırdaki üslü ifadelerin çarpımı, elde edilebilecek 1’den küçük en büyük rasyonel sayıya; 2. satırdaki üslü ifadelerin çarpımı ise en küçük pozitif tam sayıya eşittir. Buna göre A . B kaçtır? A) 3 B) 3 0 C) 3 - 1 D) 3 - 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üslü çarpım koşullarından bilinmeyen bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    32.0,
+    90.4,
+    430.5,
+    289.3
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. İçerisinde üslü ifadelerin yazılı olduğu kutucuklar aşağıda verilmiştir. 27 - 1 2 6 6 - 2 8 2 ( - 2) - 4 3 - 3 4 - 2 36 - 1 - 2 6 Her farklı üslü ifade değeri için ayrı bir renk belirlenerek kutucuklar boyanacaktır. Buna göre boyama işleminde kaç farklı renk kullanılmalıdır? A) 5 B) 4 C) 3 D) 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Negatif üslü ifadelerin değerlerini karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p6|q10",
+   "page": 6,
+   "n": 10,
+   "bbox": [
+    32.0,
+    352.6,
+    518.7,
+    707.1
+   ],
+   "num": [
+    36.0,
+    355.6,
+    49.1,
+    370.9
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Aşağıda koordinat sistemi üzerinde verilen KLMN yamuğu 5 birim sola, 6 birim yukarıya ötelenecektir. y 5 4 3 2 1 x 0 - 5 - 4 - 3 - 2 - 1 1 2 3 4 5 - 1 N M - 2 - 3 - 4 - 5 K L Aşağıdakilerden hangisi, yamuğun öteleme sonucunda oluşan görüntüsünün köşe noktalarının koordinatlarından biri değildir? A) (0,1) B) ( - 1,4) C) ( - 3,4) D) ( - 4,2)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Öteleme sonrası köşe koordinatlarını bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p7|q11",
+   "page": 7,
+   "n": 11,
+   "bbox": [
+    32.0,
+    90.4,
+    513.2,
+    310.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    48.5,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Aşağıda bazı kenarları çakışık altıgenlerden oluşan bir şekil verilmiştir. Altıgenlerin içlerine yazılan her bir harf bir sayıyı temsil etmektedir. A B C D E A ve C sayılarının bir, B sayısının ise iki asal çarpanı vardır. D ve E sayılarının her biri, bulunduğu altıgen ile ortak kenara sahip iki altıgendeki sayıların ortak asal çarpanıdır. A, B ve C birbirinden farklı iki basamaklı doğal sayılar olduğuna göre, tüm altıgenlerdeki sayıların toplamı en az kaçtır? A) 51 B) 55 C) 58 D) 60",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpan koşullarıyla en küçük toplamı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p7|q12",
+   "page": 7,
+   "n": 12,
+   "bbox": [
+    32.0,
+    341.7,
+    518.1,
+    704.5
+   ],
+   "num": [
+    36.0,
+    344.7,
+    49.2,
+    360.0
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. İç açı ölçüleri 40°, 60° ve 80° olan ABC üçgeni Görsel 1’de verilmiştir. C C 80 o 40 o 60 o A B A B E Görsel 1 Görsel 2 C C A B A B D E D E Görsel 3 Görsel 4 ABC üçgeninde AC kenarı AB kenarı üzerine gelecek şekilde katlandığında C köşesinin denk geldiği nokta E, BC kenarı AB kenarı üzerine gelecek şekilde katlandığında ise C köşesinin denk geldiği nokta D noktası olarak isimlendirilmiştir. C noktası, doğrusal olacak şekilde D ve E noktalarıyla birleştirildiğinde Görsel 4 elde edildiğine göre, aşağıdaki ilişkilerden hangisi yanlıştır? A) |ED| < |EC| B) |BD| = |CD| C) |BC| < |AE| D) |CD| < ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Katlamada açılardan kenar ilişkilerini belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    32.0,
+    90.4,
+    521.6,
+    391.6
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Bir takı tasarım atölyesinde sarı, mavi ve turuncu renkli boncuklarla kolyeler yapılacaktır. Aşağıda boncuk sayılarının renklerine göre dağılımı daire grafiğinde verilmiştir. Grafik: Boncuk Sayılarının Renklerine Göre Dağılımı Mavi Sarı 80 o 120 o Turuncu İlk kolye yapılırken renklerden biri bitene kadar üç renk boncuktan da eşit sayıda kullanılmış ve üç renkli bir kolye yapılmıştır. Ardından kalan iki renkle, renklerden biri bitene kadar iki renk boncuktan da eşit sayıda kullanılmış ve iki renkli kolye yapılmıştır. Son olarak kalan boncukların tamamı ile tek renkli kolye yapılmıştır. Üç r",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiğinden oranlarla adım adım hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p8|q14",
+   "page": 8,
+   "n": 14,
+   "bbox": [
+    32.0,
+    446.2,
+    514.2,
+    702.7
+   ],
+   "num": [
+    36.0,
+    449.2,
+    49.0,
+    464.5
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Bir mağazadan alışveriş yapan müşterilerin her 1000 TL tutarında alışverişleri için 1 defa çevireceği hediye çarkı aşağıda verilmiştir. 10 - 1 10 0 10 - 3 TL TL TL 10 - 2 TL 10 0 TL 10 2 TL 10 - 3 TL TL 10 - 3 TL 10 - 1 TL TL 10 1 TL 10 1 10 - 2 Bu mağazadan 10 000 TL tutarında alışveriş yapan Fahri, 10 defa çarkı çevirmiş; 4 defa 10 0 TL, 3 defa 10 - 2 TL, 2 defa 10 - 1 TL ve 1 defa 10 3 TL gelmiştir. Bu sayıların toplam değeri kadar indirim kazanan Fahri, mağazaya kaç Türk lirası ödemiştir? A) 9895,77 B) 8995,77 C) 8959,77 D) 8959,68",
+   "answer": "B",
+   "solved": false,
+   "skill": "10'un kuvvetlerinin toplamıyla ödeme hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    32.0,
+    90.8,
+    498.5,
+    331.0
+   ],
+   "num": [
+    36.0,
+    93.8,
+    49.1,
+    109.1
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Aşağıda verilen özdeş iki çubuktan birincisine 4 adet mavi halka yerleştirildiğinde çubuğun 4 cm’lik kısmı, ikincisine 8 adet yeşil halka yerleştirildiğinde çubuğun 8 cm’lik kısmı boşta kalmaktadır. 2. Çubuk 1. Çubuk 4 cm 8 cm Mavi halkanın yüksekliği, yeşil halkanın yüksekliğinin 4 katından 2 cm eksiktir. Buna göre bu çubuklardan birinin uzunluğu kaç santimetredir? A) 10 B) 15 C) 19 D) 20",
+   "answer": "D",
+   "solved": false,
+   "skill": "Halka yükseklikleriyle denklem kurup çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p9|q16",
+   "page": 9,
+   "n": 16,
+   "bbox": [
+    32.0,
+    419.2,
+    521.9,
+    596.5
+   ],
+   "num": [
+    36.0,
+    422.2,
+    49.1,
+    437.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. 1’den 40’a kadar (1 ve 40 dâhil) doğal sayıların her biri karekök içinde özdeş kartlara yazılıyor. 1 2 3 40 Bu kartlar arasından aynı anda rastgele seçilen iki kartın üzerindeki sayılar çarpılıyor. Seçilen kartlardan birinin üzerinde 2 yazdığına göre, çarpma işleminin sonucunun bir rasyonel sayı olma olasılığı kaçtır? 4 1 1 1 A) B) C) D) 39 10 13 20",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü çarpımın rasyonel olma olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    32.0,
+    90.4,
+    511.0,
+    387.0
+   ],
+   "num": [
+    36.0,
+    93.4,
+    48.3,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Aşağıda, özdeş 3 mavi küp ile özdeş 2 sarı kare dik prizmanın kenarları ve köşeleri çakışacak şekilde oluşturulan yapının önden görünümü verilmiştir. Yapıdaki kırmızı çubukların uç noktaları, cisimlerin köşe noktalarıdır. Buna göre, bu çubukların eğimleri çarpımı kaçtır? A) 2 B) 3 C) 6 D) 8",
+   "answer": "C",
+   "solved": false,
+   "skill": "Cisimler üzerindeki çubukların eğimini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p10|q18",
+   "page": 10,
+   "n": 18,
+   "bbox": [
+    32.0,
+    407.2,
+    500.5,
+    710.0
+   ],
+   "num": [
+    36.0,
+    410.2,
+    49.1,
+    425.5
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Aşağıda, her birinin köşeleri bir dıştaki karenin kenarları üzerinde olacak şekilde iç içe yerleştirilmiş ABCD, KLMN ve PRST kareleri verilmiştir. A 6 cm L 3 cm B R K S P M T D C N |AL| = 6 cm, |LB| = 3 cm ve m(AL∑K) = m(KR∑P) olduğuna göre, PRST karesinin alanı kaç santimetrekaredir? A) 25 B) 36 C) 40 D) 45",
+   "answer": "A",
+   "solved": false,
+   "skill": "İç içe karelerde Pisagorla alan bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p11|q19",
+   "page": 11,
+   "n": 19,
+   "bbox": [
+    32.0,
+    90.4,
+    485.8,
+    375.5
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Aşağıdaki görselde ardışık iki karenin içinde yazan sayıların en küçük ortak katı (EKOK'u), bağlı oldukları dairelerin içerisine yazılacaktır. Dairelerin içerisine yazılacak sayıların toplamı ekranda görülmektedir. A 12 Ekran 144 8 9 Buna göre A yerine yazılabilecek farklı doğal sayıların toplamı kaçtır? A) 12 B) 18 C) 21 D) 24",
+   "answer": "C",
+   "solved": false,
+   "skill": "EKOK toplamından bilinmeyen sayıları bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_10|p11|q20",
+   "page": 11,
+   "n": 20,
+   "bbox": [
+    32.6,
+    407.2,
+    518.7,
+    641.9
+   ],
+   "num": [
+    36.6,
+    410.2,
+    50.0,
+    425.5
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Bir bakkaldaki bisküvi, kek ve çikolatanın satış fiyatlarının Türk lirası cinsinden değer aralığı aşağıdaki tabloda verilmiştir. En az En çok Bisküvi 10,50 15,25 Kek 7,75 14,50 Çikolata 8,25 19,75 Ömer; bakkaldan 1 adet bisküvi, 2 adet kek ve 1 adet çikolata almıştır. Ömer'in bakkala ödemesi gereken ücret x TL olduğuna göre, x'in alabileceği değerleri gösteren eşitsizlik aşağıdakilerden hangisidir? A) 34,25 < x < 64 B) 34,25 ≤ x ≤ 64 C) 26,50 < x < 49,50 D) 26,50 ≤ x ≤ 49,50",
+   "answer": "B",
+   "solved": false,
+   "skill": "Fiyat aralıklarıyla toplam eşitsizliği kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

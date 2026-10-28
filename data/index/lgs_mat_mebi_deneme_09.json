@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_09",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_09_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 9 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 25,
+ "key_pages": [
+  25
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    86.4,
+    511.3,
+    235.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    43.7,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Uzunlukları altlarında yazılı olan çubuklar temsili olarak aşağıda verilmiştir. Pembe Mavi Yeşil Sarı Mor 4 5 4 2 5 3 3 3 cm cm cm 5 cm cm Buna göre aşağıda verilen çubuk çiftlerinden hangisi uç uca birleştirildiğinde diğerlerine göre daha uzun bir çubuk elde edilir? A) Pembe, Mavi B) Mavi, Yeşil C) Sarı, Yeşil D) Pembe, Mor",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareköklü ifadeleri karşılaştırıp toplamları sıralama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    32.0,
+    373.8,
+    272.1,
+    638.7
+   ],
+   "num": [
+    36.0,
+    376.8,
+    44.1,
+    392.1
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Kütleleri miligram cinsinden yanlarında yazılı olan mavi, kırmızı ve sarı renkli cisimler ile kefeleri boş olan eşit kollu terazi aşağıda verilmiştir. 81 3 mg 9 5 mg ... 27 3 mg Mavi ve kırmızı cisimlerden birer adet, sarı renkli cisimden ise yeterli sayıda kullanılarak terazi dengeye getiriliyor. Buna göre sarı cisimden en az kaç tane kullanılmıştır? A) 18 B) 24 C) 27 D) 30",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü ifadeleri aynı tabana çevirip bölme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    280.0,
+    373.8,
+    523.1,
+    703.7
+   ],
+   "num": [
+    284.0,
+    376.8,
+    292.1,
+    392.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Aşağıda verilen dolabın üst kısımlarına kapaklı bölümler, alt kısımlarına ise eşit yükseklikte çekmeceler yapılacaktır. 180 cm 144 cm Dolabın çekmece yapılacak kısımlarının yükseklikleri 144 cm ve 180 cm’dir. Yapılacak her bir çekmecenin yüksekliği 15 cm’den kısa olup çekmeceler arasında boşluk bırakılmayacaktır. Buna göre yapılacak çekmece sayısı en az kaçtır? A) 9 B) 25 C) 27 D) 34",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ortak bölenle en az parça sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    32.0,
+    90.4,
+    510.4,
+    338.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Simit, poğaça ve tost satan bir büfede ürünlerin birer adedinin satış fiyatının dağılımı Grafik 1’de, bu büfede bir günde satılan toplam ürün sayısının türlerine göre dağılımı ise Grafik 2’de gösterilmiştir. Grafik 1: Ürünlerin Birer Adedinin Grafik 2: Bir Günde Satılan Toplam Ürün Satış Fiyatının Dağılımı Sayısının Türlerine Göre Dağılımı Simit Poğaça Simit 150 o 80 o Poğaça 120 o Tost Tost Bu büfede bir günde simit satışından elde edilen gelir 1000 TL’dir. Buna göre büfenin bir günde elde ettiği toplam gelir kaç Türk lirasıdır? A) 2400 B) 2700 C) 3000 D) 3500",
+   "answer": "D",
+   "solved": false,
+   "skill": "İki daire grafiğiyle toplam geliri hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    32.0,
+    443.0,
+    515.1,
+    671.8
+   ],
+   "num": [
+    36.0,
+    446.0,
+    44.0,
+    461.3
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Bir alışveriş sitesinde satılan cetvel haricindeki ürünlerin Türk lirası cinsinden fiyatlarının çözümlenmiş şekli aşağıdaki tabloda verilmiştir. Tablo: Ürün Fiyatlarının Çözümlenmiş Şekli Ürün Cinsi Fiyatı (TL) Kalem 1 . 10 2 + 2 . 10 1 + 9 . 10 0 + 9 . 10 -1 Defter 6 . 10 1 + 8 . 10 0 + 4 . 10 -1 + 9 . 10 -2 Silgi 5 . 10 1 + 9 . 10 0 + 9 . 10 -1 + 5 . 10 -2 Cetvel ? Bu alışveriş sitesinde toplam tutarın her 80 TL ’sine 10 TL indirim uygulanmaktadır. İndirim uygulandıktan sonra ödenecek ücret 250 TL ve üzeri olduğunda kargo ücreti alınmamaktadır. Sinan, bu alışveriş sitesinden tabloda yazıl",
+   "answer": "B",
+   "solved": false,
+   "skill": "Çözümlenmiş ondalık fiyatlarla problem çözme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    32.0,
+    90.7,
+    519.3,
+    537.5
+   ],
+   "num": [
+    36.0,
+    93.7,
+    44.0,
+    109.0
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Bir inşaatın temeline beton döken A ve B mikserleri aşağıda gösterilmiştir. A mikseri B mikseri Mikserlerde kalan beton miktarlarının zamana göre değişimi aşağıdaki doğrusal grafikte verilmiştir. Grafik: Mikserlerde Kalan Beton Miktarlarının Zamana Göre Değişimi Mikserlerde Kalan Beton Miktarı (ton) 21 A mikseri 20 B mikseri Süre (dakika) 7 1 Mikserlerde bulunan betonlar aynı anda dökülmeye başlandıktan 1 dakika sonra mikserlerde kalan beton miktarları eşit olmuştur. Buna göre B mikserindeki betonun tamamı kaç dakikada dökülür? A) 8 B) 9 C) 10 D) 12",
+   "answer": "C",
+   "solved": false,
+   "skill": "İki doğrusal grafikten boşalma süresini bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    32.0,
+    95.2,
+    503.7,
+    382.2
+   ],
+   "num": [
+    36.0,
+    102.2,
+    43.4,
+    117.5
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Kenar uzunlukları 9 3 cm ve 24 3 cm olan dikdörtgen şeklindeki bir karton, Görsel 1’deki gibi kısa kenarına paralel olacak şekilde 12 cm genişliğinde şeritlere ayrılmıştır. cm 9 3 12 cm 24 3 cm Görsel 1 Elde edilen tüm parçalar Görsel 2’deki gibi kısa kenarları çakışacak şekilde uç uca eklenmiştir. ? Görsel 2 Buna göre son durumda oluşan yapının uzun kenar uzunluğu kaç santimetredir? A) 54 3 B) 108 3 C) 216 3 D) 288 3",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunlukları bölüp parça sayısı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    32.0,
+    441.2,
+    509.3,
+    732.4
+   ],
+   "num": [
+    36.0,
+    444.2,
+    44.1,
+    459.5
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Aşağıda bir çatı modeli gösterilmiştir. Çatı Genişliği Sağ Bölüm Sol Bölüm Çatı Yüksekliği Bu çatının sol bölümünün eğimi 3 , sağ bölümünün eğimi 3 ’dir. 7 2 Çatının genişliği ve yüksekliği metre cinsinden tam sayı olduğuna göre çatının genişliği en az kaç metredir? A) 3 B) 4 C) 5 D) 6",
+   "answer": "A",
+   "solved": false,
+   "skill": "Eğim oranlarıyla en küçük genişliği bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p7|q9",
+   "page": 7,
+   "n": 9,
+   "bbox": [
+    32.0,
+    90.4,
+    521.2,
+    343.2
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Aşağıdaki tabloda, A ve B bankalarının yeni müşterilerine o ayki müşteri sayısına bağlı olarak kişi başı hediye edeceği kalem sayıları gösterilmiştir. Tablo: Yeni Müşterilere Hediye Edilen Kalem Sayısı Kişi Başı Hediye Edilen Kalem Sayısı Banka Adı Kişi Sayısı < 30 Kişi Sayısı > 30 x + 1 A x - 2 x - 3 B x Örneğin B bankasına bir ayda 20 yeni müşteri katılmışsa, bu müşterilerin her birine x adet kalem hediye edilmektedir. Ocak ayında A bankasına 25, B bankasına 30 kişi; Şubat ayında ise A bankasına 30, B bankasına 25 kişi katılmıştır. Her iki ayda da A bankasının hediye ettiği kalem sayısı, ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Tablodan eşitsizlik sistemi kurup tam sayı sayma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    32.0,
+    403.4,
+    491.1,
+    723.6
+   ],
+   "num": [
+    36.0,
+    406.4,
+    49.1,
+    421.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Aşağıdaki dik koordinat sisteminde O noktası orijin olup OK ve OL doğru parçaları ile x ekseni arasındaki açıların ölçüleri eşittir. y L K 25 br 20 br x O OL doğru parçasının uzunluğu 25 br, OK doğru parçasının uzunluğu 20 br’dir. K noktasının y eksenine uzaklığı 8 br olduğuna göre, L noktasının y eksenine uzaklığı kaç birimdir? A) 15 B) 12 C) 10 D) 8",
+   "answer": "C",
+   "solved": false,
+   "skill": "Benzer üçgenlerle koordinat uzaklığı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p8|q11",
+   "page": 8,
+   "n": 11,
+   "bbox": [
+    32.0,
+    90.4,
+    269.1,
+    344.8
+   ],
+   "num": [
+    36.0,
+    93.4,
+    48.5,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Kenar uzunlukları b cm ve (3a + b) cm olan dikdörtgen şeklindeki özdeş parçalar, kenarları çakışacak şekilde birleştirilerek aşağıdaki gibi dikdörtgen bir çerçeve oluşturulmuştur. (3a + b) cm b cm Buna göre çerçevenin ortasında oluşan dikdörtgen bölgenin alanını santimetrekare cinsinden veren cebirsel ifadenin özdeşi aşağıdakilerden hangisidir? A) 9a 2 + 3ab B) 3a 2 – b 2 C) 9a 2 – 6ab + b 2 D) 9a 2 – b 2",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çerçeve iç alanını iki kare farkıyla yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p8|q12",
+   "page": 8,
+   "n": 12,
+   "bbox": [
+    32.0,
+    395.7,
+    272.4,
+    696.1
+   ],
+   "num": [
+    36.0,
+    398.7,
+    49.2,
+    414.0
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Ahmet’in 75 dakikalık LGS sözel denemesi için planladığı zaman çizelgesi aşağıda verilmiştir. T.C. İnkılap Tarihi ve Türkçe Testi Atatürkçülük Testi en az 30, 12 dakika en çok 45 dakika Din Kültürü ve Ahlak İngilizce Testi Bilgisi Testi x dakika Planlamaya göre Ahmet’in İngilizce testine ayırdığı süre, Din Kültürü ve Ahlak Bilgisi testine ayırdığı sürenin 2 katından 3 dakika fazladır. Buna göre x’in alabileceği değerleri gösteren eşitsizlik aşağıdakilerden hangisidir? A) 5 ≤ x ≤ 10 B) 6 ≤ x ≤ 10 C) 5 < x < 10 D) 6 < x < 10",
+   "answer": "A",
+   "solved": false,
+   "skill": "Zaman planından eşitsizlik aralığı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    279.5,
+    90.4,
+    520.8,
+    290.0
+   ],
+   "num": [
+    283.5,
+    93.4,
+    296.6,
+    108.7
+   ],
+   "topic": "Geometrik Cisimler: Silindir",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Çapı 10 cm yüksekliği 8 cm olan dik dairesel silindir şeklindeki kütük, çapı boyunca iki eş parçaya ayrılmıştır. 10 cm 8 cm Buna göre oluşan parçalardan birinin yüzey alanı kaç santimetrekaredir? ( π yerine 3 alınız.) A) 350 B) 275 C) 200 D) 195",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yarım silindirin yüzey alanını hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p8|q14",
+   "page": 8,
+   "n": 14,
+   "bbox": [
+    279.5,
+    395.7,
+    516.9,
+    690.7
+   ],
+   "num": [
+    283.5,
+    398.7,
+    296.5,
+    414.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Aşağıdaki kutuda renkleri dışında özdeş sarı, mavi ve kırmızı topların her birinden 14 adet bulunmaktadır. Bu kutudaki her bir renkten adedi asal sayı olacak şekilde toplam 12 top alınmıştır. Buna göre kalan toplar arasından rastgele alınan bir topun kırmızı renkli olma olasılığı aşağıdakilerden hangisi olamaz? 7 1 A) B) 30 15 3 2 C) D) 10 5",
+   "answer": "A",
+   "solved": false,
+   "skill": "Asal sayı koşuluyla olası olasılıkları inceleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    31.3,
+    90.4,
+    518.7,
+    389.2
+   ],
+   "num": [
+    35.3,
+    93.4,
+    48.2,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Bir meyve bahçesinde bulunan dört farklı türdeki ağaç sayılarının dağılımı daire grafiğinde, bu ağaçlardan elde edilen toplam meyve miktarları ise sütun grafiğinde gösterilmiştir. Grafik: Ağaç Sayılarının Türlerine Grafik: Ağaçlardan Elde Edilen Toplam Meyve Miktarı Göre Dağılımı Meyve Miktarı (kg) 270 240 Armut Şeftali 210 81 o 135 o 180 150 Elma 120 Kiraz Ağaç Türleri Armut Elma Kiraz Şeftali Buna göre bir ağaçtan alınan ortalama meyve miktarı en az olan ağaç türü aşağıdakilerden hangisidir? A) Armut B) Elma C) Kiraz D) Şeftali",
+   "answer": "D",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğiyle ortalama karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p9|q16",
+   "page": 9,
+   "n": 16,
+   "bbox": [
+    32.0,
+    504.5,
+    523.5,
+    638.7
+   ],
+   "num": [
+    36.0,
+    507.5,
+    49.1,
+    522.8
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. K noktasındaki sahil güvenlik gemisi ile üç teknenin birbirlerine göre konumları hakkında bilgiler aşağıda verilmiştir. • A, B ve C noktalarında bulunan teknelerin sahil güvenlik gemisine uzaklıkları eşittir. • Sahil güvenlik gemisinin radar ekranında K noktasından A, B ve C noktalarına doğru parçaları  = 50 ve m BKC  = 70 olmaktadır. çizildiğinde m AKB ( ) ( ) o o Buna göre |AB|, |BC| ve |KB| arasındaki doğru sıralama aşağıdakilerden hangisidir? A) |AB| > |BC| > |KB| B) |KB| > |BC| > |AB| C) |BC| > |AB| > |KB| D) |BC| > |KB| > |AB|",
+   "answer": "D",
+   "solved": false,
+   "skill": "İkizkenar üçgenlerde açılardan kenar sıralama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    32.3,
+    90.4,
+    493.5,
+    413.0
+   ],
+   "num": [
+    36.3,
+    93.4,
+    48.6,
+    108.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Renkleri dışında özdeş ve bir kenar uzunluğu 20 cm olan dikdörtgen biçimindeki iki kartondan biri köşegeni boyunca kesiliyor. Elde edilen parçalar diğer dikdörtgen ile kenarları çakışacak şekilde aşağıdaki gibi birleştiriliyor. 20 cm Birleştirme sonucunda elde edilen şeklin çevresi 130 cm olduğuna göre, alanı kaç santimetrekaredir? A) 500 B) 600 C) 700 D) 800",
+   "answer": "B",
+   "solved": false,
+   "skill": "Köşegenle kesilen dikdörtgende çevre ve alan",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p10|q18",
+   "page": 10,
+   "n": 18,
+   "bbox": [
+    32.0,
+    434.2,
+    512.0,
+    714.7
+   ],
+   "num": [
+    36.0,
+    441.2,
+    49.1,
+    456.5
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Benzerlik oranı 5 olan dikdörtgen biçimindeki iki karton Görsel 1’de verilmiştir. Sarı kartonlardan altı 2 adedi, Görsel 2’deki gibi kenarları birbirleriyle ve mavi kartonun kenarlarıyla çakışacak şekilde mavi kartonun üzerine yapıştırılıyor. 1,5 cm 1,5 cm Görsel 1 Görsel 2 Yapıştırma işleminden sonra mavi kartonun her iki tarafında da 1,5 cm genişliğinde boşluk oluşuyor. Buna göre sarı kartonlardan birinin çevre uzunluğu kaç santimetredir? A) 108 B) 90 C) 72 D) 54",
+   "answer": "A",
+   "solved": false,
+   "skill": "Benzerlik oranıyla kenar uzunluklarını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p11|q19",
+   "page": 11,
+   "n": 19,
+   "bbox": [
+    32.0,
+    90.4,
+    520.2,
+    384.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Küp biçimindeki üç farklı kutu taban merkezleri çakışacak şekilde aşağıdaki gibi üst üste yerleştirilmiştir. ? Bu yapıya üstten bakıldığında görünen farklı renkli bölgelerin alanları, içten dışa doğru sırasıyla 12 cm 2 , 15 cm 2 ve 21 cm 2 dir. Buna göre oluşan yapının yüksekliği santimetre cinsinden hangi ardışık iki tam sayı arasındadır? A) 13 - 14 B) 14 - 15 C) 15 - 16 D) 16 - 17",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alanlardan küp kenarlarını bulup toplamı tahmin",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_09|p11|q20",
+   "page": 11,
+   "n": 20,
+   "bbox": [
+    32.0,
+    423.5,
+    514.2,
+    699.3
+   ],
+   "num": [
+    36.0,
+    426.5,
+    49.5,
+    441.7
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Birim kareli zemin üzerinde verilen üç nokta aşağıda gösterilmiştir. 1 br 1 br B C A A noktasının x eksenine göre yansıma görüntüsünün y eksenine göre yansıma görüntüsü C noktasıdır. Buna göre B noktasının y eksenine göre yansıma görüntüsü ile C noktası arasındaki en kısa mesafe kaç birim olur? A) 3 B) 3 2 C) 5 D) 34",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ardışık yansımalar ve noktalar arası uzaklık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

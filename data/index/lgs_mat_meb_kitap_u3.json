@@ -1,0 +1,3213 @@
+{
+ "book": {
+  "id": "lgs_mat_meb_kitap_u3",
+  "path": "kaynaklar/LGS_Matematik/14_MEB_Calisma_Kitabi/MEB_Calisma_Kitabi_Unite3_Olasilik-Cebirsel_Ifadeler.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "meb_kitap",
+  "kind_name": "MEB Çalışma Kitabı",
+  "unit": "Basit Olayların Olma Olasılığı · Cebirsel İfadeler ve Özdeşlikler",
+  "code": "",
+  "title": "MEB LGS Çalışma Kitabı · 3. Ünite",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 66,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p2|q1",
+   "page": 2,
+   "n": 1,
+   "bbox": [
+    21.8,
+    33.4,
+    515.9,
+    528.7
+   ],
+   "num": [
+    27.8,
+    40.4,
+    35.8,
+    54.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Aşağıda bazı şekiller ve bu şekillerin ifade ettiği işlemler verilmiştir. : İçine yazılan ifadeyi, bu ifadenin kendisi ile çarpar. : Üçgensel bölgelerin içine yazılan ifadeleri birbiri ile çarpar. : ve işlemlerinden elde edilen sonuçları toplar. Örnek: 2m : 2m · 2m = 4m 2 : 3m · 4n = 12mn 3m 4n : 4m 2 + 12mn 3m 2m 4n Buna göre aşağıdaki işlemlerden hangisinin sonucu (2x + 3) 2 ifadesine eşittir? A) B) x x x+6 3 2x 2x+3 C) D) 2x 2x x+3 x + 3 3x x+2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Özdeşliği şekil işlemleriyle eşleştirme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    411.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Aşağıda kısa kenarı (4x + 16) m, uzun kenarı (6x + 18) m olan dikdörtgen şeklindeki bir konser alanının krokisi veril- miştir. Alanları eşit 6 sıradan oluşan bu konser alanında sıra numarası tek olan bölgeler 4 eş parçaya, sıra numarası çift olan bölgeler 2 eş parçaya ayrılmıştır. 6. sıra R Blok S Blok 5. sıra M blok N blok O Blok P Blok 4. sıra K Blok L Blok 3. sıra G Blok H Blok I Blok J Blok 2. sıra E Blok F Blok 1. sıra A Blok B Blok C Blok D Blok Konser alanında yer alan K ve P bölgelerinin alanları arasındaki fark metrekare cinsinden aşağıdaki cebirsel ifadelerden hangisine eşittir? A",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan oranlarıyla cebirsel ifade çıkarma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    24.3,
+    449.9,
+    573.9,
+    725.2
+   ],
+   "num": [
+    28.3,
+    452.9,
+    36.3,
+    466.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. b 3 b + 3 b b A B D 3 b B b b A D 3 3 C C b b + 3 Şekil I Şekil II Kare şeklindeki pano Şekil I’de gösterildiği gibi 4 parçaya ayrılıyor. Daha sonra elde edilen bu parçalar Şekil II’deki gibi birleştirilerek bir dikdörtgen elde ediliyor. Elde edilen dikdörtgende parçaların arasında birleşmeyen bir bölgenin kaldığı gözleniyor. Buna göre Şekil II’de elde edilen dikdörtgende parçalar arasında kalan bölgenin alanını gösteren cebirsel ifade aşağıdakilerden hangisidir? A) b 2 + 3b + 9 B) b 2 + 3b – 9 C) b 2 – 3b + 9 D) b 2 – 3b – 9",
+   "answer": "D",
+   "solved": false,
+   "skill": "Parçalara ayrılan alanda özdeşlik kullanma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    568.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Geometri tahtası bir zeminin üzerine eşit aralıklarla yerleştirilmiş çivilerden oluşur. x cm x cm Kuzey ve Duru, matematik dersi için proje ödevi olarak birer geometri tahtası yapmışlardır. Kuzey’in yaptığı geometri tahtasındaki çiviler arasındaki uzaklık, Duru’nun yaptığı geometri tahtası üzerindeki çiviler arasındaki uzaklıktan 1’er cm daha fazladır. Kuzey’in hazırladığı geometri tahtası Duru’nun hazırladığı geometri tahtası Her ikisi de hazırladıkları geometri tahtası üzerinde eşit sayıda çiviyi çevreleyen karesel bölgeler gösteriyorlar. Kuzey’in hazırladığı geometri tahtasında gösterdiğ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kare alanını (a-n)² özdeşliğiyle yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p5|q5",
+   "page": 5,
+   "n": 5,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    638.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Elvan Öğretmen cebirsel ifadeler konusunu pekiştirmek amacıyla bir kenarının uzunluğu a cm olan kare şeklindeki bir levhanın iki kenarına hareket edebilen birer ince çubuk yerleştirerek bir düzenek kurmuştur. Bu düzenekte I. çubuk aşağı – yukarı doğru, II. çubuk ise sola – sağa doğru sadece b cm lik eşit aralıklar alınarak açılmış çentiklere yerleş- tirilerek hareket etmektedir. Elvan Öğretmen öğrencilerinden bu hareket sonucunda oluşan dört dörtgensel bölgenin de alanını bulmalarını istemektedir. I. çubuk b b b b b b b b b b b b b b b b II. çubuk Örneğin, başlangıçtaki düzenekte I. çubuk b",
+   "answer": "D",
+   "solved": false,
+   "skill": "Dikdörtgen bölgelerin alanını cebirsel yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p6|q6",
+   "page": 6,
+   "n": 6,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    666.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Aşağıdaki şekilde bir lokantanın her birinin genişliği a cm, yüksekliği (a + b) cm olan dört eş bölmeden oluşan kapısı- nın görseli verilmiştir. a + b a a a a Bu kapıda sensörler yardımıyla ortadaki iki bölme her iki tarafa da eşit miktarda açılmakta ve açılan bölmelerin bir kısmı diğer bölmelerin arkasında kalmaktadır. 2b Kapı tam açıldığında bölmeler arasında kalan bölgenin genişliği 2b cm olmaktadır. Buna göre kapı tam açıldığında ortadaki bölmelerden birinin diğer bölmenin arkasında kalmayan kısmının san- timetrekare cinsinden alanını gösteren cebirsel ifade aşağıdakilerden hangisidir? ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kare farkı özdeşliğini alana uygulama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p7|q7",
+   "page": 7,
+   "n": 7,
+   "bbox": [
+    22.3,
+    33.9,
+    573.5,
+    416.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Aşağıda bir spor kompleksinin krokisi verilmiştir. x Tenis Kortu Voleybol Sahası Yürüyüş yolu y Yürüyüş yolu Yürüyüş yolu Yürüyüş yolu Basketbol Sahası Futbol Sahası Bu spor kompleksi kısa kenarının uzunluğu x metre, uzun kenarının uzunluğu y metre olan dikdörtgen şeklinde dört öz- deş yürüyüş yolu, dikdörtgen şeklindeki birer voleybol, basketbol ve futbol sahası ile bir tenis kortundan oluşmaktadır. Buna göre bu spor kompleksinde basketbol sahası olarak ayrılan bölgenin metrekare cinsinden alanını gösteren cebirsel ifade aşağıdakilerden hangisidir? A) x 2 – xy B) y 2 – xy C) x 2 – 2xy D) y",
+   "answer": "B",
+   "solved": false,
+   "skill": "Bileşik şekilde alanı cebirsel ifadeyle bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p7|q8",
+   "page": 7,
+   "n": 8,
+   "bbox": [
+    24.3,
+    467.2,
+    556.9,
+    756.6
+   ],
+   "num": [
+    28.3,
+    470.2,
+    36.3,
+    484.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Taban ayrıt uzunluğu 4a birim ve yüksekliği b birim olan aşağıdaki kare prizma eş kare prizmalardan oluşmuştur. 4a b Bir köşedeki bir kare prizma çıkarıldığında oluşan yeni şeklin yüzey alanındaki azalışı birimkare cinsinden gösteren cebirsel ifade aşağıdakilerden hangisidir? A) 2a 2 B) 2ab C) ab + a 2 D) ab + 2a 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Yüzey alanı değişimini cebirsel ifadeyle bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p8|q9",
+   "page": 8,
+   "n": 9,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    531.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Aşağıda kenar uzunlukları verilen kartonların içlerine alanları yazılmıştır. b b 2 a a 2 a . b a a b b Buna göre aşağıdaki şekillerin hangisinde boyalı bölgelerin alanları toplamı (a + b) 2 – 2ab cebirsel ifadesine eşittir? b a b a A) B) a a b b b a b a C) D) a a b b",
+   "answer": "B",
+   "solved": false,
+   "skill": "Özdeşliği alan modeliyle eşleştirme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p9|q10",
+   "page": 9,
+   "n": 10,
+   "bbox": [
+    22.3,
+    33.9,
+    533.5,
+    563.0
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Aşağıdaki infografik, EBA (Eğitim Bilişim Ağı)’dan alınmıştır. Aşağıda verilen şekillerden hangisinin alanı infografikte verilen özdeşliklerden biri ile ifade edilemez? A) B) a b % % a a b a b a a a b C) a + 2b D) b 2b % a + 2b a + 3b % b b a + 3b",
+   "answer": "D",
+   "solved": false,
+   "skill": "Özdeşlik modelini şekille ilişkilendirme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p10|q11",
+   "page": 10,
+   "n": 11,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    402.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.2,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Erdem Öğretmen aşağıdaki resfebe görselinden faydalanarak öğrencilerinden yazdığı resfebeleri temsil eden cebir- sel ifadeleri bulmalarını istemektedir. RESFEBE Resfebe; harf, sayı ve resimlerin bir arada kullanılarak bir kelimeyi bulmaya dayanan zeka oyunudur. Resfebe ismi, “resim” ve “alfabe” kelimelerinden üretilmiştir. n ■ rr a ■ b ■ n 9 (küp) ve (azalma) ■ (kare) ve (azalma) ■ (kare), (artma) ve rr (iki r) olduğundan a 2 – b 2 cebirsel olduğundan n 3 – 9 cebirsel olduğundan n 2 + 2r cebirsel ifadesi olur. ifadesi olur. ifadesi olur. Buna göre Erdem Öğretmen’in yazdığı a ■ aaaa 4 şekli",
+   "answer": "B",
+   "solved": false,
+   "skill": "Resfebeyi cebirsel ifadeye çevirme (tam kare)",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p11|q12",
+   "page": 11,
+   "n": 12,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    402.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Ankara’dan Trabzon’a uçakla gidip dönecek olan Bülent’in istediği tarihlerdeki uçak seferlerine ait bilet fiyatları aşa- ğıda verilmiştir. Gidiş - Dönüş Ankara Trabzon 12 Şubat 15 Şubat Salı Cuma 1 Yolcu Gidiş Dönüş Saat Ücret Saat Ücret 08.15 150 TL 10.00 190 TL 11.50 190 TL 11.10 210 TL 16.05 170 TL 18.00 210 TL 22.50 150 TL 21.50 190 TL Bülent yukarıda verilen fiyatlarla gidiş ve dönüş uçak biletlerini alıyor. Buna göre Bülent’in uçak biletlerini alırken ödediği toplam tutar için kaç farklı olası durum vardır? A) 4 B) 6 C) 8 D) 10",
+   "answer": "A",
+   "solved": false,
+   "skill": "Farklı olası durumların sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p11|q13",
+   "page": 11,
+   "n": 13,
+   "bbox": [
+    24.3,
+    421.9,
+    573.7,
+    759.9
+   ],
+   "num": [
+    28.3,
+    428.9,
+    41.6,
+    442.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 13. Tüm olası durumların sayısı Kerem boş olan kumbarasına sadece 1 liralık ve 50 kuruşluk madeni paralar atarak para biriktiriyor. Bu parayla bir oyuncak helikopter almak için oyuncakçıya gidiyor. Kumbarasındaki para aşağıda fiyatları verilen helikopterlerden pa- halı olanı almaya yetmediği için ucuz olanı alıyor. 76 TL 81 TL 1 ’tir. Kerem’in kumbarasında biriken paraların arasından rastgele çekilen bir madeni paranın 1 lira olma olasılığı 5 Buna göre Kerem’in helikopteri aldıktan sonra kaç lirası kalmıştır? A) 1 B) 2 C) 3 D) 4",
+   "answer": "B",
+   "solved": false,
+   "skill": "Olasılıktan madeni para sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p12|q14",
+   "page": 12,
+   "n": 14,
+   "bbox": [
+    22.3,
+    44.0,
+    573.7,
+    472.5
+   ],
+   "num": [
+    28.3,
+    51.0,
+    41.6,
+    64.9
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 14. Bir olayın olma olasılığı = Tüm olası durumların sayısı 1 - 7 Mart tarihleri arasında kutlanan Yeşilay Haftası etkinlikleri kapsamında bir ilçede orta öğretim öğrencileri arasında şiir, öykü ve resim alanlarında yarışma düzenlenmiştir. Yarışmaya katılan 90 eserin arasından rastgele seçilen bir ese- rin şiir olma olasılığı en fazla, resim olma olasılığı en azdır. Buna göre eserlerin dağılımını gösteren dairesel grafik aşağıdakilerden hangisi olabilir? A) Grafik: Eserlerin Dağılımı B) Grafik: Eserlerin Dağılımı Öykü Öykü Şiir 160° 100° 60° Şiir 120° Resim Re",
+   "answer": "D",
+   "solved": false,
+   "skill": "Olasılık koşuluna uygun daire grafiği seçme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p12|q15",
+   "page": 12,
+   "n": 15,
+   "bbox": [
+    24.3,
+    543.0,
+    570.9,
+    733.1
+   ],
+   "num": [
+    28.3,
+    550.0,
+    41.6,
+    563.9
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 15. Tüm olası durumların sayısı Bir otelde yapılacak çekiliş sonucunda rastgele seçilen bir müşteriye sürpriz hediyeler verilecektir. Bu otelde konakla- yan kadın müşterilerin sayısı, erkek müşterilerin sayısından fazladır. Otele 5 evli çift daha gelmiş ve bu müşteriler de yapılacak olan çekilişe dahil edilmiştir. Buna göre yeni gelen müşterilerden sonra yapılacak olan çekilişi kazanan kişinin erkek veya kadın olma olası- lığı ile ilgili aşağıdakilerden hangisi doğrudur? A) Kadın olma olasılığı artmıştır. B) Erkek olma olasılığı art",
+   "answer": "B",
+   "solved": false,
+   "skill": "Olasılık değişimini yorumlama",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p13|q16",
+   "page": 13,
+   "n": 16,
+   "bbox": [
+    22.3,
+    41.5,
+    573.7,
+    399.0
+   ],
+   "num": [
+    28.3,
+    48.5,
+    41.6,
+    62.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 16. Tüm olası durumların sayısı Uçak ile Ankara’dan Trabzon’a gidecek olan Kerem ve dedesi havaalanına gelmiş ve uçakta oturacakları koltukları belirlemek için gişe memurunun yanına gitmişlerdir. Kerem gişe memuruna dedesi ile yan yana, dedesi ise pencere kenarına oturmak istediğini söylemiştir. Aşağıdaki görselde dolu koltuklar “kırmızı”, boş koltuklar ise “beyaz” renkle gösterilmiştir. Pencere tarafı A B C 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 D E F Pencere tarafı Dolu Boş Gişe memu",
+   "answer": "C",
+   "solved": false,
+   "skill": "Boş koltuklardan olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p13|q17",
+   "page": 13,
+   "n": 17,
+   "bbox": [
+    24.3,
+    516.1,
+    505.2,
+    672.8
+   ],
+   "num": [
+    28.3,
+    523.1,
+    41.6,
+    536.9
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 17. Tüm olası durumların sayısı Aşağıda üzerine 1’den n’ye kadar olan sayma sayıları yazılı olan kartlar verilmiştir. . . . 1 2 3 4 n 1 ’dir. Bu kartların arasından rastgele çekilen bir kartın üzerinde yazan sayının asal sayı olma olasılığı 2 Buna göre n en çok kaçtır? A) 6 B) 8 C) 10 D) 12",
+   "answer": "B",
+   "solved": false,
+   "skill": "Asal sayı olasılığından n değerini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p14|q18",
+   "page": 14,
+   "n": 18,
+   "bbox": [
+    22.3,
+    41.5,
+    573.7,
+    449.3
+   ],
+   "num": [
+    28.3,
+    48.5,
+    41.6,
+    62.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 18. Tüm olası durumların sayısı Aşağıda bir mağazanın düzenlediği bahar kampanyası kapsamında müşterilerine sunduğu 3 farklı indirim seçeneği ile ilgili bilgileri içeren görsel verilmiştir. BAHAR KAMPANYASI Ürünlerin toplam Ürünlerin toplam 3 ürün alan fiyatı üzerinden sadece 2 ürün fiyatı üzerinden 30 TL indirim ücreti ödeyecek. %40 indirim yapılacak. yapılacak. 1. Seçenek 2. Seçenek 3. Seçenek Bu mağazada alışveriş yapan müşteriler, ödeme yapmak için kasaya geldiklerinde bu 3 indirim seçeneğinden istedikleri birini seçmektedirler.",
+   "answer": "C",
+   "solved": false,
+   "skill": "İndirim seçeneklerinden olasılık bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p14|q19",
+   "page": 14,
+   "n": 19,
+   "bbox": [
+    24.3,
+    465.0,
+    573.7,
+    769.3
+   ],
+   "num": [
+    28.3,
+    472.0,
+    41.6,
+    485.9
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 19. Tüm olası durumların sayısı Aşağıdaki daire grafiğinde Cumhuriyet Ortaokulu öğrencilerinin sınıf düzeylerine göre dağılımı verilmiştir. Grafik: Sınıf Düzeylerine Göre Öğrenci Dağılımı 5. Sınıf 6. Sınıf 80° 70° 7. Sınıf 8. Sınıf Cumhuriyet Ortaokulunda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’nda konuşma yapması için ortaokul öğrenci- leri arasından biri rastgele seçilecektir. Bu okulda 6. sınıfta öğrenim gören kız öğrenci sayısı erkek öğrenci sayısından azdır. Buna göre seçilen öğrencinin 6. sınıfta öğrenim gören bir kız öğren",
+   "answer": "D",
+   "solved": false,
+   "skill": "Daire grafiğiyle olasılık aralığını yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p15|q20",
+   "page": 15,
+   "n": 20,
+   "bbox": [
+    22.3,
+    44.0,
+    573.7,
+    324.1
+   ],
+   "num": [
+    28.3,
+    51.0,
+    41.6,
+    64.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 20. Bir olayın olma olasılığı = Tüm olası durumların sayısı Ahmet, Burcu ve Emine’nin de içinde olduğu bir grup sporcu yarıyıl tatilinde Antalya’ya kampa gitmiştir. Kalacakları otelde tek numaralı odalar deniz, çift numaralı odalar kara manzaralıdır. DENİZ KAT PLANI 1 3 5 7 9 2 4 6 8 10 KARA Otele erken giriş yapan Burcu ve Emine aynı katta bulunan deniz manzaralı farklı odalara yerleşmişlerdir. Daha sonra gelen Ahmet ise deniz manzaralı odalar dolu olduğundan Burcu ve Emine ile aynı katta bulunan tamamı boş olan kara manzaralı odalardan birine rastgele yerleş",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karşıt olayın olasılığını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p15|q21",
+   "page": 15,
+   "n": 21,
+   "bbox": [
+    24.3,
+    436.5,
+    573.7,
+    695.9
+   ],
+   "num": [
+    28.3,
+    439.5,
+    41.6,
+    453.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "21. 1 ve kendisinden başka çarpanı (böleni) olmayan, 1’den büyük doğal sayılara asal sayı denir. Bir olayın olma olasılığı = İstenilen olası durumların sayısı Tüm olası durumların sayısı Aşağıdaki kutunun içerisinde 1’den 10’a kadar olan doğal sayılardan ardışık 4 tanesinin yazılı olduğu 4 kart vardır. 11 12 13 14 15 16 17 18 19 20 Şekildeki gibi 11’den 20’ye kadar olan doğal sayıların yazılı olduğu kartlar bu kutunun içine atılıyor. 1 olduğuna göre başlangıçta Kutudan rastgele çekilen kartın üzerinde yazılı sayının asal sayı olma olasılığı 2 bu kutunun içindeki kartlarda yazılı en büyük sayı ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Asal sayı olasılığından kart değerini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p16|q22",
+   "page": 16,
+   "n": 22,
+   "bbox": [
+    22.3,
+    41.7,
+    573.7,
+    324.8
+   ],
+   "num": [
+    28.3,
+    48.7,
+    41.6,
+    62.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenen olası durumların sayısı 22. Tüm olası durumların sayısı Su sıvı hâlden katı hâle geçerken hacmi %8 ile %10 arasında artar. Ağzı kapalı cam bir şişenin içerisindeki suyun don- muş durumdaki hacmi, şişenin hacminden fazla olursa bu suyun donması durumunda cam şişe patlar. Zehra, sürahinin içindeki 1400 ml suyun tamamını aşağıda hacimleri verilen boş cam şişeler arasından rastgele seçtiği birine koymuştur. su 1600 ml 1550 ml 1500 ml 1450 ml 1400 ml Zehra bu şişenin kapağını kapatıp şişeyi derin dondurucuya koymuştur. Buna göre içerisindeki su donduktan sonra şi",
+   "answer": "C",
+   "solved": false,
+   "skill": "Yüzde artışla olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p17|q23",
+   "page": 17,
+   "n": 23,
+   "bbox": [
+    22.3,
+    41.7,
+    571.4,
+    208.6
+   ],
+   "num": [
+    28.3,
+    48.7,
+    41.6,
+    62.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenen olası durumların sayısı 23. Tüm olası durumların sayısı Eylül, cep telefonunda kendisinin, annesinin ve babasının seçtiği 20 şarkıdan oluşan bir müzik listesi hazırlamıştır. Eylül’ün hazırladığı bu listede annesinin seçtiği şarkı sayısı, babasının seçtiği şarkı sayısından daha fazladır. Eylül, cep telefonunun rastgele oynatma özelliğini kullanarak bu listedeki şarkıları anne ve babasıyla dinlemek istiyor. 1 olduğuna göre annesinin seç- Cep telefonunun ilk çalacağı şarkının, Eylül’ün seçtiği bir şarkı olma olasılığı 4 tiği bir şarkı olma olasılığı en az kaçtı",
+   "answer": "B",
+   "solved": false,
+   "skill": "Olasılık bilgisinden en az değeri bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p17|q24",
+   "page": 17,
+   "n": 24,
+   "bbox": [
+    22.3,
+    301.4,
+    505.1,
+    698.5
+   ],
+   "num": [
+    28.3,
+    304.4,
+    41.6,
+    318.2
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "24. Aşağıda eş karesel bölgelere ayrılmış dikdörtgen şeklinde bir karton verilmiştir. 1 olacak şekilde iki tane dikdörtgen elde etmek istiyor. Çiğdem bu kartonu keserek alanları oranı 2 Buna göre aşağıdakilerden hangisi Çiğdem’in elde edeceği olası dikdörtgenlerden biri değildir? A) B) C) D)",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan oranına göre uygun parçaları belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p18|q25",
+   "page": 18,
+   "n": 25,
+   "bbox": [
+    22.3,
+    41.7,
+    525.2,
+    522.3
+   ],
+   "num": [
+    28.3,
+    48.7,
+    41.6,
+    62.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenen olası durumların sayısı 25. Tüm olası durumların sayısı Aşağıdaki görselde Yıldızlar futbol takımının bir maçtaki kadrosu verilmiştir. İlk 11 Yedekler 30 1 Oğuz Orhan 13 19 4 3 5 İsmail Berk Burak Alp Uğur 12 Tayfun 10 20 18 Harun Erdem Akif 2 7 8 11 Umut Kaan Doruk Rıdvan Kerem 21 9 Kamil Serdar 17 Rıfat Bu maça ilk 11’de başlayan futbolculardan 3’ü maç sırasında yedek futbolcular ile yer değiştirmiştir. Maç sonunda takımın bu maçta oynayan futbolcuları arasından rastgele seçilen biri ile röportaj yapılacaktır. Röportaj yapılan futbolcunun forma numarasının",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal sayı olasılığının en çok değerini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p19|q26",
+   "page": 19,
+   "n": 26,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    341.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "26. Kapalı durumda iken şekil 1’deki gibi kare biçiminde olan bir sahne klaketi şekil 2’deki gibi açılarak sabitlenmiştir. a cm b cm Sahne Tekrar Sahne Tekrar a cm Tarih Tarih Yapım Ses Yapım Ses Kameraman Kameraman Yönetmen Yönetmen Şekil 1 Şekil 2 Verilen bilgilere göre sahne klaketinin açılan parçasının bir yüzünün santimetrekare cinsinden alanını gösteren cebirsel ifade aşağıdakilerden hangisine özdeştir? A) a 2 – 2ab B) ab – a 2 C) b 2 – ab D) 2a 2 – ab",
+   "answer": "D",
+   "solved": false,
+   "skill": "Şekil boyutlarından alanı cebirsel ifadeyle bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p19|q27",
+   "page": 19,
+   "n": 27,
+   "bbox": [
+    24.3,
+    456.5,
+    573.7,
+    725.6
+   ],
+   "num": [
+    28.3,
+    461.6,
+    41.6,
+    475.4
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Kenar uzunluğu a olan karenin köşegen uzunluğu a ñ 2 dir. 27. 1 cm 1 cm x ñ 2 cm Şekil 1 Şekil 2 Gökçe şekil 1’de gösterilen tangramın parçalarıyla şekil 2’deki yüksekliği x ñ 2 cm olan figürü yapmıştır. Buna göre tangramın 1 cm kalınlığındaki çerçevesinin bir yüzünün santimetrekare cinsinden alanını gösteren cebirsel ifade aşağıdakilerden hangisine özdeştir? A) x 2 + 4x + 4 B) x 2 + 2x +1 C) 4x + 4 D) 2x +1",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çerçeve alanını özdeşlikle bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p20|q28",
+   "page": 20,
+   "n": 28,
+   "bbox": [
+    22.3,
+    41.7,
+    572.7,
+    446.6
+   ],
+   "num": [
+    28.3,
+    48.7,
+    41.6,
+    62.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 28. Tüm olası durumların sayısı 30 katlı bir iş merkezinde bulunan dört farklı asansörün üzerlerine asılan yazılar ile hangi katlarda durduğu açıklanmış- tır. Zemin katta ve Zemin katta ve kat Kat numarası tam kat numarası asal numarası 2’nin pozitif Tüm katlarda kare sayı olan sayı olan katlarda tam sayı kuvveti olan durur. katlarda durur. durur. katlarda durur. Bu iş merkezinin 16. katına çıkmak isteyen Ersin Bey, asansörlerin üzerindeki açıklamaları okumadan bu asansörler- den birine iş merkezinin zemin katından rastgele binmişti",
+   "answer": "D",
+   "solved": false,
+   "skill": "Koşullu kümeler üzerinden olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p21|q29",
+   "page": 21,
+   "n": 29,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    422.4
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "29. Bir kapalı otoparkın aynı ebatlardaki iki kepengi yaşanan teknik bir arıza nedeniyle aşağıdaki konumda kalmıştır. 1 m x m 1 m 2 m 2x + 7 m Buna göre otopark girişinde kepenklerin kapattığı bölgelerin metrekare cinsinden alanları arasındaki farkı gös- teren cebirsel ifade aşağıdakilerden hangisine özdeştir? A) x 2 + 6x + 9 B) x 2 - 6x + 9 C) x 2 + 9 D) x 2 - 9",
+   "answer": "D",
+   "solved": false,
+   "skill": "Alan farkını kare farkı özdeşliğiyle bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p22|q30",
+   "page": 22,
+   "n": 30,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    648.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "30. Kerem bilgisayarında özdeş karelerden oluşan iki şekil çizmiştir. Kerem bu şekillerden birinin alanını %12,5 oranında küçültüp diğerinin alanını %12,5 oranında büyüterek alanları farkı 4x 2 + 12x + 9 cm 2 olan aşağıdaki iki şekli oluşturmuştur. Buna göre Kerem’in ilk çizdiği şekilleri oluşturan karelerin bir kenarının uzunluğu santimetre cinsinden aşağı- daki cebirsel ifadelerden hangisine özdeştir? A) 2x + 1 B) 2x + 3 C) 4x + 1 D) 4x + 3",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan farkından kenar uzunluğunu bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p23|q31",
+   "page": 23,
+   "n": 31,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    775.7
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "31. Dikdörtgen şeklindeki 3 kart aşağıdaki gibi bir çizgiyle ikiye ayrılıp, her iki tarafına farklı birer cebirsel ifade yazılmıştır. x 2 – 4 x 2 – 8x + 16 x 2 – 6x + 9 x 2 – 16 (x – 2)(x + 2) (x – 3)(x – 3) Daha sonra bu kartlar, üzerlerinde özdeş cebirsel ifadeler yazan bölümler yan yana getirilerek aşağıdaki gibi dizilmiştir. x 2 – 8x + 16 x 2 – 16 x 2 – 6x + 9 x 2 – 4 (x - 2)(x + 2) (x – 3)(x – 3) Bu şekil koyulacak sarı ve mavi kartlar ile aynı şekilde devam ettirilmek isteniyor. x 2 – 8x + 16 x 2 – 16 x 2 – 6x + 9 x 2 – 4 (x - 2)(x + 2) (x – 3)(x – 3) Buna göre sarı ve mavi kartların üze",
+   "answer": "A",
+   "solved": false,
+   "skill": "Eşdeğer cebirsel ifadeleri çarpanlara ayırarak eşleştirme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p24|q32",
+   "page": 24,
+   "n": 32,
+   "bbox": [
+    22.3,
+    33.9,
+    573.3,
+    464.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "32. Gökçe Öğretmen sınıfa kırmızı, sarı ve mavi renkli dokuzar tane halka ve bu halkaları dizeceği bir tahta getirmiştir. x 2 x 1 Kırmızı Sarı Mavi Gökçe Öğretmen aşağıdaki gibi tahtada x 2 yazan çubuğa sadece kırmızı, x yazan çubuğa sadece sarı ve 1 yazan çubuğa sadece mavi halkaları dizerek (x + 2) 2 ve (2x + 1) 2 cebirsel ifadelerine özdeş cebirsel ifadeler modellemiştir. x 2 x 1 x 2 x 1 Kırmızı Sarı Mavi Kırmızı Sarı Mavi (x + 2) 2 (2x + 1) 2 Buna göre Gökçe Öğretmen sadece sınıfa getirdiği halkaları ve tahtayı kullanarak aynı şekilde aşağıdaki cebirsel ifadelerden hangisine özdeş bir cebi",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam kare özdeşliğini model sınırlarıyla yorumlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p25|q33",
+   "page": 25,
+   "n": 33,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    439.3
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "33. Aşağıda modeli verilen otoparkın A, B, C, D olarak isimlendirilen her bölümünde 1’den 16’ya kadar numaralandırılmış park yerleri bulunmaktadır. 1 1 16 16 2 2 15 15 3 3 14 14 4 4 13 13 5 5 12 12 6 6 11 11 7 7 10 10 8 8 9 9 9 9 8 8 10 7 10 7 11 11 12 6 12 6 5 5 13 13 14 4 14 4 3 3 15 15 1 1 2 2 16 16 A B C D Sabah bu otoparka aracını park eden Burhan, akşam aracını almaya geldiğinde sadece park yerinin numarasının bir asal sayı olduğunu hatırlamaktadır. Buna göre Burhan’ın arabasını park etmiş olabileceği kaç farklı olası yer vardır? A) 16 B) 20 C) 24 D) 28",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal numaralı park yerlerini sayma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p25|q34",
+   "page": 25,
+   "n": 34,
+   "bbox": [
+    24.3,
+    439.8,
+    573.7,
+    709.4
+   ],
+   "num": [
+    28.3,
+    446.8,
+    41.6,
+    460.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1 2 3 4 5 6 Bir olayın olma olasılığı = İstenilen olası durumların sayısı 34. Tüm olası durumların sayısı 7 8 9 10 11 12 1’den 48’e kadar numaralandırılmış ebatları aynı olan tahta bloklar, yandaki gibi her sırada 13 14 15 16 17 18 3'er tane olacak şekilde üst üste dizilerek bir yapı oluşturulmuştur. 19 20 21 22 23 24 Daha sonra bu yapının her sırasından, aşağıdaki kurallara göre birer blok çekilmiştir. • Bloğun üzerinde yazan sayı tam kare ise o blok çekilir. 25 26 27 28 29 30 • O sırada üzerinde yazan sayı tam kare olan bir blok yoksa rastgele bir blok çekilir. 31 32 33 34 35 36 37 38 39 40 ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Tam kare sayı olasılığını hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p26|q35",
+   "page": 26,
+   "n": 35,
+   "bbox": [
+    22.3,
+    34.1,
+    573.7,
+    333.1
+   ],
+   "num": [
+    28.3,
+    41.1,
+    41.6,
+    54.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "35. x cm y cm Şekil 4 Şekil 1 Şekil 2 Şekil 3 Kare biçimindeki bir kâğıt şekil 2’deki gibi üstten aşağı, daha sonra şekil 3’teki gibi soldan sağa köşeler üst üste gelecek biçimde ikiye katlanıyor. Katlanmış kâğıtta şekil 4’te kesikli çizgiler ile gösterilen kare biçimindeki parça kesilip atılıyor ve kâğıt açılıyor. Geriye kalan kağıdın bir yüzünün santimetrekare cinsinden alanını veren cebirsel ifade aşağıdakilerden han- gisine özdeştir? A) (x - y) (x - y) B) (x - 2y) (x - 2y) C) (x - y) (x + y) D) (x - 2y) (x + 2y)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Katlama ve kesmeyle kalan alanı özdeşlikle bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p26|q36",
+   "page": 26,
+   "n": 36,
+   "bbox": [
+    24.3,
+    367.8,
+    573.7,
+    575.3
+   ],
+   "num": [
+    28.3,
+    374.8,
+    41.6,
+    388.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı= İstenen olası durumların sayısı 36. Tüm olası durumların sayısı Tablo 1’deki cebirsel ifadelerin her biri Tablo 2’deki cebirsel ifadelerin her biri ile ayrı ayrı çarpılıp bulunan her sonuç birer kağıda yazılıp boş bir torbaya atılıyor. Tablo 1 Tablo 2 x-2 x+2 x-3 x+3 x+4 x+4 Bu torbadan rastgele çekilen bir kâğıtta yazan cebirsel ifadenin bir tam kare ifadeye özdeş olma olasılığı kaçtır? 1 B) 1 C) 1 2 A) 3 6 9 D) 9",
+   "answer": "C",
+   "solved": false,
+   "skill": "İfadeleri çarpıp tam kare olanı belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p26|q37",
+   "page": 26,
+   "n": 37,
+   "bbox": [
+    24.3,
+    628.6,
+    570.9,
+    741.7
+   ],
+   "num": [
+    28.3,
+    631.6,
+    41.4,
+    645.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "37. Bir kurstaki piyano ve keman dersi alan öğrenciler arasından birer kişi seçilerek piyano ve keman dinletisi yapılacaktır. İki dersi de alan öğrencinin bulunmadığı bu kursta piyano dersi alanların listesindeki öğrenciler 1’den 15’e kadar, ke- man dersi alanların listesindeki öğrenciler 1’den 20’ye kadar numaralandırılmıştır. Seçilecek olan kişilerin sıra numaralarının birbirinden farklı tam kare sayılar olmaları istenmektedir. Buna göre bu seçim için kaç farklı olası durum vardır? A) 6 B) 7 C) 8 D) 9",
+   "answer": "D",
+   "solved": false,
+   "skill": "Farklı tam kare seçimlerini sayma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p27|q38",
+   "page": 27,
+   "n": 38,
+   "bbox": [
+    22.3,
+    33.9,
+    587.3,
+    706.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "38. Karşılıklı iki yüzeyi kare ve diğer yüzeyleri eş dikdörtgenler olan prizmaya kare prizma denir. Kare prizma şeklindeki tavan aydınlatma panelinin üzerine 9 tane eş kare prizma şeklinde led lamba monte edilmiştir. Tavan aydınlatma panelinin kare şeklindeki yüzeylerinin kenar uzunluğu x cm, led lambaların kare şeklindeki yüzeyle- rinin kenar uzunluğu ise y cm dir. Buna göre panelin kare şeklindeki yüzeyinde led lambaların dışında kalan bölgenin santimetrekare cinsinden alanı aşağıdaki cebirsel ifadelerden hangisine özdeştir? C) (x – 6y) (x + 6y) A) (x – y) (x + y) B) (x – 3y) (x + 3y) D) (x ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kare farkı özdeşliğini alana uygulama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p28|q39",
+   "page": 28,
+   "n": 39,
+   "bbox": [
+    22.3,
+    40.7,
+    573.7,
+    531.5
+   ],
+   "num": [
+    28.3,
+    47.7,
+    41.6,
+    61.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenen olası durumların sayısı 39. Tüm olası durumların sayısı Aşağıda EBA TV’nin yayın yaptığı kanal numaralarının dijital platformlara göre dağılımı verilmiştir. Dijital Platformlar TRT EBA TV TRT EBA TV TRT EBA TV Platformlar İlkokul Ortaokul Lise Platform 1 465. Kanal 466. Kanal 467. Kanal Platform 2 410. Kanal 402. Kanal 403. Kanal Platform 3 106. Kanal 107. Kanal 108. Kanal Platform 4 365. Kanal 366. Kanal 367. Kanal Platform 5 151. Kanal 152. Kanal 153. Kanal Aşağıda EBA TV’de beş gün boyunca saat 9.30’da başlayan tüm derslerin dağılımı verilmiştir. Bu saatt",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tablodan veri okuyarak olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p29|q40",
+   "page": 29,
+   "n": 40,
+   "bbox": [
+    22.3,
+    40.7,
+    573.7,
+    551.9
+   ],
+   "num": [
+    28.3,
+    47.7,
+    41.6,
+    61.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenen olası durumların sayısı 40. Tüm olası durumların sayısı Sosyal kulüplere öğrenci seçmek isteyen bir öğretmen, öğrencilerine katılmak istedikleri sosyal kulübü sorup, istekleri- ne göre isimlerini daha önceden hazırladığı bir karta yazmıştır. Bu kartın; öğretmen, öğrencilerin isimlerini yazdıktan sonra oluşan görüntüsü aşağıda verilmiştir. Bu kartta boş bırakı- lan yerlere sınıftaki diğer öğrencilerin isimleri tek tek yazıldığında boş yer kalmayacaktır. Spor Kulübü Resim Kulübü Tiyatro Kulübü Satranç Kulübü Temizlik Kulübü 1 Ahmet Hasan Arif Hakan Damla 2 Ayş",
+   "answer": "D",
+   "solved": false,
+   "skill": "Tablodan boş hücre sayısıyla olasılık bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p30|q41",
+   "page": 30,
+   "n": 41,
+   "bbox": [
+    21.8,
+    33.4,
+    574.2,
+    413.8
+   ],
+   "num": [
+    27.8,
+    40.4,
+    41.1,
+    54.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "ax 2 + bx + c cebirsel ifadesinin katsayılar toplamı a + b + c ve sabit terimi c ’dir. 41. Aşağıda butona basıldığında gösterilen oklar yönünde dönen iki çarktan oluşan bir düzenek verilmiştir. x + 5 x – 5 x – 3 x + 7 x 2 – 25 x – 3 x + 1 x + 3 x – 1 x – 4 x + 2 x + 4 Buton Bu düzenekteki 5 eşit parçadan oluşan çark 1 tam turunu 10 saniyede, 6 eşit bölmeden oluşan çark ise 1 tam turunu 12 saniyede tamamlamaktadır. Aynı anda dönmeye başlayan bu çarklar her defasında farklı bir süre sonunda aynı anda durmaktadırlar. Çarklar durduğunda üçgen biçimindeki ibrelerin uçlarının gösterdiği bölmelerde y",
+   "answer": "A",
+   "solved": false,
+   "skill": "Çarkla belirlenen ifadeleri çarpıp katsayıları yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p31|q42",
+   "page": 31,
+   "n": 42,
+   "bbox": [
+    22.3,
+    33.9,
+    573.9,
+    727.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "42. Duru, 23 Nisan temalı aşağıdaki resimleri yapmıştır. y – x cm x cm y cm y cm y cm x + y cm 2x cm x cm Duru, kenar uzunlukları verilen dikdörtgen biçimindeki kâğıtlara yaptığı bu resimleri dikdörtgen biçimindeki bir kartonun üzerine aşağıdaki gibi yapıştırmıştır. x cm x cm x cm x cm x cm x cm x cm x cm Duru, son olarak kartonun üzerine #Evde23Nisan yazmıştır. #Evde23Nisan Buna göre bu kartonun resimlerin yapıştırıldığı yüzeyinde, resimlerin dışında kalan bölgenin santimetrekare cinsinden alanı aşağıdaki cebirsel ifadelerden hangisine özdeştir? A) (2x – y) 2 B) (2x + y) 2 C) (3x – y) 2 D) (3",
+   "answer": "D",
+   "solved": false,
+   "skill": "Dikdörtgenlerden kalan alanı tam kare özdeşliğiyle bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p32|q43",
+   "page": 32,
+   "n": 43,
+   "bbox": [
+    22.3,
+    40.7,
+    573.7,
+    707.2
+   ],
+   "num": [
+    28.3,
+    47.7,
+    41.6,
+    61.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 43. Tüm olası durumların sayısı İnsanların düşünme biçimleri üzerinde araştırmalarıyla düşünmeyi öğretme konusunda öncülük yapan De Bono, insan- ların yaygın 6 düşünce biçimini kullandığını belirtmektedir. Kırmızı şapka Beyaz şapka Siyah şapka duygusal tarafsız kötümser Mavi şapka Sarı şapka Yeşil şapka serinkanlı iyimser yenilikçi Sınıf mevcutları birbirine eşit olan A, B, C, D, E, F sınıflarındaki her öğrenciden kendi düşünme biçimini temsil eden en uygun şapkayı seçmeleri istenmiş ve her öğrenci kendine uygun olduğunu düşündüğü b",
+   "answer": "D",
+   "solved": false,
+   "skill": "Olasılık bilgisinden sınıftaki öğrenci sayısını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p33|q44",
+   "page": 33,
+   "n": 44,
+   "bbox": [
+    22.3,
+    33.9,
+    573.8,
+    751.7
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "44. (4y + 12) cm Bağlantı Yok Bağlantı (3x + 6) cm Yok 1. Görsel 1. görselde yapılmakta olan bir telekonferans görüşmesi sırasında ekranın, aralarında boşluk olmayan dikdörtgen biçiminde 12 eş bölgeye ayrıldığı ancak bu bölgelerin ikisinde bulunması gereken kişilerle bağlantı kurulamadığı gö- rülmektedir. (2y) cm Bağlantı Yok (x + 2) cm 2. Görsel 2. görselde yapılmakta olan başka bir telekonferans görüşmesi sırasında aynı ekranın aralarında boşluklar olan dik- dörtgen biçiminde 4 eş bölgeye ayrıldığı ancak bu bölgelerin birinde bulunması gereken kişiyle bağlantı kurulamadığı görülmektedir. Bun",
+   "answer": "A",
+   "solved": false,
+   "skill": "Bölge alanları farkını cebirsel ifadeyle bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p34|q45",
+   "page": 34,
+   "n": 45,
+   "bbox": [
+    22.3,
+    33.9,
+    587.3,
+    565.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "45. Aşağıda dikdörtgen biçiminde bir tabela görseli verilmiştir. 3x dm 1 dm ➜ Sınava kendi okulunda gireceksin. 20 Haziran’da yapılacak olan ➜ Sınava gireceğin bina sınav merkezi, salon ve sıra bilgileri e-okul üzerinden “Sınavla açıklanacak. Öğrenci Sözel Oturum ➜ Sınav giriş belgen sınava gireceğin Alacak Başlama Saati: 09.30 masada hazır olacak. Bitiş Saati: 10.45 Ortaöğretim Başarılar ➜ Girişte hepinize maske dağıtılacak. Kurumlarına 3 dm 3 dm ➜ 1. oturumun sonunda verilecek olan İlişkin Merkezî 45 dakikalık arada öğretmen Sınav”la İlgili gözetiminde okul bahçesine 3x dm çıkabileceksin. Bi",
+   "answer": "A",
+   "solved": false,
+   "skill": "Çerçeve içindeki alanı tam kare özdeşliğiyle bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p35|q46",
+   "page": 35,
+   "n": 46,
+   "bbox": [
+    22.3,
+    33.9,
+    585.7,
+    464.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "46. Bir içecek makinesindeki tüm içeceklere farklı birer numara verilmiştir. Bu makineden istenen içecek, numarası tuşlanarak alınmaktadır. 11 Portakallı Gazoz 12 Sade Gazoz 13 Su 14 Maden Suyu 21 Elmalı Soda Vişneli Soda Limonlu Soda Erikli Soda 22 23 24 33 31 Üzüm Suyu 32 Vişne Suyu Portakal Suyu 34 Elma Suyu Karışık 41 43 44 Kayısı Nektarı 42 Şeftali Suyu Soğuk Çay Meyve Suyu Elmalı Şeftalili Limonlu Karışık Meyveli 51 52 53 54 Soğuk Çay Soğuk Çay Soğuk Çay Soğuk Çay Bu makineden birer içecek almak isteyen Erdem; iki tane asal çarpanı olan, Ayşe ise üç tane asal çarpanı olan bir numarayı tu",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpan sayısına göre olası durumları sayma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p35|q47",
+   "page": 35,
+   "n": 47,
+   "bbox": [
+    24.3,
+    498.2,
+    573.7,
+    774.5
+   ],
+   "num": [
+    28.3,
+    501.2,
+    41.6,
+    515.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "47. 10 kişilik bir arkadaş grubu bir kafeye gidiyor. Her biri aşağıdaki menüde fiyatları yazan içeceklerden bir tane sipariş ediyor ve siparişleri 116 TL tutuyor. MENÜ İÇECEKLER SODA 8 TL AYRAN 10 TL GAZOZ 10 TL MEYVE SUYU 12 TL LİMONATA 15 TL 10 kişiden 4’ü meyve suyu, 2’si limonata, 1’i gazoz, diğerleri ise soda ya da ayran içmiştir. Bütün içecekleri özdeş cam bardaklarla servis yapan garson boş bardakları toplarken birini kırmıştır. Buna göre garsonun kırdığı bardak ile ayran içilmiş olması olasılığı nedir? A) 1 B) 1 C) 3 D) 1 10 5 10 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Fiyat bilgisinden olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p36|q48",
+   "page": 36,
+   "n": 48,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    486.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "48. Ali kardeşinin doğum günü için aşağıdaki süslemeyi hazırlamış ve odasının duvarına aşmıştır. D G K O B O Ü U L U Ğ N T S R U Ü L U A M N U N K Beşer kareden oluşan bu süslemelerin her birinde en üstteki karelerin alanı 4x 2 + 12x + 9 cm 2 olup, yukarıdan aşağıya doğru karelerin kenar uzunlukları birer cm azalmaktadır. Buna göre bu süslemelerde kullanılan en küçük karelerden birinin alanı santimetrekare cinsinden aşağıdaki cebirsel ifadelerden hangisine özdeştir? A) 4x 2 B) 4x 2 – 4x + 1 C) 4(x 2 – 2x + 1) D) 4x 2 – 6x + 9",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kenar uzunluğundan karenin alanını özdeşlikle yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p36|q49",
+   "page": 36,
+   "n": 49,
+   "bbox": [
+    24.3,
+    501.9,
+    570.9,
+    768.4
+   ],
+   "num": [
+    28.3,
+    508.9,
+    41.6,
+    522.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 49. Tüm olası durumların sayısı Aşağıda internet üzerinde alışveriş yapılan bir sitede satılan üç farklı marka kalemin satış fiyatları verilmiştir. A Marka B Marka C Marka 12 TL 10 TL 15 TL Duru bu kalemlerden toplam 10 tane satın almıştır. Duru’nun satın aldığı kalemler arasından rastgele seçtiği bir kalemin, A marka olma olasılığı B marka olma olasılığın- dan daha fazla, C marka olma olasılığında daha azdır. Buna göre Duru’nun satın aldığı kalemler için ödediği toplam para en az kaç liradır? A) 129 B) 131 C) 133 D) 135",
+   "answer": "B",
+   "solved": false,
+   "skill": "Olasılık koşullarından en az maliyeti bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p37|q50",
+   "page": 37,
+   "n": 50,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    624.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "50. Aşağıda dikdörtgenler prizması biçimindeki üç parçadan oluşan bir kabinin açık ve kapalı durumlardaki görünümleri verilmiştir. 3x dm 2x dm 1 dm Bu kabinin iki küçük parçası birbirine paralel, büyük parçası ise küçük parçalarla dik konumda olacak şekilde açılmak- tadır. Açık hâlde bulunan 4 adet kabin yanyana ve aralarında boşluk kalmayacak şekilde aşağıdaki gibi dizilerek iki duvar arasını tam olarak kaplamıştır. 12 dm Buna göre kabinlerin yerleştirildiği iki duvar arasında kalan dikdörtgen biçimindeki karşı duvarın desimetreka- re cinsinden yüzey alanını veren cebirsel ifade aşağıdakilerd",
+   "answer": "A",
+   "solved": false,
+   "skill": "Cebirsel ifadelerle yüzey alanını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p38|q51",
+   "page": 38,
+   "n": 51,
+   "bbox": [
+    21.8,
+    33.4,
+    505.5,
+    414.1
+   ],
+   "num": [
+    27.8,
+    40.4,
+    41.1,
+    54.3
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "51. Aşağıda bir matematik öğretmeninin geliştirdiği bir yazılımın giriş sayfası verilmiştir. Ben Robot Değilim ò 50 Aşağıdaki kareköklü ifadeler arasından ile çarpımının sonucu bir doğal sayıya eşit olanlardan birini işaretleyiniz. ò 12 ó 242 ó 216 ó 250 ò 98 ó 180 ó 162 ó 192 Bu yazılıma giriş yapabilmek için ekranda görünen soruyu doğru cevaplamak gerekmektedir. Bu yazılıma giriş yapmak isteyen Kuzey kareköklü ifadelerden rastgele birini seçip işaretlemiştir. Buna göre Kuzey’in vermiş olduğu bu cevap ile yazılıma giriş yapabilmiş olması olasılığı nedir? A) 1 B) 3 C) 1 D) 5 4 8 2 8",
+   "answer": "B",
+   "solved": false,
+   "skill": "Çarpımı doğal sayı olan kareköklüleri bulup olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p38|q52",
+   "page": 38,
+   "n": 52,
+   "bbox": [
+    23.8,
+    456.8,
+    574.2,
+    750.8
+   ],
+   "num": [
+    27.8,
+    459.8,
+    41.1,
+    473.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "52. Aras, Şekil 1’de verilen dikdörtgenler prizması biçimindeki boş meyve suyu kutusunu geniş yüzeylerinden bastırarak Şekil 2’deki hâle getirmiştir. 2 cm 2 cm 2 cm 2x Meyve Meyve Suyu Suyu 2 cm x Şekil 1 Şekil 2 Buna göre meyve suyu kutusunun Şekil 2’deki hâlinin dikdörtgen biçimindeki ön yüzünün santimetrekare cinsinden alanı aşağıdaki cebirsel ifadelerden hangisine özdeştir? A) 4(x 2 + 6x + 8) B) 2(x 2 + 6x + 8) C) 4(x 2 + 3x + 2) D) 2(x 2 + 3x + 2)",
+   "answer": "B",
+   "solved": false,
+   "skill": "Katlanmış kutu yüzünün alanını cebirsel yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p39|q53",
+   "page": 39,
+   "n": 53,
+   "bbox": [
+    22.3,
+    33.9,
+    568.6,
+    457.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "53. Sadece 1’e ve kendisine bölünebilen 1’den büyük doğal sayılara asal sayı denir. İstenen olası durumların sayısı Bir olayın olma olasılığı = Tüm olası durumların sayısı Aşağıdaki kutuda renkleri dışında özdeş yirmişer tane sarı, mavi ve yeşil renkli yapboz parçaları vardır. Duru bu kutudan 20 tane yapboz parçası alıp bir yapı oluşturmuştur. Duru’nun oluşturduğu bu yapıdaki sarı, mavi ve yeşil renkli yapboz parçalarının sayıları farklı asal sayılardır. Buna göre kutuda kalan yapboz parçaları arasından rastgele seçilen bir parçanın renginin yeşil olma olasılı- ğı en az kaçtır? 9 17 3 7 A) 20 ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Asal sayı koşuluyla en az olasılığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p39|q54",
+   "page": 39,
+   "n": 54,
+   "bbox": [
+    24.3,
+    505.2,
+    564.8,
+    755.6
+   ],
+   "num": [
+    28.3,
+    512.2,
+    41.6,
+    526.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "54. Düz bir rafın üzerine özdeş 5 vazo, aşağıdaki gibi aralarında eşit mesafe olacak biçimde aynı doğrultuda dizilmiştir. x 2 + 10 cm x 2 + 10 cm x 2 + 10 cm x 2 + 10 cm 4x + 3 cm ? Kare prizma biçimindeki bu vazoların dikdörtgen biçimindeki yüzeylerinin alanları 16x 2 – 9 santimetrekaredir. Vazoların biri rafın en solunda biri ise en sağında durduğuna göre bu rafın santimetre cinsinden uzunluğu aşağıdakilerden hangisine özdeştir? A) (2x + 3) 2 B) (2x + 5) 2 C) (4x + 1) 2 D) (4x + 5) 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Farklı iki kare özdeşliğiyle uzunluk bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p40|q55",
+   "page": 40,
+   "n": 55,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    290.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "55. Şekil 1’de köşeleri A, B, C, D noktaları olan dikdörtgen şeklindeki sarı renkli karton üzerine konulan kare biçimindeki mavi renkli karton gösterilmiştir. A B A B 6 cm (3x + 3) cm 6 cm C C D D (3x + 3) cm Şekil 1 Şekil 2 Mavi renkli karton Şekil 1’deki gibi 3 eş dikdörtgen parçaya ayrılıyor. Ayrılan her parça bir üstündeki mavi renkli karton parçasının kenarıyla 6 cm temas edecek şekilde Şekil 2’deki gibi yerleştiriliyor. Şekil 2’deki sarı renkli bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangi- sine özdeştir? A) 18(x + 1) 2 B) 18(x 2 – 1) C) 9(x – 1) 2 ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan farkını çarpanlara ayırarak bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p40|q56",
+   "page": 40,
+   "n": 56,
+   "bbox": [
+    24.3,
+    467.2,
+    570.9,
+    714.6
+   ],
+   "num": [
+    28.3,
+    470.2,
+    41.6,
+    484.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "56. Aşağıdaki şekilde bir derginin iç sayfa tasarımında kullanılan dikdörtgen şeklindeki A, B ve C reklam alanlarının ebat- ları gösterilmektedir. Dergideki reklam ücretleri, reklam alanları ile orantılı olarak belirlenmiştir. (x) cm (x + 5) cm (2x + 10) cm A (x + 5) cm (x + 5) cm B (4x – 20) cm C A bölgesinin reklam ücreti B bölgesinin reklam ücretinden 25 TL fazla olduğuna göre C bölgesinin reklam üc- reti kaç TL’dir? A) 100 B) 125 C) 150 D) 175",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alan farkından fiyat hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p41|q57",
+   "page": 41,
+   "n": 57,
+   "bbox": [
+    23.1,
+    34.9,
+    574.4,
+    305.9
+   ],
+   "num": [
+    29.1,
+    41.9,
+    42.3,
+    55.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Yarıçapı r olan dairenin alanı π r 2 formülü ile hesaplanır. 57. Şekil 1 Şekil 2 Gamze, kare biçimindeki kâğıda Şekil 1’deki gibi çapları karenin kenarlarına paralel olarak çizilmiş dört eş yarım daire- yi, kesikli çizgilerle gösterilen yerlerden keserek Şekil 2’deki çiçek modelini elde ediyor. Şekil 2’deki çiçek modelinin bir yüzünün alanı 6x 2 + 24x + 24 cm 2 dir. Buna göre Şekil 1’deki kâğıdın bir yüzünün alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakiler- den hangisine özdeştir? ( π = 3 alınız) A) x 2 + 4x + 4 B) 4x 2 + 16x + 16 C) 9x 2 + 36x + 36 D) 16x 2 + 64x + 64",
+   "answer": "D",
+   "solved": false,
+   "skill": "Yarım daire alanından kare alanını özdeşlikle bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p41|q58",
+   "page": 41,
+   "n": 58,
+   "bbox": [
+    25.1,
+    364.3,
+    574.4,
+    644.6
+   ],
+   "num": [
+    29.1,
+    367.3,
+    42.3,
+    381.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "58. Aşağıdaki görselde verilen 8 sarı, 8 mavi ve 8 kırmızı renkli kalem karıştırılarak I ve II numaralı kalemliklere eşit sayıda rastgele dağıtılmıştır. I II • Her iki kalemlikten de rastgele çekilen bir kalemin sarı renkli olma olasılıkları birbirine eşittir. • I numaralı kalemlikten rastgele çekilen bir kalemin mavi renkli olma olasılığı, II numaralı kalemlikten rastgele çekilen bir kalemin mavi renkli olma olasılığından büyüktür. Buna göre II numaralı kalemlikten rastgele çekilen bir kalemin kırmızı renkli olma olasılığı en az kaçtır? 2 3 5 7 A) 12 B) 12 C) 12 D) 12",
+   "answer": "C",
+   "solved": false,
+   "skill": "Koşullu bilgilerle kalem renk olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p41|q59",
+   "page": 41,
+   "n": 59,
+   "bbox": [
+    25.1,
+    670.1,
+    574.4,
+    766.5
+   ],
+   "num": [
+    29.1,
+    673.1,
+    42.3,
+    687.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "59. Bir sınıftaki öğrencilerin tamamı teknoloji tasarım dersinde her grupta eşit sayıda öğrenci ve en az 2 kız öğrenci olacak şekilde iki gruba ayrılacaktır. 7 ’dir. 3 , ikinci gruptan seçilen bir öğrencinin erkek olma olasılığı 8 Birinci gruptan seçilen bir öğrencinin kız olma olasılığı 4 Buna göre bu sınıfta en az kaç kız öğrenci vardır? A) 10 B) 12 C) 14 D) 16",
+   "answer": "C",
+   "solved": false,
+   "skill": "Grup oranlarından kız sayısı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p42|q60",
+   "page": 42,
+   "n": 60,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    332.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "60. Kare şeklindeki aynanın üzerine birbiri ile eş, dört tane daire şeklinde spot aydınlatma lambası takılmıştır. B C A D ? H E G F Her bir lambanın yarıçapı x 2 santimetredir ve belirtilen noktalarda aynanın kenarlarına değmektedir. Aynanın alanı (9x 2 + 30x + 25) cm 2 olduğuna göre ardışık iki spot lamba arasındaki uzaklık santimetre cinsinden aşağıdaki cebirsel ifadelerden hangisine özdeştir? A) x + 5 B) x – 5 C) 2x + 5 D) 3x – 5",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam kare alandan kenar ve uzaklık bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p42|q61",
+   "page": 42,
+   "n": 61,
+   "bbox": [
+    24.4,
+    391.2,
+    573.7,
+    645.5
+   ],
+   "num": [
+    28.4,
+    394.2,
+    41.6,
+    408.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "61. Bir bilgisayar oyununda para birimi olarak “mat” kullanılmaktadır. Bu oyundaki mat para birimine ait para çeşitleri aşağıda verilmiştir. x 2 – 6x + 9 x 2 – 25 3y 2 – 5x + 4 x 2 + 2y 2 Bu para çeşitlerinin değerleri aşağıdaki gibi tanımlanmıştır. Tam kare özdeşliği belirten cebirsel ifadeler 100 mat, iki kare farkı özdeşliği belirten cebirsel ifadeler 200 mat, diğer cebirsel ifadeler ise katsayılar toplamı kadar mat değerine sahiptir. Buna göre bu bilgisayar oyununda 914 mat değerinde bir ürün almak isteyen kişi bu paralardan en az kaç tanesi ile bu ürünü hiç para üstü almadan satın alabili",
+   "answer": "A",
+   "solved": false,
+   "skill": "Özdeşlik türünü belirleyip değer hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p43|q62",
+   "page": 43,
+   "n": 62,
+   "bbox": [
+    22.3,
+    42.1,
+    573.7,
+    377.6
+   ],
+   "num": [
+    28.3,
+    49.1,
+    41.6,
+    63.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 62. Bir olayın olma olasılığı = Tüm olası durumların sayısı Şekil 1’deki yapbozda köşelerde bulunan parçaların iki kenarı, kenarlarda bulunan diğer parçaların ise bir kenarı düz- dür. Ortada kalan parçaların ise düz olan bir kenarı yoktur. Şekil 1 Şekil 2 Eda Beren Şekil 1’deki 20 parçadan oluşan yapbozun 1 parçasını kaybetmiştir. Elinde kalan parçaların bir kısmını Şekil 2’deki gibi birleştirmiştir. Buna göre yapbozun kaybolan parçasının, tek kenarı düz olan bir parça olma olasılığı nedir? 1 7 9 3 A) 2 B) 15 C) 20 D) 10",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yapboz parçalarıyla olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p43|q63",
+   "page": 43,
+   "n": 63,
+   "bbox": [
+    24.3,
+    483.8,
+    559.1,
+    705.2
+   ],
+   "num": [
+    28.3,
+    486.8,
+    41.6,
+    500.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "63. Kare şeklindeki bir kâğıdın bir yüzü aşağıdaki gibi dikdörtgensel ve karesel bölgelere ayrılmıştır. A C C C B B B C C C A Aynı harflerle gösterilen bölgeler eş ve C karesel bölgelerinden her birinin alanı 4x 2 santimetrekaredir. Buna göre başlangıçta verilen kare şeklindeki kâğıdın çevresinin uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 32x B) 36x C) 40x D) 44x",
+   "answer": "C",
+   "solved": false,
+   "skill": "Alan bilgisinden çevre ifadesi yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p44|q64",
+   "page": 44,
+   "n": 64,
+   "bbox": [
+    22.3,
+    41.5,
+    570.8,
+    327.4
+   ],
+   "num": [
+    28.3,
+    48.5,
+    41.6,
+    62.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 64. Tüm olası durumların sayısı Bir masanın üstünde renkleri dışında özdeş olan 20 adet maden suyu şişesi ve 16 adet meyve suyu şişesi bulunmaktadır. Bu şişelerden belirli sayıda alınıp A kutusuna, kalan şişeler ise B kutusuna yerleştiriliyor. Maden Suyu Meyve Suyu A Kutusu B Kutusu 1 ’tür. A kutusundan rastgele alınan bir şişenin maden suyu şişesi olma olasılığı 4 Buna göre B kutusundan rastgele alınan bir şişenin maden suyu şişesi olma olasılığı en fazla kaçtır? 17 16 15 A) 24 B) 20 C) 16 D) 1",
+   "answer": "C",
+   "solved": false,
+   "skill": "Dağıtım koşuluyla en büyük olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p44|q65",
+   "page": 44,
+   "n": 65,
+   "bbox": [
+    24.3,
+    393.2,
+    572.0,
+    694.8
+   ],
+   "num": [
+    28.3,
+    400.2,
+    41.6,
+    414.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 65. Tüm olası durumların sayısı Bir boya fabrikasında beyaz ve kırmızı renkli boya dolumu yapan dört makine vardır. Bu makinelerin belirli sürelerde doldurdukları özdeş boya tenekelerinin sayıları aşağıdaki tabloda gösterilmiştir. Tablo: Belirli Sürelerde Doldurulan Boya Tenekelerinin Sayıları 1. Makine 2. Makine 3. Makine 4. Makine (15 dakika) (10 dakika) (20 dakika) (30 dakika) Beyaz Boya Doldurulan Teneke Sayısı 3 4 5 6 Kırmızı Boya Doldurulan Teneke Sayısı 1 2 3 x Doldurulan Toplam Teneke Sayısı 4 6 8 6 + x Bu dört makine aralık",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tablodan bilinmeyeni bulup olasılık hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p45|q66",
+   "page": 45,
+   "n": 66,
+   "bbox": [
+    22.3,
+    33.9,
+    587.3,
+    412.7
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "66. Efe kısa kenarının uzunluğu 2x santimetre olan Şekil 1’deki resmin sadece uzun kenarlarını bilgisayarındaki bir prog- ram yardımıyla uzatıyor. Daha sonra elde ettiği bu resmi, alanları birbirine eşit olan dikdörtgen şeklinde üç parçaya ayırarak Şekil 2’de gösterilen parçalı tabloyu oluşturuyor. 2x cm Şekil 1 y cm x cm x cm Şekil 2 1 ’tür. Şekil 1’deki resmin yüzey alanının Şekil 2’de verilen parçalı tablonun toplam yüzey alanına oranı 3 Buna göre Şekil 1’de verilen tablonun çevresinin uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 4x + y B) 4x + 2y C) 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alan oranından çevre ifadesi yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p45|q67",
+   "page": 45,
+   "n": 67,
+   "bbox": [
+    24.4,
+    489.6,
+    573.7,
+    739.3
+   ],
+   "num": [
+    28.4,
+    496.6,
+    41.6,
+    510.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 67. Tüm olası durumların sayısı Yaren, yeni aldığı bilgisayarına giriş yaparken kullanmak üzere 3 basamaklı bir sayıyı parola olarak belirleyecektir. Yaren’in 5, 6 ve 7 rakamlarından herhangi ikisini kullanarak oluşturacağı bu parolada aynı rakamlar yan yana olacaktır. Parolanızı Giriniz * * * Giriş Beni hatırla Buna göre Yaren’in parola olarak belirleyeceği sayının 5’e bölünebilen bir sayı olma olasılığı kaçtır? 1 1 1 1 A) 18 B) 9 C) 6 D) 3",
+   "answer": "D",
+   "solved": false,
+   "skill": "Parola sayılarında 5'e bölünme olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p46|q68",
+   "page": 46,
+   "n": 68,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    263.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "68. Aşağıda çevresinin uzunluğu (14x + 12) cm olan bir dikdörtgen verilmiştir. Bu dikdörtgenin kısa kenarlarının her birinin uzunluğu (2x + 3) cm arttırılıp, uzun kenarlarının her birinin uzunluğu (3x + 1) cm azaltıldığında bir kare oluşuyor. Buna göre oluşan karenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 9x 2 + 12x + 4 B) 9x 2 + 30x + 25 C) 9x 2 + 24x + 16 D) 9x 2 + 6x + 1",
+   "answer": "C",
+   "solved": false,
+   "skill": "Dikdörtgenden oluşan karenin alanını ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p46|q69",
+   "page": 46,
+   "n": 69,
+   "bbox": [
+    24.3,
+    357.6,
+    573.7,
+    673.8
+   ],
+   "num": [
+    28.3,
+    364.6,
+    41.6,
+    378.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 69. Tüm olası durumların sayısı Bir karışımda kullanılan A maddesinin 3 mililitresinin kütlesi 1 grama, B maddesinin 2 mililitresinin kütlesi ise 1 grama eşittir. A Maddesi B Maddesi 3 ml 2 ml 1 g 1 g A ve B maddelerinin her birinden, kütleleri gram cinsinden birer pozitif tam sayı olacak şekilde alınarak 10 gramlık bir karışım elde edilmiştir. Buna göre bu karışımda mililitre cinsinden B maddesinin A maddesinden daha az kullanılmış olma olasılığı kaçtır? 1 4 5 2 A) 3 B) 9 C) 9 D) 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam sayı gram dağılımlarında olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p47|q70",
+   "page": 47,
+   "n": 70,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    229.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "70. Kısa kenar uzunlukları 2x cm, uzun kenar uzunlukları 5x cm olan y adet dikdörtgenin her birinin kısa kenarı bir diğeri- nin uzun kenarı ile çakıştırılarak aşağıdaki şekil oluşturulmuştur. 5x cm . . . 2x cm y adet dikdörtgen Buna göre oluşan şeklin çevresinin uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 2x(5y + 2) B) 12xy C) x(10y + 7) D) 4x(5y + 1)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Birleşik şeklin çevresini cebirsel yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p47|q71",
+   "page": 47,
+   "n": 71,
+   "bbox": [
+    24.3,
+    355.2,
+    573.7,
+    622.3
+   ],
+   "num": [
+    28.3,
+    358.2,
+    41.6,
+    372.1
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "71. Sekiz adet eş dik yamuk biçimindeki kağıt, sarı bir karton üzerine Şekil 1’deki gibi yapıştırıldığında bir kenar uzunluğu a cm olan bir kare ve bu karenin içinde bir kenar uzunluğu b cm olan bir adet sarı karesel bölge oluşmuştur. a b Sarı Sarı Sarı Şekil 2 Şekil 1 Aynı kâğıtlar bu karton üzerine Şekil 2’deki gibi yapıştırıldığında ise bir dikdörtgen ve bu dikdörtgenin içinde iki adet sarı karesel bölge oluşmuştur. Buna göre Şekil 2’de oluşan sarı karesel bölgelerin alanları toplamını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) (a + b) 2 B) (a – b) 2 C) a 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kare bölgelerin alanını özdeşlikle ifade etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p48|q72",
+   "page": 48,
+   "n": 72,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    311.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "72. Dikdörtgenler prizmasının hacmi, taban alanı ile yüksekliğinin çarpımına eşittir. Dikdörtgenler prizması şeklindeki iki su deposu aşağıda gösterilmiştir. Bu depolardan A deposu dolu, B deposu ise boştur. A Deposu B Deposu 2x cm 6y cm 2 cm 3 cm 4x cm 2y cm A deposundaki su ile B deposu tamamen dolduruluyor. Buna göre aşağıdakilerden hangisi A deposunda kalan suyun hacmini santimetreküp cinsinden veren cebirsel ifadenin çarpanlarından biri değildir? A) 2x + 3y B) 2x – 3y C) 6x – 4y D) 8x + 12y",
+   "answer": "C",
+   "solved": false,
+   "skill": "Hacim farkını çarpanlarına ayırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p48|q73",
+   "page": 48,
+   "n": 73,
+   "bbox": [
+    24.3,
+    401.9,
+    573.7,
+    703.5
+   ],
+   "num": [
+    28.3,
+    408.9,
+    41.6,
+    422.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 73. Tüm olası durumların sayısı Bir kitabevinde yapılacak kitap çekilişi için farklı asal çarpanları 2, 3 ve 5 olan 200’den küçük sayıların her biri ayrı ka- ğıtlara yazılarak bir torbaya atılıyor. Bu kitabevi alışveriş yapan her müşterisine bu torbadan rastgele bir kağıt çektirerek kitap hediye ediyor. Kağıdın üzerinde yazan sayının bulunduğu aralığa göre hediye edilecek kitap aşağıdaki tabloda gösterilmiştir. Tablo: Hediye Edilecek Kitap Sayı Aralığı Hediye Edilecek Kitap 4-35 A 36-65 B 66-126 C 127-200 D Buna göre bu kitabevinden",
+   "answer": "B",
+   "solved": false,
+   "skill": "Asal çarpan koşuluyla sayı olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p49|q74",
+   "page": 49,
+   "n": 74,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    369.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "74. İki karesel ve bir dikdörtgensel bölgenin kenarları çakıştırılarak çevresinin uzunluğu (8x + 30) cm olan aşağıdaki şekil oluşturulmuştur. Karesel bölgelerin santimetrekare cinsinden alanları şekil üzerinde gösterilmiştir. x 2 + 2x + 1 x 2 + 10x + 25 Verilenlere göre kırmızı dikdörtgensel bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıda- kilerden hangisidir? A) x 2 + 9x + 8 B) x 2 + 8x + 9 C) 2x 2 + 10x + 8 D) 2x 2 + 11x + 9",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam kare alanlardan dikdörtgen alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p49|q75",
+   "page": 49,
+   "n": 75,
+   "bbox": [
+    24.3,
+    550.1,
+    573.7,
+    704.7
+   ],
+   "num": [
+    28.3,
+    557.1,
+    41.6,
+    570.9
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir olayın olma olasılığı = İstenilen olası durumların sayısı 75. Tüm olası durumların sayısı Yalnızca limonlu, naneli ve muzlu şekerlerin bulunduğu bir kutuda toplam 20 adet şeker vardır. Bu kutudan 2’si muzlu ve en az birer tanesi limonlu ve naneli olmak üzere toplam 5 adet şeker alınıyor. Kutuda kalan şekerler arasından rast- 1 oluyor. gele alınan bir şekerin muzlu olma olasılığı değişmezken naneli olma olasılığı 3 Son durumda kutuda kalan şekerler arasından rastgele alınan bir şekerin limonlu olma olasılığı kaçtır? 1 3 4 1 A) 5 B) 10 C) 15 D) 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Değişen oranlardan şeker sayısı olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p50|q76",
+   "page": 50,
+   "n": 76,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    299.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "76. Ayrıtlarından birinin uzunluğu x cm olan kare dik prizma şeklindeki üç adet tahta blok, Şekil 1’deki gibi üst üste yerleş- tirilerek bir küp elde edilmiştir. Bu bloklardan ikisi Şekil 2’deki gibi sağa doğru kaydırıldığında, en üstteki ve ortadaki tahta blokların her biri altındaki tahta bloğun üst yüzeyini iki eş dikdörtgensel bölgeye ayırmıştır. Sağ x cm Şekil 1 Şekil 2 Buna göre Şekil 2’deki cismin yüzey alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 81x 2 B) 72x 2 C) 63x 2 D) 54x 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kaydırılmış blokların yüzey alanını ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p50|q77",
+   "page": 50,
+   "n": 77,
+   "bbox": [
+    24.3,
+    412.6,
+    573.7,
+    716.7
+   ],
+   "num": [
+    28.3,
+    419.6,
+    41.6,
+    433.4
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı Bir olayın olma olasılığı = 77. Tüm olası durumların sayısı Bir torbada bulunan 90 adet topun renklerine göre dağılımı daire grafiğinde, bu torbaya sonradan eklenecek olan top- ların renkleri ve sayıları ise tabloda verilmiştir. Grafik: Torbada Bulunan Topların Renklerine Göre Dağılımı Tablo: Torbaya Eklenecek Toplar Renk Sayı Sarı Kırmızı 30 Mavi 40 160° Kırmızı Sarı 20 Mavi Renkleri dışında özdeş olan bu topların tamamı aynı torbada birleştirildikten sonra bu torbadan rastgele çekilen bir topun mavi renkli bir top olma olasılığı, kırmızı renkli bir top olma ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiği ve tabloyla olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p51|q78",
+   "page": 51,
+   "n": 78,
+   "bbox": [
+    22.3,
+    42.1,
+    563.6,
+    291.7
+   ],
+   "num": [
+    28.3,
+    49.1,
+    41.6,
+    63.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 78. Bir olayın olma olasılığı = Tüm olası durumların sayısı Bir kutuda sarı, mavi ve kırmızı renkli kartlar vardır. Her bir sarı kartın üzerinde 2, her bir mavi kartın üzerinde 3 ve her bir kırmızı kartın üzerinde 5 adet nokta vardır. Sarı Mavi Kırmızı 1 , kırmızı olma olasılığı 7 2 ’dir. Bu kutudan rastgele çekilen bir kartın sarı olma olasılığı 2 Buna göre, bu kutudaki kartların üzerindeki noktaların sayısının toplamı en az kaçtır? A) 13 B) 24 C) 30 D) 43",
+   "answer": "D",
+   "solved": false,
+   "skill": "Olasılıktan kart sayılarını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p51|q79",
+   "page": 51,
+   "n": 79,
+   "bbox": [
+    24.3,
+    409.0,
+    570.9,
+    693.0
+   ],
+   "num": [
+    28.3,
+    412.0,
+    41.6,
+    425.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "79. Eş karelerden oluşan aşağıdaki şeklin çevre uzunluğu (28x + 42) cm’dir. Bu şekil [AB] ile iki parçaya ayrılarak, parça- lardan biri aşağıdaki gibi boyanmıştır. A B Buna göre, boyalı bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisi- dir? A) 8x 2 + 12x + 18 B) 12x 2 + 36x + 18 C) 16x 2 + 48x + 36 D) 20x 2 + 60x + 36",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çevreden kenarı bulup boyalı alanı ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p52|q80",
+   "page": 52,
+   "n": 80,
+   "bbox": [
+    22.3,
+    42.1,
+    568.1,
+    272.1
+   ],
+   "num": [
+    28.3,
+    49.1,
+    41.6,
+    63.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 80. Bir olayın olma olasılığı = Tüm olası durumların sayısı Renkleri dışında özdeş 6 etiketin her birinin birer yüzünde aşağıdaki gibi iki renk bulunmaktadır. Bu etiketlerin tama- mı, aynı torbadaki sarı rengin bulunduğu etiket sayısı ile mor rengin bulunduğu etiket sayısı eşit olacak biçimde iki torbaya atılıyor. Sarı Mor Sarı Mor Sarı Mor Kırmızı Mavi Turuncu Kırmızı Mavi Turuncu Etiket sayısı fazla olan torbadan rastgele bir etiket seçiliyor. Buna göre, seçilen etikette kırmızı renk bulunma olasılığı aşağıdakilerden hangisi olamaz? 1 C) 1 1 A) 0 B) 4 3 D) 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Etiket dağılımında olamayacak olasılık",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p52|q81",
+   "page": 52,
+   "n": 81,
+   "bbox": [
+    24.3,
+    299.1,
+    573.7,
+    628.2
+   ],
+   "num": [
+    28.3,
+    302.1,
+    41.6,
+    316.0
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "81. Kısa kenar uzunluğu x cm, uzun kenar uzunluğu 4y cm olan dikdörtgen şeklindeki tahta aşağıdaki gibi kesilerek dört özdeş dikdörtgen şeklinde parça elde ediliyor. y y y y x Bu tahta parçalarının kenarları Şekil 1 ve Şekil 2’deki gibi çakıştırılarak iki farklı çerçeve modeli elde edilmiştir. Sarı Sarı Şekil 1 Şekil 2 Buna göre, Şekil 1’deki sarı bölgenin alanının Şekil 2’deki sarı bölgenin alanından kaç santimetrekare fazla olduğunu veren cebirsel ifade aşağıdakilerden hangisidir? A) x 2 B) y 2 C) 2xy D) 4xy",
+   "answer": "A",
+   "solved": false,
+   "skill": "Çerçeve içi alan farkını özdeşlikle bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p52|q82",
+   "page": 52,
+   "n": 82,
+   "bbox": [
+    24.3,
+    639.2,
+    569.0,
+    763.0
+   ],
+   "num": [
+    28.3,
+    646.2,
+    41.6,
+    660.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 82. Bir olayın olma olasılığı = Tüm olası durumların sayısı Her birinden 20 adet bulunan mavi ve kırmızı renkli topların tamamı boş iki kutuya atılıyor. 3 , 2. kutudan rastgele çekilen bir topun kırmızı olma olasılığı 3 1 ’tür. 1. kutudan rastgele çekilen bir topun mavi olma olasılığı 7 Buna göre, 2. kutuda kaç tane mavi top vardır? A) 8 B) 9 C) 10 D) 12",
+   "answer": "A",
+   "solved": false,
+   "skill": "Verilen olasılıklardan top sayısı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p53|q83",
+   "page": 53,
+   "n": 83,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    327.4
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "83. Çevresinin uzunluğu (8x + 32) cm olan dörtgensel bölgenin içine 2 eş dikdörtgen ve 1 kare; dikdörtgenlerin birer kısa kenarı, karenin birer kenarı ile doğrusal olacak biçimde aşağıdaki gibi çizilmiştir. Bu şekillerden kare maviye, dikdört- genler sarıya boyanmıştır. Sarı Mavi Sarı Dikdörtgenlerden birinin çevresinin uzunluğu (2x + 10) cm ve karenin bir kenar uzunluğu dikdörtgenlerden birinin uzun kenar uzunluğuna eşittir. Buna göre, boyanmayan bölgelerin toplam alanını santimetrekare cinsinden veren cebirsel ifade aşağıda- ki-lerden hangisidir? A) 3x 2 + 28x + 43 B) 4x 2 + 28x + 52 C) 3x 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çevre bilgisiyle boyanmayan alanı ifade etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p53|q84",
+   "page": 53,
+   "n": 84,
+   "bbox": [
+    24.3,
+    350.4,
+    573.7,
+    581.1
+   ],
+   "num": [
+    28.3,
+    353.4,
+    41.6,
+    367.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "84. Kısa kenar uzunluğu 5x cm olan dikdörtgen şeklindeki panoya; kare şeklinde iki poster panonun kenarları ile çakışa- cak, posterler arasında boşluk kalmayacak ve üst üste gelmeyecek biçimde Şekil 1 ve Şekil 2’deki gibi yerleştirilebil- mektedir. (x – 4) cm 5x cm (2x – 2) cm Şekil 1 Şekil 2 Buna göre, büyük posterin bir yüzünün alanının küçük posterin bir yüzünün alanından kaç santimetrekare fazla olduğunu veren cebirsel ifade aşağıdakilerden hangisidir? A) (x – 1) 2 B) 8(x 2 – 1) C) 4x 2 – 8x + 4 D) 4x 2 – 6x + 1",
+   "answer": "B",
+   "solved": false,
+   "skill": "Poster kenarlarından alan farkını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p53|q85",
+   "page": 53,
+   "n": 85,
+   "bbox": [
+    24.3,
+    603.1,
+    568.1,
+    762.1
+   ],
+   "num": [
+    28.3,
+    610.1,
+    41.6,
+    623.9
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 85. Bir olayın olma olasılığı = Tüm olası durumların sayısı İki raftan oluşan bir çiçeklikte renkleri dışında özdeş; kırmızı, mavi ve sarı renkli saksılar bulunmaktadır. Kırmızı ve mavi saksıların bulunduğu 1. raftaki toplam saksı sayısı 12, sarı ve mavi saksıların bulunduğu 2. raftaki toplam sak- sı sayısı ise 18’dir. 1. raftan rastgele seçilen bir saksının kırmızı olma olasılığı, 2. raftan rastgele seçilen bir saksının sarı olma olasılığı- na eşittir. Buna göre, bu çiçeklikteki mavi saksıların toplam sayısı için kaç farklı olası durum vardır? A) 5 B) 4 C) 3 ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Eşit olasılıklardan olası durum sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p54|q86",
+   "page": 54,
+   "n": 86,
+   "bbox": [
+    22.3,
+    42.1,
+    570.9,
+    390.0
+   ],
+   "num": [
+    28.3,
+    49.1,
+    41.6,
+    63.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 86. Bir olayın olma olasılığı = Tüm olası durumların sayısı Bir fabrikada sadece A marka telefonun bir modelinin siyah ve beyaz renkleri üretilmektedir. Bu fabrikada üretime ilk kez nisan ayında başlanmış, ağustos ayı sonunda üretime son verilmiştir. Aşağıda bu fabrikanın her ay sonunda o ay ile o aydan önce üretilmiş tüm telefonların sayılarından bazılarını gös- teren çizelge verilmiştir. Her ay sonundaki toplam beyaz renkli telefon sayısı, toplam siyah renkli telefon sayısının 2 katıdır. Nisan Sonu Mayıs Sonu Haziran Sonu Temmuz Sonu Ağustos Sonu Toplam Tele",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tablodan telefon üretim olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p54|q87",
+   "page": 54,
+   "n": 87,
+   "bbox": [
+    24.3,
+    411.8,
+    573.7,
+    760.2
+   ],
+   "num": [
+    28.3,
+    414.8,
+    41.6,
+    428.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "87. Çevresinin uzunluğu 20a cm olan dikdörtgen şeklindeki bir kâğıdın kısa kenar uzunluğu uzun kenar uzunluğunun 2 katıdır. Bu kâğıt Şekil 1’deki gibi dikdörtgen şeklinde dört eş parçaya kesilerek ayrılıyor. Daha sonra parçaların her 3 biri kısa kenarlarının orta noktaları çakışacak biçimde yerleştirilerek Şekil 2’deki desen oluşturuluyor. Şekil 1 Şekil 2 Buna göre, oluşturulan desendeki boyalı bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 16a 2 B) 4a 2 C) 2a 2 D) a 2",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kesilen kâğıttan oluşan karenin alanı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p55|q88",
+   "page": 55,
+   "n": 88,
+   "bbox": [
+    22.3,
+    42.1,
+    573.7,
+    400.8
+   ],
+   "num": [
+    28.3,
+    49.1,
+    41.6,
+    63.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 88. Bir olayın olma olasılığı = Tüm olası durumların sayısı Aşağıda arka yüzleri verilen on kartın her birinin ön yüzünde bir rakam yazılıdır. Kartlarda yazan bu rakamlardan 5 tanesi çift, 5 tanesi tektir. Bu kartların dört tanesi yan yana dizilerek oluşturulabilecek ve oluşturulamayacak dört basamaklı sayılardan bazıları aşağıda verilmiştir. Oluşturulabilen Sayılar 3223, 2465, 3335 Oluşturulamayan Sayılar 5443, 4376, 5564 Buna göre, bu kartlardan rastgele seçilen bir kartın üzerinde yazan rakam ile ilgili aşağıdakilerden hangisi doğrudur? 2 ’tir. 1 ’dir. A) 2",
+   "answer": "D",
+   "solved": false,
+   "skill": "Verilen sayılardan kart dağılımını çıkarıp olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p55|q89",
+   "page": 55,
+   "n": 89,
+   "bbox": [
+    24.3,
+    467.2,
+    560.3,
+    720.4
+   ],
+   "num": [
+    28.3,
+    470.2,
+    41.6,
+    484.0
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "89. Aşağıda her birinde dörder tane kart bulunan iki kutu verilmiştir. 2 3 x + 2y x + 2y 4 6 y – x x + y 1. Kutu 2. Kutu Bu kutuların her birinden en az bir kart seçilip bu kartların üzerindeki ifadeler çarpılarak bir tam kare özdeşlik elde ediliyor. Daha sonra kalan kartlar üzerindeki ifadeler çarpılarak iki kare farkı özdeşliği elde ediliyor. Buna göre, elde edilen iki kare farkı özdeşliği aşağıdakilerden hangisi olabilir? A) 4y 2 – 4x 2 B) 4y 2 – x 2 C) 36x 2 – 36y 2 D) (x + 2y) 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam kare ve iki kare farkı özdeşliklerini ayırt etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p56|q90",
+   "page": 56,
+   "n": 90,
+   "bbox": [
+    22.3,
+    42.1,
+    567.0,
+    189.2
+   ],
+   "num": [
+    28.3,
+    49.1,
+    41.6,
+    63.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 90. Bir olayın olma olasılığı = Tüm olası durumların sayısı Bir oyunda değerleri dışında özdeş 50 TL, 100 TL ve 200 TL değerindeki kâğıt paraların her birinden dörder adet vardır. Bu paraların tamamı boş bir torbaya atılıyor. Daha sonra bu torbadan 600 TL değerinde para alınıyor. Bu du- rumda torbadan alınan para sayısı, torbada kalan para sayısına eşit oluyor. Buna göre, son durumda bu torbadan rastgele çekilen bir kâğıt paranın değerinin 200 TL olma olasılığı en fazla kaçtır? 1 1 1 2 A) 6 B) 3 C) 2 D) 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Para eşitliği koşulunda en büyük olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p56|q91",
+   "page": 56,
+   "n": 91,
+   "bbox": [
+    24.3,
+    244.5,
+    573.7,
+    402.3
+   ],
+   "num": [
+    28.3,
+    247.5,
+    41.6,
+    261.3
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "91. Aşağıda ön yüzünde birer tam sayı yazılı olan kartlar verilmiştir. –6 –2 +1 –1 0 –3 Bu kartlardan, en küçük değere sahip üslü ifade oluşacak şekilde 2 kart seçiliyor. Daha sonra kalan kartlardan biri üs diğeri taban olacak şekilde 2 kart seçilerek bir üslü ifade oluşturuluyor. Buna göre, oluşturulan üslü ifadenin değerinin 1’e eşit olduğu kaç farklı olası durum vardır? A) 3 B) 4 C) 5 D) 6",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam sayı tabanlı üslü ifade durumlarını sayma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p56|q92",
+   "page": 56,
+   "n": 92,
+   "bbox": [
+    24.3,
+    460.7,
+    573.7,
+    741.7
+   ],
+   "num": [
+    28.3,
+    463.7,
+    41.6,
+    477.5
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "92. Aşağıda verilen dikdörtgen şeklindeki karton, dört yatay çizgi ile 5 eş dikdörtgene ayrılmıştır. Bu kartonun üzerine iki eş kareden oluşan mavi kâğıt, bir kenarı kartonun 2. yatay çizgisiyle çakışacak biçimde Şekil I’deki gibi yerleştirildiğin- de kâğıdın 6 cm’lik kısmı dışarıda kalmaktadır. 6 cm Yukarı Mavi Mavi Mavi Mavi Aşağı Şekil I Şekil II Mavi kâğıt 2x cm aşağı kaydırıldığında mavi kâğıdın bir kenarı Şekil II’deki gibi kartonun 4. yatay çizgisiyle çakışmak- tadır. Buna göre, son durumda mavi kâğıdın karton dışında kalan kısmının bir yüzünün alanını santimetrekare cin- sinden veren c",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kaydırılan kâğıdın dışarıda kalan alanı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p57|q93",
+   "page": 57,
+   "n": 93,
+   "bbox": [
+    22.3,
+    38.7,
+    573.7,
+    276.1
+   ],
+   "num": [
+    28.3,
+    45.7,
+    41.6,
+    59.6
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Kenar uzunluğu x ñ 2 cm olan kare şeklindeki bir kâğıt, köşelerinden aşağıdaki gibi katlanmıştır. 93. 5 cm 5 cm 5 cm 5 cm 5 cm 5 cm 5 cm 5 cm Buna göre, katlama sonucu oluşan sekizgenin bir yüzünün alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) x 2 – 50 B) 4x 2 – 50 C) (x – 5) · (x + 5) D) 2(x – 5) · (x + 5)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Katlanan karenin alanını özdeşlikle ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p57|q94",
+   "page": 57,
+   "n": 94,
+   "bbox": [
+    24.3,
+    331.4,
+    566.8,
+    483.2
+   ],
+   "num": [
+    28.3,
+    338.4,
+    41.6,
+    352.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 94. Bir olayın olma olasılığı = Tüm olası durumların sayısı İçinde sarı, kırmızı ve mavi bilyelerin bulunduğu bir torbada toplam 30 bilye vardır. Torbaya 1 tanesi sarı olmak üze- re mavi, sarı ve kırmızı renkli bilyelerden 6 tane atılıyor. Son durumda bu torbadan rastgele çekilen bir bilyenin sarı olma olasılığı ilk duruma göre değişmemiştir. 1 olduğuna göre, mavi olma ola- Son durumda torbadan rastgele çekilen bir bilyenin kırmızı olma olasılığı 3 sılığı kaçtır? 1 5 1 3 A) 10 B) 12 C) 2 D) 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Değişmeyen olasılıktan bilye dağılımı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p57|q95",
+   "page": 57,
+   "n": 95,
+   "bbox": [
+    24.3,
+    539.4,
+    573.7,
+    752.3
+   ],
+   "num": [
+    28.3,
+    542.4,
+    41.6,
+    556.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "95. Kısa kenar uzunluğu (2x + 6) cm olan dikdörtgen şeklindeki özdeş iki kâğıttan her biri 3 karesel ve 1 dikdörtgensel bölgeye aşağıdaki gibi ayrılıyor. Sarı Turuncu (2x + 6) cm (2x + 6) cm Mavi Beyaz Mavi Mavi Yeşil Turuncu Renkleri aynı olan bölgelerin alanları birbirine eşit ve turuncu bölgelerden birinin bir kenar uzunluğu, sarı bölgenin bir kenar uzunluğundan 2 cm fazladır. Buna göre, beyaz dikdörtgenin alanının yeşil dikdörtgenin alanından kaç santimetrekare fazla olduğunu ve- ren cebirsel ifade aşağıdakilerden hangisidir? A) 4x 2 + 20x + 10 B) 3x 2 + 14x + 19 C) 3x 2 + 26x + 29 D) 4x 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan koşullarıyla dikdörtgen alan farkı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p58|q96",
+   "page": 58,
+   "n": 96,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    452.4
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "96. Bir okul bahçesinde öğrencilerin gösterileri için her daireye bir öğrenci gelecek biçimde önce 1. plandaki gibi karesel bölge şeklinde bir yerleşim planı oluşturulmuştur. 1. planda bulunan toplam öğrenci sayısı (9x 2 + 36x + 36)’dır. 1. Plan . . . 1. Sıra . . . 2. Sıra . . . 3. Sıra . . . . . . . . . . . . . . . . . . Karesel Bölge Daha sonra karesel bölgenin ilk 6 sırasındaki bütün öğrenciler yerinde kalacak, diğer öğrencilerin tamamı ise 2. plandaki gibi 9 sıradan oluşan bir dikdörtgensel bölge oluşturacaklardır. 2. Plan . . . . . . . . . 9 sıra . . . . . . . . . . . . . . . Dikdörtgense",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam kare ifadeden sıra başına öğrenci sayısı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p58|q97",
+   "page": 58,
+   "n": 97,
+   "bbox": [
+    24.3,
+    529.2,
+    570.2,
+    704.0
+   ],
+   "num": [
+    28.3,
+    536.2,
+    41.6,
+    550.1
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "İstenilen olası durumların sayısı 97. Bir olayın olma olasılığı = Tüm olası durumların sayısı Kare şeklindeki bir kâğıdın tamamı eş karelere ayrılıp bu eş karelerden bazıları maviye, kalanlar ise kırmızıya boya- nıyor. Boyanan eş kareler kesilerek boş bir torbaya atılıyor. Torbadaki eş kare sayısı 100’den az ve torbadan rastgele seçi- 1 ’tür. len bir karenin mavi olma olasılığı 4 Buna göre, 2 kırmızı kare torbadan alınıp maviye boyanarak torbaya geri atıldığında, rastgele seçilen bir ka- renin kırmızı olma olasılığı aşağıdakilerden hangisi olamaz? 5 11 25 23 A) 8 B) 16 C) 36 D) 32",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kare sayısı kısıtıyla olamayacak olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p59|q98",
+   "page": 59,
+   "n": 98,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    332.5
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "98. Mavi ve kırmızı renkli özdeş kartlar; A, B ve C kutularına her bir kutudaki kart sayısı birbirine eşit olacak biçimde da- ğıtılıyor. A B C Kutulardaki kartlar ile ilgili bilgiler aşağıda verilmiştir. • A kutusundan rastgele çekilen bir kartın kırmızı olma olasılığı 1’dir. 1 ’tür. • B kutusundan rastgele çekilen bir kartın mavi olma olasılığı 4 • C kutusundan rastgele çekilen bir kartın kırmızı olma olasılığı 0’dır. Buna göre A, B ve C kutularındaki kartların tamamı boş bir torbaya atıldıktan sonra bu torbadan rastgele çe- kilen bir kartın kırmızı olma olasılığı kaçtır? 1 5 7 3 A) 3 B) 12 C",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kutulardaki kartları birleştirip olasılık bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p59|q99",
+   "page": 59,
+   "n": 99,
+   "bbox": [
+    24.3,
+    369.0,
+    466.8,
+    439.1
+   ],
+   "num": [
+    28.3,
+    373.9,
+    41.6,
+    387.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "25x 2 + Ax + B = (5x – 6) 2 özdeşliği veriliyor. 99. Buna göre A + B kaçtır? A) –96 B) –24 C) 6 D) 36",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare özdeşlikte katsayıları bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p59|q100",
+   "page": 59,
+   "n": 100,
+   "bbox": [
+    24.3,
+    489.4,
+    569.9,
+    758.3
+   ],
+   "num": [
+    28.3,
+    492.4,
+    47.0,
+    506.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "100. Aşağıdaki dikdörtgen, dört dikdörtgensel bölgeye ayrılmıştır. IV I II III I. bölgenin alanı (a 2 + 3ab) birimkare, II. bölgenin alanı (9b 2 + 3ab) birimkare ve III. bölgenin alanı (6ab) birimkare- dir. I ve II. bölgenin tamamı karesel bir bölge oluşturduğuna göre IV. bölgenin alanını birimkare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 2a 2 B) 2b 2 C) a 2 + ab D) 6a 2 b",
+   "answer": "A",
+   "solved": false,
+   "skill": "Karesel bölge koşuluyla dikdörtgen alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p60|q101",
+   "page": 60,
+   "n": 101,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    170.0
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "101. Bir turist kafilesi Konya’daki Mevlâna Müzesini ziyaret edecektir. Bu turist kafilesi 1. grupta 6 kadın, 12 erkek turist; 2. grupta ise 30 turist olmak üzere iki gruba ayrılarak müzeyi gezecektir. Kafileye sonradan katılan eşit sayıdaki kadın ve erkek turistlerden kadınlar 1. gruba, erkekler 2. gruba dâhil olmuşlardır. 1 ’dir. 2. gruptan rastgele seçilen bir kişinin Bu kafiledeki 1. gruptan rastgele seçilen bir kişinin kadın olma olasılığı 2 erkek olma olasılığı ise 1. gruptan rastgele seçilen bir kişinin kadın olma olasılığından daha fazladır. Buna göre bu kafileden rastgele seçilen bir ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Grup oranlarından en büyük olasılığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p60|q102",
+   "page": 60,
+   "n": 102,
+   "bbox": [
+    24.3,
+    189.9,
+    573.7,
+    369.1
+   ],
+   "num": [
+    28.3,
+    192.9,
+    47.0,
+    206.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "102. Kare şeklindeki bir kâğıt, kenar uzunluğu x cm olan iki eş kareye ve uzun kenar uzunluğu y cm olan iki eş dikdörtgene ayrıldıktan sonra kalan bölge aşağıdaki gibi maviye boyanmıştır. y cm x cm Mavi x cm y cm Buna göre mavi bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? x 2 2 2 2 2 2 2 A) ( y ) B) y x 4 xy C) x y D) y x - - + - -",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kare ve dikdörtgenli şekilde boyalı alan",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p60|q103",
+   "page": 60,
+   "n": 103,
+   "bbox": [
+    24.3,
+    390.9,
+    573.7,
+    775.7
+   ],
+   "num": [
+    28.3,
+    393.9,
+    47.0,
+    407.8
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "103. Bir terzi, kenarlarının uzunluğu 20 cm olan kare şeklindeki sarı, mavi ve kırmızı kumaş parçalarını şekildeki gibi bir- leştirerek kenarlarının uzunlukları 160 cm ve 240 cm olan dikdörtgen biçiminde bir battaniye dikecektir. Hangi renk kumaştan kaçar tane kumaş parçasına ihtiyacı olduğunu belirleyen ve bunları önceden hazırlayan terzi, bu kumaşları sırasıyla sarı, mavi, kırmızı şeklinde birleştirmiş, her sıranın başında ise kaldığı renkten aşağıdaki gibi birleştirmeye devam etmiştir. 160 cm 1. sıra 2. sıra 3. sıra 240 cm Verilen kurala göre 7. sırayı tamamlayan terzi, kalan kumaş parçalar",
+   "answer": "D",
+   "solved": false,
+   "skill": "Örüntülü kumaş dizilimiyle renk olasılığı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p61|q104",
+   "page": 61,
+   "n": 104,
+   "bbox": [
+    22.3,
+    35.1,
+    479.9,
+    236.6
+   ],
+   "num": [
+    28.3,
+    42.1,
+    47.0,
+    55.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "104. 4xy - 6y cebirsel ifadesi aşağıdaki ağaç diyagramında gösterildiği gibi çarpanlarına ayrılacaktır. 4xy - 6y 2 y Sarı Buna göre, sarı kutuya yazılacak cebirsel ifade aşağıdakilerden hangisidir? A) 2y - 3 B) 2x - 3y C) 2x - 3 D) 2x",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ortak çarpan parantezine alarak çarpan bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p61|q105",
+   "page": 61,
+   "n": 105,
+   "bbox": [
+    24.3,
+    255.6,
+    528.9,
+    406.3
+   ],
+   "num": [
+    28.3,
+    258.6,
+    46.7,
+    272.5
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "105. Aşağıda, üzerlerinde 1’den 9’a kadar rakamların yazılı olduğu özdeş kartlardan yeterli sayıda vardır. . . . . . . . . . . . . . . . . . . . . . 1 2 3 4 5 6 7 8 9 Bu kartların her birinden, üzerlerinde yazan rakamların belirttiği sayı kadar alınarak boş bir torbaya atılıyor. Bu torbadan rastgele çekilen bir kartın üzerinde yazan sayının asal sayı olma olasılığı kaçtır? 17 2 4 2 A) 45 B) 5 C) 9 D) 3",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tekrarlı kartlarda asal sayı olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p61|q106",
+   "page": 61,
+   "n": 106,
+   "bbox": [
+    24.3,
+    446.7,
+    573.7,
+    764.2
+   ],
+   "num": [
+    28.3,
+    451.6,
+    47.0,
+    465.5
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "106. Aşağıda verilen kare şeklindeki sarı, kırmızı ve mavi kartonların birer yüzlerinin alanları sırasıyla; x 2 cm 2 , (x 2 + 4x + 4) cm 2 ve (16x 2 + 24x + 9) cm 2 dir. B C Aşağı Mavi A Kırmızı Sarı E F Kartonlar şekildeki konumlarındayken mavi karton A, B ve C noktaları doğrusal olana kadar aşağı yönde kaydırılı- yor. Daha sonra mavi karton [ EF ] boyunca kesilerek altta kalan parça ayrılıyor. Buna göre, kesilip ayrılan dikdörtgen şeklindeki mavi parçanın bir yüzünün alanını santimetrekare cinsin- den veren cebirsel ifade aşağıdakilerden hangisidir? A) 8x 2 + 10x + 3 B) 8x 2 + 2x + 3 C) 4x 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam kare alanlardan kesilen parçanın alanı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p62|q107",
+   "page": 62,
+   "n": 107,
+   "bbox": [
+    22.3,
+    33.9,
+    572.8,
+    357.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "107. (x + y) m 4x m Sol Sağ Şekil I Şekil II Eş iki parçadan oluşan bir tiyatro perdesi kapalı konumdayken yüksekliği ve genişliği Şekil I’de verilen dikdörtgensel bölgeyi kapatmaktadır. Bu perde, Şekil II’deki gibi sağa ve sola eşit mesafelerde kaydırılarak açıldığında kapladığı iki dikdörtgensel bölgenin alanları toplamı (2x 2 + 2xy) m 2 dir. Buna göre, perdenin Şekil II’deki konumuna getirilmesi için sağa ve sola toplam kaç metre kaydırıldığını gösteren cebirsel ifade aşağıdakilerden hangisidir? A) x 3 x 2 B) C) 2x D) 3x 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Perde alanından kayma miktarını ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p62|q108",
+   "page": 62,
+   "n": 108,
+   "bbox": [
+    24.3,
+    459.4,
+    573.6,
+    707.5
+   ],
+   "num": [
+    28.3,
+    462.4,
+    47.0,
+    476.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "108. Ali alt alta yazılmış dört rakamdan oluşan sıralamaları yukarıdan aşağıya; Veli ise aşağıdan yukarıya doğru dört basa- maklı sayı biçiminde okumaktadır. Aşağıda verilen sıralamayı Ali “dört bin yüz otuz iki”, Veli ise “iki bin üç yüz on dört” biçiminde okumuştur. 4 1 Ali Veli 3 2 Yukarıda verilen sıralamadaki rakamlardan herhangi ikisinin birbirleriyle yer değiştirmesiyle elde edilen tüm yeni olası sıralamaları verilen kurala göre tekrar okuyan Ali ile Veli, bu sayıların okunuşlarını özdeş kartlara her bir kartta bir sayının okunuşu olacak şekilde yazarak boş bir torbaya atıyorlar. Buna g",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sayı okunuşlarından kart olasılığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p63|q109",
+   "page": 63,
+   "n": 109,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    312.0
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "109. Bir okulda dört farklı spor dalında kurs düzenlenmiştir. Her bir öğrenci sadece bir spor dalından kursa katılabilecektir. Kursa katılan öğrencilerin sayılarının spor dallarına göre dağılımı aşağıdaki kareli zeminde verilen daire grafiğinde gösterilmiştir. Grafik: Kursa Katılan Öğrencilerin Sayılarının Spor Dallarına Göre Dağılımı Futbol Basketbol Tenis Voleybol Buna göre, bu kursa katılan öğrenciler arasından rastgele seçilen bir öğrencinin voleybol spor dalına katıl- mayan bir öğrenci olma olasılığı kaçtır? 5 2 3 5 A) 8 B) 3 C) 4 D) 6",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiğinden olasılık hesaplama",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p63|q110",
+   "page": 63,
+   "n": 110,
+   "bbox": [
+    24.3,
+    388.1,
+    573.7,
+    749.1
+   ],
+   "num": [
+    28.3,
+    391.1,
+    46.6,
+    404.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "110. Aşağıda uzun kenarının uzunluğu 2x dm, kısa kenarının uzunluğu 1 dm olan dikdörtgen şeklindeki beyaz renkli fa- yanstan yeterli sayıda verilmiştir. Bu fayanslardan her biri, uzun kenar uzunlukları farkı 6 dm olacak şekilde iki parçaya ayrılarak alanı büyük olan parça sarıya, diğeri maviye boyanmıştır. . . . . . . . . . 1 dm Beyaz Sarı Mavi 2x dm Elde edilen sarı ve mavi renkli fayanslar, aşağıda verilen sırada kenarlarından çakıştırılarak bir duvar süslemesi ya- pılmış ve bu süslemede x adet sarı fayans kullanılmıştır. Mavi Mavi Mavi . . . Sarı Mavi Sarı Mavi Sarı Sarı Mavi Sarı Mavi Mavi",
+   "answer": "D",
+   "solved": false,
+   "skill": "Fayans örüntüsünün alanını cebirsel ifade etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p64|q111",
+   "page": 64,
+   "n": 111,
+   "bbox": [
+    22.3,
+    33.9,
+    571.4,
+    179.5
+   ],
+   "num": [
+    28.3,
+    40.9,
+    46.2,
+    54.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "111. 32 adet boncuk aşağıda verilen sıraya göre bir ipe dizilmiştir. . . . M M M K K M M M K K Daha sonra bu ipin iki ucu birleştirilerek bir kolye yapılmıştır. İp herhangi bir noktasından kopmuş ve ipin kopan uçları- nın birinden 10 adet boncuk yere düşmüştür. Buna göre, yere düşen boncuklardan rastgele alınan bir boncuğun mavi renkli olma olasılığı en fazla kaçtır? 3 7 4 9 A) 5 B) 10 C) 5 D) 10",
+   "answer": "C",
+   "solved": false,
+   "skill": "Dizilimli boncuklarda en büyük olasılık",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p64|q112",
+   "page": 64,
+   "n": 112,
+   "bbox": [
+    24.3,
+    340.1,
+    573.7,
+    682.6
+   ],
+   "num": [
+    28.3,
+    343.1,
+    46.6,
+    357.0
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "112. Eş bölmelerinden her biri 2x birim olan cetvel ile dikdörtgen şeklindeki mavi ve sarı kartonların uzun kenarlarının uzunlukları şekildeki gibi ölçülmüştür. Sarı 9 birim Mavi 3 birim 0 2x 4x 6x Bu kartonların köşeleri aşağıdaki gibi çakıştırılarak uzun kenarları ile beyaz renkli dikdörtgensel bölge oluşturulmuştur. Beyaz Buna göre, beyaz bölgenin alanını birimkare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 8x 2 + 27 B) 8x 2 - 18 C) 16x 2 - 24x - 27 D) 16x 2 - 12x - 18",
+   "answer": "D",
+   "solved": false,
+   "skill": "Ölçülerden dikdörtgen alanını cebirsel yazma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p65|q113",
+   "page": 65,
+   "n": 113,
+   "bbox": [
+    22.3,
+    35.1,
+    572.2,
+    343.8
+   ],
+   "num": [
+    28.3,
+    42.1,
+    46.6,
+    55.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "113. Aşağıda bir düzgün altıgen ve birer yüzlerinin alanı (9x 2 + 6x + 1) cm 2 olan üç eş kare verilmiştir. Karelerin birer kenarı, düzgün altıgenin kenarlarıyla aşağıdaki gibi çakıştırıldığında oluşan şeklin çevresinin uzunluğu (42x + 24) cm oluyor. Buna göre düzgün altıgenin bir kenarının uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdaki- lerden hangisidir? A) 3x + 2 B) 4x + 3 C) 4x + 2 D) 3x + 3",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare alandan kenar ve çevre ilişkisi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u3|p65|q114",
+   "page": 65,
+   "n": 114,
+   "bbox": [
+    24.4,
+    551.8,
+    573.7,
+    719.2
+   ],
+   "num": [
+    28.4,
+    554.8,
+    46.6,
+    568.6
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "114. Alanları metrekare cinsinden ardışık doğal sayılara eşit olan yeterli sayıdaki karelerden dördü aşağıda verilmiştir. 4 m 2 3 m 2 2 m 2 1 m 2 Her bir karenin metre cinsinden bir kenarının uzunluğu özdeş kartlara yazılarak boş bir torbaya atılıyor. Bu torbadan 1 ’dır. yapılan rastgele bir çekilişte üzerinde doğal sayı yazılı olan kartın çekilme olasılığı 6 Verilenlere göre bu torbada en az kaç kart vardır? A) 12 B) 18 C) 24 D) 30",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam kare sayı olasılığından en az kart sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

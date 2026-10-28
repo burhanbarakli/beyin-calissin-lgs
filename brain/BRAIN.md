@@ -13,7 +13,8 @@ Dosya okumak için Read, yazmak için Write kullan.
 
 ## Soru bankası
 
-Kaynaklar kerimhoca.com'daki 8. sınıf matematik dosyalarıdır. Her soruda konu `"Ünite: Kazanım"` biçimindedir
+Kaynaklar kerimhoca.com'daki 8. sınıf matematik dosyaları, MEB'in LGS Çalışma Kitabı ve MEBİ LGS denemeleridir.
+Her soruda konu `"Ünite: Kazanım"` biçimindedir
 (ör. `Çarpanlar ve Katlar: EBOB - EKOK Problemleri`). Konu listesi: `python -m app.qbank topics --subject mat`.
 
 | Tür (`--kind`) | Ne işe yarar | Seviye |
@@ -22,8 +23,10 @@ Kaynaklar kerimhoca.com'daki 8. sınıf matematik dosyalarıdır. Her soruda kon
 | `kazanim_testi` — Kazanım Testi | Tek kazanımı ölçen 4 şıklı test (ilk yarı temel, ikinci yarı orta). Cevabı bankada yok. | 1-2 |
 | `tarama` — Konu Tarama | Ünite sonu yeni nesil sorular, cevaplı. | 2-3 |
 | `lgs_cikmis` — LGS Çıkmış | 2018-2026 LGS matematik soruları, cevaplı. | 3 · zorlayıcı |
+| `meb_kitap` — MEB Çalışma Kitabı | MEB'in LGS tarzı örnek soruları (504 soru, 6 ünite), cevaplı. Çıkmış sorulara çok benzer kalıplar. | 2-3 · pekiştirme/zorlayıcı |
+| `deneme` — MEBİ Deneme | MEB'in 12 LGS denemesinin matematik testleri (240 soru), cevaplı (12. denemeninkini Claude çözdü). | 2-3 · pekiştirme/zorlayıcı |
 
-Tarama ve çıkmış soruların çoğu Claude tarafından etiketlenmiştir: `beceri: ...` (ölçtüğü beceri) ve
+Tarama, çıkmış, MEB kitabı ve deneme sorularının hepsi Claude tarafından etiketlenmiştir: `beceri: ...` (ölçtüğü beceri) ve
 `zorluk=x/5` (kendi puanı). Bu sorularda metin boş olabilir; içerik için `show` ile görsele bak.
 
 ## Girdi
@@ -51,15 +54,16 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    - Öğretici: `python -m app.qbank search --subject mat --topic "EBOB - EKOK Problemleri" --level 1 --limit 30`
      (çalışma kâğıdı alıştırmaları ve kazanım testinin temel soruları)
    - Pekiştirme: aynı komut `--level 2`
-   - Zorlayıcı / benzer LGS sorusu: `--kind lgs_cikmis` ya da `--level 3`, gerekirse `--text "kare,karo"`
-     gibi fotoğraftaki bağlamın anahtar kelimeleriyle.
+   - Zorlayıcı / benzer LGS sorusu: `--kind lgs_cikmis`, `--kind meb_kitap`, `--kind deneme` ya da `--level 3`,
+     gerekirse `--text "kare,karo"` gibi fotoğraftaki bağlamın anahtar kelimeleriyle. MEB kitabı ve denemeler
+     LGS kalıbında çok sayıda soru içerir: fotoğraftaki soruya en çok benzeyenler çoğu zaman oradadır.
    - `--topic` virgülle birden çok terim alır ve beceri (`beceri:`) alanında da arar: `--topic "ebob,ortak bölen"`.
    - Fotoğraftaki soruya **en çok benzeyen** soruları (aynı beceri, benzer bağlam ya da soru kalıbı) öne al.
 4. **Doğrula.** Metni boş/yetersiz ya da şekilli sorularda `python -m app.qbank show "<qid>" "<qid>"` ile PNG
    üret, Read ile bak. Kesimi bozuk, başka soruya bağlı ("Buna göre" ile başlayıp öncülü başka soruda olan) ya
    da beceriyle ilgisiz soruları ele. Önerdiklerinin hepsine bak.
 5. **Sırala.** Her grupta: öğretici (kolaydan zora) → pekiştirme → zorlayıcı. Her grupta en az bir
-   **çalışma kâğıdı** alıştırması (kavramı öğretir) ve mümkünse bir **LGS çıkmış** soru olsun. Öğretmen seçsin
+   **çalışma kâğıdı** alıştırması (kavramı öğretir) ve mümkünse bir **LGS çıkmış** ya da MEB kitabı/deneme sorusu olsun. Öğretmen seçsin
    diye hedef sayının **yaklaşık 1,5–2 katı** aday ver; varsayılan seçimini `recommended: true` ile işaretle.
 6. **Zorluk.** Her adaya `difficulty` (1-5) ver: 1 = tek adımlı tanım/hatırlatma, 2 = temel uygulama,
    3 = ortalama LGS sorusu, 4 = çok adımlı/yorum gerektiren, 5 = LGS'nin en zor soruları. Kısa gerekçe:

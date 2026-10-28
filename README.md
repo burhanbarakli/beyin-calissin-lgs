@@ -27,16 +27,18 @@ hazırlayan yerel web uygulaması. Şu an LGS matematik; fen sonra eklenecek.
 
 ## Soru bankası
 
-`kaynaklar/LGS_Matematik/` — kerimhoca.com 8. sınıf matematik dosyaları (84 PDF, 935 soru):
+`kaynaklar/LGS_Matematik/` — 102 PDF, 1679 soru:
 
-| Tür | Soru | Rol |
-|---|---|---|
-| Çalışma kâğıtları (kazanım başına) | 223 | Öğretici — açık uçlu alıştırma |
-| Kazanım testleri | 360 | İlk yarı temel, ikinci yarı orta (cevabı beyin çözer) |
-| Konu tarama testleri | 172 | Pekiştirme — yeni nesil, cevaplı |
-| LGS çıkmış sorular 2018-2026 | 180 | Zorlayıcı — cevaplı |
+| Tür | Kaynak | Soru | Rol |
+|---|---|---|---|
+| Çalışma kâğıtları (kazanım başına) | kerimhoca.com | 223 | Öğretici — açık uçlu alıştırma |
+| Kazanım testleri | kerimhoca.com | 360 | İlk yarı temel, ikinci yarı orta (cevabı beyin çözer) |
+| Konu tarama testleri | kerimhoca.com | 172 | Pekiştirme — yeni nesil, cevaplı |
+| LGS çıkmış sorular 2018-2026 | kerimhoca.com | 180 | Zorlayıcı — cevaplı |
+| MEB LGS Çalışma Kitabı (6 ünite) | odsgm.meb.gov.tr | 504 | Pekiştirme / zorlayıcı — LGS tarzı, cevaplı |
+| MEBİ LGS denemeleri 1-12 (matematik) | kerimhoca.com (MEB) | 240 | Pekiştirme / zorlayıcı — cevaplı |
 
-Tarama ve çıkmış soruların hepsi Claude tarafından kazanım, ölçtüğü beceri ve 1-5 zorlukla
+Kazanım testi ve çalışma kâğıdı dışındaki soruların hepsi Claude tarafından kazanım, ölçtüğü beceri ve 1-5 zorlukla
 etiketlenmiştir. `katalog.json` her PDF'in türünü, ünitesini ve kazanımını verir.
 
 ## Kurulum

@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_07",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_07_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 7 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 22,
+ "key_pages": [
+  22
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    86.4,
+    452.9,
+    347.4
+   ],
+   "num": [
+    36.0,
+    93.4,
+    43.7,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Aşağıda verilen buzdolaplarının boyları birbirine eşittir. 6 10 dm a 90 dm 3 b dm Buna göre a + b işleminin sonucu kaçtır? A) 122 B) 62 C) 42 D) 22",
+   "answer": "C",
+   "solved": false,
+   "skill": "Eşit kareköklü uzunluklardan bilinmeyen bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    32.6,
+    397.1,
+    517.9,
+    695.9
+   ],
+   "num": [
+    36.6,
+    400.1,
+    44.7,
+    415.4
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. İkizkenar üçgen şeklindeki bir kâğıt, tepe açısının açıortayı boyunca Görsel 1’deki gibi kesilmiştir. Görsel 1 Görsel 1’de elde edilen üçgenler birer kenarına ait kenarortayları boyunca Görsel 2’deki gibi kesilmiştir. 4 cm 10 cm Görsel 2 Görsel 3 Oluşan üçgenlerden birinin Görsel 3’te gösterilen kenar uzunlukları 4 cm ve 10 cm’dir. Buna göre Görsel 1’deki kâğıdın bir yüzünün alanı kaç santimetrekaredir? A) 40 B) 80 C) 160 D) 240",
+   "answer": "B",
+   "solved": false,
+   "skill": "Açıortay ve kenarortayla alan ilişkisi kurma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p4|q3",
+   "page": 4,
+   "n": 3,
+   "bbox": [
+    32.0,
+    90.4,
+    521.0,
+    404.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Aşağıdaki tabloda dört aracın sabit hızlarla 1 saatte ve toplamda aldıkları yol, metre cinsinden üslü ifadelerle gösterilmiştir. Tablo: Araçların 1 Saatte ve Toplamda Aldıkları Yol 1 Saatte Alınan Toplam Alınan Araç Türü Yol (m) Yol (m) Kamyon 16 4 8 6 Motosiklet 9 5 81 3 Otomobil 49 3 7 7 Otobüs 5 7 125 3 Buna göre araçların hareket sürelerine göre küçükten büyüğe doğru sıralaması aşağıdakilerden hangisidir? A) Kamyon < Otomobil < Motosiklet < Otobüs B) Kamyon < Motosiklet < Otomobil < Otobüs C) Otomobil < Kamyon < Motosiklet < Otobüs D) Kamyon < Otomobil < Otobüs < Motosiklet",
+   "answer": "A",
+   "solved": false,
+   "skill": "Üslü ifadeleri aynı tabana çevirip bölme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    32.0,
+    466.7,
+    516.0,
+    716.0
+   ],
+   "num": [
+    36.0,
+    469.7,
+    44.0,
+    485.0
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Aşağıda bir kolunun uzunluğu 8 cm, diğer kolunun uzunluğu 11 cm olan pergel ve eşit aralıklı 20 cm’lik bir cetvel gösterilmiştir. 11 cm 8 cm cm Pergelin iki ucu, cetvel üzerinde işaretlenmiş herhangi iki nokta üzerine konularak pergelin kolları ile cetvel arasında kenar uzunlukları santimetre cinsinden tam sayı olan çeşitkenar üçgen oluşturulacaktır. Pergelin bir ucu 0 (sıfır) noktasındayken diğer ucu cetvel üzerinde kaç farklı noktaya getirilebilir? A) 15 B) 14 C) 13 D) 12",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üçgen eşitsizliğiyle olası kenar sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p5|q5",
+   "page": 5,
+   "n": 5,
+   "bbox": [
+    32.0,
+    90.7,
+    494.9,
+    255.6
+   ],
+   "num": [
+    36.0,
+    93.7,
+    44.0,
+    109.0
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Bir halat, görseldeki gibi altlarında verilen sayılarla orantılı olacak şekilde dört parçaya ayrılıyor. 3 5 7 10 Mavi, turuncu, sarı ve yeşil renkleri kullanmak üzere her parça farklı bir renge boyanıyor. Boyanan parçaların her biri eşit uzunlukta olacak şekilde tekrar parçalara ayrılıp boş bir kutuya atılıyor. Kutudan rastgele seçilen bir parçanın mavi olma olasılığı aşağıdakilerden hangisi olamaz? C) 3 A) 1 B) 2 D) 3 25 5 5 5",
+   "answer": "D",
+   "solved": false,
+   "skill": "Orantılı parçalarda olasılık değerlerini inceleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    32.0,
+    309.8,
+    508.7,
+    675.5
+   ],
+   "num": [
+    36.0,
+    312.8,
+    44.0,
+    328.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Kısa kenar uzunluğu 8 dm ve alanı desimetrekare cinsinden tam kare doğal sayı olan dikdörtgen şeklindeki ayna aşağıda verilmiştir. 8 dm Ayna, kısa kenarına paralel olacak şekilde dikey kesimler ile aşağıdaki gibi üç parçaya ayrılmıştır. 1. Parça 2. Parça 3. Parça 8 dm Üç parçanın da diğer kenar uzunlukları, a ve b tam sayıları 1’den büyük olmak üzere a b şeklinde yazılabilmektedir. 1. ve 2. parçanın alanları desimetrekare cinsinden birbirinden farklı tam kare doğal sayılardır. Buna göre aynanın parçalanmadan önceki alanının desimetrekare cinsinden alabileceği en küçük değer için, 3. parçanı",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla alan ve değer tahmini",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    32.0,
+    90.4,
+    515.4,
+    265.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    43.4,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. A, B ve C araçları ile 30 kişilik bir öğrenci grubu müzeye götürülecektir. Öğrencilere 1’den 30’a kadar sıra numarası verilip bu sıra numaralarına göre aşağıda belirtilen kurallar dikkate alınarak öğrenciler üç farklı araca bindirilecektir. Sıra numarasının; • Bir tane asal çarpanı olan öğrenciler A aracına, • İki tane asal çarpanı olan öğrenciler B aracına, • Kalan öğrenciler ise C aracına bindirilecektir. Buna göre müzeye C aracı ile gidecek kaç öğrenci vardır? A) 1 B) 2 C) 3 D) 4",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sayıların asal çarpan sayısına göre sınıflandırılması",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    32.0,
+    310.2,
+    516.8,
+    687.4
+   ],
+   "num": [
+    36.0,
+    313.2,
+    44.1,
+    328.5
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Deniz’in blok parçalardan oluşan, biri diğerinden 5 cm uzun iki oyuncak çubuğu vardır. Bu çubuklardan kısa olanı eşit uzunlukta 10 parçadan, uzun olanı ise eşit uzunlukta 14 parçadan oluşmaktadır. 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Deniz, oyuncak kamyonunun uzunluğunu bu çubuklarla yukarıdaki gibi ölçmüştür. Buna göre oyuncak kamyonun uzunluğu kaç santimetredir? A) 10 B) 12 C) 15 D) 18",
+   "answer": "C",
+   "solved": false,
+   "skill": "Parça uzunluklarıyla denklem kurup çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p7|q9",
+   "page": 7,
+   "n": 9,
+   "bbox": [
+    32.0,
+    86.4,
+    505.9,
+    348.9
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Aşağıda verilen doğrusal grafikte, bir tüccarın satılmayan ürün sayısının zamana göre değişimi gösterilmiştir. Grafik: Satılmayan Ürün Sayısının Zamana Göre Değişimi Satılmayan Ürün Sayısı 60 54 Zaman (gün) 0 2 Buna göre kaçıncı günün sonunda satılan ürün sayısı ile satılmayan ürün sayısı birbirine eşit olur? A) 10 B) 20 C) 27 D) 30",
+   "answer": "A",
+   "solved": false,
+   "skill": "Doğrusal grafikten değişim oranını yorumlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    32.0,
+    391.6,
+    484.9,
+    735.5
+   ],
+   "num": [
+    36.0,
+    394.6,
+    49.1,
+    409.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Aşağıdaki sütun grafiğinde A ve B okullarında kurslara katılan öğrenci sayıları gösterilmiştir. Grafik: Kurslara Katılan Öğrenci Sayıları Öğrenci Sayısı 35 A Okulu 30 B Okulu 25 20 15 Kurslar Türkçe Matematik Fen Bilimleri İngilizce Bu okullarda yalnızca dört dersten kurs açılmış olup her bir öğrenci yalnızca bir kursa katılmıştır. Buna göre aşağıdaki bilgilerden hangisi doğrudur? A) B okulunda katılımın en fazla olduğu ders matematiktir. B) A okulunda kursa katılanların %15’i fen bilimleri dersini tercih etmiştir. C) B okulunda kurslara katılan toplam 85 öğrenci vardır. D) A ve B okulları",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sütun grafiğini yorumlayıp yüzde hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p8|q11",
+   "page": 8,
+   "n": 11,
+   "bbox": [
+    32.0,
+    90.4,
+    265.3,
+    151.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    48.5,
+    108.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. –5 < 3x + 3 ≤ 6 eşitsizliğini sağlayan x tam sayı değerlerinin toplamı kaçtır? A) - 5 B) - 3 C) - 2 D) 0",
+   "answer": "C",
+   "solved": false,
+   "skill": "Bileşik eşitsizliğin tam sayı çözümlerini bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p8|q12",
+   "page": 8,
+   "n": 12,
+   "bbox": [
+    32.0,
+    199.5,
+    256.9,
+    317.3
+   ],
+   "num": [
+    36.0,
+    202.5,
+    49.2,
+    217.8
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. (5x - 20) TL’ye alınan bir ayakkabı % 20 kâr ile satılmıştır. Satış fiyatının 90 TL’den fazla, 120 TL’den az olduğu bilinmektedir. Buna göre x’in alabileceği en küçük ve en büyük tam sayı değerlerinin toplamı kaçtır? A) 43 B) 44 C) 48 D) 52",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kâr problemini eşitsizlikle modelleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    279.5,
+    90.4,
+    521.3,
+    293.7
+   ],
+   "num": [
+    283.5,
+    93.4,
+    296.6,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Aşağıda 120 cm ve 150 cm uzunluğunda iki demir çubuk verilmiştir. 120 cm 150 cm Bu çubuklar hiç parça artmayacak ve uzunlukları birbirine eşit olacak şekilde ayrı ayrı kesilecektir. Her bir kesim işlemi 3 saniye sürdüğüne göre, kesim işlemi için geçen süre toplamda en az kaç saniyedir? A) 9 B) 21 C) 27 D) 36",
+   "answer": "B",
+   "solved": false,
+   "skill": "EBOB ile en az kesim sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p8|q14",
+   "page": 8,
+   "n": 14,
+   "bbox": [
+    32.0,
+    419.7,
+    523.3,
+    725.5
+   ],
+   "num": [
+    36.0,
+    422.7,
+    49.0,
+    438.0
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Aşağıda verilen görseldeki vincin altına her birinin yüksekliği (x + 1) m olan özdeş dört blok konulmuştur. (8x + 8) m A (4x 2 + 16x + 13) m ? (x + 1) m Zemin Buna göre A noktasının yüksekliğini metre cinsinden veren cebirsel ifadenin özdeşi aşağıdakilerden hangisidir? A) (2x – 3) 2 B) (2x – 4) 2 C) (2x + 3) 2 D) (2x + 4) 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Uzunluk ifadesini tam kare özdeşliğiyle yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    32.0,
+    90.4,
+    519.6,
+    387.6
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Bir mağazada bulunan ayakkabı sayılarının markalarına göre dağılımı Grafik 1’de, bir süre sonra satılan A marka ayakkabı sayısının türlerine göre dağılımı ise Grafik 2’de verilmiştir. Grafik 1: Ayakkabı Sayılarının Markalarına Grafik 2: Satılan A Marka Ayakkabı Sayısının Göre Dağılımı Türlerine Göre Dağılımı B Çocuk 120 o Erkek 150 o A C Kadın A marka ayakkabıların %25’i satılmıştır. Satılan A marka ayakkabılardan çocuk ayakkabılarının sayısı, erkek ayakkabılarının sayısının 2 katıdır. Satılan A marka erkek ayakkabı sayısı 35 olduğuna göre, mağazada bulunan C marka ayakkabı sayısı kaçtır? ",
+   "answer": "D",
+   "solved": false,
+   "skill": "İki daire grafiğini birlikte yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p9|q16",
+   "page": 9,
+   "n": 16,
+   "bbox": [
+    32.0,
+    419.7,
+    514.4,
+    583.5
+   ],
+   "num": [
+    36.0,
+    422.7,
+    49.1,
+    438.0
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Bir deneyde kullanılan A maddesinin deney öncesi ve sonrası miktarının gram cinsinden çözümlenmiş hâli aşağıda verilmiştir. Tablo: A Maddesinin Gram Cinsinden Miktarı Deney Öncesi Deney Sonrası 2 . 10 1 + 1 . 10 0 + 8 . 10 - 2 1 . 10 1 + 2 . 10 0 + 4 . 10 - 1 + 5 . 10 - 2 + 7 . 10 - 3 Buna göre A maddesi kaç gram azalmıştır? A) 8,523 B) 8,623 C) 9,343 D) 9,633",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ondalık çözümlemeden fark hesaplama",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    32.0,
+    90.4,
+    496.1,
+    325.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    48.3,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Hemoglobin (Hb) değeri kandaki oksijeni taşıyan protein değeridir. Bu değerin düşüklüğü anemiye (kansızlık) işaret eder. Hemoglobinin normal değeri yaklaşık olarak erkeklerde 14 g/dL ile 17 g/dL arasında ve kadınlarda 12 g/dL ile 15 g/dL arasındadır. Aşağıda dört kişilik bir ailenin hemoglobin değerleri verilmiştir. Erkekler Kadınlar Ali Gökhan Aylin Pelin Hemoglobin Değeri 5 10 10 2 6 5 2 70 (g/dL) Buna göre bu aile bireylerinden hangilerinin hemoglobin değerleri normal aralıktadır? A) Ali - Pelin B) Ali - Aylin C) Gökhan - Pelin D) Gökhan - Aylin",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareköklü değerleri aralıklarla karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p10|q18",
+   "page": 10,
+   "n": 18,
+   "bbox": [
+    32.0,
+    399.9,
+    510.5,
+    633.7
+   ],
+   "num": [
+    36.0,
+    402.9,
+    49.1,
+    418.2
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Aşağıdaki tabloda, üç farklı model kablonun yalıtım malzemesi ile kaplanmadan önceki yarıçap uzunlukları verilmiştir. Tablo: Kaplamadan Önceki Yarıçap Uzunlukları Kablo Modeli Yarıçap Uzunluğu (mm) 0,0053 . 10 3 A B 0,45 . 10 1 C 48 . 10 - 1 Kaplama işlemi sonucunda her bir kablonun yarıçapının uzunluğu en fazla %10 oranında artmaktadır. Aşağıdakilerden hangisi kaplama işleminden sonra kablolardan herhangi birinin milimetre cinsinden yarıçap uzunluğu olamaz? A) 4,62 B) 5,18 C) 5,29 D) 5,83",
+   "answer": "C",
+   "solved": false,
+   "skill": "10'un kuvvetleriyle ondalık değer ve yüzde artış",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p11|q19",
+   "page": 11,
+   "n": 19,
+   "bbox": [
+    32.0,
+    90.4,
+    441.3,
+    375.0
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Denklemi y = - 3x olan doğrunun grafiği aşağıdakilerden hangisidir? A) B) y y 1 x 0 1 x - 3 - 3 0 C) D) y y 1 x 0 1 x - 3 - 3 0",
+   "answer": "A",
+   "solved": false,
+   "skill": "Denklemi verilen doğrunun grafiğini seçme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_07|p11|q20",
+   "page": 11,
+   "n": 20,
+   "bbox": [
+    32.0,
+    400.5,
+    513.8,
+    710.9
+   ],
+   "num": [
+    36.0,
+    403.5,
+    49.5,
+    418.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Ön yüzü mavi, arka yüzü kırmızı olan ve kenar uzunlukları santimetre cinsinden cebirsel ifade olarak verilen dikdörtgen biçimindeki karton Görsel 1’de gösterilmiştir. (a 2 + 12a + 34) cm (2a + 9) cm Mavi Görsel 1 Bu karton, kısa kenarları birbirine paralel olacak biçimde Görsel 2’deki gibi katlanmıştır. ? Kırmızı Mavi Görsel 2 Görsel 2’de görünen kırmızı bölge kare biçiminde olduğuna göre, görünen mavi bölgenin uzun kenarının uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) (a + 5) 2 B) (a + 5) . (2a + 9) C) (a + 4) . (a + 5) D) (a + 4) 2",
+   "answer": "D",
+   "solved": false,
+   "skill": "Katlama ile cebirsel ifade uzunluğu bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

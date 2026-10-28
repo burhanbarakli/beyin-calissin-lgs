@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_01",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_01_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 1 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 21,
+ "key_pages": [
+  21
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    48.9,
+    106.0,
+    272.4,
+    381.0
+   ],
+   "num": [
+    36.0,
+    109.0,
+    45.0,
+    124.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Aşağıda üzerinde sayılar yazan on kart verilmiştir. 1 21 51 34 11 12 9 18 19 91 Ali, verilen kartlardan altı tanesini aşağıdaki gibi ikişerli olarak gruplamıştır. 1 11 51 9 12 ? Ali, grupladığı kartlardan aralarında asal olanları maviye boyamıştır. Ali iki grubu maviye boyadığına göre ‘?’ yazan kart yerine kaç farklı kart seçebilir? A) 1 B) 2 C) 3 D) 4",
+   "answer": "C",
+   "solved": false,
+   "skill": "Aralarında asal olmayan kart çiftini belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    279.8,
+    106.0,
+    518.2,
+    332.8
+   ],
+   "num": [
+    283.8,
+    109.0,
+    293.1,
+    124.3
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Aşağıdaki çuvalların üzerine içlerindeki pirinç tanelerinin sayısı yazılmıştır. 32 5 tane 4 11 tane 64 4 tane A B C Bu çuvalların, içerisindeki pirinç tanelerinin sayısına göre büyükten küçüğe doğru sıralanışı aşağıdakilerden hangisidir? A) A > B > C B) C > B > A C) A > C > B D) C > A > B",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tabanları eşitleyerek üslü sayıları sıralama",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    30.0,
+    469.7,
+    544.8,
+    733.4
+   ],
+   "num": [
+    36.0,
+    472.7,
+    45.5,
+    488.0
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Aşağıda orta refüjündeki çim alana otomatik sulama hattı yapılacak olan caddenin görseli verilmiştir. Refüj üzerinde işaretlenen A, B ve C noktalarında su vanaları bulunmaktadır. B C A Sulama hattının yapılacağı A ve B vanaları arasındaki mesafe 180 m, B ve C vanaları arasındaki mesafe 150 m’dir. Bu hat üzerine vanalara ve birbirlerine metre cinsinden eşit mesafede olacak şekilde fıskiyeler doğrusal olarak yerleştirilecektir. Buna göre ardışık iki fıskiye arasındaki mesafenin metre cinsinden alabileceği kaç farklı doğal sayı değeri vardır? A) 4 B) 6 C) 7 D) 8",
+   "answer": "D",
+   "solved": false,
+   "skill": "EBOB ile eşit aralık ve bölen sayısı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    32.0,
+    90.4,
+    266.9,
+    220.4
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. 120 kg pirinç ve kütlesi kilogram cinsinden tam sayı olan bir miktar bulgur birbirine karıştırılmadan ve hiç artmayacak şekilde eşit kütleli paketlere konulmuştur. Kullanılan paketlerin kütlesi en fazla 20 kg olduğuna göre başlangıçtaki bulgurun kütlesi aşağıdakilerden hangisi olabilir? A) 80 B) 120 C) 140 D) 180",
+   "answer": "C",
+   "solved": false,
+   "skill": "EBOB koşuluyla bilinmeyen kütleyi bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    279.7,
+    90.4,
+    517.2,
+    365.4
+   ],
+   "num": [
+    283.7,
+    93.4,
+    291.8,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Aşağıda verilen düzgün altıgenin bazı köşelerine üslü ifadeler, bazı köşelerine harfler yazılmıştır. 81 3 A 9 6 B 27 2 C Altıgenin verilen her köşegeninin uçlarına yazılan üslü ifadelerin çarpımı birbirine eşit olduğuna göre A . B . C işleminin sonucu kaçtır? A) 3 25 B) 3 24 C) 3 22 D) 3 21",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü ifadelerin çarpımını eşitlik koşuluyla bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    30.0,
+    410.1,
+    544.8,
+    733.7
+   ],
+   "num": [
+    36.5,
+    413.1,
+    44.5,
+    428.4
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Bir teknoloji mağazasında eşit sayıda satışa sunulan ürünlerin türleri ve bu ürünlerin kodlarının çözümlenmiş hâli Tablo 1’de verilmiştir. Aynı mağazada bir hafta içerisinde satılan ürünlerin kodları ve satış sayıları Tablo 2’de verilmiştir. Tablo 1: Ürün Türlerinin Kodları Tablo 2: Satılan Ürünlerin Kodlarına Göre Sayıları Ürün Kodunun Ürün Türü Ürün Kodu Satış Sayısı Çözümlenmiş Hâli 9 . 10 0 + 7 . 10 -1 + 5 . 10 -2 İşlemci 97,05 20 9 . 10 1 + 7 . 10 0 + 5 . 10 -2 USB Bellek 97,5 50 9 . 10 0 + 7 . 10 -1 + 5 . 10 -3 Ekran Kartı 9,705 30 9 . 10 1 + 7 . 10 0 + 5 . 10 -1 Kamera 9,75 45 Mağaza",
+   "answer": "D",
+   "solved": false,
+   "skill": "Ondalık sayının 10 un kuvvetleriyle çözümlenmesi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    32.6,
+    90.4,
+    513.2,
+    510.7
+   ],
+   "num": [
+    36.6,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Yasin Öğretmen, bir doğal sayıyı asal çarpanlarının çarpımı şeklinde gösterilmesini anlatmak için bazı asal sayıları farklı renkte birim küplerle aşağıdaki gibi modellemiştir. 2 3 5 7 K Y M S Mavi Siyah Örneğin; 350 = 2 . 5 2 . 7 olduğundan, kırmızı küpten 1, mavi küpten 2 ve siyah küpten 1 tane kullanılır. 350 sayısının birim küplerle modellenmiş hâli ve üstten görünümü aşağıdaki gibi olur. M K M S K M S Yapının modellenmiş hâli Yapının üstten görünümü Toplam dört küp kullanılarak oluşturulan bir yapının üstten görünümü aşağıdaki gibidir. Y K S Yapının üstten görünümü Buna göre bu yapı aşa",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpan modeline göre sayı belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p5|q8",
+   "page": 5,
+   "n": 8,
+   "bbox": [
+    29.7,
+    510.0,
+    544.8,
+    737.1
+   ],
+   "num": [
+    35.7,
+    517.0,
+    43.8,
+    532.3
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "UK&=bmir=otobüse=ya=da=minibüse=binmek=için=evinden=çıktıktan=T=dakika=sonra=durağa=ulaşmaktadırK=ltobüs=PM=dakikada=birI=minibüs=OR=dakikada=bir=durağa=gelmektedirK=ltobüs=ve=minibüsün=bu=durağa==aynı=anda=saat=MVKNR’te=geldiğini=bilen=bmirI=evinden=çıkıp=durağa=ulaştığı=anda=her=iki= aracın=da=durağa==geldiğini=görüyorK=_una=göre=bmir=aşağıda=verilen=saatlerin=hangisinde=evinden=çıkmış=olabilir\\=^F&=NQKMU=_F&=NQKOO=`F&=NSKOP=aF&=NSKPT",
+   "answer": "A",
+   "solved": false,
+   "skill": "EKOK ile tekrarlayan zamanları bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    32.0,
+    90.5,
+    260.6,
+    256.9
+   ],
+   "num": [
+    36.0,
+    93.5,
+    44.0,
+    108.8
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. 0,25 . 10 a sayısı 1000’den büyük, 27 000 . 10 b sayısı ise 1’den küçüktür. Buna göre a ve b sayıları aşağıdakilerden hangisi olabilir? a b A) 5 -5 B) -3 4 C) 5 -4 D) -4 5",
+   "answer": "A",
+   "solved": false,
+   "skill": "Bilimsel gösterimle eşitsizlik koşulu çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p6|q10",
+   "page": 6,
+   "n": 10,
+   "bbox": [
+    32.0,
+    295.6,
+    270.9,
+    457.1
+   ],
+   "num": [
+    36.0,
+    298.6,
+    49.1,
+    313.9
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Antarktika’nın kral penguenleri günde ortalama 100 defa suya dalarlar. Bunun ancak %10’unda avlanabilirler. Bir penguen her avlanmada ortalama 20 g sardalya balığı yakaladığına göre 100 penguenin 1 günde yakaladığı ortalama sardalya balığının gram cinsinden bilimsel gösterimi aşağıdakilerden hangisidir? A) 2·10 3 B) 1,82·10 4 C) 2·10 4 D) 1,8 ·10 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Problemi bilimsel gösterimle ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p6|q11",
+   "page": 6,
+   "n": 11,
+   "bbox": [
+    30.0,
+    514.0,
+    265.4,
+    673.3
+   ],
+   "num": [
+    36.0,
+    517.0,
+    48.5,
+    532.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Aşağıda bir sayının çarpanlarının tamamı küçükten büyüğe doğru yazılmıştır. 1 3 9 A 57 B Buna göre aşağıdakilerden hangisi B - A ifadesinin bir çarpanıdır? A) 3 B) 5 C) 6 D) 8",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çarpan listesinden sayıyı bulup çarpan belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p6|q12",
+   "page": 6,
+   "n": 12,
+   "bbox": [
+    279.7,
+    90.4,
+    513.7,
+    444.2
+   ],
+   "num": [
+    283.7,
+    93.4,
+    297.0,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Reyhan Öğretmen tahtaya çıkardığı üç öğrencisine sırasıyla aşağıdaki görevleri vermiştir. • Selim bir sayı söyleyecektir. • Mehmet, Selim’in söylediği sayının pozitif tam sayı çarpan sayısını söyleyecektir. • Zeynep, Selim’in söylediği sayının asal çarpan sayısını söyleyecektir. Örneğin; Selim 15 sayısını söylediğinde pozitif tam sayı çarpanları 1, 3, 5, 15 olur. Bunlardan 3 ve 5 ise 15’in asal çarpanlarıdır. Buna göre Selim, Mehmet ve Zeynep’in söylediği sayılar aşağıdaki gibi olur. Selim Mehmet Zeynep 15 4 2 Selim bir sayı söyledikten sonra Mehmet 8, Zeynep ise 3 sayısını söylemiştir. Bu",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çarpan sayısı ve asal çarpan sayısı koşulu",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p6|q13",
+   "page": 6,
+   "n": 13,
+   "bbox": [
+    280.3,
+    514.0,
+    544.8,
+    733.7
+   ],
+   "num": [
+    284.3,
+    517.0,
+    297.4,
+    532.3
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. 80 kg ve 64 kg kütleli iki çuval pirincin tamamı birbirine karıştırılmadan ve hiç artmayacak şekilde paketlere konulacaktır. Paketlerin kütlelerinin eşit olması istenmektedir. Buna göre bu iş için en az kaç paket gereklidir? A) 4 B) 5 C) 8 D) 9",
+   "answer": "D",
+   "solved": false,
+   "skill": "EBOB ile en az paket sayısını bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p7|q14",
+   "page": 7,
+   "n": 14,
+   "bbox": [
+    31.4,
+    90.4,
+    266.6,
+    391.9
+   ],
+   "num": [
+    35.4,
+    93.4,
+    48.5,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Aşağıda iki farklı fotokopi makinesi ve bu makinelerin çalışma hızları ile ilgili bilgiler verilmiştir. 1. fotokopi makinesi 2. fotokopi makinesi 5 saniyede 1 çıktı 8 saniyede 1 çıktı Makineler aynı anda çalışmaya başladıktan sonra çıktılar arasında ara vermeden eşit sürede çalışarak toplam 780 adet broşür basmış ve aynı anda durmuşlardır. Buna göre baskı işlemi kaç dakikada tamamlanmıştır? A) 48 B) 40 C) 26 D) 20",
+   "answer": "B",
+   "solved": false,
+   "skill": "EKOK periyodunda toplam üretimden süre bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p7|q15",
+   "page": 7,
+   "n": 15,
+   "bbox": [
+    29.4,
+    444.3,
+    268.3,
+    702.0
+   ],
+   "num": [
+    36.0,
+    447.3,
+    49.1,
+    462.6
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Alanı 150 m 2 olan aşağıdaki dikdörtgen şeklindeki arsanın kenar uzunlukları metre cinsinden aralarında asal doğal sayıdır. 150 m 2 Bu arsanın bir bölümüne kenar uzunlukları metre cinsinden doğal sayı olan tabanı kare biçiminde bir kulübe yapılacaktır. Buna göre bu arsanın kulübe dışında kalan bölümünün alanı en az kaç metrekaredir? A) 114 B) 141 C) 146 D) 149",
+   "answer": "A",
+   "solved": false,
+   "skill": "Aralarında asal kenarlardan en büyük kare alanı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p7|q16",
+   "page": 7,
+   "n": 16,
+   "bbox": [
+    279.7,
+    90.4,
+    492.0,
+    195.3
+   ],
+   "num": [
+    283.7,
+    93.4,
+    296.9,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. 1 1 4 5 3 b − = = 25 a Yukarıda verilen eşitliklere göre a + b işleminin sonucu kaçtır? A) -66 B) -17 C) 62 D) 66",
+   "answer": "C",
+   "solved": false,
+   "skill": "Negatif üslü eşitlikten değer bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p7|q17",
+   "page": 7,
+   "n": 17,
+   "bbox": [
+    279.7,
+    245.7,
+    510.5,
+    384.8
+   ],
+   "num": [
+    283.7,
+    248.7,
+    296.1,
+    264.0
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Aşağıda üç farklı şekil ile tanımlanan işlemler gösterilmiştir. c a = a 0 = b 3 = c 4 b Buna göre işleminin -4 + 7 -2 sonucu kaçtır? A) -81 B) -49 C) 49 D) 81",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tanımlı işlemle üslü ifadeleri hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p7|q18",
+   "page": 7,
+   "n": 18,
+   "bbox": [
+    279.7,
+    444.3,
+    544.8,
+    721.8
+   ],
+   "num": [
+    283.7,
+    447.3,
+    296.9,
+    462.6
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Çevresinin uzunluğu 64 3 br olan dikdörtgen biçimindeki kâğıt, aşağıdaki gibi biri dikdörtgen diğeri kare şeklinde iki parçaya ayrılıyor. Kare şeklindeki parçanın bir kenarının uzunluğu 8 5 br olduğuna göre son durumdaki dikdörtgen şeklindeki parçanın bir yüzünün alanı kaç birimkaredir? A) 2 30 B) 2 31 C) 2 32 D) 2 33",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü uzunluklarla dikdörtgen alanı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p8|q19",
+   "page": 8,
+   "n": 19,
+   "bbox": [
+    31.4,
+    90.3,
+    514.5,
+    382.9
+   ],
+   "num": [
+    35.4,
+    93.3,
+    50.0,
+    108.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Kısa mesafe koşularında başlama işaretinden sonra sporcuların başlangıç noktasından ayrılma sürelerine tepki süresi denir. Kısa mesafe koşusuna katılan dört sporcuya ait tepki sürelerinin çözümlenmiş hâli ile bu sporcuların yarışı bitirme süreleri saniye cinsinden aşağıdaki tabloda verilmiştir. Tablo: Sporcuların Tepki Süreleri ve Yarışı Bitirme Süreleri Yarışı Bitirme Süresi Sporcu Tepki Süresi (Saniye) (Saniye) Mikail 4 . 10 -1 + 1 . 10 -2 + 3 . 10 -3 18,6 Salih 4 . 10 -1 + 3 . 10 -3 19,76 Orhan 4 . 10 -1 + 1 . 10 -2 18,71 Abdullah 4 . 10 -1 + 2 . 10 -2 19,78 Buna göre tepki süresi en kü",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çözümlenmiş ondalık farkını bilimsel gösterme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_01|p8|q20",
+   "page": 8,
+   "n": 20,
+   "bbox": [
+    29.4,
+    390.9,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    393.9,
+    51.2,
+    409.1
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Aşağıda aynı büyüklükte dört parçaya bölünmüş özdeş iki cam levha ile bu levhaların bölümlerine yazılmış üslü ifadeler gösterilmiştir. 3 5 ( ) ( )   1 ( ) 2 2 − − − 2 1,1 10 2 1 − − − − − −   2   3 2 − ( ) 1 −   0,1 ( ) 10 ( ) 1 − − 1 0,1 − − −   3   1. cam 2. cam 1. cam levhadaki üslü ifadelerden değeri negatif tamsayı olanların bulunduğu bölüm mavi, 2. cam levhadaki üslü ifadelerden değeri pozitif tamsayı olanların bulunduğu bölüm sarıya boyanıyor. Bunların dışındaki bölümler boyanmadan bırakılıyor. Daha sonra bu iki cam levha yönleri değiştirilmeden kenarları çakışacak şekil",
+   "answer": "A",
+   "solved": false,
+   "skill": "Negatif üslü rasyonel değerlerin işaretini belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

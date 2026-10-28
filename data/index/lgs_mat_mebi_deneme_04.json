@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_04",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_04_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 4 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 25,
+ "key_pages": [
+  25
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    31.6,
+    90.6,
+    268.1,
+    389.7
+   ],
+   "num": [
+    35.6,
+    97.6,
+    44.6,
+    112.9
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Her katının yüksekliği birbirine eşit olan inşaat hâlindeki bir binanın en üst katında bulunan vince bağlı yükün konumu Görsel 1’de gösterilmiştir. Yük 2 8 br ? Yük Görsel 1 Görsel 2 Vince bağlı olan yük, 2 8 birim yukarı çekildiğinde yükün konumu Görsel 2’deki gibi olmaktadır. Buna göre binanın yüksekliği kaç birimdir? A) 2 8 B) 9 . 2 5 C) 12 2 D) 24 2",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü ifadelerle kat sayısından bina yüksekliği bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    29.4,
+    425.1,
+    268.6,
+    708.2
+   ],
+   "num": [
+    35.4,
+    428.1,
+    45.1,
+    443.4
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Bir sepette bulunan meyvelerin çeşitlerine göre dağılımı aşağıdaki daire grafiğinde verilmiştir. Grafik: Meyvelerin Çeşitlerine Göre Dağılımı Elma Portakal 54 o 144 o 72 o Armut Kivi Bu sepette bulunan portakal ile elma sayısı arasındaki fark 24’ten az olduğuna göre sepette bulunan toplam meyve sayısı en fazla kaçtır? A) 95 B) 80 C) 72 D) 60",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiği açıları ve fark koşuluyla toplam sayı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    279.2,
+    90.7,
+    510.1,
+    170.5
+   ],
+   "num": [
+    283.2,
+    97.7,
+    292.5,
+    113.0
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2,84 . 10 a sayısının 3000’den küçük olduğu 3. bilindiğine göre a’nın alabileceği en büyük doğal sayı değeri kaçtır? A) 5 B) 4 C) 3 D) 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Bilimsel gösterimde üs için eşitsizlik koşulu",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p3|q4",
+   "page": 3,
+   "n": 4,
+   "bbox": [
+    279.0,
+    284.2,
+    516.3,
+    389.7
+   ],
+   "num": [
+    283.0,
+    287.2,
+    292.5,
+    302.5
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. A bir tam sayı olmak üzere aşağıda bir özdeşlik verilmiştir. (3x - A) 2 = Bx 2 + 30x + C Bu özdeşliğe göre A + B + C kaçtır? A) -21 B) -11 C) 29 D) 39",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam kare özdeşlikten katsayıları bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p3|q5",
+   "page": 3,
+   "n": 5,
+   "bbox": [
+    279.0,
+    509.9,
+    544.8,
+    734.1
+   ],
+   "num": [
+    283.0,
+    512.9,
+    292.5,
+    528.2
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Aşağıda cebirsel ifadelerle ilgili üç eşitlik verilmiştir. K = 5x L = 3x – 2 M = x – 1 Buna göre (K – L) . M işleminin sonucu aşağıdakilerden hangisine eşittir? A) 2x 2 – 2 B) 2x 2 – 1 C) x 2 – 4 D) x 2 – 1",
+   "answer": "A",
+   "solved": false,
+   "skill": "Cebirsel ifadelerde çıkarma ve çarpma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    32.7,
+    90.4,
+    522.3,
+    435.7
+   ],
+   "num": [
+    36.7,
+    93.4,
+    46.2,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Yeterli uzunluğa sahip iki demir bloktan birine uç kısımlarından 3 santimetre boşluk bırakılarak üçer santimetre aralıklarla, diğerine ise uç kısımlarından 4 santimetre boşluk bırakılarak dörder santimetre aralıklarla doğrusal olacak şekilde aşağıdaki gibi yeterli sayıda delik açılıyor. 3 cm 4 cm Demir bloklar aşağıdaki gibi karşılıklı gelen deliklerden vidalanarak birleştirilecek ve üzerine 17 tonluk yük konulacaktır. ? Bağlantıda kullanılan her bir vidanın yük taşıma kapasitesi 5 tondur. Buna göre konulan yükü taşıyabilmesi için demir blokların yan yana gelen bölümlerinden birinin uzunluğ",
+   "answer": "B",
+   "solved": false,
+   "skill": "EKOK ile ortak delik sayısına göre uzunluk bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    29.4,
+    509.0,
+    544.8,
+    734.1
+   ],
+   "num": [
+    35.4,
+    512.0,
+    43.9,
+    527.3
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Uzun kenar uzunluğu 2 8 mm olan dikdörtgen biçimindeki özdeş karolar, aralarında boşluk kalmayacak ve üst üste gelmeyecek şekilde belirli bir örüntüye göre yan yana dizilerek aşağıdaki gibi dikdörtgen bir yapı oluşturulmuştur. Son durumda oluşan bu yapının uzun kenar uzunluğu 10 6 mm olduğuna göre, bu yapıda toplam kaç karo kullanılmıştır? B) 2 . 5 5 C) 4 . 5 5 A) 5 5 D) 5 6",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü uzunluklarla örüntüden karo sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p5|q8",
+   "page": 5,
+   "n": 8,
+   "bbox": [
+    32.4,
+    90.4,
+    509.7,
+    409.9
+   ],
+   "num": [
+    36.4,
+    93.4,
+    45.9,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Kalınlıkları birer santimetre olan beş tahta blok, Görsel 1’deki gibi sağdan hizalanarak birbirine paralel ve aralarında 15 cm boşluk olacak şekilde yerleştirilmiştir. Bu bloklar birbirlerine temas ettiklerinde devrilmektedir. cm 9 2 cm cm 8 3 4 14 cm B 4 15 cm 1 cm 6 15 ? 15 cm A A Görsel 2 Görsel 1 Bir köşesi A noktası olarak belirlenen ve uzunluğu 6 15 cm olan blok ok yönünde devriliyor. Bu bloklardan devrilen son bloğun yere temas eden uç noktası Görsel 2’deki gibi B noktası olarak belirleniyor. Tahta bloklar kaymadan devrildiğine göre A ile B noktaları arası mesafe santimetre cinsinden",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunlukların toplamını tam sayı aralığında tahmin etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    30.4,
+    446.9,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.4,
+    449.9,
+    45.8,
+    465.2
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Bir okuldaki öğrencilerin sınıf düzeylerine göre dağılımı aşağıdaki daire grafiğinde gösterilmiştir. Grafik: Öğrenci Sayılarının Sınıf Düzeylerine Göre Dağılımı 6. Sınıf 5. Sınıf 7. Sınıf 8. Sınıf Bu okuldan rastgele seçilen bir öğrencinin 6. sınıfta olma olasılığı ile 7. sınıfta olma olasılığı eşit iken 8. sınıfta olma olasılığı diğer sınıf düzeylerinde olma olasılıklarından daha fazladır. Bu okulda 180 öğrenci bulunduğuna göre 8. sınıfa giden öğrenci sayısı en az kaçtır? A) 47 B) 46 C) 45 D) 44",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiğiyle öğrenci sayısı için en az değer",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p6|q10",
+   "page": 6,
+   "n": 10,
+   "bbox": [
+    32.4,
+    90.4,
+    508.3,
+    361.4
+   ],
+   "num": [
+    36.4,
+    93.4,
+    51.1,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Beş farklı araç modeline ait özellikler, kullanıcılar tarafından puanlanarak aşağıdaki tablo oluşturulmuştur. Tablo: Araç Modellerinin Özelliklerinin Puanlaması Model A B C D E Özellik Yakıt 2 3 4 5 5 Güç 4 3 3 3 2 Motor 3 4 5 4 4 Tablodaki her bir modelin tüm özellikleri için verilen puanların aritmetik ortalaması alınarak o modelin seviyesi belirlenmektedir. Örneğin A modelinin seviyesi 2 4 3 1 1 O ’tür. 3 3 Buna göre bu araçlar içinden rastgele seçilen bir modelin seviyesinin 4’ten az olma olasılığı kaçtır? 4 3 2 B) A) 1 D) C) 5 5 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Aritmetik ortalamayla olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p6|q11",
+   "page": 6,
+   "n": 11,
+   "bbox": [
+    30.0,
+    447.0,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    450.0,
+    49.9,
+    465.3
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Kısa kenarı 0 16 , br olan, ön yüzü mavi ve arka yüzü kırmızı renkli dikdörtgen şeklindeki bir şerit aşağıdaki gibi üç defa katlanmıştır. Birer köşeleri çakışacak şekilde uçları birleştirilerek yapılan bu işlemler sonucunda, şeridin orta kısmında karesel bir bölge elde edilmiştir. Karesel bölgenin alanı 5,76 br 2 olduğuna göre şeridin uzunluğu kaç birimdir? A) 9,6 B) 10 C) 10,4 D) 10,8",
+   "answer": "D",
+   "solved": false,
+   "skill": "Ondalık karekökle katlanmış şeridin uzunluğunu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p7|q12",
+   "page": 7,
+   "n": 12,
+   "bbox": [
+    29.4,
+    90.4,
+    544.8,
+    734.6
+   ],
+   "num": [
+    35.4,
+    93.4,
+    48.7,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Aşağıda dört cam fanusa doldurulan farklı içeceklerin hacimleri ve bu fanuslara bağlı muslukların bir dakikada akıttıkları içecek miktarları verilmiştir. Su Portakal suyu Vişne suyu Limonata 60 L 40 L 35 L 30 L Dakikada Dakikada Dakikada Dakikada 5 L 4 L 1 L 2 L Dört musluk aynı anda açılarak fanuslarda bulunan içecekler boşaltılmaya başlanacaktır. Fanuslardaki içeceklerden herhangi biri bittiği anda tüm musluklar kapatılacaktır. Daha sonra fanuslarda kalan içeceklerin tamamı bir kapta karıştırılacaktır. Buna göre son durumda kaptaki karışımda bulunan içecek miktarlarının içecek türlerine ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Boşalma hızından karışım oranlarını daire grafiğine dönüştürme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    31.5,
+    90.4,
+    503.0,
+    321.1
+   ],
+   "num": [
+    35.5,
+    93.4,
+    48.6,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. İkizkenar yamuk biçimindeki bir karton ve bu kartonun paralel kenarlarının uzunlukları Görsel 1’de verilmiştir. Bu kartonlardan sekiz tanesi bir zemin üzerinde kenarları çakışacak şekilde birleştirilerek Görsel 2’deki gibi dikdörtgen biçiminde bir çerçeve oluşturuluyor. b cm a cm Görsel 1 Görsel 2 Oluşturulan çerçevenin zeminde kapladığı alanı santimetrekare cinsinden veren cebirsel ifadenin özdeşi aşağıdakilerden hangisidir? A) (a - b) . (a - b) B) (a + b) . (a - b) C) 2 . (a - b) . (a - b) D) 2 . (a + b) . (a - b)",
+   "answer": "D",
+   "solved": false,
+   "skill": "İki kare farkı özdeşliğiyle çerçeve alanını ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p8|q14",
+   "page": 8,
+   "n": 14,
+   "bbox": [
+    29.5,
+    375.2,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.7,
+    378.2,
+    49.7,
+    393.5
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Genişliği 80 dm olan iki katlı bir rafın 13 dm yüksekliğindeki üst rafına ön yüzünün alanı 72 dm 2 olan özdeş koliler, 11 dm yüksekliğindeki alt rafına ise ön yüzünün alanı 120 dm 2 olan özdeş koliler görseldeki gibi yerleştirilmiştir. 13 dm 11 dm 80 dm Ayrıt uzunlukları desimetre cinsinden tam sayı olan bu dikdörtgen prizma şeklindeki koliler, raflara tek sıra hâlinde, aralarında ve rafın yan kenarlarında boşluk kalmadan dizilmiştir. Kolilerin yükseklikleri raf yüksekliğini geçmeyecek şekilde raflara sığabilecek en fazla sayıda koli yerleştirilmiştir. Buna göre bu iki rafa yerleştirilen t",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan ve bölen koşuluyla raflara sığan en çok koli",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    32.7,
+    90.4,
+    492.2,
+    358.7
+   ],
+   "num": [
+    36.7,
+    93.4,
+    49.8,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Görsel 1’de ön yüzünün alanı (9x 2 + 12x + 4) dm 2 olan kare şeklindeki bir güneş paneli verilmiştir. 4 dm 4 dm Görsel 1 Görsel 2 Günün belirli bir saatinde güneş panelinin üzerine Görsel 2’deki gibi dikdörtgen biçiminde gölge düşmüştür. Panelin yalnızca güneş gören 4 dm yüksekliğindeki dikdörtgen bölümü elektrik üretebilmektedir. Buna göre panelin elektrik üretemeyen bölümünün desimetrekare cinsinden alanını veren cebirsel ifade aşağıdakilerden hangisidir? A) (3x – 2) 2 B) 9x 2 + 12x C) 9x 2 + 27x + 12 D) 9x 2 – 4",
+   "answer": "D",
+   "solved": false,
+   "skill": "Tam kare ifadeden iki kare farkı alanı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p9|q16",
+   "page": 9,
+   "n": 16,
+   "bbox": [
+    30.0,
+    423.5,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.0,
+    426.5,
+    49.1,
+    441.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Farklı asal çarpanlarının toplamı 5 olan K, L, M ve N sayıları, asal çarpanlarının çarpımı şeklinde aşağıdaki gibi ifade edilmiştir. K = p 2 . r 4 L = p 3 . r 3 M = p 4 . r 2 N = p 5 . r 1 Buna göre sayılardan tam kare olanların karekökleri toplamı kaçtır? A) 12 B) 24 C) 30 D) 36",
+   "answer": "C",
+   "solved": false,
+   "skill": "Asal çarpanlarına göre tam kare sayıları belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    31.9,
+    90.4,
+    520.2,
+    341.5
+   ],
+   "num": [
+    35.9,
+    93.4,
+    48.2,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Ardışık kenar uzunlukları (4x + 4) br ve (6x + 6) br olan dikdörtgen biçimindeki özdeş mavi ve sarı camlar, Görsel 1’deki gibi kendi içlerinde eş parçalara ayrılmıştır. (6x + 6) br (6x + 6) br (4x + 4) br (4x + 4) br Sarı Mavi Yeşil Mavi Cam Sarı Cam Görsel 1 Görsel 2 Camların parçalarından birer tanesi uzun kenarları ve birer köşeleri çakışacak şekilde Görsel 2’deki gibi üst üste konulmuştur. Buna göre Görsel 2’de görünen yeşil bölümün alanını birimkare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 4x 2 + 8x + 4 B) 4x 2 + 16x + 12 C) 6x 2 + 12 + 6 D) 8x 2 + 16x + 8",
+   "answer": "A",
+   "solved": false,
+   "skill": "Cebirsel kenarlı parçaların kesişim alanını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p10|q18",
+   "page": 10,
+   "n": 18,
+   "bbox": [
+    29.9,
+    423.5,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    426.5,
+    49.1,
+    441.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Bir tekstil atölyesinde pazartesi günü üç çeşit kıyafet üretimi yapılmıştır. Pazartesi günü üretilen ve satılan kıyafetlerin sayılarının çeşitlerine göre dağılımları aşağıdaki daire grafiklerinde gösterilmiştir. Grafik 1: Pazartesi Günü Üretilen Kıyafetlerin Grafik 2: Pazartesi Günü Satılan Kıyafetlerin Sayısının Çeşitlerine Göre Dağılımı Sayısının Çeşitlerine Göre Dağılımı Çorap Gömlek Çorap Gömlek 120 o 120 o 160 o Pantolon Pantolon Gün sonunda bu fabrikadaki pantolonların 20 tanesi satılmış, 55 tanesi satılmamıştır. Buna göre bu atölyede belirtilen günde satılmayan çorap ve gömlek sayıs",
+   "answer": "D",
+   "solved": false,
+   "skill": "İki daire grafiğini birleştirerek satılmayan ürün sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p11|q19",
+   "page": 11,
+   "n": 19,
+   "bbox": [
+    32.0,
+    86.4,
+    522.1,
+    335.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Bir otoyol uyarı sisteminde yan yana bulunan mavi ve turuncu renkli iki lamba aynı anda çalışmaya başlamıştır. Lambaların yanma ve sönük kalma süreleri aşağıda verilmiştir. Tablo: Lambaların Yanma ve Sönük Kalma Süreleri Lamba Rengi Yanma Süresi (sn.) Sönük Kalma Süresi (sn.) Mavi 4 2 Turuncu 6 6 Lambalar verilen sürelerde yanıp sönerek hiç duraksamadan çalışmaya devam etmektedir. Buna göre sistem çalışmaya devam ederken lambalara rastgele bir anda bakan bir kişinin her iki lambayı da aynı anda yanarken görme olasılığı kaçtır? A) 1 B) 1 5 D) 2 C) 3 4 12 3",
+   "answer": "A",
+   "solved": false,
+   "skill": "EKOK periyoduyla iki lambanın birlikte yanma olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_04|p11|q20",
+   "page": 11,
+   "n": 20,
+   "bbox": [
+    30.0,
+    351.4,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.3,
+    358.4,
+    49.7,
+    373.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Kürşat, Mete ve Ertuğrul’un 5, 6, 7 ve 8. sınıftaki matematik dersi not ortalamaları aşağıdaki grafikte verilmiştir. Grafik: Öğrencilerin Ortaokuldaki Matematik Dersi Not Ortalamaları Not Ortalaması 95 Kürşat 90 Mete 85 Ertuğrul 80 75 70 65 Sınıf Düzeyi 5. Sınıf 6. Sınıf 7. Sınıf 8. Sınıf Buna göre aşağıdaki ifadelerden hangisi doğrudur? A) Mete’nin her sınıf düzeyinde matematik dersi not ortalaması Kürşat’tan daha yüksektir. B) Ertuğrul’un matematik dersi not ortalamasının en yüksek olduğu sınıf düzeyi 6. sınıftır. C) Kürşat’ın matematik dersi not ortalaması sınıf düzeyi arttıkça sürekli ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sütun grafiğinden doğru yorumu seçme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

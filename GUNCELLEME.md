@@ -8,6 +8,26 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.1.0 · 28 Ekim 2026 · MEB kitabı ve MEBİ denemeleri
+
+**Yeni**
+- Soru bankasına **MEB LGS Çalışma Kitabı (Matematik)** eklendi: 6 ünitede 504 LGS tarzı soru, cevaplı.
+  Kitap ünite ünite bölündü (`kaynaklar/LGS_Matematik/14_MEB_Calisma_Kitabi/`); kitabın sonundaki 2018-2026
+  merkezî sınav soruları bankada zaten olduğu için alınmadı.
+- **12 MEBİ LGS denemesinin** matematik testleri eklendi (240 soru, `13_MEBI_Denemeler/`). 1-11'in cevapları
+  kitapçıktaki anahtardan, 12. denemeninki (anahtarı yayımlanmamış) Claude'un çözümünden gelir.
+- Yeni 744 sorunun hepsi kazanım, ölçtüğü beceri, rol ve 1-5 zorlukla etiketlendi. Beyin bu soruları
+  pekiştirme ve zorlayıcı adaylarda kullanır. Bankada artık 1679 soru var.
+
+**Düzeltmeler**
+- İndeksleyici: iki sütunlu sayfada boydan boya uzanan sorular, sütunlar arası sıralanan numaralar,
+  üç basamaklı soru numaraları ve sayfa çerçevesi süsleri artık doğru işleniyor.
+
+**Yapmanız gereken:** Güncellemeden sonra sunucuyu yeniden başlatın. (Güncellemeyi Claude yaparsa yeni PDF'leri,
+indeks dosyalarını ve puanları da ekler; bkz. `CLAUDE.md`.)
+
+---
+
 ## 2.0.0 · 28 Ekim 2026 · LGS ve tek ekran
 
 **Yeni**

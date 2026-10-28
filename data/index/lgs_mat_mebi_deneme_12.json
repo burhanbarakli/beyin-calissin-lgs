@@ -1,0 +1,601 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_12",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_12_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 12 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 23,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    32.0,
+    97.3,
+    272.4,
+    271.6
+   ],
+   "num": [
+    36.0,
+    100.4,
+    43.7,
+    115.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Uzunluğu 7 m olan bir ip aşağıda gösterilmiştir. 7 m Buna göre bu ipin uzunluğu desimetre cinsinden aşağıdakilerden hangisine eşittir? (1 m = 10 dm) A) 70 B) 5 14 C) 2 175 D) 70",
+   "answer": "C",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Birim dönüşümünde katsayıyı kök içine alma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    32.3,
+    396.5,
+    268.2,
+    538.3
+   ],
+   "num": [
+    36.3,
+    399.5,
+    44.4,
+    414.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Alanı 360 m 2 ve kenar uzunlukları metre cinsinden doğal sayı olan dikdörtgen şeklinde bir arsanın içine, alanları metrekare cinsinden tam kare olan farklı büyüklükte iki adet kare şeklinde oyun alanı tasarlanacak ve geri kalan bölgeye çim ekilecektir. Buna göre, çim ekilecek alan en az kaç metrekaredir? A) 11 B) 25 C) 32 D) 54",
+   "answer": "C",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Dikdörtgene sığan tam kare alanları bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    279.5,
+    90.4,
+    506.2,
+    184.2
+   ],
+   "num": [
+    283.5,
+    93.4,
+    291.5,
+    108.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Bir ürünün alış fiyatı (3x + 5) TL , satış fiyatı (5x - 9) TL ’dir. Bu ürünün satışından zarar edilmediğine göre, x en az kaçtır? A) 6 B) 7 C) 8 D) 9",
+   "answer": "B",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Kâr-zarar koşulunu eşitsizlikle çözme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p3|q4",
+   "page": 3,
+   "n": 4,
+   "bbox": [
+    279.5,
+    396.5,
+    522.6,
+    647.0
+   ],
+   "num": [
+    283.5,
+    399.5,
+    291.5,
+    414.8
+   ],
+   "topic": "Geometrik Cisimler: Prizmalar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Aşağıda bir dik üçgen dik prizma modelinin bazı ayrıt uzunlukları prizmanın açınımı üzerinde gösterilmiştir. 4 dm 6 dm 3 dm Buna göre bu prizmanın ayrıt uzunlukları toplamı kaç desimetredir? A) 42 B) 48 C) 51 D) 62",
+   "answer": "A",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Prizma açınımından ayrıt uzunlukları toplamı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    32.0,
+    90.4,
+    272.4,
+    206.8
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. a = 16 3 b = 8 5 c = 32 2 olduğuna göre a, b ve c sayılarının büyükten küçüğe doğru sıralanışı aşağıdakilerden hangisidir? A) a >b> c B) a > c >b C) b> c >a D) b>a > c",
+   "answer": "D",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Üslü ifadeleri aynı tabana çevirip sıralama",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    279.5,
+    90.4,
+    523.6,
+    321.2
+   ],
+   "num": [
+    283.5,
+    93.4,
+    291.5,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Alanları küçükten büyüğe doğru birbirinin iki katı olan üç farklı boyuttaki kare kartonlar, kenarları ve köşeleri çakışacak şekilde birleştirilerek aşağıdaki yapı oluşturulmuştur. ? En küçük kartonun alanı 6,25 cm 2 olduğuna göre, bu yapının santimetre cinsinden uzunluğu aşağıdaki tam sayılardan hangisine daha yakındır? A) 17 B) 18 C) 19 D) 20",
+   "answer": "D",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Kare kenarlarını bulup toplam uzunluğu tahmin",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p4|q7",
+   "page": 4,
+   "n": 7,
+   "bbox": [
+    32.0,
+    415.9,
+    521.3,
+    666.0
+   ],
+   "num": [
+    36.0,
+    418.9,
+    43.2,
+    434.2
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "TK&=_ir=antrenörI=doğrusal=bir=parkur=üzerine=aralarında=eşit=mesafe=olacak=şekilde=S=adet=özdeş=duba=dizmiştirK=EOx=2==J==UF=cm=ENMx=H=OMF=cm=markurdaki=her=bir=dubanın=taban=genişliği=ENMx=H=OMF=cm=ve=ardışık=iki=duba=arasındaki=boşluk= (2x 2 – 8) cm’dir. Antrenör, dubalar arasındaki boşlukları kapatarak hepsini birbirine temas edecek şekilde yeniden dizmiş ve ardından oluşan boşluğa, aynı taban genişliğine sahip yeni dubalar ekleyerek parkuru doğrusal bir şekilde tamamen doldurmuştur. Buna göre parkura sonradan ilave edilen duba sayısını gösteren cebirsel ifade aşağıdakilerden hangisidir? A",
+   "answer": "A",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "İki kare farkıyla ifadeyi sadeleştirme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p5|q8",
+   "page": 5,
+   "n": 8,
+   "bbox": [
+    32.0,
+    90.4,
+    460.0,
+    292.8
+   ],
+   "num": [
+    36.0,
+    93.4,
+    45.4,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Kenar uzunlukları 32 2 mm ve 8 3 mm olan dikdörtgen biçimindeki kâğıt aşağıda verilmiştir. Bu kâğıttan, her birinin alanı 16 4 mm 2 olan iki adet kare, şekildeki gibi kesilerek atılıyor. Son durumda elde edilen şeklin çevre uzunluğu kaç milimetredir? A) 2 9 B) 2 10 C) 7 · 2 9 D) 5 · 2 10",
+   "answer": "C",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Üslü uzunluklarla kesilen şeklin çevresi",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p5|q9",
+   "page": 5,
+   "n": 9,
+   "bbox": [
+    32.0,
+    412.2,
+    523.6,
+    678.3
+   ],
+   "num": [
+    36.0,
+    419.2,
+    45.4,
+    434.5
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Tamamı sıvı gübreyle dolu bir bidon ve hacmi 3 2 L olan sulama kabı aşağıda verilmiştir. 3§2 L Sıvı Gübre Sulama Kabı Nilgün, sulama kabını sıvı gübreyle tam doldurarak kullanmaktadır. Sulama kabını 5. kez doldururken sulama kabı tam dolmadan bidondaki sıvı gübre tükenmiştir. Buna göre sıvı gübrenin litre cinsinden alabileceği en büyük ve en küçük doğal sayı değerlerinin toplamı kaçtır? A) 41 B) 38 C) 37 D) 35",
+   "answer": "B",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Kareköklü hacimle doğal sayı aralığı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p6|q10",
+   "page": 6,
+   "n": 10,
+   "bbox": [
+    32.7,
+    91.1,
+    272.4,
+    351.6
+   ],
+   "num": [
+    36.7,
+    94.1,
+    49.8,
+    109.4
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. x bir tam sayı olmak üzere kenar uzunlukları x cm, 2x cm ve 12 cm olan KLM üçgeni aşağıda gösterilmiştir. K 2x cm x cm M L 12 cm Buna göre KLM üçgeninin çevre uzunluğunun santimetre cinsinden alabileceği en büyük tam sayı değeri, en küçük tam sayı değerinden kaç fazladır? A) 12 B) 14 C) 16 D) 18",
+   "answer": "D",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Üçgen eşitsizliğiyle çevre aralığını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p6|q11",
+   "page": 6,
+   "n": 11,
+   "bbox": [
+    32.0,
+    399.5,
+    272.4,
+    665.6
+   ],
+   "num": [
+    36.0,
+    402.5,
+    48.5,
+    417.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. A torbasında 1’den 25’e kadar ardışık doğal sayıların, B torbasında ise 1’den n’ye kadar ardışık doğal sayıların yazılı olduğu kartlar bulunmaktadır. A B A torbasından rastgele çekilen bir kartın üzerinde yazan sayının en az bir basamağında 2 rakamının bulunması olayına ait olası durum sayısı, B torbasından rastgele çekilen bir kartın üzerinde yazan sayının asal sayı olması olayına ait olası durum sayısına eşittir. Buna göre B torbasında bulunan kart adedi (n) en fazla kaçtır? A) 28 B) 22 C) 16 D) 8",
+   "answer": "B",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Olası durum sayılarını eşitleyerek bilinmeyen bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p6|q12",
+   "page": 6,
+   "n": 12,
+   "bbox": [
+    279.5,
+    86.9,
+    516.2,
+    234.7
+   ],
+   "num": [
+    283.5,
+    93.9,
+    296.5,
+    109.2
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Bir çiftçi, tarlasının birinci gün 1 ’ünü, ikinci gün 3 ise 1 ’ini hasat etmiştir. İlk iki günde hasat ettiği 5 toplam alan, tarlanın toplam alanının yarısından 6 dönüm fazladır. Çiftçi, hasadı 3 günde tamamlamayı planlamaktadır. Buna göre üçüncü gün kaç dönüm daha hasat etmelidir? A) 84 B) 65 C) 56 D) 45",
+   "answer": "A",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Kesirli ifadelerle denklem kurup çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p6|q13",
+   "page": 6,
+   "n": 13,
+   "bbox": [
+    280.3,
+    399.4,
+    522.7,
+    717.5
+   ],
+   "num": [
+    284.3,
+    402.4,
+    297.4,
+    417.6
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Aşağıdaki dik koordinat sisteminde, kenarları eksenlere paralel olan bir ABCD dikdörtgeni çizilmiş ve A noktasının koordinatları verilmiştir. y A ( - 1, 5) D x 0 B C Dikdörtgenin kenar uzunlukları birer tam sayı ve alanı 60 birimkaredir. Buna göre IV. bölgede bulunan C noktasının koordinatları toplamı en fazla kaçtır? A) 11 B) 8 C) 0 D) –3",
+   "answer": "B",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Koordinatlarda dikdörtgen alanından nokta bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p7|q14",
+   "page": 7,
+   "n": 14,
+   "bbox": [
+    32.3,
+    90.4,
+    506.0,
+    345.3
+   ],
+   "num": [
+    36.3,
+    93.4,
+    49.3,
+    108.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Bazı açı ölçüleri verilen ve birer kenar uzunlukları eşit olan üçgen biçimindeki sarı ve mavi renkli kartonlar Görsel 1’de verilmiştir. 60° 60° A 60° 70° 40° B C Görsel 1 Görsel 2 Bu kartonlar, eşit uzunluktaki kenarları çakışacak biçimde Görsel 2’deki gibi birleştirilmiş ve görünen üçgen biçimindeki sarı bölgenin köşeleri A, B ve C olarak isimlendirilmiştir. Buna göre ABC üçgeninin kenar uzunluklarının sıralaması aşağıdakilerden hangisidir? A) |AB| > |BC| > |AC| B) |AB| > |AC| > |BC| C) |BC| > |AC| > |AB| D) |BC| > |AB| > |AC|",
+   "answer": "D",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Birleştirilen üçgenlerde açılardan kenar sıralama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p7|q15",
+   "page": 7,
+   "n": 15,
+   "bbox": [
+    32.0,
+    399.4,
+    477.6,
+    682.6
+   ],
+   "num": [
+    36.0,
+    402.4,
+    48.9,
+    417.6
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Pistte 1. konumdan havalanan bir insansız hava aracı (İHA), doğrusal bir şekilde 1 km yol alarak 2. konuma gelmiştir. 2. Konum 1 km 1. Konum 2. konumda İHA yerden 600 m yüksekliğe ulaşmıştır. Buna göre İHA’nın 1. konumu ile 2. konumu arasındaki yatay uzaklık kaç metredir? A) 600 B) 750 C) 800 D) 850",
+   "answer": "C",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Pisagor ile yatay uzaklığı bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p8|q16",
+   "page": 8,
+   "n": 16,
+   "bbox": [
+    32.0,
+    90.4,
+    465.2,
+    366.2
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Dönüşüm Geometrisi: Dönüşüm Geometrisi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Aşağıdakilerden hangisinde verilen motifler, eksenlere göre birbirinin yansımasıdır? A) B) y y x x C) D) y y x x",
+   "answer": "A",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Eksenlere göre yansıyan motifi belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p8|q17",
+   "page": 8,
+   "n": 17,
+   "bbox": [
+    32.0,
+    425.6,
+    496.8,
+    685.0
+   ],
+   "num": [
+    36.0,
+    428.6,
+    48.1,
+    443.9
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Bir mağazada satışa sunulan A, B ve C marka televizyonların sayılarının dağılımı Grafik1’de, bir süre sonra satılan televizyon sayılarının dağılımı ise Grafik 2’de verilmiştir. Grafik 1: Satışa Sunulan Televizyon Grafik 2: Satılan Televizyon Sayılarının Dağılımı Sayılarının Dağılımı C A A B 120° 120° C B Buna göre satılmayan toplam televizyon sayısı en az kaçtır? A) 0 B) 12 C) 14 D) 24",
+   "answer": "B",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "İki daire grafiğiyle en az değeri bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p9|q18",
+   "page": 9,
+   "n": 18,
+   "bbox": [
+    32.0,
+    90.4,
+    518.1,
+    361.5
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Kenar uzunlukları 4x cm ve 2x cm olan Görsel 1’deki dikdörtgenin AD kenarı üzerinde; |ED|, |AE|’den 2 cm fazla olacak biçimde E noktası, AB kenarı üzerinde ise |AF|, |FB|’den 4 cm fazla olacak biçimde F noktası belirlenmiştir. F F A B A B E E H 2x cm D C D C 4x cm Görsel 1 Görsel 2 Görsel 2’de ise E noktasından geçecek şekilde AB kenarına paralel olan ve F noktasından geçecek şekilde BC kenarına paralel olan doğrular çizilmiş, doğruların kesiştiği nokta H olarak isimlendirilmiştir. Buna göre oluşan AFHE dikdörtgeninin alanını veren cebirsel ifade aşağıdakilerden hangisidir? A) 2(x – 1) 2 B",
+   "answer": "D",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Kenar ilişkilerinden alan ifadesi yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p9|q19",
+   "page": 9,
+   "n": 19,
+   "bbox": [
+    32.0,
+    425.6,
+    508.1,
+    687.5
+   ],
+   "num": [
+    36.0,
+    428.6,
+    49.1,
+    443.9
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Köşe noktaları A, B ve C olarak adlandırılan üçgen biçimindeki kâğıt Görsel 1’de verilmiştir. A A B C B C D Görsel 1 Görsel 2 Görsel 3 Görsel 2’de bu kâğıt, B köşesi C köşesinin üzerine gelecek şekilde katlanıp açılıyor. Görsel 3’te oluşan kat izinin BC kenarını kestiği nokta D noktası olarak işaretleniyor. A ve D noktaları birleştirildiğinde  m(ACD) olduğu görülüyor.  m(BAD) = BC doğru parçasının uzunluğu 8 2 cm olduğuna göre, AB doğru parçasının uzunluğu kaç santimetredir? A) 4 B) C) 8 D) 4 2 8 2",
+   "answer": "C",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Katlamada benzer üçgenlerle kenar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_12|p10|q20",
+   "page": 10,
+   "n": 20,
+   "bbox": [
+    31.4,
+    90.4,
+    516.9,
+    310.2
+   ],
+   "num": [
+    35.4,
+    93.4,
+    48.9,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Aşağıda uzun kenar uzunluğu 13 · 3 7 cm olan dikdörtgen biçiminde bir levha verilmiştir. 13 · 3 7 cm Bu levha, alanları sırasıyla birbirinin 3 katı olacak şekilde görseldeki gibi dikdörtgen biçiminde üç parçaya ayrılmıştır. En küçük parça kare biçiminde olduğuna göre, bu parçanın alanı kaç santimetrekaredir? A) 3 12 B) 3 14 C) 3 16 D) 3 18",
+   "answer": "B",
+   "solved": false,
+   "answer_source": "claude",
+   "skill": "Oranlı alanlardan üslü ifadeyle alan bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": false
+}

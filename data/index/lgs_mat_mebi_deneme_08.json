@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_08",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_08_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 8 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 25,
+ "key_pages": [
+  25
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    86.4,
+    506.4,
+    348.4
+   ],
+   "num": [
+    36.0,
+    93.4,
+    43.7,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Kenar uzunlukları (4x + 2y) m ve 5x m olan dikdörtgen şeklindeki bir arsa içerisine zemini dikdörtgen şeklinde olan bir ev yapılmıştır. Bu evin zemininin kenarları, arsanın kenarlarına paralel olup arsanın kenarlarına olan uzaklıkları metre cinsinden aşağıdaki görselde verilmiştir. 5x m x y 2x (4x + 2y) m y Buna göre evin zemininin alanını metrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) (3x + 1) 2 B) 9x 2 – y 2 C) 9x 2 + 6xy + y 2 D) 8x 2 + 2xy – y 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kenarları cebirsel olan dikdörtgenin alanını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    32.0,
+    406.9,
+    516.2,
+    714.2
+   ],
+   "num": [
+    36.0,
+    409.9,
+    44.1,
+    425.2
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Bir şirkette çalışan personel sayısının yaş gruplarına göre yüzde oranı sütun grafiğinde, 39 yaş üstü kişilerin mobil bankacılık kullanma durumuna göre dağılımı ise daire grafiğinde gösterilmiştir. Grafik 1: Yaş Gruplarına Göre Personel Grafik 2: 39 Yaş Üstü Kişilerin Mobil Bankacılık Sayısının Yüzde Oranı Kullanma Durumlarına Göre Dağılımı Personel Sayısı (%) 31 29 Kullananlar 72 o 17 Kullanmayanlar 13 10 Yaş Grubu 20-29 30-39 40-49 50-59 60 ve üstü Bu şirkette 39 yaş üstü olan 160 kişi mobil bankacılık kullandığına göre şirketin personel sayısı kaçtır? A) 500 B) 800 C) 1400 D) 2000",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sütun ve daire grafiğini birlikte yorumlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p4|q3",
+   "page": 4,
+   "n": 3,
+   "bbox": [
+    32.0,
+    90.4,
+    272.4,
+    220.2
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Alanı 84 m 2 olan dikdörtgen biçimindeki bir arsanın kenar uzunlukları metre cinsinden aralarında asaldır. Bu arsanın çevresi metre fiyatı 20 TL olan telle bir sıra olacak şekilde çevrilecektir. Buna göre telin maliyeti Türk lirası cinsinden aşağıdakilerden hangisi olamaz? A) 800 B) 1000 C) 1240 D) 3400",
+   "answer": "A",
+   "solved": false,
+   "skill": "Aralarında asal kenarlarla çevre hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    279.7,
+    90.4,
+    523.5,
+    311.6
+   ],
+   "num": [
+    283.7,
+    93.4,
+    291.8,
+    108.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Bir fanus içerisinde özdeş 26 top bulunmaktadır. Toplardan 13 tanesinin üzerine 3 sayısı, diğerlerinin üzerine ise 5 sayısı birer kez yazılmıştır. Çağrı ve Tuğrul, bu fanus içerisinden bir miktar top almıştır. Çağrı’nın aldığı topların üzerinde yazan sayıların toplamı 11, Tuğrul’un aldığı topların üzerinde yazan sayıların toplamı ise 19’dur. Çağrı ve Tuğrul topları aldıktan sonra fanusta kalan toplar arasından rastgele alınan bir topun üzerinde 5 yazılı olma olasılığı kaçtır? A) 1 B) 5 C) 4 D) 5 6 18 8 9",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çekilişler sonrası kalan toplarda olasılık hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    32.0,
+    406.9,
+    518.4,
+    671.3
+   ],
+   "num": [
+    36.0,
+    409.9,
+    44.0,
+    425.2
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Aşağıdaki görselde, her birinin alanı santimetrekare cinsinden iki basamaklı tam sayı olan kırmızı, mavi ve yeşil renkli üç farklı kartonun üst üste yerleştirilmesiyle elde edilen bir yapı görülmektedir. Yeşil Mavi Kırmızı Bu kartonların alanları küçükten büyüğe doğru sırasıyla santimetrekare cinsinden Y, M ve K olup bu sayılar arasında EBOB(Y, M) = 9 ve EBOB(M, K) = 8 eşitliği veriliyor. Buna göre bu yapıya üstten bakıldığında görünen kırmızı ve yeşil renkli bölgelerin alanları toplamı en fazla kaç santimetrekare olur? A) 25 B) 33 C) 79 D) 87",
+   "answer": "C",
+   "solved": false,
+   "skill": "EBOB koşullarıyla alanların en büyük değerini bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    32.0,
+    90.4,
+    505.6,
+    347.6
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Aşağıda gösterilen kendi içinde özdeş kırmızı, sarı ve mavi renkteki şeritlerden yeterli sayıda vardır. Kırmızı Sarı Mavi Şeritler doğrusal olarak uç uca eklenip karşılaştırıldığında bu şeritlerin uzunlukları arasındaki ilişkiler aşağıdaki gibi olmaktadır. • 1 sarı şeridin uzunluğu, 4 kırmızı şeridin toplam uzunluğundan 8 cm uzundur. • 1 mavi şeridin uzunluğu, 9 kırmızı şeridin toplam uzunluğundan 13 cm uzundur. • 2 sarı şeridin toplam uzunluğu, 1 mavi şeridin uzunluğundan 15 cm kısadır. Buna göre sarı şeritlerden birinin uzunluğu kaç santimetredir? A) 80 B) 72 C) 40 D) 18",
+   "answer": "A",
+   "solved": false,
+   "skill": "Uzunluk ilişkilerinden denklem kurup çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    31.4,
+    523.4,
+    501.9,
+    695.7
+   ],
+   "num": [
+    35.4,
+    526.4,
+    42.9,
+    541.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Aşağıda ABCD~KLMN olmak üzere iki dikdörtgen ve bu dikdörtgenlerin kenar uzunlukları verilmiştir. N M D C (2x - 2) cm 2 cm B A L K 5 cm (4x - 1) cm Buna göre KLMN dikdörtgeninin çevre uzunluğu kaç santimetredir? A) 28 B) 30 C) 36 D) 42",
+   "answer": "D",
+   "solved": false,
+   "skill": "Benzer dikdörtgenlerde oranla kenar bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    32.0,
+    90.4,
+    523.5,
+    467.9
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.1,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Sivas’tan tam dolu batarya ile yola çıkan bir elektrikli aracın güzergâhı ve bu güzergâh üzerinde bulunan yerleşim yerleri arasındaki mesafeler aşağıda verilmiştir. Sivas Akdağ Sorgun Yozgat Yerköy Çerikli 120 km 70 km 35 km 40 km 60 km Bu aracın batarya şarj seviyesinin ve aldığı yolun zamana bağlı değişimini gösteren doğrusal grafikler aşağıda gösterilmiştir. Grafik 1: Batarya Şarj Seviyesinin Grafik 2: Gidilen Yolun Zamana Zamana Göre Değişimi Göre Değişimi Şarj (%) Yol (km) 180 100 50 Zaman (sa.) Zaman (sa.) 0 0 3 2 Sistem, batarya şarj seviyesi %10’un altına düştüğü anda “Düşük Enerji”",
+   "answer": "B",
+   "solved": false,
+   "skill": "İki doğrusal grafiği birlikte yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    32.0,
+    523.1,
+    518.4,
+    700.6
+   ],
+   "num": [
+    36.0,
+    526.3,
+    44.0,
+    541.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Dikdörtgen biçiminde bir panonun kenar uzunlukları, uzunluğu 27 dm olan çubuklar uç uca eklenerek aşağıdaki gibi ölçülmüştür. 3 dm 3 dm Buna göre panonun bir yüzünün alanı kaç desimetrekaredir? A) 27 3 B) 32 3 C) 81 D) 96",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla dikdörtgen alanı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    31.4,
+    90.7,
+    522.0,
+    371.4
+   ],
+   "num": [
+    35.4,
+    93.7,
+    48.6,
+    109.0
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Aşağıda, üzerinde birer sayının yazılı olduğu dokuz adet top ile sarı ve yeşil renkli boş iki torba verilmiştir. 24 20 9 18 10 25 15 4 30 Sarı Yeşil Bu toplardan üzerinde 24 ve 10 yazılı olanlar sarı torbaya, 9 ve 25 yazılı olanlar ise yeşil torbaya atılmıştır. Bu iki torbaya, kalan toplardan birer adet daha atılıp her bir torbadaki topların üzerinde yazan sayılar çarpılmıştır. Çarpma işlemleri sonucunda elde edilen sayılar birer tam kare pozitif tam sayıya eşit olmuştur. Buna göre sarı ve yeşil torbalara sonradan atılan topların üzerinde yazan sayıların toplamı kaçtır? A) 19 B) 24 C) 45 D",
+   "answer": "A",
+   "solved": false,
+   "skill": "Çarpımı tam kare yapacak sayıyı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p7|q11",
+   "page": 7,
+   "n": 11,
+   "bbox": [
+    32.0,
+    419.2,
+    514.9,
+    711.5
+   ],
+   "num": [
+    36.0,
+    422.2,
+    48.5,
+    437.5
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Uzun kenar uzunlukları (5x – 7) cm olan Görsel 1’deki dikdörtgen şeklinde özdeş üç cam Görsel 2’deki gibi üst üste yapıştırılarak bir yapı oluşturulmuş ve camların bir bölümü mora boyanmıştır. Zemin (5x – 7) cm Görsel 1 Görsel 2 Boyanan mor bölümler kare şeklinde ve her birinin ön yüzünün alanı (x 2 – 4x + 4) cm 2 dir. Buna göre camlar ile zemin arasında oluşan dikdörtgensel bölgenin alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 3x 2 – 56x + 165 B) 3x 2 – 3 C) 9x 2 – 18x + 9 D) 9x 2 – 9",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare ifadeden kenar bulup alan ifadesi yazma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p8|q12",
+   "page": 8,
+   "n": 12,
+   "bbox": [
+    32.0,
+    90.4,
+    499.5,
+    342.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.2,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Aşağıdaki görselde tesisat arızalarının neden olduğu günlük su israfı ile ilgili bir broşür verilmiştir. SU HAYATTIR, BOŞA HARCAMA! Damlayan bir musluk Su sızdıran bir sifon günde 40 litre su israf eder. günde 150 litre su israf eder. Bir apartmanda yapılan su tasarrufu denetimlerinde 5 dairede muslukların damlattığı, 2 dairede ise sifonların su sızdırdığı tespit edilmiştir. Musluk ve sifonlardaki arızalar 30 gün sonra tamir edilmiştir. Buna göre bu sürede arızalı musluk ve sifonlardan boşa akan toplam su miktarının mililitre cinsinden bilimsel gösterimi aşağıdakilerden hangisidir? (1 L = ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Su israfı miktarını bilimsel gösterimle yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    32.0,
+    419.2,
+    503.1,
+    663.8
+   ],
+   "num": [
+    36.0,
+    422.2,
+    49.1,
+    437.5
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Bir kargo firmasının akıllı dağıtım merkezindeki küp biçiminde özdeş koliler, üzerinde yazan sayılara göre otomatik olarak iki farklı banda ayrılmaktadır. Bu kolilerin üzerinde yazan sayılar aşağıda gösterilmiştir. 3,14 0,64 ° 48 27 10 3 289 5 2 1 3 Bu kolilerden üzerinde rasyonel sayı yazanlar 1. banda, irrasyonel sayı yazanlar ise 2. banda yönlendirilmiştir. Buna göre bantlara yönlendirilen koli sayıları arasındaki fark kaçtır? A) 0 B) 2 C) 4 D) 6",
+   "answer": "B",
+   "solved": false,
+   "skill": "Rasyonel ve irrasyonel sayıları ayırt etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p9|q14",
+   "page": 9,
+   "n": 14,
+   "bbox": [
+    31.0,
+    90.4,
+    520.5,
+    249.2
+   ],
+   "num": [
+    35.0,
+    93.4,
+    48.0,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Sıcaklık artışının beta bakterisinin çoğalması üzerindeki etkisini inceleyen bilim insanları, bir miktar beta bakterisi ile iki ayrı deney ortamı oluşturarak gözlem yapacaktır. Kullanılan bakterilerin yarısı 1. deney ortamına, diğer yarısı ise 2. deney ortamına aynı anda bırakılmıştır. 1. deney ortamındaki bakterilerin her 90 dakikada 8 katına çıktığı, 2. deney ortamındaki bakterilerin ise her 45 dakikada 4 katına çıktığı gözlemlenmiştir. Buna göre 3 saat sonunda 2. deney ortamındaki bakteri sayısının, 1. deney ortamındaki bakteri sayısına oranı aşağıdakilerden hangisine eşit olur? A) 2 2 ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Katlanarak artışı üslü ifadeyle oranlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    29.0,
+    344.1,
+    521.7,
+    687.4
+   ],
+   "num": [
+    35.4,
+    347.1,
+    48.3,
+    362.4
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Boyu 130 cm olan Arda, evlerinin duvarından 300 cm uzaklıkta bulunan tabelaya gergin olarak bağlanan ipin altında durmaktadır. 200 cm 130 cm TABELA 80 cm 300 cm İpin tabelaya bağlandığı noktanın yerden yüksekliği 80 cm, duvara bağlandığı noktanın yerden yüksekliği ise 200 cm’dir. Arda, dik bir şekilde evinden tabelaya doğru ip doğrultusunda yürümeye başlamış ve kafası ipe değdiği anda durmuştur. Buna göre son durumda Arda’nın bulunduğu noktanın, tabelanın bulunduğu noktaya olan uzaklığı kaç santimetredir? A) 75 B) 125 C) 175 D) 240",
+   "answer": "B",
+   "solved": false,
+   "skill": "Benzer üçgenlerle gerçek hayat uzaklığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p10|q16",
+   "page": 10,
+   "n": 16,
+   "bbox": [
+    31.4,
+    90.4,
+    514.7,
+    271.0
+   ],
+   "num": [
+    35.4,
+    93.4,
+    48.6,
+    108.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Aşağıda hacmi 22 L olan boş bir kova ve bu kovaya su doldurmak için kullanılacak bir sürahi verilmiştir. Sürahi her defasında tam doldurularak, kovaya 5 kez boşaltıldığında kovadan bir miktar su taştığı ve taşan suyun 3 L ’den az olduğu görülmüştür. Kullanılan sürahinin hacmi x litre olduğuna göre, x’in alabileceği değerleri gösteren eşitsizlik aşağıdakilerden hangisidir? A) 0 < x < 5 B) 0 < x ≤ 5 C) 4,4 < x < 5 D) 4,4 ≤ x ≤ 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Taşma koşulunu eşitsizlikle modelleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    32.0,
+    344.1,
+    518.0,
+    643.6
+   ],
+   "num": [
+    36.0,
+    347.1,
+    48.3,
+    362.4
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Dik koordinat sisteminde iğneli ucu orijin üzerine yerleştirilen bir pergelin diğer ucu A(3, 4) noktası üzerindedir. y A 4 3 2 1 x O 1 2 3 4 Pergel bu konumdayken açıklığı değiştirilmeden bir çember çiziliyor. Buna göre köşe noktaları çemberin eksenleri kestiği noktalar olan dörtgenin alanı kaç birimkaredir? A) 24 B) 25 C) 48 D) 50",
+   "answer": "D",
+   "solved": false,
+   "skill": "Koordinat düzleminde Pisagor ile yarıçap bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p11|q18",
+   "page": 11,
+   "n": 18,
+   "bbox": [
+    32.0,
+    90.4,
+    509.9,
+    323.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.1,
+    108.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Görsel 1’de verilen kare biçimindeki kâğıdın bir yüzünün alanı 128 cm 2 dir. Bu kâğıt, Görsel 2’deki gibi katlandığında kâğıt üzerinde EAB üçgeni oluşmuştur. A B B E A D C D C Görsel 1 Görsel 2 EAB üçgeninin EA kenarının uzunluğu 4 cm olduğuna göre, EB kenarının uzunluğu kaç santimetredir? A) 14 B) 13 C) 12 D) 11",
+   "answer": "C",
+   "solved": false,
+   "skill": "Katlamada Pisagor bağıntısıyla kenar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p11|q19",
+   "page": 11,
+   "n": 19,
+   "bbox": [
+    32.0,
+    385.2,
+    511.6,
+    614.0
+   ],
+   "num": [
+    36.0,
+    388.2,
+    49.1,
+    403.5
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Aşağıdaki tablolarda, A ve B dijital kanallarında içerik paylaşan üyelerin ödeyeceği tek seferlik üyelik ücreti ile bu üyelerin izlenme başına elde edeceği ücret tarifesi verilmiştir. Tablo 1: Kanallara Ödenen Üyelik Tablo 2: Üyenin İzlenme Başına Ücretleri (TL) Elde Edeceği Ücret (TL) A Kanalı B Kanalı A Kanalı B Kanalı 400 500 0,25 0,3 Metin, A ve B kanallarının ikisine de üye olmuş ve bu kanallara birer video yüklemiştir. Bu videolar, bir hafta boyunca her iki kanalda da eşit sayıda izlenmiştir. Metin’in A kanalından elde ettiği kârın, B kanalından elde ettiği kârdan daha fazla olduğu b",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kâr karşılaştırmasını eşitsizlikle çözme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_08|p12|q20",
+   "page": 12,
+   "n": 20,
+   "bbox": [
+    32.6,
+    90.4,
+    515.6,
+    329.4
+   ],
+   "num": [
+    36.6,
+    93.4,
+    50.0,
+    108.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Kenar uzunlukları 8 cm ve 12 cm olan ABCD dikdörtgeninin ardışık iki kenarı üzerinde E ve F noktaları işaretlenerek DEF üçgeni oluşturulmuştur. D 12 cm C F 8 cm B A E CF doğru parçasının uzunluğu 2 cm ve EB doğru parçasının uzunluğu 7 cm’dir. Buna göre DEF üçgeninin iç açı ölçülerinin küçükten büyüğe sıralanışı aşağıdakilerden hangisidir?       A) m(D) m(F) m(E) B) m(F) m(D) m(E)           C) m(E) m(D) m(F) D) m(E) m(F) m(D)    ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Pisagorla kenarları bulup açıları sıralama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

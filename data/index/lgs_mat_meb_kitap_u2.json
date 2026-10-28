@@ -1,0 +1,3325 @@
+{
+ "book": {
+  "id": "lgs_mat_meb_kitap_u2",
+  "path": "kaynaklar/LGS_Matematik/14_MEB_Calisma_Kitabi/MEB_Calisma_Kitabi_Unite2_Karekoklu_Ifadeler-Veri_Analizi.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "meb_kitap",
+  "kind_name": "MEB Çalışma Kitabı",
+  "unit": "Kareköklü İfadeler · Veri Analizi",
+  "code": "",
+  "title": "MEB LGS Çalışma Kitabı · 2. Ünite",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 68,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p2|q1",
+   "page": 2,
+   "n": 1,
+   "bbox": [
+    22.3,
+    33.9,
+    574.0,
+    433.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Uğur Öğretmen öğrencilerine tam kare olmayan kareköklü sayıların değerinin en yakın olduğu doğal sayıyı buldura- bilmek için aşağıdaki etkinlik kağıdını dağıtmıştır. Aşağıda görüldüğü gibi 1 ve 4 gibi tam kare sayılarla kenarları tam sayı olan kareler elde edilebiliyor. Ancak 2, 3, 5 ve 6 gibi sayılarla kenarları tam sayı olan kareler elde edilemiyor. 1 3 2 4 5 6 Tam kare olmayan sayılar ile en yakın oldukları tam kare sayılara karşılık gelen şekiller aynı renge boyanmıştır. Daha sonra Uğur Öğretmen öğrencilerine; 2 birim kare ile oluşturulan şeklin alanının 1 birim kare ile oluşturulan şek",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökü verilen doğal sayıya yakın sayıları bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    22.3,
+    33.9,
+    573.8,
+    383.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. 1’den 16’ya kadar numaralandırılmış 16 top aşağıdaki kurallara göre 1’den 4’e kadar numaralanmış 4 torbaya atılacaktır. • Topun üzerindeki sayı bir tam kare sayı ise kareköküne eşit numaralı • Topun üzerindeki sayı bir tam kare sayı değil ise kareköküne en yakın numaralı torbaya atılacaktır. Örneğin 4 bir tam kare sayı ve 4 2 olduğundan 4 numaralı top 2. torbaya, = 2 bir tam kare sayı olmadığından ve 2 ’nin en yakın olduğu tam sayı 1 olduğundan 2 numaralı top 1. torbaya atılacaktır. Buna göre tüm toplar torbalara atıldığında 3. torbada kaç top olur? A) 4 B) 5 C) 6 D) 7",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekökün en yakın tam sayısına göre gruplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    24.3,
+    423.4,
+    573.7,
+    724.2
+   ],
+   "num": [
+    28.3,
+    426.4,
+    36.3,
+    440.2
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Ondalık gösterimi verilen bir sayı birler basamağına yuvarlanırken virgülden sonraki ilk rakama bakılır. Bu rakam 5 veya 5’ten büyük ise birler basamağı 1 arttırılarak, 5’ten küçük ise birler basamağı aynen bırakılarak virgülden sonraki kısım silinir. Örneğin 12,54 sayısının birler basamağına yuvarlanmış biçimi 13 105,18 sayısının birler basamağına yuvarlanmış biçimi 105’tir. Aşağıda klavyeden bir sayı girildikten sonra bir bilgisayar programının işlemler zinciri verilmiştir. 1. Adım: Girilen sayıyı oku. 2. Adım: Sayının karekökünü al. 3. Adım: Sonuç tam sayı ise 5. adıma git, değilse 4. ad",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökü alıp yuvarlama adımlarını uygulama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    289.0
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Bir şifreleme yönteminde alfabemizdeki 29 harf bulundukları sıranın karekökü bir tam sayı ise o tam sayı olarak, değil ise karekökünün en yakın olduğu tam sayı değeri olarak kodlanmaktadır. A B C Ç D E F G Ğ H I İ J K L M N O Ö P R S Ş T U Ü V Y Z 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 Bir kelimedeki harfler sırasıyla yukarıdaki yönteme göre kodlanıp, bulunan kodlar yine aynı sırayla yan yana yazıldı- ğında kelime kodlanmış olur. Örneğin A, 1. harf ve ñ 1 = 1 olduğundan 1 diye, L, 15. harf ve ò 15’in en yakın olduğu tam sayı değeri 4 olduğundan 4 diye,",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökün en yakın tam sayısıyla kodlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    22.3,
+    366.0,
+    587.3,
+    703.0
+   ],
+   "num": [
+    28.3,
+    369.0,
+    36.3,
+    382.8
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "RK&=^şağıda=bir=basketbol=maçındaki=oyuncuların=forma=numaraları=verilmiştirK==<7=6=8:=87=;5=;7=;8=_u=maçta=oyuncular=forma=numaralarının=karekökünün=en=yakın=olduğu=tam=sayı=kadar=basket=atıyorlarK=^lp=ile=aynı=sayıda=basket=atan=başka=bir=oyuncu=olmadığına=göre=^lp’in=forma=numarası=kaçtır\\=^F=NO&=_F=OM&=`F=QM&=aF=RP",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekökün en yakın tam sayı değerini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    22.3,
+    38.7,
+    573.7,
+    682.1
+   ],
+   "num": [
+    28.3,
+    45.7,
+    36.3,
+    59.6
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Doruk, ayrıtlarının uzunlukları ò 20 cm, ò 20 cm ve 0,2 cm olan prizma biçimindeki 15 taşı aralarında eşit mesafe ola- 6. cak şekilde aşağıdaki gibi aynı hizada birbirine paralel biçimde dizmiştir. Doruk ilk taşı ok yönünde devirdiğinde son taş hariç her taşın sırasıyla bir sonraki taşı kaydırmadan devirdiğini gözlemlemiştir. B 0,2 cm ò 20 cm A Ardışık taşlar arasındaki uzaklık bir tam sayıya eşit olduğuna göre A ile B noktaları arasındaki uzaklık en fazla kaç santimetre olur? A) 57 B) 59 C) 61 D) 63",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekök tahminiyle toplam uzunluğu en büyük değer bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p6|q7",
+   "page": 6,
+   "n": 7,
+   "bbox": [
+    22.3,
+    39.1,
+    483.3,
+    293.7
+   ],
+   "num": [
+    28.3,
+    46.1,
+    36.3,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 7. a ve b birer doğal sayı olmak üzere a b a b dir. = Kerem oyuncak arabasının boyunu 10 santimetrelik bir cetvel ile aşağıdaki gibi ölçüyor. Buna göre oyuncak arabanın boyu santimetre cinsinden aşağıdakilerden hangisi olabilir? A) 4 2 B) 2 10 C) 5 3 D) 7 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "a√b biçimindeki ifadenin değerini tahmin etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    24.3,
+    394.8,
+    573.7,
+    635.1
+   ],
+   "num": [
+    28.3,
+    401.8,
+    36.3,
+    415.6
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 8. a ve b birer doğal sayı olmak üzere a b a b dir. = Alanı 28 m 2 olan kare şeklindeki bir bahçenin çevresine 2 sıra tel çekilecektir. Telin metre fiyatı satın alınacak miktara göre değişiklik göstermektedir. Telin metre fiyatları aşağıdaki tabloda gösterilmiştir. Tablo: Tel Miktarına Göre Metre Fiyatları Tel Miktarı Metre Fiyatı 20 m den az 15 TL 20 - 39 m 14,5 TL 40 - 59 m 14 TL 59 m den fazla 13,5 TL Bu iş için kullanılacak telin metresi kaç lira olur? A) 13,5 B) 14 C) 14,5 D) 15",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kare alanından çevre ve fiyat hesabı (a√b)",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p7|q9",
+   "page": 7,
+   "n": 9,
+   "bbox": [
+    22.3,
+    39.1,
+    570.9,
+    273.8
+   ],
+   "num": [
+    28.3,
+    46.1,
+    36.3,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 9. a, b, c, d birer doğal sayı olmak üzere a b a b ve a b c d ac bd dir. = $ = Kare şeklindeki bir karton aşağıdaki gibi 4 parçaya ayrılıyor. C cm 2 A cm 2 C cm 2 B cm 2 Tam kare olmayan A ve B doğal sayıları bulundukları karenin, tam kare olan C doğal sayısı ise bulundukları dikdörtgen- lerin santimetrekare cinsinden alanlarını ifade etmektedir. Buna göre parçalara ayrılan kartonun alanı en az kaç santimetrekaredir? A) 14 B) 18 C) 24 D) 27",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alanları karekökle verilen parçalarda en küçük alan",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    24.3,
+    330.1,
+    573.7,
+    764.5
+   ],
+   "num": [
+    28.3,
+    335.1,
+    41.6,
+    349.0
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer gerçek sayı ve c ≥ 0, d ≥ 0 olmak üzere a ñ c · b ñ d = a · b ó c · d dir. 10. Boyutları x ve y olan dikdörtgenin alanı x · y dir. Ahmet ailesinin fotoğraflarını boyutları 10 ñ 3 cm ve 20 ñ 3 cm olan dikdörtgen şeklindeki kartona yapıştırarak aşağıdaki soy ağacı albümünü oluşturmuştur. 10 ñ 3 cm 20 ñ 3 cm Ahmet’in bu kartona yapıştırdığı tüm fotoğrafların büyüklükleri birbirine eşit olup bir fotoğrafın boyutları 4 ñ 2 cm ve 3 ñ 2 cm’dir. Ahmet’in fotoğraf yapıştırdığı alan kartonun bir yüzeyinin yüzde kaçıdır? A) 20 B) 30 C) 40 D) 50",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü boyutlarla alan ve yüzde hesabı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p8|q11",
+   "page": 8,
+   "n": 11,
+   "bbox": [
+    22.3,
+    39.1,
+    571.1,
+    306.7
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.2,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "^ h 2 $ 11. a, b, c birer doğal sayı olmak üzere a b a b ve a b c b a c b dir . = + = + Alanı 200 cm 2 olan dikdörtgen şeklindeki yukarıdaki kartondan hiç parça artmayacak şekilde 10 tane özdeş kare kesiliyor. Buna göre bu kartonun kesilmeden önceki çevresi en az kaç santimetredir? A) 4 5 2 B) 28 5 C) 2 5 3 D) 36 5",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alandan kare kenarını a√b yazıp en küçük çevreyi bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p8|q12",
+   "page": 8,
+   "n": 12,
+   "bbox": [
+    24.3,
+    368.5,
+    526.3,
+    704.2
+   ],
+   "num": [
+    28.3,
+    375.5,
+    41.6,
+    389.3
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 12. a, b, c, d birer doğal sayı olmak üzere a b c d a c b d ve a b a b dir. = = $ $ $ “İki farklı irrasyonel sayının çarpımı bir rasyonel sayı olabilir.” Alya Öğretmen öğrencilerinden tahtaya yazdığı ifadeye uygun iki farklı irrasyonel sayı bulmalarını istemiştir. Kerem : 24 ile 54 Doruk : 4 2 ile 98 Tunahan : 45 ile 4 5 Eylül : 2 3 ile 72 Buna göre hangi öğrencinin bulduğu sayılar verilen ifadeye uygun değildir? A) Kerem B) Doruk C) Tunahan D) Eylül",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü sayıların çarpımının rasyonel olması",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p9|q13",
+   "page": 9,
+   "n": 13,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    297.0
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Aşağıda ayakkabı üretimi yapan bir firmaya ait 4 farklı ildeki fabrikalarda çalışan işçi sayıları dairesel grafikte ve bu fabrikalarda aralık ayı boyunca üretilen toplam ayakkabı sayıları ise sütun grafiğinde gösterilmiştir. Grafik: Farklı İllerdeki Fabrikalarda Çalışan İşçi Grafik: Farklı İllerdeki Fabrikalarda Aralık Ayında Sayıları Üretilen Ayakkabı Sayıları Üretilen Ayakkabı Sayısı (bin) Ankara Bursa 6 120° 5 80° 4 3 Denizli Rize 2 Fabrikanın 1 Bulunduğu Ankara Bursa Denizli Rize İl Buna göre hangi ildeki fabrikada işçi başına üretilen ayakkabı sayısı en fazladır? A) Ankara B) Bursa C)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinde işçi başına üretimi karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p9|q14",
+   "page": 9,
+   "n": 14,
+   "bbox": [
+    24.3,
+    355.3,
+    573.7,
+    742.9
+   ],
+   "num": [
+    28.3,
+    358.3,
+    41.6,
+    372.2
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Bir veri grubundaki sayıların toplamının, gruptaki terim sayısına bölümü ile elde edilen sayıya o veri grubunun aritme- tik ortalaması denir. Sıfır atık projesi kapsamında israfın önlenmesi ve sokak hayvanlarına yiyecek sağlanması amacıyla bir üniversite yemekhanesinde yemek masalarının yanına atık yemek kutuları yerleştirilmiştir. Bu yemekhanede bir hafta boyunca günlere göre biriken atık miktarları aşağıdaki grafikte gösterilmiştir. Grafik: Günlere Göre Biriken Atık Miktarı Atık Yemek (kg) 140 120 100 80 60 40 20 0 Günler Pazartesi Salı Çarşamba Perşembe Cuma Cumartesi Pazar Bu yemekhane",
+   "answer": "A",
+   "solved": false,
+   "skill": "Sütun grafiğinden aritmetik ortalama ve yorum",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p10|q15",
+   "page": 10,
+   "n": 15,
+   "bbox": [
+    22.3,
+    33.9,
+    573.8,
+    519.3
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Aşağıdaki daire grafiğinde 2016 yılında trafiğe kayıtlı toplam 10 800 ticari ve binek aracın bulunduğu bir ildeki bu araçların sayılarının dağılımı gösterilmiştir. Grafik : 2016 Yılında Trafiğe Kayıtlı Ticari ve Binek Araçlar : Ticari Araçlar 100° : Binek Araçlar Bu ilde 2017 ve 2018 yıllarında trafiğe yeni katılan ve kayıtları silinen ticari ve binek araç sayıları aşağıdaki tabloda verilmiştir. Tablo : Trafiğe Yeni Katılan ve Kaydı Silinen Araç Sayıları Trafiğe Yeni Katılan Trafikten Kaydı Silinen Binek Araç Sayısı Ticari Araç Sayısı Binek Araç Sayısı Ticari Araç Sayısı 2017 800 1500 600 ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tablo ve daire grafiğinden sütun grafiği oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p11|q16",
+   "page": 11,
+   "n": 16,
+   "bbox": [
+    22.3,
+    33.9,
+    573.8,
+    668.0
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Aşağıda bir sinemada bir filmin gün içindeki 4 farklı gösteriminde satılan tam ve indirimli bilet sayıları verilmiştir. Grafik: Satılan Tam ve İndirimli Bilet Sayıları Bilet Sayısı 80 Tam 74 İndirimli 50 44 20 0 Gösterimler 21.00 11.30 15.00 18.30 gösterimi gösterimi gösterimi gösterimi 4 ’ine eşittir. Bu sinema salonunda indirimli biletin ücreti tam biletin ücretinin 5 Buna göre bu 4 gösterim için izleyicilerin ödediği toplam ücretin gösterimlere göre dağılımını gösteren dairesel grafik aşağıdakilerden hangisidir? A) B) 21.00 21.00 11.30 110° 130° 11.30 100° 80° 15.00 18.30 18.30 15.00 C)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sütun grafiğinden daire grafiği oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p12|q17",
+   "page": 12,
+   "n": 17,
+   "bbox": [
+    22.3,
+    39.1,
+    570.9,
+    307.6
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ ve a ñ b · c ñ d = a · c ó b·d dir. 17. a b Aşağıda bir işyerindeki çalışanlara verilen dikdörtgen şeklindeki personel giriş kartının görseli verilmiştir. PERSONEL GİRİŞ KARTI Adı : Yiğit Soyadı : Erol Birimi : Destek Hizmetleri Kenar uzunlukları santimetre cinsinden birer doğal sayı olan bu kart üzerinde resim yapıştırılan kare şeklindeki bölge- nin alanı, kartın alanının % 40’ına eşittir. Resim yapıştırılan karenin bir kenarının uzunluğu 2 ñ 5 cm olduğuna göre kartın çevresi kaç santimetredir? A) 20 B) 30 C) 34 D) 54",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alan oranından kartın çevresini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p12|q18",
+   "page": 12,
+   "n": 18,
+   "bbox": [
+    24.3,
+    430.5,
+    573.7,
+    697.5
+   ],
+   "num": [
+    28.3,
+    433.5,
+    41.2,
+    447.3
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Aşağıdaki robot, sistemine yüklenen yazılımdan aldığı talimata göre birim kareleri oluşturan çizgiler üzerinde hareket et- mektedir. Bitiş Yukarı Başlangıç Sağ Sisteme tam kare olmayan bir kareköklü sayı girildiğinde yazılımın robota verdiği talimat; birim cinsinden, kareköklü sayının en yakın olduğu doğal sayı değeri kadar, kareköklü sayı bu doğal sayıdan büyük ise sağa doğru, küçük ise yukarı doğru hareket etmesi şeklindedir. Buna göre yazılıma aşağıdaki kareköklü sayılardan hangilerinin girilmesi durumunda robot, başlangıç noktasından bitiş noktasına ulaşır? A) ò 15 ile ò 10 B) ò 15 ile",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü sayının en yakın doğal sayısıyla yol bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p13|q19",
+   "page": 13,
+   "n": 19,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    346.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Aşağıda verilen iç içe geçmiş yeşil ve turuncu çarklardan oluşan sistem ile bir oyun oynanıyor. Oyuncunun bu sistemi döndürdükten sonra kazandığı puan; çarklar durduğunda kırmızı üçgenin ucunun gösterdiği yeşil bölgedeki sayının karekökünden büyük en küçük doğal sayı ile mavi üçgenin ucunun gösterdiği turuncu bölgedeki sayının karekökünden küçük en büyük doğal sayı çarpılarak hesaplanır. 157 50 35 98 17 173 30 70 82 65 Bu oyunu oynayan Doruk, sistemi döndürdükten sonra, çarklar durduğunda oluşan görüntü yukarıda verilmiştir. Buna göre Doruk kaç puan kazanır? A) 84 B) 91 C) 98 D) 104",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökten büyük ve küçük doğal sayılarla puan hesabı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p13|q20",
+   "page": 13,
+   "n": 20,
+   "bbox": [
+    24.3,
+    424.9,
+    490.1,
+    732.6
+   ],
+   "num": [
+    28.3,
+    427.9,
+    41.6,
+    441.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. a, b, c, d birer doğal sayı olmak üzere 2 $ a ñ b = , a ñ b + c ñ b = (a + c) ñ b , a ñ b – c ñ b= (a – c) ñ b ve a ñ b · c ñ d = a · c ó b·d dir. a b Türk bayrağının boyu, genişliğinin 1,5 katıdır. Yanda 10 Kasım Atatürk’ü Anma Programı'nda ò 32 m yarıya indirilmiş bir bayrak gösterilmiştir. ó 200 m ò 32 m Bayrağın hem direğin üst kısmına, hem de zemine olan uzaklığı ò 32 m dir. Bayrak direğinin boyu ó 200 m olduğuna göre bayrağın bir yüzünün alanı kaç metrekaredir? A) 6 B) 8 C) 10 D) 12",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunluklardan bayrak alanı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p14|q21",
+   "page": 14,
+   "n": 21,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    377.5
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a ve b birer doğal sayı olmak üzere a ñ b = 2 $ 21. a b dir. Bir yaya geçidinde trafik lambalarının altına, kırmızı ışığın kaç saniye sonra yanacağını gösteren bir tabela koyulmuştur. Kerem, bu yaya geçidine geldiğinde tabelada 10 yazdığını görmüş ve sabit hızla saniyede 1 m yol alarak kırmızı ışık yanmadan 2 saniye önce karşıya geçmiştir. Buna göre bu yaya geçidinin metre cinsinden uzunluğu aşağıdakilerden hangisi olabilir? A) 3 ñ 6 B) 4 ñ 5 C) 5 ñ 3 D) 6 ñ 3",
+   "answer": "A",
+   "solved": false,
+   "skill": "a√b ifadesini sınır değerle karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p14|q22",
+   "page": 14,
+   "n": 22,
+   "bbox": [
+    24.3,
+    412.1,
+    570.9,
+    700.1
+   ],
+   "num": [
+    28.3,
+    419.1,
+    41.6,
+    433.0
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a ve b birer doğal sayı olmak üzere a ñ b = 2 $ 22. a b dir. Aşağıda verilen taburenin yerden yüksekliği, oturma bölümünün ok yönünde bir tam tur dönüşünde ñ 3 cm artmaktadır. Bu taburenin yerden yüksekliği en kısa hâlinde 45 cm, en uzun hâlinde ise 60 cm dir. Eylül bu tabureyi ok yönünde döndürerek en uzun haline getirmiştir. Buna göre Eylül tabureyi en çok kaç tam tur döndürmüştür? A) 6 B) 7 C) 8 D) 9",
+   "answer": "C",
+   "solved": false,
+   "skill": "Bölümün tahminiyle en çok tam tur sayısı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p15|q23",
+   "page": 15,
+   "n": 23,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    372.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "23. Bir matematik öğretmeni, bir manavın günlük sattığı meyve miktarlarını gösteren bir tablo hazırlamış ve öğrencilerin- den bu tablodaki verileri daire veya sütun grafiğinde göstermelerini istemiştir. Bu sınıftaki öğrencilerden Hayat bu meyvelerden dördünün satış miktarını gösteren bir sütun grafiği, Zeynep ise tüm meyvelerin satış miktarlarının dağılımını gösteren bir daire grafiği çizmiştir. Grafik: Meyveler ve Bir Günlük Satış Miktarları Grafik: Meyveler ve Bir Günlük Satış Miktarları Satış Miktarı (kg) Muz Erik 45 30° 30° 40 Portakal 35 30 25 20 15 Diğer Meyveler 10 5 0 Meyveler Kivi Man",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğini birlikte yorumlayıp en az miktar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p15|q24",
+   "page": 15,
+   "n": 24,
+   "bbox": [
+    24.3,
+    450.2,
+    573.7,
+    742.6
+   ],
+   "num": [
+    28.3,
+    453.2,
+    41.6,
+    467.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "24. Bir ilkokulda; sanat, kültür, yaşam, spor ve bilim alanlarında tasarım-beceri atölyeleri kurulmuş, her öğrenci tercih ettiği alandaki atölye çalışmalarından birine katılmıştır. Aşağıdaki daire grafiğinde bu okuldaki öğrencilerin tercih ettiği tasarım-beceri alanlarına göre dağılımı, sütun grafiğinde ise sanat alanındaki atölye çalışmalarına katılan öğrencilerin dağılımı verilmiştir. Grafik: Öğrencilerin Tasarım-Beceri Grafik: Sanat Alanındaki Atölye Çalışmalarına Alanlarına Göre Dağılımı Katılan Öğrencilerin Dağılımı Öğrenci Sayısı Sanat 80 Kültür 60 60° 30° 40 60° Yaşam Bilim 20 Spor Sana",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden toplam öğrenci sayısı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p16|q25",
+   "page": 16,
+   "n": 25,
+   "bbox": [
+    22.3,
+    39.1,
+    570.9,
+    310.4
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b ve a ñ b – c ñ b= (a – c) ñ b dir. 25. a b Yanda, bir yarışmada ilk üçe girerek madalya almaya hak ka- zanan üç sporcunun derece kürsülerine çıktıklarında boylarının aynı hizaya geldiği görülmektedir. Bu derece kürsüsünde yer alan 1, 2 ve 3 sayılarının yazılı olduğu kare şeklindeki yüzeylerin alanları sırasıyla 980 cm 2 , 720 cm 2 ve 405 cm 2 dir. 1 2 3 Buna göre 1. ve 3. olan sporcular arasındaki boy farkı, 1. ve 2. olan sporcular arasındaki boy farkının kaç ka- tıdır? A) 2 B) 2,5 C) 3 D) 3,5",
+   "answer": "B",
+   "solved": false,
+   "skill": "Alanlardan kenar bulup yükseklik farkı oranlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p16|q26",
+   "page": 16,
+   "n": 26,
+   "bbox": [
+    24.4,
+    388.4,
+    573.7,
+    771.3
+   ],
+   "num": [
+    28.4,
+    391.4,
+    41.6,
+    405.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "26. Bir firmanın 2018 yılında sattığı bisikletlerin sayısının dört renge göre dağılımını gösteren grafik aşağıda verilmiştir. Grafik: 2018 Yılında Satılan Bisikletlerin Sayısı Satış Sayısı (bin) 68 66 60 24 Renk 0 Beyaz Siyah Kırmızı Mavi Bu firma 2019 yılında siyah ve mavi bisikletlerden 2018 yılında sattığı kadar sayıda üretmiş ancak bunlardan 12 000 siyah ve 6000 mavi bisikleti satamamıştır. Bunların yanında 2018 yılındaki satış sayısından 12 000 fazla sayıda beyaz ve 4000 fazla sayıda kırmızı bisiklet üreterek beyaz ve kırmızı bisikletlerin tamamını satmıştır. Buna göre bu firmanın 2019 yı",
+   "answer": "A",
+   "solved": false,
+   "skill": "Sütun grafiğinden yeni daire grafiği oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p17|q27",
+   "page": 17,
+   "n": 27,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    313.1
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a ve b birer doğal sayı olmak üzere a ñ b = 2 $ 27. a b dir. Bir uzun atlama pistinde koşmaya başlayan Hayat, Zeynep ve Sude isimli üç sporcunun tahtadan sıçradıktan sonra kum piste düştüğü yerler aşağıdaki noktalar ile gösterilmiştir. Sıçrama Tahtası Pist Sonu Kum Pist Koşu Yolu Düştüğü nokta sıçrama tahtasına en yakın olan Sude, en uzak olan ise Zeynep’tir. Sude’nin düştüğü noktanın pist sonuna olan uzaklığı 5 metre, Zeynep’in ise 4,5 metredir. Buna göre Hayat’ın düştüğü noktanın pist sonuna olan uzaklığı metre cinsinden aşağıdakilerden hangisi ola- bilir? A) 2 ñ 3 B) 3 ñ 2 C) 2 ñ 6 D) 3 ñ 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü sayıyı iki değer arasında tahmin etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p17|q28",
+   "page": 17,
+   "n": 28,
+   "bbox": [
+    24.3,
+    469.8,
+    573.7,
+    755.8
+   ],
+   "num": [
+    28.3,
+    472.8,
+    41.6,
+    486.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "28. Mehmet amcanın her biri 10 dekar olan iki farklı bahçesi vardır. Bu bahçelerin birinde kivi, diğerinde fındık üreten Mehmet amca aynı zamanda arıcılık da yapmaktadır. Ürünlerin satış fiyatlarını gösteren tablo ve birer dekar bahçede üretilen fındık ve kivi miktarlarını gösteren grafik aşağıda verilmiştir. Tablo: Ürünlerin Satış Fiyatları Grafik: Birer Dekar Bahçede Üretilen Ürün Miktarı Miktar (kg) Ürünler (1 kg) Fiyatlar (TL) 180 Fındık 11 ile 16 arası 100 Kivi 3 ile 9 arası Bal 30 ile 56 arası Ürün 0 Fındık Kivi Bu ürünlerin her birinin 1 kilogramının satış fiyatı lira cinsinden birer ta",
+   "answer": "B",
+   "solved": false,
+   "skill": "Grafik ve tablodan aralık sınırlarıyla en fazla miktarı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p18|q29",
+   "page": 18,
+   "n": 29,
+   "bbox": [
+    22.3,
+    39.1,
+    570.9,
+    226.1
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a ve b birer doğal sayı olmak üzere a ñ b = 2 $ 29. a b dir. Aşağıdaki görselde, ahşap kalem kutusunun kenarı ile bu kutunun kapağı olan 20 santimetrelik cetvelin arasına yerleş- tirilmiş bir kalemtıraş görülmektedir. 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 Buna göre bu kalemtıraşın uzunluğu santimetre cinsinden aşağıdakilerden hangisi olabilir? A) 3 ñ 2 B) 2 ñ 3 C) 2 ñ 2 D) ñ 6",
+   "answer": "C",
+   "solved": false,
+   "skill": "Cetvelden kareköklü uzunluğu tahmin etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p18|q30",
+   "page": 18,
+   "n": 30,
+   "bbox": [
+    24.3,
+    259.7,
+    570.9,
+    775.7
+   ],
+   "num": [
+    28.3,
+    262.7,
+    41.4,
+    276.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "30. Aşağıdaki grafikler bir barınaktaki köpeklerin türlerine göre sayılarının ocak ve şubat aylarındaki dağılımını göstermek- tedir. Grafik: Türlerine Göre Köpek Sayılarının Grafik: Türlerine Göre Köpek Sayılarının Ocak Ayındaki Dağılımı Şubat Ayındaki Dağılımı A A C C 120° 120° B B Şubat ayında barınaktaki köpek sayısı ocak ayındaki köpek sayısının 2 katıdır. Buna göre bu barınaktaki köpeklerin türlerine göre sayılarının ocak ve şubat aylarındaki dağılımını gösteren sütun grafiği aşağıdakilerden hangisi olabilir? Grafik : Türlerine Göre Köpek Sayıları B) Grafik : Türlerine Göre Köpek Sayıları",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire grafiklerinden sütun grafiğini belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p19|q31",
+   "page": 19,
+   "n": 31,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    357.8
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 $ 31. a ve b birer doğal sayı olmak üzere a b = a b dir. Kuzey, Çınar ve Ali birlikte lunaparka gidip bir dönme dolabın farklı kabinlerine binerler. Ali’nin bulunduğu kabin Çınar’ın bulunduğu kabin Kuzey’in bulunduğu kabin Zemin Ali’nin bulunduğu kabinin zeminden yüksekliği 12 metre, Kuzey’in bulunduğu kabinin zeminden yüksekliği ise 4 met- redir. Buna göre Çınar’ın bulunduğu kabinin zeminden yüksekliği metre cinsinden aşağıdakilerden hangisi olabilir? A) 3 ñ 5 B) 2 ò 15 C) 4 ñ 5 D) 7 ñ 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü yüksekliği iki sınır arasında tahmin etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p19|q32",
+   "page": 19,
+   "n": 32,
+   "bbox": [
+    24.3,
+    416.1,
+    573.6,
+    753.1
+   ],
+   "num": [
+    28.3,
+    419.1,
+    41.6,
+    433.0
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "32. Aşağıdaki hedef tahtasındaki her daire dilimi kırmızı ve beyaz olmak üzere iki bölgeden oluşmaktadır. 1 8 7 2 6 3 4 5 Bu hedef tahtasına yapılan atışlarda, • Beyaz bölgeye isabet eden atışlar o dilimdeki sayının kendisi kadar, • Kırmızı bölgeye isabet eden atışlar o dilimdeki sayı tam kare ise sayının karekökü kadar, değil ise sayının ka- reköküne en yakın tam sayı kadar puan kazandırmaktadır. Hedef tahtasına 2 atış yapan bir atıcının atışları, hedef tahtasının aynı dilimindeki farklı renkte olan bölgelerine isabet etmiştir. Buna göre aşağıdakilerden hangisi bu atıcının aldığı puan olamaz?",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekökün en yakın tam sayısıyla puan hesabı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p20|q33",
+   "page": 20,
+   "n": 33,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    478.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "33. Yarıçapı r olan dairenin çevresi 2 p r dir. 2 $ a ve b birer doğal sayı olmak üzere a ñ b = a b dir. Kare tekerlekli bisikletler düz bir yolda hareket edemeseler de aşağıdaki gibi bu bisikletlere özel olarak üretilen plat- formlar üzerinde hareket edebilmektedirler. Aşağıda eş tekerleklerinin bir yüzlerinin alanı 1125 cm 2 olan kare tekerlekli bir bisiklet için hazırlanmış bir platformun görseli verilmiştir. B A Bu platform, bisikletin tekerleklerinin kenar uzunluğu; üzerinden geçtiği yarım silindirlerin, yarım daire biçimindeki yü- zeyinin uzunluğuna eşit olacak şekilde ayarlanmıştır. Bu ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Alandan kenar bulup toplam uzaklığı hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p21|q34",
+   "page": 21,
+   "n": 34,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    338.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "34. Bir konfeksiyon atölyesinde mart ayı boyunca toplam 3600 tane ürün dikilmiştir. Aşağıdaki daire grafiğinde bu ürünlerin türlerine göre dağılımı, sütun grafiğinde ise türlerine göre bu ürünlerin yüzde kaçının defolu çıktığı gösterilmiştir. Grafik: Ürünlerin Türlerine Göre Dağılımı Grafik: Türlerine Göre Defolu Ürün Yüzdeleri Defolu Ürün Yüzdesi (%) 20 Pantolon 15 Etek 10 50° Gömlek 5 Kazak 0 Ürün Pantolon Etek Kazak Gömlek Atölyede mart ayında dikilen gömleklerin 135 tanesi defolu olup, defolu kazak sayısı, defolu pantolon sayısına eşittir. Buna göre atölyede mart ayında dikilen eteklerin k",
+   "answer": "D",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden defolu ürün sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p21|q35",
+   "page": 21,
+   "n": 35,
+   "bbox": [
+    24.3,
+    388.9,
+    573.7,
+    764.9
+   ],
+   "num": [
+    28.3,
+    393.9,
+    41.6,
+    407.8
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ c – b ñ c = (a – b) ñ c ve a ñ b · c ñ d = a · c ó b · d dir. 35. Aşağıda verilen dikdörtgenler prizması şeklindeki kutunun üstte görünen kapağının uzun kenarı, kısa kenarının uzun- luğunun 6 katıdır. 1 ’i kadar Şekil 1’deki gibi açıldığında, kutunun iç bölgesini gösteren Kutunun kapağı uzun kenarı boyunca bu kenarın 3 dikdörtgensel bölgenin alanı 24 cm 2 olmaktadır. Daha sonra Şekil 1’deki gibi açık durumda olan kapak, uzun kenarı boyunca 3 3 cm kadar Şekil 2’deki gibi kapatılıyor. Şekil 1 Şekil 2 Buna göre Şekil 2’deki gibi açık durumda bulunan kap",
+   "answer": "A",
+   "solved": false,
+   "skill": "Alandan kısa kenarı kareköklü bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p22|q36",
+   "page": 22,
+   "n": 36,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    722.4
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "36. Aşağıdaki ulaşım aracı insanların kullanımı için şehrin belli yerlerine bırakılmaktadır. Bu araç bir cep telefonu uygula- ması kullanılarak kiralanabilmekte ve ödemesi aynı uygulama kullanılarak yapılabilmektedir. Ücretlendirme Ücretlendirme Yolculuğu başlamak 1,99 TL Her bir dakika için 0,59 TL Yolculuğa başlamak 1,99 TL Her bir dakika için 0,59 TL Bu ulaşım aracı için tek seferlik açılış ücreti olarak 1,99 TL alındıktan sonra araç teslim edilene kadar geçen sürenin her bir dakikası için 0,59 TL ücret alınmaktadır. Bu aracı kullanarak başlangıç noktasından yola çıkan bir kişi sırasıyla I,",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiği ve ücret tarifesiyle toplam ücret",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p23|q37",
+   "page": 23,
+   "n": 37,
+   "bbox": [
+    22.3,
+    39.2,
+    573.7,
+    775.7
+   ],
+   "num": [
+    28.3,
+    46.2,
+    41.6,
+    60.0
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 ve a ñ b · c ñ d = a · c b d 37. a b dir. $ ò 48 ò 80 ò 80 ò 32 ò 45 ó 112 ò 75 ñ 8 ò 27 ò 20 ò 63 ó 125 ó 200 ò 28 ò 12 Bir matematik öğretmeni birbirine bağlanabilen oyuncakların bağlantı yerlerine birer kareköklü ifade yazmıştır. Bu oyuncakları Sevilay’a veren öğretmen ondan, oyuncakları üstünde yazılı kareköklü ifadelerin çarpımı rasyonel sayı olan bağlantı yerlerinden birbirine bağlayarak bir yapı oluşturmasını istemiştir. Sevilay oyuncakları öğretmeninin istediği şekilde bağladığına göre aşağıdakilerden hangisi Sevilay’ın oluştur- duğu ya",
+   "answer": "A",
+   "solved": false,
+   "skill": "Çarpımı rasyonel olan kareköklü ifadeleri eşleştirme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p24|q38",
+   "page": 24,
+   "n": 38,
+   "bbox": [
+    22.3,
+    33.9,
+    578.7,
+    381.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "38. Duatlon koşu etabı ile başlayıp bisiklet etabı ile devam eden ve tekrar koşu etabı ile biten bir spordur. Aynı anda ya- rışa başlayan sporcuların sırayla bu etapları tamamlaması gerekmektedir. Bu yarışı, etapları tamamlama sürelerinin toplamı en az olan sporcu kazanmaktadır. 1. Etap (Koşu) 2. Etap (Bisiklet) 3. Etap (Koşu) Bir ilçede düzenlenen festival kapsamında duatlon yarışı düzenlenmiştir. Aşağıda bu yarışı tamamlamayı başaran 4 sporcunun, etapların her birini tamamlama süreleri verilmiştir. Sporcu Harun Erdem Mustafa Bülent 1. Etabı Tamamlama Süresi (dakika) ñ 8 ñ 3 ñ 5 ñ 7 2. Etabı ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareköklü süre toplamlarını karşılaştırma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p24|q39",
+   "page": 24,
+   "n": 39,
+   "bbox": [
+    24.3,
+    395.8,
+    486.3,
+    768.1
+   ],
+   "num": [
+    28.3,
+    398.8,
+    41.6,
+    412.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "39. Öğrenci servis ücretleri, öğrencilerin evlerinin okula olan uzaklıklarına göre belirlenir. Aşağıdaki tabloda bir ilde uygulanan servis ücretleri verilmiştir. Tablo: Öğrenci Servis Ücretleri Ev İle Okul Arasındaki Mesafe Bir Aylık Servis Ücreti (TL) 4 km ya da daha az 350 4 ile 8 km arası 400 8 km ya da daha fazla 450 Bu ildeki okulların birinde 180 öğrenci servis ile okula gidip gelmektedir. Aşağıdaki daire grafiğinde bu öğrencilerin evlerinin okula olan uzaklıklarının dağılımı verilmiştir. Grafik: Öğrencilerin Evlerinin Okula Olan Uzaklıkları Sarı Sarı 4 km ya da daha az 120° 4 ile 8 km a",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire grafiğinden öğrenci sayısı ve toplam ücret",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p25|q40",
+   "page": 25,
+   "n": 40,
+   "bbox": [
+    22.3,
+    35.5,
+    573.7,
+    344.5
+   ],
+   "num": [
+    28.3,
+    42.5,
+    41.6,
+    56.3
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "40. 120 dm 150 dm Bir marangoz yukarıdaki tahtaların kalınlıklarını değiştirmeden mavi tahtadan 2 ò 15 dm, bordo tahtadan ise 3 ñ 5 dm uzunluğunda eş parçalar kesmiştir. Marangoz sadece kestiği bu parçaları kullanarak aşağıdaki eş kitaplıkları yapmıştır. . . . 2 ò 1 5 dm 3 ñ 5 dm Buna göre marangozun yapmış olduğu kitaplık sayısı en çok kaçtır? A) 6 B) 7 C) 8 D) 9",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunluklardan en çok parça sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p25|q41",
+   "page": 25,
+   "n": 41,
+   "bbox": [
+    24.3,
+    558.1,
+    573.7,
+    744.8
+   ],
+   "num": [
+    28.3,
+    563.2,
+    41.6,
+    577.0
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a ve b birer doğal sayı olmak üzere a ñ b = ó a 2 b dir. 41. Kaan ve Doruk kuralları aşağıda verilen bir sayı oyunu oynuyorlar. • Oyuna başlayan oyuncu bir rakam söyler. • Diğer oyuncu arkadaşının söylediği sayının ñ 2 katının en yakın olduğu doğal sayı değerini bulup söyler. • Sıra tekrar oyuna başlayan oyuncuya geldiğinde, o da arkadaşının söylediği sayının ñ 2 katının en yakın olduğu doğal sayı değerini bulup söyler. • Oyun bu şekilde oyunculardan biri yanlış bir sayı söyleyene kadar devam eder. Kaan oyuna 3 rakamını söyleyerek başlamış ve Doruk üçüncü kez sayı söylediğinde oyun bitmiştir. ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü sayının en yakın doğal sayısıyla ardışık dizi oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p26|q42",
+   "page": 26,
+   "n": 42,
+   "bbox": [
+    22.3,
+    38.7,
+    573.7,
+    524.9
+   ],
+   "num": [
+    28.3,
+    45.7,
+    41.6,
+    59.6
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = ó a 2 b, a ñ c + b ñ c = (a + b) ñ c ve a ñ c – b ñ c = (a – b) ñ c dir. 42. Fotoğraf çekerken net olarak görebildiğimiz en yakın nesne ile en uzak nesne arasındaki mesafeye net alan derinliği denir. Fotoğraf Makinesi İle Netleme Yapılan Ağaç Arasındaki Uzaklık ó 180 m Netleme Yapılan Ağaç Net Olmayan Bölge Net Olan Bölge Net Olmayan Bölge Net Alan Derinliği Volkan fotoğraf makinesine ó 180 m uzaklıkta bulunan bir ağaca göre fotoğraf makinesinin net alan derinliğini ayarla- mıştır. Volkan’ın yaptığı bu ayarlamada; • Net alan derinliği, makine ile ne",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü uzaklık aralığında en küçük ve en büyük tam sayı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p27|q43",
+   "page": 27,
+   "n": 43,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    745.3
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "43. Ozan’ın telefonundaki tüm fotoğraflar, telefonunun hafızasında toplam 300 MB alan kaplamaktadır. Ozan telefon hafızasında yer kalmadığı için telefonundaki tüm fotoğrafları internet ortamına yükleyip telefon hafızasın- dan silmeye karar vermiştir. Ozan dört gün boyunca bu fotoğrafları internet ortamına yüklemeye devam etmiş ve her gün sonunda internet ortamı- na yüklediği fotoğrafları telefonunun hafızasından silmiştir. Aşağıdaki grafikte bu süre boyunca; Ozan’ın telefonunda kalan fotoğrafların, telefon hafızasında kapladığı alanların günlük değişimi verilmiştir. Grafik: Fotoğrafların Telef",
+   "answer": "A",
+   "solved": false,
+   "skill": "Sütun grafiğinden yüklenen miktarlarla daire grafiği",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p28|q44",
+   "page": 28,
+   "n": 44,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    410.5
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "44. Bora ve Işıl, “Aldım, verdim, ben seni yendim” tekerlemesiyle oynanan oyun için aralarında belli bir mesafe bırakıp karşılıklı durmuşlardır. Aşağıda oynadıkları bu oyunun kuralları verilmiştir. • Oyuna ilk başlayan oyuncu topuğunu A ve B noktalarından birine koyarak, tekerlemenin her kelimesinde ayağının uç noktasına diğer ayağının topuğunu değdirerek tekerleme bitene kadar ilerlemeye başlar. • İlk oyuncu tekerlemeyi bitirdiğinde diğer oyuncu aynı şekilde rakibine doğru ilerler. • Tekerlemenin herhangi bir kelimesinde diğer oyuncunun ayağının uç noktasına ilk değen ya da ayağının üstüne il",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla adım sayısından mesafe aralığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p28|q45",
+   "page": 28,
+   "n": 45,
+   "bbox": [
+    24.3,
+    419.5,
+    563.0,
+    766.0
+   ],
+   "num": [
+    28.3,
+    424.5,
+    41.6,
+    438.4
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Aşağıda çevresi 60 ñ 2 cm olan dikdörtgen biçiminde bir karton verilmiştir. 45. Bu karton 50 eş kareye bölünüp, bu karelerden bazıları kırmızıya boyanmıştır. Aşağıda yanlışlıkla bir kısmı yırtılan bu kartonun kalan bölümü verilmiştir. Karton üzerinde boyanan tüm karelerin alanları toplamı 160 cm 2 olduğuna göre kartonun yırtılan kısmında kaç tane boyanmış kare vardır? A) 3 B) 9 C) 11 D) 13",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çevreden kenar bulup boyalı kare sayısını hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p29|q46",
+   "page": 29,
+   "n": 46,
+   "bbox": [
+    23.1,
+    38.7,
+    574.4,
+    323.8
+   ],
+   "num": [
+    29.1,
+    45.7,
+    42.3,
+    59.6
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir havuzun etrafına her birinin alanı 0,0625 m 2 olan kare biçimindeki 200 tane taş tek sıra hâlinde, aralarında boş- 46. luk olmadan dizilmiştir. Aşağıda bu taşların dizilimi modellenmiştir. B A . . . . . . . . . . . . D C Buna göre köşeleri A, B, C, D olarak isimlendirilen dikdörtgen biçimindeki bölgenin çevresinin uzunluğu kaç metredir? A) 98 B) 100 C) 102 D) 104",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ondalık ifadenin karekökünden taş dizisi çevresi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p29|q47",
+   "page": 29,
+   "n": 47,
+   "bbox": [
+    25.1,
+    362.4,
+    574.4,
+    738.8
+   ],
+   "num": [
+    29.1,
+    365.4,
+    42.3,
+    379.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "47. Aşağıda A, B, C barajlarının 2020 yılının Ocak ve Aralık aylarındaki doluluk oranları verilmiştir. Grafik: A, B, C Barajlarının Doluluk Oranları Doluluk Oranı (%) : Ocak 2020 40 : Aralık 2020 35 30 25 20 15 10 5 0 Baraj A B C Bu barajlarda 2020 yılının Ocak ayında bulunan toplam su miktarının barajlara göre dağılımı aşağıdaki daire grafiğinde gösterilmiştir. Grafik: Toplam Su Miktarının Barajlara Göre Dağılımı A C 120° B Buna göre bu barajlarda 2020 yılının Aralık ayında bulunan toplam su miktarının barajlara göre dağılımını göste- ren daire grafiğinde A barajında bulunan su miktarını göst",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden su miktarı dağılımı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p30|q48",
+   "page": 30,
+   "n": 48,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    319.1
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "48. Bir pizzacı 1 Şubat tarihinde büyük, orta ve küçük boy pizza menülerinden onar tane satmış ve toplam 1440 TL gelir elde etmiştir. Aşağıdaki daire grafiğinde pizzacının bu menülerin satışından elde ettiği gelirin menülere göre dağılımı verilmiştir. Grafik: Toplam Gelirin Menülere Dağılımı Orta Boy Küçük 120° Boy 160° Büyük Boy Bu pizzacı, fiyatlarını değiştirmeden bu menülerden şubat ayı boyunca % 45’i orta boy, % 30’u büyük boy olmak üzere toplam 400 tane satmıştır. Buna göre pizzacının şubat ayı boyunca küçük boy pizza menüsü satışından elde ettiği toplam gelir kaç liradır? A) 2800 B) 320",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiğinden birim fiyat ve toplam gelir hesabı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p30|q49",
+   "page": 30,
+   "n": 49,
+   "bbox": [
+    24.3,
+    454.0,
+    551.5,
+    689.4
+   ],
+   "num": [
+    28.3,
+    459.1,
+    41.6,
+    472.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Her birinin genişliği 12 ñ 5 cm olan özdeş kutular bir rafa aşağıdaki gibi dizilmiştir. 49. 3,2 metre . . . 12 ñ 5 cm Buna göre bu rafa dizilen kutu sayısı en çok kaçtır? (1m = 100 cm) B) 35 C) 36 A) 31 D) 39",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunlukla rafa en çok kutu yerleştirme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p31|q50",
+   "page": 31,
+   "n": 50,
+   "bbox": [
+    23.1,
+    33.9,
+    561.0,
+    397.4
+   ],
+   "num": [
+    29.1,
+    40.9,
+    42.3,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Aşağıda kare biçimindeki yüzeylerinin alanları 5 dm 2 olan sarı renkli ve 7 dm 2 olan mavi renkli kartonlar verilmiştir. 50. ... Sarı Sarı Sarı Sarı ... Mavi Mavi Mavi Mavi Bu kartonlar dikdörtgen biçimindeki bir levhanın etrafına aşağıdaki gibi dizilmiştir. Mavi Mavi Mavi Mavi Mavi Mavi Mavi Sarı Mavi Sarı Mavi Sarı Mavi Sarı Sarı Sarı Sarı Sarı Sarı Sarı Sarı Sarı Bu levhanın eni ve boyu desimetre cinsinden birer tam sayı olduğuna göre çevresi kaç desimetredir? B) 52 C) 50 A) 54 D) 48",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü kenarlarla tam sayı boyutları kestirip çevre bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p31|q51",
+   "page": 31,
+   "n": 51,
+   "bbox": [
+    25.1,
+    495.1,
+    574.4,
+    751.1
+   ],
+   "num": [
+    29.1,
+    498.1,
+    42.3,
+    511.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "51. pH değeri bir çözeltinin asidik veya bazik olma derecesini gösteren bir ölçüttür. pH değerinin 7 olması asitlik ve bazlık açısından nötr olarak tanımlanırken pH değeri küçüldükçe asidik, büyüdükçe bazik özellik gösterir. pH 0 14 1 2 3 4 5 6 7 8 9 10 11 12 13 Asidik özelliğe sahiptir. Bazik özelliğe sahiptir. Nötr Aşağıda bazı maddelerin pH değerleri verilmiştir. Madde İsimleri Bulaşık Deterjanı Portakal Suyu Çay Süt pH Değeri 5 2 2 2 3 3 35 Buna göre yukarıda verilen maddelerden kaç tanesi asidik özelliğe sahiptir? A) 1 B) 2 C) 3 D) 4",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü sayıyı 7 ile karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p32|q52",
+   "page": 32,
+   "n": 52,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    310.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "52. Bir uzaktan eğitim çalıştayına dört farklı ilden davetlilerin katılması planlanmıştır. Bu çalıştaya katılması planlanan her bir kişiye bir davetiye e-posta yoluyla gönderilmiştir. Aşağıdaki daire grafiğinde e-posta yolu ile gönderilen davetiyelerin illere göre dağılımları, sütun grafiğinde ise çalıştay günü çalıştaya katılım sağlayan davetli kişilerin illere göre dağılımı verilmiştir. Grafik: Davetiyelerin İllere Göre Dağılımı Grafik: Çalıştaya Katılan Davetli Kişilerin İllere Göre Dağılımı Kişi Sayısı 32 Bursa Tekirdağ 80° 20 40° Edirne 100° 9 İstanbul İller Tekirdağ Bursa Edirne İstanbul",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden katılmayan kişi sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p32|q53",
+   "page": 32,
+   "n": 53,
+   "bbox": [
+    24.3,
+    388.6,
+    573.7,
+    750.9
+   ],
+   "num": [
+    28.3,
+    391.6,
+    41.6,
+    405.4
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "53. 1 YAĞ LİTRE 1 MİLYON LİTRE SUYU KİRLETİYOR Nejla Hanım, lokantasında kullanılan bitkisel yağlardan çıkan atık yağları toplayarak geri dönüşüme göndermektedir. Daire grafiğinde Nejla Hanım’ın lokantasında kullanılan bitkisel yağ miktarlarının günlere göre dağılımı, sütun grafiğin- de ise bu yağlardan çıkan atık yağ yüzdelerinin günlere göre dağılımı gösterilmiştir. Grafik: Kullanılan Bitkisel Yağ Miktarları Grafik: Yağlardan Çıkan Atık Yağ Yüzdesi Atık Yağ Yüzdesi (%) 40 35 Cuma 30 Pazartesi 60° 25 Perşembe 60° 20 60° 15 90° Salı 10 5 Çarşamba 0 Günler Pazartesi Salı Çarşamba Perşembe Cuma ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğiyle atık yağ ve bilimsel gösterim",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p33|q54",
+   "page": 33,
+   "n": 54,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    357.8
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b dir. 54. a b Aşağıdaki şekilde birbirine paralel olan A ile B yolları ve bu yollar arasında kalan araziler verilmiştir. Bu arazilerden kare biçiminde olan üç arazinin alanları şekilde gösterilmiştir. 27 hm 2 A B 12 hm 2 Yolu Yolu 48 hm 2 A ve B yolları arasındaki bağlantıyı sağlayacak bir yol yapılması planlanmaktadır. Yapılabilecek en kısa yolun hektometre cinsinden uzunluğuna en yakın doğal sayı aşağıdakilerden hangisidir? A) 15 B) 16 C) 17 D) 18",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökü alanlardan kenar toplamı ve yaklaşık değer",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p33|q55",
+   "page": 33,
+   "n": 55,
+   "bbox": [
+    24.3,
+    479.8,
+    573.7,
+    694.8
+   ],
+   "num": [
+    28.3,
+    486.8,
+    41.6,
+    500.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b , a ñ b – c ñ b= (a – c) ñ b dir. 55. a b Doğrusal bir koşu parkuru üzerinde bulunan üç koşucudan A noktasındakinin başlangıç çizgisine uzaklığı ó 128 m, B noktasındakinin bitiş çizgisine uzaklığı 4 ñ 2 m’dir. C noktasında bulunan koşucu, A ile B noktaları arasında olup B noktasına daha yakındır. Başlangıç Bitiş A C B Parkurun uzunluğu ó 512 metre olduğuna göre, C noktasının bitiş çizgisine uzaklığı metre cinsinden aşağıda- kilerden hangisi olabilir? A) ó 108 B) ò 72 C) ò 48 D) ò 32",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü uzaklıklarla konum aralığı belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p34|q56",
+   "page": 34,
+   "n": 56,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    245.8
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b birer doğal sayı olmak üzere a ñ b = 2 $ 56. a b dir. Aşağıda verilen sepette her birinin kütlesi ñ 2 g olan mavi bilyeler ve her birinin kütlesi 3 ñ 2 g olan kırmızı bilyeler bu- lunmaktadır. Mavi Kırmızı ñ 2 g 3 ñ 2 g Bu bilyelerden belirli sayıda alınarak bir terazide tartıldığında toplam kütlenin 19 g ile 20 g arasında ve 20 grama daha yakın olduğu görülmüştür. Buna göre teraziye konulan mavi bilye sayısı aşağıdakilerden hangisi olamaz? A) 8 B) 6 C) 5 D) 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü kütlelerle bilye sayısı koşulu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p34|q57",
+   "page": 34,
+   "n": 57,
+   "bbox": [
+    24.3,
+    444.2,
+    573.7,
+    677.0
+   ],
+   "num": [
+    28.3,
+    449.3,
+    41.6,
+    463.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b · c ñ d = a · c ó b·d dir. 57. Aşağıda aynı gün toprağa dikilen A ve B fidelerinin dikildikleri gündeki boylarının uzunlukları verilmiştir. ñ 2 cm ñ 3 cm A B A fidesinin boyu her yıl bir önceki yıldaki boyunun ñ 2 katına, B fidesinin boyu ise her yıl bir önceki yıldaki boyunun ñ 3 katına çıkmaktadır. Buna göre A fidesinin boyunun 4 ñ 2 cm olduğu yıl, B fidesinin boyu kaç santimetredir? A) 4 ñ 3 B) 6 ñ 3 C) 9 ñ 3 D) 27 ñ 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü katsayıyla yıllık büyüme hesabı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p35|q58",
+   "page": 35,
+   "n": 58,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    415.6
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b , a ñ b – c ñ b= (a – c) ñ b dir. 58. a b Adem amcanın 72 dekametrekare ve 98 dekametrekare büyüklüğünde kare şeklinde iki bahçesi vardır. Birer kö- şeleri ortak olan bu bahçeler ve bu bahçelerin köşelerinde bulunan kare biçimindeki iki sulama havuzu aşağıdaki şe- kilde modellenmiştir. Bu havuzların ikişer kenarları bahçelerin ikişer kenarlarıyla çakışık ve her birinin yüzey alanı 8 dekametrekaredir. A 72 dam 2 Havuz 98 dam 2 Havuz A köşesinde bulunan bir su kaynağından bu havuzlara su aktarmak amacıyla bahçeleri sı",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kare alanlarından kenar bulup en kısa kanal uzunluğu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p35|q59",
+   "page": 35,
+   "n": 59,
+   "bbox": [
+    24.4,
+    531.8,
+    573.7,
+    702.3
+   ],
+   "num": [
+    28.4,
+    538.8,
+    41.6,
+    552.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b, a ñ b · c ñ d = a · c ó b·d dir. 59. a b Aşağıda A, B, C çubukları ile A çubuğunun uzunluğu verilmiştir. A B C 6 ñ 2 cm B çubuğunun uzunluğu C çubuğunun uzunluğunun ñ 2 katı, A çubuğunun uzunluğu ise B çubuğunun uzunluğunun ñ 2 katıdır. Mete, bu çubuklardan 12 tanesini uç uca ekleyerek (12 + 48 ñ 2) cm uzunluğunda bir çubuk elde etmiştir. Buna göre Met e C çubuğundan kaç tane kullanmıştır? A) 2 B) 4 C) 6 D) 8",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü çubuk uzunluklarından adet bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p36|q60",
+   "page": 36,
+   "n": 60,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    414.1
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "60. Bir unlu mamuller fırınında sadece simit, poğaça, börek ve ekmek üretilmektedir. Bu fırında bir günde üretilen ürün- lerin sayılarının dağılımı Grafik 1’de, börek ve poğaça sayılarının çeşitlerine göre dağılımları Grafik 2 ve Grafik 3’te gösterilmiştir. Grafik 2: Börek Sayılarının Çeşitlerine Göre Dağılımı Grafik 1: Fırında Üretilen Ürünlerin Ispanaklı Peynirli Sayılarına Göre Dağılımı Ekmek Börek 160° 40° 80° Grafik 3: Poğaça Sayılarının Çeşitlerine Göre Dağılımı Poğaça Simit Zeytinli 40° Kaşarlı Bu fırında bir günde üretilen ekmek sayısının 500’den az olduğu bilindiğine göre üretilen ısp",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire grafiklerini birleştirip en fazla değeri bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p36|q61",
+   "page": 36,
+   "n": 61,
+   "bbox": [
+    24.4,
+    447.9,
+    573.7,
+    753.3
+   ],
+   "num": [
+    28.4,
+    450.9,
+    41.6,
+    464.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "61. Mustafa’nın kitaplığında bulunan kitapların sayılarının türlerine göre dağılımı daire grafiğinde, okuduğu kitap türlerinin sayıları ise sütun grafiğinde gösterilmiştir. Grafik: Kitap Sayılarının Grafik: Okuduğu Kitap Türlerinin Sayıları Türlerine Göre Dağılımı Kitap Sayısı (Adet) 60 Akademik Kişisel 50 Gelişim 72° 48° 40 96° 30 Roman 20 Hikâye 10 0 Kitap Türleri Hikâye Roman Akademik Kişisel Gelişim Mustafa’nın kitaplığındaki okumadığı kitapların sayısı 60’tır. Buna göre Mustafa’nın kitaplığındaki okumadığı kitapların türlerine göre dağılımı daire grafiği ile gösterildi- ğinde hikâye kitap",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sütun ve daire grafiğini birlikte yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p37|q62",
+   "page": 37,
+   "n": 62,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    233.8
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b birer doğal sayı olmak üzere a ñ b = 2 $ 62. a b dir. Bir uçlu kalem, 10 cm uzunluğundaki ucunun 3 cm’lik kısmı dışarıda iken şekildeki gibi olmaktadır. 3 cm Bu uçlu kalemin arkasına her basıldığında ucun 2 cm’lik kısmı dışarı çıkmaktadır. Bu kalem şekildeki konumda iken kalemin arkasına 3 defa basılıyor. Buna göre son durumda ucun, kalemin içinde kalan kısmının santimetre cinsinden uzunluğu hangi ardışık iki doğal sayı arasındadır? A) 1 ile 2 B) 2 ile 3 C) 3 ile 4 D) 4 ile 5",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökü iki ardışık doğal sayı arasında tahmin etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p37|q63",
+   "page": 37,
+   "n": 63,
+   "bbox": [
+    24.4,
+    367.5,
+    573.7,
+    661.7
+   ],
+   "num": [
+    28.4,
+    370.5,
+    41.6,
+    384.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "63. Bir fabrikada sarı, mavi, turuncu ve gri renkte çoraplar üretilmektedir. Üretilen çoraplardan aynı renk iki adet çorap birleştirilerek 1 çift çorap elde edilmektedir. Daha sonra bu çoraplar dört çiftten oluşan paketler haline getirilerek satıl- maktadır. Bu paketlerde ya her bir renkten birer çift çorap ya da tek renkten dört çift çorap bulunmaktadır. Aşağıdaki daire grafiğinde bu fabrikada bir günde üretilen 7200 adet çorabın renklerine göre dağılımı, tabloda ise çorapların paket türlerine göre satış fiyatları verilmiştir. Grafik: Bir Günde Üretilen Çorapların Tablo: Bir Paket Çorabın Sat",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiği ve tablodan gelir hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p38|q64",
+   "page": 38,
+   "n": 64,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    256.0
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b , a ñ b – c ñ b= (a – c) ñ b dir. 64. a b Bir yüzünün alanı 36 ñ 2 cm 2 olan dikdörtgen biçimindeki bir kâğıt Şekil 1’de verilmiştir. Ön yüzü turuncu, arka yüzü mavi renkli olan bu kâğıt, kısa kenarları uzun kenarları ile çakışacak biçimde köşelerinden Şekil 2’deki gibi katlanmıştır. A B Mavi 36 ñ 2 cm 2 Turuncu Mavi Şekil 1 Şekil 2 Şekil 2’de gösterilen mavi bölgelerin alanları toplamı 18 cm 2 olduğuna göre AB kenarının santimetre cinsin- den uzunluğu hangi ardışık iki doğal sayı arasındadır? A) 2 ile 3 B) 3 ile 4 ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökle alan ve kenar uzunluğu hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p38|q65",
+   "page": 38,
+   "n": 65,
+   "bbox": [
+    24.4,
+    289.8,
+    573.7,
+    711.7
+   ],
+   "num": [
+    28.4,
+    292.8,
+    41.6,
+    306.6
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "65. Bir pizzacıda mantar, sucuk, biber ve zeytin kullanılarak dört malzemeli pizzalar yapılmaktadır. Her bir pizza için kul- lanılan malzeme miktarlarının oranı sabittir. Kullanılan malzemelerin başlangıçtaki ve belirli sayıda pizza yapıldıktan sonra kalan miktarları aşağıda kareli zeminde verilen sütun grafiğinde gösterilmiştir. Grafik: Pizza Yapımında Kullanılan Malzemeler Malzeme Miktarı (Gram) Başlangıçtaki Malzeme Miktarı Belirli Sayıda Pizza Yapıldıktan Sonra Kalan Malzeme Miktarı Malzemeler Mantar Sucuk Zeytin Biber Pizza yapımına başlandıktan bir süre sonra bu malzemelerden biri bitiyo",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sütun grafiğinden daire grafiği oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p39|q66",
+   "page": 39,
+   "n": 66,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    601.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "66. 1 ton = 1000 kg Bir mandırada günlük toplanan sütlerin %10’u ile tereyağı, %30’u ile peynir üretilmektedir. Bu mandırada 20 litre sütten 1 kg tereyağı, 5 litre sütten 1 kg peynir elde edilmektedir. 4 günde üretilen toplam 6 ton tereyağının günlere göre dağı- lımı aşağıdaki daire grafiğinde gösterilmiştir. Grafik: Üretilen Tereyağı Miktarının Günlere Göre Dağılımı 4. Gün 1. Gün 105° 3. Gün 2. Gün Buna göre mandıranın 4 günlük peynir üretimini gösteren sütun grafiği aşağıdakilerden hangisidir? A) B) Grafik: Peynir Üretim Miktarları Grafik: Peynir Üretim Miktarları Peynir (ton) Peynir (ton) 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiğinden sütun grafiği oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p40|q67",
+   "page": 40,
+   "n": 67,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    377.5
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b , a ñ b – c ñ b = (a – c) ñ b, 67. a b a ñ b · c ñ d = a · c ó b·d dir. Şekil 1’de kenar uzunlukları verilen dikdörtgen şeklindeki dört bahçeden A ve B bahçeleri Eren’e, C ve D bahçeleri Ali’ye aittir. ò 98 hm ñ 2 hm A C ò 50 hm Ali’nin Bahçesi Eren’in Bahçesi ò 50 hm D B ñ 8 hm Şekil 1 Şekil 2 Ali ve Eren ikişer parça şeklinde bulunan bahçelerini, kendilerine ait bahçelerin toplam alanları değişmeyecek biçimde Şekil 2’deki gibi birleştirdiklerinde dikdörtgen şeklinde birer bahçeleri oluşmuştur. Buna göre birleşt",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü ifadelerle alan ve çevre hesabı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p40|q68",
+   "page": 40,
+   "n": 68,
+   "bbox": [
+    24.3,
+    475.1,
+    573.7,
+    716.2
+   ],
+   "num": [
+    28.3,
+    478.1,
+    41.6,
+    492.0
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "68. Eşit hacimli kavanozlarda satılan reçel çeşitlerinin birer adedinin fiyatları ve bu ürünlerle ilgili kampanyalar aşağıdaki tabloda verilmiştir. Bir kahvaltı salonu işleten Elif Hanım, bu ürünlerden alarak toplam 2160 TL ödüyor. Elif Hanım’ın ödediği paranın reçel çeşitlerine göre dağılımı daire grafiğinde gösterilmiştir. Tablo: Reçel Çeşitlerinin Fiyat ve Kampanya Bilgileri Grafik: Ödenen Paranın Reçel Çeşitlerine Göre Dağılımı Reçel 1 Adet Fiyatı Kampanya Çeşidi (TL) Çilek 80 1 Alana 1 Bedava 120° 100° Vişne 75 3 Al 2 Öde İncir 100 %70 İndirim Buna göre Elif Hanım en fazla kaç kavanoz reç",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kampanyalı fiyatlarla daire grafiği yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p41|q69",
+   "page": 41,
+   "n": 69,
+   "bbox": [
+    22.3,
+    39.1,
+    570.9,
+    265.5
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b, a ñ b – c ñ b = (a – c) ñ b dir. 69. a b Yarıçapı r olan dairenin çevresi 2 p r dir. Aşağıda bir kenar uzunluğu ó 147 m olan kare şeklinde bir levha verilmiştir. ó 147 m Bu levhanın köşelerini merkez kabul eden ve yarıçap uzunluğu ò 12 m olan dört tane çeyrek daire dilimi levhadan ke- silerek atılacak ve kalan parça tabela tasarımında kullanılacaktır. Tabela tasarımında kullanılacak bu parçanın çevresinin uzunluğu kaç metredir? ( p yerine 3 alınız.) A) 16 ñ 3 B) 20 ñ 3 C) 24 ñ 3 D) 28 ñ 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü kenarlı şeklin çevresini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p41|q70",
+   "page": 41,
+   "n": 70,
+   "bbox": [
+    24.4,
+    278.5,
+    573.7,
+    775.7
+   ],
+   "num": [
+    28.4,
+    283.4,
+    41.6,
+    297.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "ve k, m, n birer tam sayı olmak üzere a k · b k = (a·b) k , a n · a m = a n+m dir. 70. , b a 0 0 ! ! Eymen’in kumbarasında bulunan madenî paraların Türk Lirası cinsinden değerleri ve sayıları aşağıdaki sütun grafiğinde üslü ifadelerle gösterilmiştir. Grafik : Madenî Paraların Sayıları Madenî Paraların Sayıları (Adet) 5.2 7 3.2 5 2 4 Madenî Paraların Değerleri (TL) 0 2 0 2 –1 2 –2 10 –1 Grafikte verilen madenî paraların TL cinsinden toplam tutarlarının dağılımını gösteren daire grafiği aşağıdakilerden hangisidir? A) Grafik : Madenî Paraların Toplam B) Grafik : Madenî Paraların Toplam Tutarların",
+   "answer": "A",
+   "solved": false,
+   "skill": "Üslü verili sütun grafiğinden daire grafiği",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p42|q71",
+   "page": 42,
+   "n": 71,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    310.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "71. Yunus’un 2021 yılında ürettiği avokado, kivi ve muzun kilogram cinsinden miktarlarının dağılımı daire grafiğinde, bu ürünlerin her birinden elde ettiği kâr oranları ise tabloda gösterilmiştir. Grafik: Ürün Miktarlarının Kilogram Tablo: Ürünlerden Elde Edilen Cinsinden Dağılımı Kâr Oranları Üretilen Ürünler Kâr Oranları (%) Kivi Avokado 50 60° 180° 120° Kivi 60 Avokado Muz Muz 25 Avokadonun 1 kilogramının satış fiyatı; muzun 1 kilogramının satış fiyatının 2 katı, kivinin 1 kilogramının satış fiyatının ise 3 katıdır. Yunus’un 2021 yılında ürettiği avokadoların toplam maliyeti 24 000 TL’dir. ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire grafiği ve kâr oranıyla toplam kâr",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p42|q72",
+   "page": 42,
+   "n": 72,
+   "bbox": [
+    24.3,
+    443.6,
+    573.1,
+    694.1
+   ],
+   "num": [
+    28.3,
+    450.6,
+    41.6,
+    464.4
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 72. a ve b birer doğal sayı olmak üzere a b a b dir. = Aşağıda dikdörtgen şeklindeki A, B ve C kâğıtları verilmiştir. A kâğıdının uzun kenar uzunluğu 9 ñ 2 cm, C kâğıdının uzun kenar uzunluğu 4 ñ 3 cm ve B kâğıdının kısa kenar uzunluğu 2 cm’dir. C B A B kâğıdı, kısa kenarlarına paralel olacak biçimde kesilerek alanı santimetrekare cinsinden doğal sayı olan eş kareler elde edilecektir. Buna göre, elde edilebilecek karelerin sayısı aşağıdakilerden hangisi olamaz? A) 3 B) 4 C) 5 D) 6",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareköklü kenarları karşılaştırıp kare sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p43|q73",
+   "page": 43,
+   "n": 73,
+   "bbox": [
+    22.3,
+    39.1,
+    563.6,
+    300.0
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ ve a ñ b · c ñ d = a 73. a b c b d dir. $ $ Aşağıda ön yüzlerinde birer sayı yazılı olan mavi, kırmızı ve sarı kartlar verilmiştir. ò 27 ò 20 2 ñ 6 ñ 5 ñ 2 ñ 3 5 ñ 2 14243 14243 1444444444444444442444444444444444443 Mavi Kırmızı Sarı Sarı kartlardan iki tanesi seçilip, birindeki sayı mavi karttaki sayı ile diğerindeki sayı kırmızı karttaki sayı ile çarpılı- yor. Daha sonra kalan dört sarı karttan ikisinde yazan sayılar çarpılıyor. Bu üç çarpımdan elde edilen sonuçlar x, 9 ve 10’dur. x sayısı 8 ile 9 arasında olduğuna göre, aşağıdakilerden han",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü çarpımları karşılaştırıp tahmin etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p43|q74",
+   "page": 43,
+   "n": 74,
+   "bbox": [
+    24.3,
+    324.1,
+    573.7,
+    752.6
+   ],
+   "num": [
+    28.3,
+    327.1,
+    41.6,
+    340.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "74. Aşağıda dikdörtgen şeklinde bir kart ve kısa kenarının uzunluğu 7 cm olan dikdörtgen şeklinde bir zarf verilmiştir. Bu kart Şekil I’deki gibi kısa kenarları çakışacak biçimde katlandıktan sonra herhangi bir kenarı zarfın uzun kenarı ile çakıştırılarak yerleştirildiğinde her zaman 1 santimetrelik kısmı dışarıda kalıyor. 1 cm 7 cm Zarf Kart Katlanmış kart Zarf Şekil I Bu kart; katlanmış olarak Şekil II’deki gibi kesildikten sonra açılarak, aynı zarfa yerleştirilmek istendiğinde zarfın uzun kenarlarından taşmaktadır. 3,5 cm Zarf Şekil II Buna göre, bu zarfın uzun kenarının uzunluğu aşağıdakil",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunluğu tahmin edip aralık belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p44|q75",
+   "page": 44,
+   "n": 75,
+   "bbox": [
+    22.3,
+    39.1,
+    567.0,
+    653.3
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ ve a ñ b · c ñ d = a 75. a b c b d dir. $ $ Aşağıda verilen farklı büyüklükteki lambalardan oluşan bir avizenin lambalarının iplerinin uzunluğu istenilen oranda uzatılıp kısaltılabilmektedir. Bu avize aşağıdaki durumda iken lambaların zemine olan uzaklıkları birbirine eşittir. Tavan 40 ñ 2 cm 50 ñ 3 cm 20 ñ 5 cm 50 ñ 6 cm Pembe Mavi Kırmızı Sarı Zemin Bu lambaların iplerinin uzunluğu aşağıda verilen oranlarda artırılarak avizenin görünümü değiştirilecektir. Lamba Uzama Oranı Mavi % 5 Kırmızı % 4 Pembe % 5 Sarı % 2 Buna göre, son durumda hangi",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunlukları yüzdeyle artırıp karşılaştırma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p45|q76",
+   "page": 45,
+   "n": 76,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    245.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "76. Aşağıda verilen 7 eş parçaya ayrılmış sayı doğrusunun işaretlenmiş noktalarının her birine ardışık tam sayılar yazı- lacaktır. Bu sayı doğrusu aşağıdaki gibi kırmızı, yeşil ve pembe dikdörtgensel bölgelere ayrılmıştır. Kırmızı ve pembe dikdörtgenin birer kenarları işaretlenmiş noktalardan, yeşil dikdörtgenin kenarları ise işaretlenmiş noktaların orta nok- tasından geçmektedir. Kırmızı Yeşil Pembe Bu sayı doğrusuna ardışık tam sayılar ò 10 sayısı her durumda kırmızı, ò 24 sayısı her durumda yeşil bölgede olacak biçimde farklı şekillerde yazılabilmektedir. Buna göre, aşağıdaki kareköklü ifad",
+   "answer": "C",
+   "solved": false,
+   "skill": "Sayı doğrusunda karekökün yerini belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p45|q77",
+   "page": 45,
+   "n": 77,
+   "bbox": [
+    24.4,
+    406.7,
+    570.3,
+    651.6
+   ],
+   "num": [
+    28.4,
+    413.7,
+    41.6,
+    427.6
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "^ h 2 $ 77. a, b, c birer doğal sayı olmak üzere a b a b ve a b c b a c b dir . = + = + Aşağıda eş kareli zeminde verilen dört şekilden, kare olanın alanı 288 cm 2 dir. Bu dört şekil üst üste gelmeyecek ve aralarında boşluk kalmayacak biçimde birleştirilerek bir kare oluşturuluyor. Buna göre, oluşturulan bu karenin çevresinin uzunluğu kaç santimetredir? A) 36 ñ 2 B) 48 ñ 2 C) 72 ñ 2 D) 96 ñ 2",
+   "answer": "D",
+   "solved": false,
+   "skill": "Karenin alanından kenar ve çevre bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p46|q78",
+   "page": 46,
+   "n": 78,
+   "bbox": [
+    22.3,
+    39.1,
+    567.6,
+    483.0
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b, a ñ b – c ñ b= (a – c) ñ b dir. 78. a b Aşağıda üst yüzünün alanı 360 cm 2 olan kare şeklinde üç özdeş ayna verilmiştir. Bu aynalardan iki tanesinin birer köşesinden eş karesel bölgeler aşağıdaki gibi kesilerek atıldıktan sonra bu üç ayna kenarları çakışacak biçimde bir- leştirilerek dekoratif bir ayna elde edilecektir. Aşağıda bu dekoratif ayna modeli gösterilmiştir. Dekoratif Ayna 1 ’üne eşittir. Kesilen karesel bölgelerden birinin kenar uzunluğu, başlangıçtaki bir aynanın kenar uzunluğunun 3 Buna göre, elde edil",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü kenarlarla birleşik şeklin çevresi",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p47|q79",
+   "page": 47,
+   "n": 79,
+   "bbox": [
+    22.3,
+    39.1,
+    566.9,
+    379.3
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b, a ñ b – c ñ b= (a – c) ñ b dir. 79. a b Kenarlarının uzunlukları 338 cm ve 10 cm olan dikdörtgen şeklindeki kâğıt aşağıdaki gibi kesilerek iki eş dikdört- gene ayrılıyor. Daha sonra bu dikdörtgenler, bir köşesinden ikizkenar dik üçgen elde edecek biçimde uzunluğu ò 50 cm olan doğru parçası boyunca kesiliyor. ó 338 cm ò 50 cm 10 cm ò 50 cm Bu dört parçanın kenarları çakıştırılarak aşağıdaki gibi bir şekil elde edilmiştir. Buna göre, elde edilen bu şeklin çevresinin uzunluğu kaç santimetredir? A) 52 ñ 2 B) 52 ñ 2 + 1",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü parçalardan oluşan şeklin çevresi",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p47|q80",
+   "page": 47,
+   "n": 80,
+   "bbox": [
+    24.4,
+    440.5,
+    573.7,
+    740.4
+   ],
+   "num": [
+    28.4,
+    443.5,
+    41.6,
+    457.3
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "80. Eda; sarı, kırmızı ve mavi boncuklar kullanarak bileklik yapmaktadır. Her bir bileklik için 30 adet boncuk kullanmak- tadır. Eda’nın elindeki toplam boncuk sayısının renklerine göre dağılımı Grafik 1’de, bir bileklik yapımında kullandığı boncukların sayısının renklerine göre dağılımı ise Grafik 2’de verilmiştir. Grafik 1: Toplam Boncuk Sayısının Grafik 2: Bir Bileklik Yapımında Kullandığı Boncukların Renklerine Göre Dağılımı Sayısının Renklerine Göre Dağılımı K K 144° 120° 60° S M S M Eda, boncuklardan herhangi bir renk bitene kadar bileklik yapmış ve son durumda kullanmadığı 900 adet bonc",
+   "answer": "A",
+   "solved": false,
+   "skill": "İki daire grafiğinden oran ve adet hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p48|q81",
+   "page": 48,
+   "n": 81,
+   "bbox": [
+    22.3,
+    39.1,
+    568.6,
+    477.3
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b, a ñ b – c ñ b= (a – c) ñ b dir. 81. a b Aşağıda verilen lambanın başlığı sabit bir noktadan aşağı ve yukarı hareket ettirilerek, ayağı ise uzatılıp kısaltılarak görünümü değiştirilebilmektedir. 1444442444443 14243 Lamba başlığı Lamba ayağı Bu lamba, yüzlerinden birinin alanı 9000 cm 2 olan küp şeklindeki bir masa üzerine Şekil I’deki gibi konulduğunda lambanın başlığı zemine paralel ve masa yüzeyine olan uzaklığı 14 ò 10 cm olmaktadır. Aynı lambanın ayağı Şekil II’deki gibi ayarlandığında lambanın başlığı zemine pa",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü uzunlukları toplayıp çıkararak uzunluk bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p48|q82",
+   "page": 48,
+   "n": 82,
+   "bbox": [
+    24.4,
+    558.1,
+    570.9,
+    749.6
+   ],
+   "num": [
+    28.4,
+    561.1,
+    41.6,
+    575.0
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "82. Uzunluğu 2 dm olan dikdörtgen şeklindeki kâğıt A ve B noktalarından kesilerek aşağıdaki gibi üç dikdörtgene ayrılıyor. ó 1,44 dm B 0,3 dm A ó 2,25 dm 2 dm Buna göre, elde edilen dikdörtgenlerden birinin uzun kenar uzunluğunun desimetre cinsinden değeri aşağı- dakilerden hangisi olamaz? A) 0,5 B) 0 36 , C) 0 49 , D) 0,8",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ondalık ifadenin karekökünü hesaplayıp karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p49|q83",
+   "page": 49,
+   "n": 83,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    425.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "83. Bir okulda kayıt dönemi öncesi öğrenci sayılarının sınıflara göre dağılımı aşağıdaki daire grafiğinde verilmiştir. Grafik: Kayıt Dönemi Öncesi Öğrenci Dağılımı 7. Sınıf 120° 6. Sınıf 8. Sınıf Kayıt dönemi dışında okuldaki öğrenci sayısı değişmemiştir. Kayıt döneminde okula gelen ve okuldan giden öğrenci sayıları aşağıdaki tabloda ve kayıt dönemi sonrası öğrenci sayılarının sınıflara göre dağılımı aşağıdaki grafikte gös- terilmiştir. Tablo: Okula Gelen ve Okuldan Giden Öğrenci Sayıları Grafik: Kayıt Dönemi Sonrası Öğrenci Dağılımı Gelen Giden 6. Sınıf 6. Sınıf 22 2 160° 7. Sınıf 19 9 100° 8",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tablo ve daire grafiğiyle öğrenci sayısı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p49|q84",
+   "page": 49,
+   "n": 84,
+   "bbox": [
+    24.4,
+    464.1,
+    569.3,
+    725.1
+   ],
+   "num": [
+    28.4,
+    471.1,
+    41.6,
+    484.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a , b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b ve a ñ b · c ñ d = a · c ó b·d dir. 84. a b Uzun kenar uzunluğu kısa kenar uzunluğunun 3 katı olan bir dikdörtgensel bölgenin içine aşağıdaki gibi mavi, kırmı- zı ve yeşil renkli kareler çizilmiştir. Y Y C M K A B Yeşil renkli karelerden her birinin alanı 10 cm 2 ve C noktası bulunduğu kenarın orta noktasıdır. Buna göre, [AB]’nın uzunluğunun santimetre cinsinden değeri hangi ardışık iki tam sayı arasındadır? A) 17 ile 18 B) 18 ile 19 C) 19 ile 20 D) 20 ile 21",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü kenarlarla uzunluğu tahmin etme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p50|q85",
+   "page": 50,
+   "n": 85,
+   "bbox": [
+    22.3,
+    39.1,
+    570.9,
+    281.3
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ ve a ñ b · c ñ d = a · c ó b·d dir. 85. a b Aşağıda birer yüzlerinde 1’den 100’e kadar olan doğal sayıların kareköklerinin yazılı olduğu 100 kart verilmiştir. . . . ñ 1 ñ 2 ñ 3 ó 100 Ahmet bu kartlardan 2 tanesini seçiyor. Seçtiği kartlarda yazan sayılarla ilgili aşağıdaki bilgiler verilmiştir. • Bu sayılardan biri ò 30 dan büyük, diğeri ise ò 30 dan küçüktür. • Sayılardan her biri ile ò 30 arasında 1 tane tam kare doğal sayı vardır. Buna göre, Ahmet’in seçtiği kartlarda yazan sayıların çarpımının alabileceği en büyük doğal sayı değeri kaç- t",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam kare sayılarla karekök tahmini ve çarpım",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p50|q86",
+   "page": 50,
+   "n": 86,
+   "bbox": [
+    24.3,
+    319.9,
+    570.8,
+    770.5
+   ],
+   "num": [
+    28.3,
+    322.9,
+    41.6,
+    336.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "86. Bir lokantada bulunan toplam içecek sayısının türlerine göre dağılımı aşağıdaki daire grafiğinde gösterilmiştir. Grafik: İçecek Sayılarının Türlerine Göre Dağılımı Ayran 100° Maden 120° Su Suyu 80° Meyve Suyu Bu lokantada gün içerisinde maden suyu hariç tüm içeceklerden satış yapılmıştır. Türlerine göre içeceklerin yüzde kaçının satıldığı aşağıdaki sütun grafiğinde gösterilmiştir. Grafik: Türlerine Göre Satılan İçeceklerin Yüzdesi Satılan İçecekler (%) 80 50 25 İçecek Türü Meyve Ayran Su Suyu Buna göre, bu lokantada satılmayan içecek sayısının türlerine göre dağılımı daire grafiğinde göste",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden yeni daire açısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p51|q87",
+   "page": 51,
+   "n": 87,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    301.5
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "UTK&=Üç=kardeş=belirli=bir=yıl=arayla=iki=fotoğraf=çektirmiştirK=_u=üç=kardeşin=birinci=fotoğrafı=çektirdikleri=yıldaki=yaşlarının==dağılımı=drafik=N’deI=ikinci=fotoğrafı=çektirdikleri=yıldaki=yaşlarının=dağılımı=ise=drafik=O’de=gösterilmiştirK=drafik=NW=&$Üç=hardeşin=_irinci=cotoğrafı=Çektirdikleri==drafik=OW==&$Üç=hardeşin=İkinci=cotoğrafı=Çektirdikleri==vıldaki=vaşlarının=aağılımı=vıldaki=vaşlarının=aağılımı=QM°=TO°=NMU°=NMM°=_u=üç=kardeşin=birinci=fotoğrafı=çektirdikleri=yıldaki=yaşları=toplamı=PS’dırK==_una=göreI=bu=üç=kardeş=ikinci=fotoğrafı=birinci=fotoğraftan=kaç=yıl=sonra=çektirmişler",
+   "answer": "A",
+   "solved": false,
+   "skill": "İki daire grafiğiyle yaş farkı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p51|q88",
+   "page": 51,
+   "n": 88,
+   "bbox": [
+    24.3,
+    377.5,
+    573.7,
+    736.4
+   ],
+   "num": [
+    28.3,
+    382.5,
+    41.6,
+    396.4
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b + c ñ b = (a + c) ñ b , a ñ b – c ñ b= (a – c) ñ b ve a ñ b · c ñ d = a · c ó b·d dir. 88. Çevresinin uzunluğu 44 ñ 5 cm olan dikdörtgen şeklindeki tahta masa, yatay ve dikeydeki kesikli çizgilerin her birinin uzunluğu birbirine eşit olacak biçimde aşağıdaki gibi kesilerek ayrılıyor. Aradaki boşluğa, ölçülere uygun biçimde kesilen bir cam aşağıdaki gibi yerleştirildiğinde masanın uzunluğu 20 ñ 5 cm oluyor. 20 ñ 5 cm Buna göre, yerleştirilen cam kısmın çevresinin uzunluğu kaç santimetredir? A) 16 ñ 5 B) 36 ñ 5 C) 42 ñ 5 D) 52 ñ 5",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü çevre uzunluğundan çevre hesabı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p52|q89",
+   "page": 52,
+   "n": 89,
+   "bbox": [
+    22.3,
+    39.1,
+    573.7,
+    281.5
+   ],
+   "num": [
+    28.3,
+    46.1,
+    41.6,
+    59.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a , b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b ve a ñ b · c ñ d = a · c ó b·d dir. 89. a b Eş karelere ayrılmış dikdörtgen şeklindeki bir kâğıt üzerine A, B, C ve D noktaları aşağıdaki gibi işaretlenmiştir. Bu kâğıt, önce kısa kenarları çakışacak biçimde katlanıp açıldıktan sonra A noktası ile B noktası çakışacak biçimde tekrar katlanıp açılıyor. Katlama çizgileri ile [AD]’nın kesiştiği noktalar E ve F olarak işaretleniyor. A B C D E ve F noktaları arasındaki uzaklık ó 242 cm olduğuna göre, C ve D noktaları arasındaki uzaklık kaç santi- metredir? A) 11 2 C) ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Katlama ile kareköklü uzunluk hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p52|q90",
+   "page": 52,
+   "n": 90,
+   "bbox": [
+    24.4,
+    422.6,
+    573.7,
+    632.2
+   ],
+   "num": [
+    28.4,
+    429.6,
+    41.6,
+    443.5
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 $ a, b, c, d birer doğal sayı olmak üzere, a ñ b = , a ñ b + c ñ b = (a + c) ñ b , a ñ b – c ñ b= (a – c) ñ b dir. 90. a b Bir ayrıtının uzunluğu ò 18 cm olan eş küplerden her birinin bir yüzüne aşağıdaki gibi sayılar yazılmıştır. ó 180 2 ñ 5 ñ 9 ó 1,21 π ó 0,04 ó 1,6 ó 324 5,4 3 ñ 5 Can, üzerinde rasyonel sayı yazan küplerin tamamını, Zeynep ise üzerinde irrasyonel sayı yazan küplerin tamamını üst üste dizerek birer kule oluşturmuşlardır. Buna göre, oluşturulan kulelerin yükseklikleri arasındaki farkın santimetre cinsinden değeri hangi ardışık iki doğal sayı arasındadır? A) 15 ile 16 B) 16 ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Rasyonel ve irrasyonel sayıları ayırt edip toplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p53|q91",
+   "page": 53,
+   "n": 91,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    337.5
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "91. Gitar, keman ve flüt kurslarından yalnızca birine katılan kız ve erkek öğrencilerin sayılarının kurslara göre dağılımı aşağıdaki daire grafiklerinde gösterilmiştir. Grafik 1: Kız Öğrenci Sayılarının Grafik 2: Erkek Öğrenci Sayılarının Kurslara Göre Dağılımı Kurslara Göre Dağılımı 240° 240° 60° Flüt Gitar 72° Gitar Flüt Keman Keman Flüt kursuna katılan kız öğrenci sayısı, keman kursuna katılan erkek öğrenci sayısına eşittir. Kurslara katılan erkek öğrenci sayısı, kız öğrenci sayısından 12 fazladır. Buna göre, kurslara katılan toplam öğrenci sayısı kaçtır? A) 60 B) 96 C) 108 D) 204",
+   "answer": "C",
+   "solved": false,
+   "skill": "İki daire grafiğinden toplam öğrenci sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p53|q92",
+   "page": 53,
+   "n": 92,
+   "bbox": [
+    24.3,
+    412.5,
+    570.9,
+    723.2
+   ],
+   "num": [
+    28.3,
+    419.5,
+    41.6,
+    433.4
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a , b birer doğal sayı olmak üzere a ñ b = 2 $ 92. a b dir. x, y ve z birer doğal sayı olmak üzere aşağıdaki dokuz kartın her birine birbirinden farklı kareköklü ifadeler yazılmıştır. ñ x 2 ñ 7 3 ñ 3 ò 15 ñ y 2 ñ 5 ò 35 ò 18 ñ z Bu kartlar üzerinde yazan kareköklü ifadelerden; 3 ile 4 sayıları arasındakiler A, 4 ile 5 sayıları arasındakiler B, 5 ile 6 sayıları arasındakiler ise C kutusuna yerleştirilecektir. A B C Kartların tamamı kutulara yerleştirildikten sonra B ile C kutusundaki kartların sayısı birbirine eşit ve A kutusundaki kart- ların sayısından fazla olmaktadır. Buna göre, x + y + z e",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü sayıları aralıklara yerleştirme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p54|q93",
+   "page": 54,
+   "n": 93,
+   "bbox": [
+    22.3,
+    38.7,
+    573.7,
+    239.9
+   ],
+   "num": [
+    28.3,
+    45.7,
+    41.6,
+    59.6
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere, a ñ b · c ñ d = a · c ó b·d dir. 93. Aşağıda tam kare pozitif tam sayıların yazılı olduğu bir sayı doğrusu verilmiştir. Bu sayı doğrusu üzerinde her biri bir tam sayıya karşılık gelecek biçimde 4 ile 9 arasında bir K noktası, 9 ile 16 arasında bir L noktası ve 16 ile 25 arasında bir M noktası işaretlenecektir. 25 1 9 16 4 Bu noktalardan K ve L’ye karşılık gelen sayıların karekökü 3’e, M’ye karşılık gelen sayının karekökü ise 4’e daha ya- kındır. K, L ve M noktalarına karşılık gelen üç sayının karekökü birbiriyle çarpılarak bir doğal sayı elde edilmiştir",
+   "answer": "A",
+   "solved": false,
+   "skill": "Karekök tahminiyle sayı doğrusunda çarpım",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p54|q94",
+   "page": 54,
+   "n": 94,
+   "bbox": [
+    24.3,
+    281.3,
+    573.7,
+    574.8
+   ],
+   "num": [
+    28.3,
+    288.3,
+    41.6,
+    302.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a , b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b, a ñ b – c ñ b = (a – c) ñ b ve 94. a b a ñ b · c ñ d = a · c ó b·d dir. Bir yüzünün alanı 300 cm 2 olan sarı renkli bir kâğıdın ön yüzüne, dört eş dikdörtgen aşağıdaki gibi çizilerek mavi renge boyanmıştır. Mavi Mavi Mavi Mavi Kâğıdın ön yüzündeki boyanmayan dikdörtgenlerden birinin alanı 60 cm 2 olduğuna göre, mavi dikdört- gen-lerden birinin kısa kenar uzunluğu kaç santimetredir? A) ñ 3 B) 2 ñ 3 C) 3 ñ 3 D) 4 ñ 3",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla alan ve kenar hesabı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p55|q95",
+   "page": 55,
+   "n": 95,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    522.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "95. Aşağıda 2020-2021 eğitim ve öğretim yılında bir okulda sınıf düzeylerine göre kız ve erkek öğrencilerin sayısını gös- teren sütun grafiği verilmiştir. Grafik: 2020-2021 Eğitim ve Öğretim Yılında Sınıf Düzeyine Göre Kız ve Erkek Öğrenci Sayıları Öğrenci Sayısı Kız Erkek 60 50 40 30 20 10 0 Sınıf Düzeyi 5. Sınıf 6. Sınıf 7. Sınıf 8. Sınıf 2020-2021 eğitim ve öğretim yılı sonunda 8. sınıfların tamamı mezun olmuş ve diğer sınıflardaki tüm öğrenciler bir üst sınıfa geçmiştir. 2021-2022 eğitim ve öğretim yılında; 5. sınıfa yeni kayıt yaptıran kız ve erkek öğrenci sayılarının dağılımı Grafik 1’de",
+   "answer": "C",
+   "solved": false,
+   "skill": "Sütun ve daire grafiklerini birleştirme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p56|q96",
+   "page": 56,
+   "n": 96,
+   "bbox": [
+    22.3,
+    38.7,
+    561.9,
+    319.3
+   ],
+   "num": [
+    28.3,
+    45.7,
+    41.6,
+    59.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b + c ñ b = (a + c) ñ b ve a ñ b · c ñ d = a · c ó b·d dir. 96. Uzun kenar uzunluğu 24 ñ 3 cm olan dikdörtgen şeklindeki 20 adet özdeş levhanın tamamı, kenarları çakışacak ve aralarında boşluk kalmayacak biçimde yerleştirilerek aşağıdaki gibi bir dikdörtgen elde edilmiştir. . . . Buna göre, elde edilen bu dikdörtgenin çevresinin uzunluğu kaç santimetredir? A) 144 ñ 3 B) 156 ñ 3 C) 168 ñ 3 D) 180 ñ 3",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü parçalarla oluşan dikdörtgenin çevresi",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p56|q97",
+   "page": 56,
+   "n": 97,
+   "bbox": [
+    24.3,
+    338.2,
+    569.2,
+    684.8
+   ],
+   "num": [
+    28.3,
+    343.2,
+    41.6,
+    357.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c birer doğal sayı olmak üzere a ñ b + c ñ b = (a + c) ñ b, a ñ b – c ñ b = (a – c) ñ b dir. 97. Alanı 224 ñ 5 cm 2 olan dikdörtgen şeklindeki bir panoya her birinin kısa kenar uzunluğu 2 cm olan dikdörtgen şeklin- deki resimler, birer kısa kenarları doğrusal olacak ve uzun kenarları çakışacak biçimde Şekil I’deki gibi yerleştirilmiş- tir. Bu resimlerden renkleri aynı olanlar birbiriyle özdeştir. B ñ 5 cm 5 ñ 5 cm B M M S S 2 ñ 5 cm M M K K K S S K S 6 ñ 5 cm Şekil I Şekil II Şekil I’de kırmızı resimler sabit kalmak üzere, beyaz ile mavi resimlerin birer kısa kenarları ve kırmızı ile sar",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü uzunlukların toplam ve farkıyla kenar bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p57|q98",
+   "page": 57,
+   "n": 98,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    340.4
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "98. Bir etkinlik için Ali, Banu, Ceren ve Demir bilet satmışlardır. Sattıkları toplam bilet sayısının dağılımı daire grafiğinde, Ali ve Banu’nun sattığı tam bilet ve öğrenci bileti sayıları ise sütun grafiğinde gösterilmiştir. Grafik 1: Satılan Toplam Bilet Grafik 2: Ali ve Banu’nun Sattığı Tam Bilet ve Sayısının Dağılımı Öğrenci Bileti Sayıları Bilet Sayısı (Adet) 300 Tam Bilet 250 Demir Banu Öğrenci Bileti 200 80° 150 100 120° Ali 50 Ceren 0 Kişiler Ali Banu Ceren’in sattığı tam bilet sayısının satmış olduğu toplam bilet sayısına oranı ile Ali’nin sattığı tam bilet sayısının sat- mış olduğu ",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden bilet geliri",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p57|q99",
+   "page": 57,
+   "n": 99,
+   "bbox": [
+    24.4,
+    359.2,
+    570.9,
+    761.1
+   ],
+   "num": [
+    28.4,
+    366.2,
+    41.6,
+    380.1
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "a, b, c, d birer doğal sayı olmak üzere a ñ b = 2 $ , a ñ b + c ñ b = (a + c) ñ b, a ñ b – c ñ b = (a – c) ñ b ve 99. a b a ñ b · c ñ d = a · c ó b·d dir. Bir okulun öğrencileri futbol takımı için logo tasarlayacaklardır. Bu tasarım için kısa kenar uzunluğu 3 ñ 6 cm olan dik- dörtgen şeklindeki kâğıda aşağıdaki gibi iki eş eşkenar üçgen çizilerek maviye boyanmıştır. Daha sonra bu kâğıt köşe- geni boyunca kesilerek iki parça elde edilmiştir. ñ 3 cm M M 3 ñ 6 cm M ñ 3 cm Bu parçalardaki eşkenar üçgenler tabanları çakışacak biçimde aşağıdaki gibi birleştirildiğinde, parçaların birer köşe- si bulu",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü çevreden alan hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p58|q100",
+   "page": 58,
+   "n": 100,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    548.5
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "100. Bir mağazada bulunan 4 farklı renkteki gömlekten renkleri aynı olanların fiyatları birbirine eşittir. Mağazada bulunan gömleklerin sayısının renklerine göre dağılımı Grafik 1’de, mağazada bulunan gömleklerin toplam fiyatlarının renklerine göre dağılımı ise Grafik 2’de verilmiştir. § Grafik 1: Gömleklerin Sayısının Grafik 2: Gömleklerin Toplam Fiyatının Renklerine Göre Dağılımı Renklerine Göre Dağılımı K 30° K S T T 120° 60° S M M Buna göre, gömleklerin renklerine göre birer adedinin fiyatını gösteren kareli zemindeki sütun grafiği aşağı- dakilerden hangisi olabilir? A) B) Grafik: Gömlek F",
+   "answer": "A",
+   "solved": false,
+   "skill": "İki daire grafiğinden birim fiyat sütun grafiği",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p58|q101",
+   "page": 58,
+   "n": 101,
+   "bbox": [
+    24.3,
+    625.3,
+    482.4,
+    669.3
+   ],
+   "num": [
+    28.3,
+    632.3,
+    47.0,
+    646.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "101. 15 sayısı hangi ardışık iki doğal sayı arasındadır? A) 1 ile 2 B) 2 ile 3 C) 3 ile 4 D) 4 ile 5",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekökü iki ardışık doğal sayı arasında bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p59|q102",
+   "page": 59,
+   "n": 102,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    289.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "102. Okul gezisi ile lunaparka giden kız ve erkek öğrenci sayılarının dağılımı daire grafiğinde, tercih ettikleri oyuncak türüne göre öğrenci sayıları ise sütun grafiğinde verilmiştir. Her öğrenci yalnızca bir oyuncağı tercih etmiştir. Grafik: Kız ve Erkek Öğrenci Sayılarının Dağılımı Grafik: Tercih Ettikleri Oyuncak Türüne Göre Öğrenci Sayıları Öğrenci Sayısı Kız 160 150° 80 60 Erkek 0 Oyuncak Türü Dönme Atlı Gondol Dolap Karınca Buna göre geziye katılan toplam erkek öğrenci sayısı kaçtır? A) 125 B) 150 C) 175 D) 210",
+   "answer": "C",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğini birlikte yorumlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p59|q103",
+   "page": 59,
+   "n": 103,
+   "bbox": [
+    24.3,
+    328.5,
+    573.7,
+    633.9
+   ],
+   "num": [
+    28.3,
+    331.5,
+    47.0,
+    345.4
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "103. Kütahya’da çini ustası olan Mehmet, elindeki çini vazolarını farklı renklere boyamak üzere iki gruba ayırmıştır. 1. grup- taki vazoları kırmızı, mavi ve yeşil; 2. gruptaki vazoları ise mavi, beyaz ve turuncu boya tüpleri kullanarak boyamıştır. 1. grupta kullandığı boya tüpü sayısının renklerine göre dağılımı Grafik I’de, 2. grupta kullandığı boya tüpü sayısının renklerine göre dağılımı ise Grafik II’de gösterilmiştir. Grafik I: 1. Gruptaki Vazolar İçin Kullanılan Grafik II: 2. Gruptaki Vazolar İçin Kullanılan Boya Tüpü Sayısının Renklerine Boya Tüpü Sayısının Renklerine Göre Dağılımı Göre",
+   "answer": "C",
+   "solved": false,
+   "skill": "İki daire grafiğinden en az boya tüpü sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p60|q104",
+   "page": 60,
+   "n": 104,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    342.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    46.4,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "104. Bir karton üzerinde uçları birleştirilen mavi ve yeşil renkli iki tel; Şekil I’deki gibi yerleştirildiğinde alanı 192 cm 2 olan bir kare, Şekil II’deki gibi yerleştirildiğinde ise bir dikdörtgen elde edilmektedir. Yeşil Mavi Yeşil Mavi Şekil I Şekil II Şekil I’de farklı iki telin bulunduğu kenarda mavi telin uzunluğu, yeşil telin uzunluğundan 4 3 cm fazla, Şekil II’de farklı iki telin bulunduğu kenarda ise yeşil telin uzunluğu, mavi telin uzunluğundan 2 3 cm fazladır. Buna göre Şekil II’deki dikdörtgenin alanı kaç santimetrekaredir? A) 72 B) 80 C) 84 D) 94",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü kenarlarla dikdörtgenin alanını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p60|q105",
+   "page": 60,
+   "n": 105,
+   "bbox": [
+    24.4,
+    423.8,
+    436.8,
+    519.0
+   ],
+   "num": [
+    28.4,
+    426.8,
+    47.0,
+    440.6
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "105. ns iki basamaklı doğal sayı olmak üzere • YT ifadesi 7 ile 8 arasındadır. • YT ifadesinin 448 ile çarpımı bir doğal sayıdır. Buna göre n + s ’nın değeri kaçtır? A) 9 B) 10 C) 11 D) 12",
+   "answer": "A",
+   "solved": false,
+   "skill": "Karekök koşullarından iki basamaklı sayıyı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p61|q106",
+   "page": 61,
+   "n": 106,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    455.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "106. Bir maratonda farklı zorluk seviyelerinde üç parkur bulunmaktadır. Bu parkurların, zorluk seviyelerine göre metre cinsinden uzunluklarının dağılımı daire grafiğinde; bu parkurların her 100 metresinin tamamlanma süreleri ise sütun grafiğinde gösterilmiştir. Grafik: Parkur Uzunluklarının Zorluk Grafik: Parkurların Her 100 Metresinin Seviyelerine Göre Dağılımı Tamamlanma Süreleri Süre (Dakika) 10 Kolay Zor 140° 5 120° Orta 2 0 Parkurlar Kolay Orta Zor Bu maratonun tamamlanma süresi 594 dakikadan azdır ve kolay parkurun tamamlanma süresi dakika cinsinden bir doğal sayıdır. Buna göre kolay par",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden süre hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p62|q107",
+   "page": 62,
+   "n": 107,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    281.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "107. Bir çocuk parkı, şekilde alanları verilen üç dikdörtgensel bölgeye ayrılmıştır. Bu bölgelerin bazı kenarları boyunca şekildeki gibi kırmızı şeritler çekilmiştir. 3 3 m 54 m 2 240 m 2 144 m 2 Buna göre, şerit çekilen kenarların uzunlukları toplamı kaç metredir? A) 41 3 B) 35 3 C) 30 3 D) 27 3",
+   "answer": "D",
+   "solved": false,
+   "skill": "Alanlardan kareköklü kenar uzunluğu hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p62|q108",
+   "page": 62,
+   "n": 108,
+   "bbox": [
+    24.3,
+    349.3,
+    573.7,
+    679.8
+   ],
+   "num": [
+    28.3,
+    352.3,
+    47.0,
+    366.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "108. Bir okulun 12. sınıf öğrencilerine hangi mesleği seçecekleri ile ilgili bir anket düzenlenmiştir. 12. sınıf öğrencilerinin tamamının katıldığı bu anket ile ilgili soruya verdikleri yanıtların dağılımı aşağıdaki daire grafiğinde gösterilmiştir. Kararsız kalan tüm öğrencilerin katıldığı bir anket daha düzenlenmiş ve bu öğrencilerin verdiği yanıtların dağılımı ise aşağıdaki sütun grafiğinde gösterilmiştir. Grafik: Öğrencilerin Hangi Mesleği Grafik: Kararsız Kalan Öğrencilerin Seçecekleri ile İlgili Soruya Verdiği Yanıtların Dağılımı Verdikleri Yanıtların Dağılımı Öğrenci Sayısı 30 Eczacı Kar",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğini birleştirip karşılaştırma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p63|q109",
+   "page": 63,
+   "n": 109,
+   "bbox": [
+    22.3,
+    33.9,
+    573.4,
+    237.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    47.0,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "109. Uzunluğu 15 cm olan bir cetvel üzerinde A, K, L, M ve N noktaları aşağıdaki gibi işaretlenmiştir. A K L M N Belli bir açıklıktaki bir pergelin sivri ucu, bu cetvel üzerindeki 2 sayısına karşılık gelen A noktasına batırılmıştır. Daha sonra merkezi A noktası ve alanı 225 cm 2 olan bir daire çizilmiştir. Buna göre, pergelin diğer ucunun bu cetvelde karşılık geldiği nokta aşağıdakilerden hangisi olabilir? ( r yerine 3 alınız.) A) K B) L C) M D) N",
+   "answer": "D",
+   "solved": false,
+   "skill": "Dairenin alanından yarıçapı tahmin edip konumlandırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p63|q110",
+   "page": 63,
+   "n": 110,
+   "bbox": [
+    24.3,
+    286.3,
+    558.4,
+    665.3
+   ],
+   "num": [
+    28.3,
+    291.3,
+    46.6,
+    305.1
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "110. Aşağıdaki tabloda birer yüzlerinin alanları 1 m 2 olan üç çeşit camın kütleleri kilogram cinsinden verilmiştir. Tablo : Camların Çeşitlerine Göre Birer Metrekarelerinin Kütleleri Camların Çeşitleri Kütle (kg) K 5 L 9 M 12 Bir binanın dış yüzey kaplamasında kullanılmak üzere tabloda gösterilen camlardan toplam 1,8 ton alınmıştır. Alı- nan bu camların çeşitlerine göre kütlelerinin dağılımını gösteren daire grafiği aşağıda verilmiştir. Grafik : Alınan Camların Çeşitlerine Göre Kütlelerinin Dağılımı L K 60° 120° M Buna göre, satın alınan bu camlarla binanın kaç metrekarelik yüzey alanı kaplan",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tablo ve daire grafiğinden toplam yüzey alanı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p64|q111",
+   "page": 64,
+   "n": 111,
+   "bbox": [
+    22.3,
+    43.0,
+    469.6,
+    97.0
+   ],
+   "num": [
+    28.3,
+    50.0,
+    46.2,
+    63.9
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1 44 , 0 16 , + 111. işleminin sonucu kaçtır? 0 64 , A) 1 B) 1,2 C) 2 D) 2,4",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ondalık ifadelerin karekökleriyle işlem yapma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p64|q112",
+   "page": 64,
+   "n": 112,
+   "bbox": [
+    24.4,
+    126.0,
+    573.7,
+    407.2
+   ],
+   "num": [
+    28.4,
+    129.0,
+    46.6,
+    142.9
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "112. Bir tiyatro salonundaki toplam koltuk sayısının renklere göre dağılımı daire grafiğinde gösterilmiştir. Bu salona bir gösteriyi izlemek için gelen tüm seyirciler koltuklarına oturduktan sonra koltukların bir kısmı boş kalmıştır. Bu durumda dolu olan koltuk sayısının renklere göre dağılımı ise sütun grafiğinde gösterilmiştir. Grafik: Tiyatro Salonundaki Toplam Koltuk Grafik: Tiyatro Salonundaki Dolu Olan Koltuk Sayısının Renklere Göre Dağılımı Sayısının Renklere Göre Dağılımı Koltuk Sayısı 90 Kırmızı Mavi 120° 50 45 150° Sarı Renk 0 Kırmızı Mavi Sarı Tiyatro salonundaki dolu olan sarı kolt",
+   "answer": "B",
+   "solved": false,
+   "skill": "Daire ve sütun grafiğinden boş koltuk sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p64|q113",
+   "page": 64,
+   "n": 113,
+   "bbox": [
+    24.3,
+    457.5,
+    573.7,
+    666.7
+   ],
+   "num": [
+    28.3,
+    460.5,
+    46.6,
+    474.4
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "113. Aşağıda santimetre cinsinden eş bölmelere ayrılmış 30 cm’lik bir cetvel verilmiştir. Esnemeyen bir ipin uçlarından biri, bu cetvelin üzerindeki santimetre cinsinden bir doğal sayıya karşılık gelen bir noktaya şekildeki gibi sabitlenmiştir. 0 30 İp, cetvelin kenarı ile çakışacak biçimde gergin olarak tutulduğunda ipin diğer ucu 19 ile 20 arasında 20’ye daha ya- kın bir noktaya veya 4 ile 5 arasında 4’e daha yakın bir noktaya karşılık gelmektedir. Buna göre, bu ipin santimetre cinsinden uzunluğu aşağıdakilerden hangisi olabilir? A) 5 3 B) 3 7 C) 3 6 D) 5 2",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunluğu tahmin edip aralık belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p65|q114",
+   "page": 65,
+   "n": 114,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    522.5
+   ],
+   "num": [
+    28.3,
+    40.9,
+    46.6,
+    54.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "114. Bir ilin 2019 yılının Haziran ve Temmuz ayları sonundaki nüfusunun cinsiyete göre dağılımları aşağıdaki daire grafik- lerinde gösterilmiştir. Grafik: Haziran Ayı Sonundaki Grafik: Temmuz Ayı Sonundaki Nüfusun Cinsiyete Göre Dağılımı Nüfusun Cinsiyete Göre Dağılımı Kadın Erkek Kadın Erkek 179° 180° Temmuz ayında erkek nüfusu haziran ayına göre 1000 artarken kadın nüfusu değişmemiştir. Buna göre, haziran ayı sonundaki kadın ve erkek nüfusunu gösteren sütun grafiği aşağıdakilerden hangisi- dir? A) B) Nüfus Nüfus 181 000 180 500 179 500 179 000 Cinsiyet Cinsiyet 0 0 Kadın Erkek Kadın Erkek C)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Daire grafiğinden sütun grafiğine nüfus yorumlama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p66|q115",
+   "page": 66,
+   "n": 115,
+   "bbox": [
+    22.3,
+    37.0,
+    469.6,
+    102.5
+   ],
+   "num": [
+    28.3,
+    44.0,
+    46.6,
+    57.9
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "115. x, bir basamaklı pozitif tam sayı olmak üzere, 8 ile x ifadelerinin çarpımı bir doğal sayıdır. Buna göre, x’in alabileceği değerlerin toplamı kaçtır? A) 10 B) 9 C) 8 D) 7",
+   "answer": "A",
+   "solved": false,
+   "skill": "Karekök çarpımı doğal sayı olacak değerleri bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p66|q116",
+   "page": 66,
+   "n": 116,
+   "bbox": [
+    24.3,
+    270.9,
+    573.7,
+    509.8
+   ],
+   "num": [
+    28.3,
+    273.9,
+    46.6,
+    287.8
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "116. Yapılan bir araştırmada bir çiftçi grubuna “2026 yılında buğday ekmeyi planlıyor musunuz?” sorusu sorulmuş ve çiftçi- lerin %80’i bu soruya “Evet”, %20’si ise “Hayır” cevabını vermiştir. “Evet” cevabını veren çiftçilerin yaş gruplarına göre dağılımı aşağıdaki daire grafiğinde gösterilmiştir. Grafik: “Evet” Cevabı Veren Çiftçilerin Yaş Gruplarına Göre Dağılımı 50 yaş ve üzeri 40 - 49 Yaş 144° 30 - 39 Yaş 72° 18° 20 - 29 Yaş “Hayır” cevabını veren çiftçilerin tamamı 40 - 49 yaş grubunda olduğuna göre, bu araştırmaya katılan çiftçile- rin yüzde kaçı 40 - 49 yaş grubundadır? A) 42 B) 48 C) 55",
+   "answer": "B",
+   "solved": false,
+   "skill": "Yüzdeler ve daire grafiğiyle oran bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p67|q117",
+   "page": 67,
+   "n": 117,
+   "bbox": [
+    22.3,
+    33.9,
+    570.9,
+    244.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    46.6,
+    54.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "117. Aşağıdaki şekil, kenarlarının uzunlukları santimetre cinsinden bir doğal sayı olan özdeş kareler kullanılarak oluşturul- muştur. Bu şeklin çevresinin uzunluğu santimetre cinsinden bir tam kare doğal sayıdır. Buna göre, özdeş karelerin bir kenarının santimetre cinsinden uzunluğu aşağıdakilerden hangisi olabilir? A) 2 B) 3 C) 4 D) 6",
+   "answer": "C",
+   "solved": false,
+   "skill": "Çevrenin tam kare olması koşuluyla kenar bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u2|p67|q118",
+   "page": 67,
+   "n": 118,
+   "bbox": [
+    24.4,
+    452.9,
+    573.7,
+    744.1
+   ],
+   "num": [
+    28.4,
+    455.9,
+    46.6,
+    469.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "118. Bir kırtasiyede bulunan dört farklı renkteki kalemlerin başlangıçtaki sayılarına ait bilgiler sütun grafiğinde verilmiştir. Bu dört farklı renkteki kalemden de eşit sayıda satıldıktan sonra kalan kalemlerin sayılarının dağılımı ise daire grafiğinde gösterilmiştir. Grafik : Kırtasiyede Bulunan Kalemlerin Grafik : Satıştan Sonra Kalan Kalemlerin Başlangıçtaki Sayıları Sayılarının Dağılımı Kalem Sayıları 180 Mavi Sarı 168° Yeşil 40 Kalemlerin 0 Mor Mavi Sarı Yeşil Renkleri Buna göre, başlangıçtaki toplam kalem sayısı kaçtır? A) 340 B) 360 C) 440 D) 460",
+   "answer": "D",
+   "solved": false,
+   "skill": "Sütun ve daire grafiğiyle başlangıç sayısını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

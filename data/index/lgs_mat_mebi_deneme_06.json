@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_06",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_06_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 6 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 24,
+ "key_pages": [
+  24
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    86.4,
+    263.6,
+    234.1
+   ],
+   "num": [
+    36.3,
+    93.4,
+    45.3,
+    108.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Bir otobüste bulunan kadın yolcu sayısı, erkek yolcu sayısının 3 katıdır. Otobüse ilk durakta 6 evli çift biniyor ve inen yolcu olmuyor. Bir sonraki durakta bir yolcu iniyor. 3 İnen yolcunun kadın olma olasılığı 5 olduğuna göre, otobüste ilk durumda bulunan erkek yolcu sayısı kaçtır? A) 2 B) 3 C) 4 D) 5",
+   "answer": "A",
+   "solved": false,
+   "skill": "Olasılık koşulundan denklem kurup yolcu sayısı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    32.0,
+    402.2,
+    271.4,
+    590.0
+   ],
+   "num": [
+    36.0,
+    405.2,
+    45.6,
+    420.5
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Aşağıda üslü ifadelerin yazılı olduğu dört kart verilmiştir. − 2   1 ( - 2 2 ) 3 ( - 2 - 3 ) - 2 ( - 2 2 ) - 1     16   Bu kartların üzerinde yazan sayılardan değeri en küçük olan ile en büyük olanın çarpımı kaçtır? A) - 2 - 2 B) - 2 4 C) - 2 6 D) - 2 14",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü ifadelerin en küçüğü ve en büyüğünü bulup çarpma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    279.6,
+    90.4,
+    516.3,
+    256.8
+   ],
+   "num": [
+    283.6,
+    93.4,
+    293.0,
+    108.7
+   ],
+   "topic": "Eşitsizlikler: Eşitsizlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Bir satıcı x TL’ye aldığı ürünün satışından en az 45 TL, en çok 90 TL kâr etmektedir. Buna göre satıcının 300 TL’ye sattığı bu ürün için x’in alabileceği değerleri gösteren eşitsizlik aşağıdakilerden hangisidir? A) 345 < x < 390 B) 210 < x < 255 C) 345 ≤ x ≤ 390 D) 210 ≤ x ≤ 255",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kâr aralığından eşitsizlik yazma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p3|q4",
+   "page": 3,
+   "n": 4,
+   "bbox": [
+    279.2,
+    402.2,
+    513.4,
+    568.6
+   ],
+   "num": [
+    283.2,
+    405.2,
+    292.7,
+    420.5
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Marketten 193,75 TL tutarında alışveriş yapan Rukiye, kasaya 200 TL vermiştir. Buna göre Rukiye’nin alacağı para üstünün Türk lirası cinsinden çözümlenmiş hâli aşağıdakilerden hangisidir? A) 7 . 10 0 + 7 . 10 - 1 + 5 . 10 - 2 B) 7 . 10 1 + 2 . 10 - 1 + 5 . 10 - 2 C) 6 . 10 0 + 2 . 10 - 1 + 5 . 10 - 2 D) 6 . 10 1 + 2 . 10 - 1 + 5 . 10 - 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ondalık farkı bulup 10 un kuvvetleriyle çözümleme",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    32.0,
+    90.4,
+    509.1,
+    351.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    45.5,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Bir belediyenin düzenli şehirleşme için geliştirdiği bir proje kapsamında düzenlenecek doğrusal bir caddenin planı aşağıda verilmiştir. Sol 10 m 10 m 8 m 8 m • • • Başlangıç Bitiş 10 m 10 10 m 10 m 10 m • • • 10 m 10 m Sağ Plana göre caddenin iki yanına da başlangıçla aynı hizada, genişliği 10 m olan evler yapılacaktır. Caddenin solunda bulunan ardışık iki ev arası ve son evle caddenin bitişi arasındaki mesafe 8 m, sağında bulunan ardışık iki ev arası ve son evle caddenin bitişi arasındaki mesafe 10 m olacaktır. Buna göre uzunluğu 200 m’den fazla olan bu caddenin her iki tarafına en az kaç ",
+   "answer": "C",
+   "solved": false,
+   "skill": "EKOK ile iki taraftaki ev sayısını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p4|q6",
+   "page": 4,
+   "n": 6,
+   "bbox": [
+    32.1,
+    402.2,
+    516.8,
+    660.0
+   ],
+   "num": [
+    36.1,
+    405.2,
+    45.6,
+    420.5
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Bir depoda bulunan üç çeşit buğdayın birer tonunun fiyatı tabloda, bu depoda bulunan buğdayların toplam kütlesinin çeşitlerine göre dağılımı ise daire grafiğinde verilmiştir. Tablo: Depodaki Buğday Çeşitlerinin Grafik: Depodaki Buğdayların Toplam Birer Tonunun Fiyatı (TL) Kütlesinin Çeşitlerine Göre Dağılımı Buğday Çeşitleri 1 Ton Fiyatı (TL) A A 4000 C 120 o B 6000 210 o B C ? B buğdayının toplam fiyatı, A buğdayının toplam fiyatından 100 000 TL fazladır. C buğdayının toplam fiyatı ise 105 000 TL’dir. Buna göre C buğdayının bir tonunun fiyatı kaç Türk lirasıdır? A) 3000 B) 4000 C) 5000 D) ",
+   "answer": "A",
+   "solved": false,
+   "skill": "Daire grafiği ve fiyat koşuluyla birim fiyat bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    46.4,
+    90.4,
+    544.8,
+    520.4
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.5,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Aşağıdaki görselde Ali ve İsa’nın bulundukları noktaların bir ATM’ye uzaklıkları verilmiştir. Ali İsa 10 m 100 m Ali bulunduğu noktadan sabit hızla saniyede 2 m ilerleyerek ATM’den uzaklaşırken, İsa bulunduğu noktadan sabit hızla saniyede 1 m ilerleyerek ATM’ye yaklaşmaktadır. Buna göre İsa’nın ATM’ye ulaştığı ana kadar geçen sürede bu kişilerin ATM’ye olan uzaklıklarının zamana göre değişimini gösteren doğrusal grafik aşağıdakilerden hangisidir? A) B) Grafik: Ali ve İsa'nın ATM'ye Grafik: Ali ve İsa'nın ATM'ye Olan Uzaklıkları Olan Uzaklıkları Uzaklık (m) Uzaklık (m) 210 200 Ali Ali 100 İsa İ",
+   "answer": "D",
+   "solved": false,
+   "skill": "Hareketi doğrusal denklem grafiğiyle gösterme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    32.0,
+    90.4,
+    272.4,
+    401.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.1,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Aşağıda iki arabanın kilometre sayaçlarının gösterdiği değerler, 10’un tam sayı kuvvetleri kullanılarak ifade edilmiştir. Tablo: Kilometre Sayaçlarının Gösterdiği Değerler 1. Araba 1,48 . 10 a km 2. Araba 960 . 10 a - 3 km Araba almak isteyen Selim ve Fatih, kilometre sayacındaki değer 1. araçtan küçük, 2. araçtan büyük olacak şekilde birer araba seçmişlerdir. Selim’in seçtiği arabanın kilometre sayacında yazan değerin bilimsel gösterimi 1,28 . 10 5 dir Buna göre Fatih’in seçtiği arabanın kilometre sayacında yazan değer aşağıdakilerden hangisi olabilir? A) 9,5 . 10 4 B) 1,36 . 10 5 C) 1,24 ",
+   "answer": "B",
+   "solved": false,
+   "skill": "10 un kuvvetleriyle yazılan sayıları karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    32.3,
+    466.0,
+    267.2,
+    612.3
+   ],
+   "num": [
+    36.3,
+    469.0,
+    44.3,
+    484.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Dakikada 1 kazak üreten bir makine üretime ara vermeksizin sırasıyla 4 beyaz, 3 siyah ve 5 lacivert kazak üretmektedir. Bu makine 175 dakika boyunca üretim yapmıştır. Buna göre üretilen son 18 kazak arasından rastgele seçilen bir kazağın beyaz olma olasılığı kaçtır? A) 5 B) 1 C) 7 D) 4 18 3 18 9",
+   "answer": "C",
+   "solved": false,
+   "skill": "Periyodik üretimde beyaz kazak olasılığı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p6|q10",
+   "page": 6,
+   "n": 10,
+   "bbox": [
+    279.5,
+    90.8,
+    518.3,
+    399.6
+   ],
+   "num": [
+    283.5,
+    93.8,
+    296.6,
+    109.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Sinan, aşağıdaki gibi 890 cm yüksekliğinde bir tabureye çıktığında baş hizasının 144 cm’ye karşılık geldiğini görmüştür. 150 140 130 120 110 100 890 cm 10 0 Buna göre Sinan’ın santimetre cinsinden boyu hangi ardışık iki tam sayı arasındadır? A) 113 - 114 B) 114 - 115 C) 115 - 116 D) 116 - 117",
+   "answer": "B",
+   "solved": false,
+   "skill": "Karekökü tahmin ederek boy aralığı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p6|q11",
+   "page": 6,
+   "n": 11,
+   "bbox": [
+    280.0,
+    466.0,
+    514.4,
+    590.2
+   ],
+   "num": [
+    284.0,
+    469.0,
+    296.1,
+    484.3
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Her biri (x + 2) litre su alan (3x - 6) adet kovanın tamamı su ile doludur. Buna göre kovalardaki toplam su miktarını litre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 3(x 2 - 4) B) 3(x - 2) 2 C) 3(x 2 + 4) D) 3(x + 2) 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "İki kare farkı özdeşliğiyle cebirsel çarpım",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p7|q12",
+   "page": 7,
+   "n": 12,
+   "bbox": [
+    32.0,
+    90.4,
+    517.3,
+    434.9
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.2,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Bir yol üzerinde Ahmet A noktasında, Beril ise B noktasında durmaktadır. Sabit adım uzunluklarıyla Ahmet 3 adım, Beril 5 adım atarak birbirlerine doğru yürürlerse konumları Görsel 1’deki gibi, zıt yönlere doğru yürürlerse konumları Görsel 2’deki gibi olacaktır. Ahmet Beril A B 120 cm Görsel 1 Ahmet Beril A B 990 cm Görsel 2 Ahmet’in adım uzunluğu Beril’in adım uzunluğunun 2 katından 20 cm eksik olduğuna göre, Ahmet’in bir adım uzunluğu kaç santimetredir? A) 40 B) 45 C) 70 D) 90",
+   "answer": "C",
+   "solved": false,
+   "skill": "Adım uzunluklarından denklem kurup çözme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p7|q13",
+   "page": 7,
+   "n": 13,
+   "bbox": [
+    32.0,
+    466.0,
+    516.1,
+    728.3
+   ],
+   "num": [
+    36.0,
+    469.0,
+    49.1,
+    484.3
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Sadece 1 TL’lik madenî paralar biriktiren Mahmut’un kumbaralarının içindeki para miktarları aşağıda verilmiştir. A B C D 18 TL 23 TL 20 TL 25 TL Mahmut, kumbaraların her birine en az birer adet 1 TL’lik madenî para atmaya devam etmiştir. Son durumda Mahmut, kumbaralarda bulunan tüm madenî paraları boş bir kutuya atıp içinden rastgele bir madenî para almıştır. Aldığı paranın A kumbarasına ait olma olasılığı diğer üç kumbaranın her birinden daha fazla, B kumbarasına ait olma olasılığı ise diğer üç kumbaranın her birinden daha azdır. Buna göre Mahmut’un kumbaralara sonradan attığı para miktar",
+   "answer": "D",
+   "solved": false,
+   "skill": "Olasılık koşullarından en az para miktarını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p8|q14",
+   "page": 8,
+   "n": 14,
+   "bbox": [
+    32.0,
+    90.4,
+    515.3,
+    444.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    49.0,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Özdeş kare dik prizma şeklinde tahta bloklar kullanılarak aşağıdaki gibi üç farklı platform oluşturulmuştur. Engin ve Zeynep’in boyları birbirine eşit ve her biri (2x + 110) cm, Asım’ın boyu ise (6x + 150) cm’dir. Zeynep, Engin ve Asım aşağıdaki gibi platformlar üzerinde dik durduklarında üçünün de başları aynı hizaya gelmektedir. Zeynep Engin Asım ? Zemin Buna göre Zeynep’in üzerinde durduğu platformun yüksekliğini santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 3x + 30 B) 6x + 60 C) 12x + 120 D) 18x + 180",
+   "answer": "B",
+   "solved": false,
+   "skill": "Cebirsel boylarla platform yüksekliği ifadesi bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p8|q15",
+   "page": 8,
+   "n": 15,
+   "bbox": [
+    32.0,
+    471.6,
+    511.3,
+    721.0
+   ],
+   "num": [
+    36.0,
+    474.6,
+    49.1,
+    489.9
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Aşağıdaki tabloda üç farklı mumun başlangıçtaki boy uzunlukları ve yanmaya başladıktan sonraki her bir dakikada boylarındaki kısalma miktarı verilmiştir. Tablo: Mumların Boyları ve Her Bir Dakikada Boylarındaki Kısalma Miktarı Mumlar Boyu (cm) Bir Dakikada Boylarındaki Kısalma Miktarı (cm) A 98 2 B 3 363 C 7 175 Mumlar yanmaya başladıktan 3 dakika sonra C mumu, 4 dakika sonra A mumu ve 8 dakika sonra da B mumu söndürülmüştür. Buna göre son durumda A, B ve C mumlarının boylarının doğru sıralaması aşağıdakilerden hangisidir? A) A < B < C B) B < A < C C) A < C < B D) B < C < A",
+   "answer": "A",
+   "solved": false,
+   "skill": "Katsayıyı kök içine alarak kısalan mumları sıralama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p9|q16",
+   "page": 9,
+   "n": 16,
+   "bbox": [
+    32.3,
+    90.4,
+    511.5,
+    299.3
+   ],
+   "num": [
+    36.3,
+    93.4,
+    51.0,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Aşağıda üç renk çubuğun her birinden 5 adet verilmiştir. Aynı renkteki çubuklar özdeş olup uzunlukları aşağıda gösterilmiştir. , cm , cm , cm 0 25 0 49 0 64 Üç renk çubuktan da en az birer adet kullanılarak, çubuklar kırılmadan uç uca birleştirilmiş ve bir eşkenar üçgen oluşturulmuştur. Buna göre kalan çubukların toplam uzunluğu en fazla kaç santimetredir? A) 2,8 B) 4 C) 5,5 D) 6",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ondalık kök uzunluklarıyla eşkenar üçgen oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p9|q17",
+   "page": 9,
+   "n": 17,
+   "bbox": [
+    32.0,
+    413.5,
+    515.2,
+    665.4
+   ],
+   "num": [
+    36.0,
+    416.5,
+    49.6,
+    431.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Bir ses mühendisi, geliştirdiği yeni kule tipi hoparlör tasarımı için görünen yüzlerinin alanları verilen daire biçimindeki iki farklı hoparlörü dikdörtgenler prizması biçimindeki bir kutunun içine monte etmiştir. ? (27a 2 + 72a + 48) cm 2 (12a 2 + 36a + 27) cm 2 Bu hoparlörler kutunun içine, merkezleri kutunun yan yüzeylerine paralel bir doğru üzerinde bulunacak ve birbirine tek noktada temas edecek biçimde üst üste yerleştirilmiştir. Buna göre bu tasarımda kullanılan kutunun yüksekliğinin santimetre cinsinden alabileceği en küçük değeri gösteren cebirsel ifade aşağıdakilerden hangisidir?",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam kare ifadeleri çarpanlarına ayırıp yarıçap bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p10|q18",
+   "page": 10,
+   "n": 18,
+   "bbox": [
+    32.6,
+    90.4,
+    517.8,
+    327.7
+   ],
+   "num": [
+    36.6,
+    93.4,
+    51.1,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Yükseklikleri 30 m ve 14 m olan düz bir zemine dik konumlandırılmış iki direğin tepe noktalarına aşağıdaki gibi bir ip gerilmiştir. İp 30 m 14 m Zemin 64 m Direklerin bulundukları noktaların arasındaki en kısa mesafe 64 m olduğuna göre, ipin eğimi yüzde kaçtır? A) 30 B) 25 C) 20 D) 16",
+   "answer": "B",
+   "solved": false,
+   "skill": "İki nokta arasındaki eğimi yüzde olarak bulma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p10|q19",
+   "page": 10,
+   "n": 19,
+   "bbox": [
+    32.6,
+    430.1,
+    505.3,
+    722.4
+   ],
+   "num": [
+    36.6,
+    433.1,
+    51.2,
+    448.4
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Dikdörtgenler prizması şeklindeki özdeş kutulardan bir tanesinin ayrıt uzunlukları aşağıda verilmiştir. 20 cm 15 cm 4 cm Bu kutular, boyu 4,5 metreden az olan eşit uzunluktaki iki rafa –rafın başında, sonunda ve ardışık iki kutu arasında boşluk kalmayacak şekilde– görseldeki gibi tek sıra hâlinde dizilebilmektedir. 15 cm 20 cm Buna göre raflardan birine tek sıra hâlinde en fazla kaç kutu dizilebilir? A) 75 B) 90 C) 105 D) 120",
+   "answer": "C",
+   "solved": false,
+   "skill": "EKOK ile en fazla kutu sayısını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_06|p11|q20",
+   "page": 11,
+   "n": 20,
+   "bbox": [
+    32.0,
+    90.4,
+    508.8,
+    447.4
+   ],
+   "num": [
+    36.0,
+    93.4,
+    51.2,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Aşağıda bir yüzünün alanı (16x 2 + 64x + 64) cm 2 olan kare şeklindeki bir kartonun katlama ve kesme aşamaları gösterilmiştir. Bu karton önce Görsel 1’deki gibi ok yönünde köşeleri çakışacak şekilde ortadan ikiye katlanmış, ardından elde edilen dikdörtgen tekrar Görsel 2’deki gibi ok yönünde köşeleri çakışacak şekilde ortadan ikiye katlanmıştır. Görsel 1 Görsel 2 Görsel 3 Son durumda elde edilen karenin üzerine en büyük dairesel bölge çizilip Görsel 3’teki gibi kesilerek alınmıştır. Elde edilen tüm daireler, çapları boyunca kesilerek özdeş yarım daireler oluşturulmuştur. Bu yarım daireleri",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare alandan kenar bulup yarım daire dizisi uzunluğu",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

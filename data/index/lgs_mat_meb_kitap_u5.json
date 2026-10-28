@@ -1,0 +1,945 @@
+{
+ "book": {
+  "id": "lgs_mat_meb_kitap_u5",
+  "path": "kaynaklar/LGS_Matematik/14_MEB_Calisma_Kitabi/MEB_Calisma_Kitabi_Unite5_Ucgenler-Eslik_ve_Benzerlik.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "meb_kitap",
+  "kind_name": "MEB Çalışma Kitabı",
+  "unit": "Üçgenler · Eşlik ve Benzerlik",
+  "code": "",
+  "title": "MEB LGS Çalışma Kitabı · 5. Ünite",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 24,
+ "key_pages": [],
+ "questions": [
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p2|q1",
+   "page": 2,
+   "n": 1,
+   "bbox": [
+    22.3,
+    35.1,
+    573.9,
+    709.8
+   ],
+   "num": [
+    28.3,
+    42.1,
+    36.3,
+    55.9
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Yarıçapı r olan dairenin çevresi 2 r r formülü ile hesaplanır. A Üçgenin her bir kenarının uzunluğu, diğer iki kenarının uzunluklarının |b – c| < a < b + c farkının mutlak değerinden büyük, toplamından küçüktür. |a – c| < b < a + c c b |a – b| < c < a + b B a C Sosyal Bilgiler dersinden proje ödevi alan Levent, yanda görseli verilen Denizli ilimizdeki meşhur üçgen köprülü kav- şağın modelini yapmıştır. Levent yaptığı modelde kenar uzunlukları santimetre cinsinden tam sayı olan üç tane eş ikizkenar üçgen ve çevresi 8 p cm olan bir daire kullanmıştır. Modeldeki ikizkenar üçgenlerin taban uzun",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üçgen eşitsizliğiyle en az çevreyi bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    22.3,
+    39.1,
+    570.9,
+    374.5
+   ],
+   "num": [
+    28.3,
+    46.1,
+    36.3,
+    59.9
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2 2. a, b, c, d birer doğal sayı olmak üzere a b c d a c b d ve a b a b dir. $ = $ $ = a 2 Bir kenarı a olan karenin köşegen uzunluğu a 2 dir. a a Doruk, şekildeki gibi yan yana üç tane kare çiziyor. Bu karelerden birincinin köşegen uzunluğu ikincinin kenar uzunlu- ğuna, ikincinin köşegen uzunluğu da üçüncünün kenar uzunluğuna eşittir. 1. kare 2. kare 3. kare İkinci karenin alanı 128 cm 2 olduğuna göre birinci ve üçüncü karelerin çevreleri toplamı kaç santimetredir? A) 32 B) 48 C) 80 D) 96",
+   "answer": "D",
+   "solved": false,
+   "skill": "Karenin köşegeniyle ardışık kare kenarlarını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    24.3,
+    432.3,
+    573.7,
+    750.5
+   ],
+   "num": [
+    28.3,
+    435.8,
+    36.3,
+    449.6
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "D C 3. Bir eşkenar dörtgende köşegenler birbirini ortalar ve dik keser. A B Kenar uzunlukları 320 cm ve 120 cm olan dikdörtgen biçimindeki halının üzerinde aşağıdaki gibi birbirine eş olan eşkenar dörtgen biçiminde desenler vardır. 320 cm 120 cm Bu eşkenar dörtgenlerin bir kenarının uzunluğu kaç santimetredir? A) 50 B) 60 C) 80 D) 100",
+   "answer": "A",
+   "solved": false,
+   "skill": "Eşkenar dörtgenin köşegenlerinden kenar uzunluğu bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    22.3,
+    37.5,
+    570.9,
+    451.2
+   ],
+   "num": [
+    28.3,
+    44.5,
+    36.3,
+    58.3
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "A 4. Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı, a 2 + c 2 = b 2 hipotenüsün uzunluğunun karesine eşittir. b c a B C Şekil 1’de verilen kare biçimindeki karton parçasından Şekil 2’deki gibi boyalı dört tane eş dik üçgen kesilip çıkarılıyor. Şekil 1 Şekil 2 Bu üçgenler aşağıdaki gibi birleştirildiğinde alanı 16 cm 2 olan bir kare oluşturuluyor. Buna göre başlangıçta verilen karton parçasının bir kenarının uzunluğu kaç santimetredir? A) 3 ñ 2 B) 2 ñ 5 C) 2 ñ 6 D) 5",
+   "answer": "B",
+   "solved": false,
+   "skill": "Dik üçgen kenarlarından hipotenüsü bulup kare kenarı hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p5|q5",
+   "page": 5,
+   "n": 5,
+   "bbox": [
+    22.3,
+    50.0,
+    573.7,
+    685.4
+   ],
+   "num": [
+    28.3,
+    57.0,
+    36.3,
+    70.9
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir kenarı a olan karenin köşegen uzunluğu a ñ 2’dir. a ñ 2 5. a Bir okuldaki 8. sınıf öğrencilerinin “18 Mart Çanakkale Şehitlerini Anma Günü” nedeniyle yaptığı bazı resimler, 5 cm kalınlığında ve köşegen uzunluğu 70 ñ 2 cm olan kare şeklinde eş çerçevelerin içine konuluyor. 70 ñ 2 cm 5 cm 5 cm Bu çerçeveler aşağıdaki şekilde görüldüğü gibi okul koridorunda üstten A noktası, alttan B noktası ile aynı hizada ve zemine paralel olacak şekilde yan yana diziliyor. A B A noktasının zeminden yüksekliği, B noktasının zeminden yüksekliğinin iki katından azdır. Buna göre B noktasının zeminden yüksekliğ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kare köşegeninden kenar bulup eşitsizlik kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p6|q6",
+   "page": 6,
+   "n": 6,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    506.9
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. İki terimin toplamının karesi, bu iki terimin kareleri ve bu iki terimin çarpımının iki katının toplamına eşittir. (a + b) 2 = a 2 + 2ab + b 2 A Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı, a 2 + c 2 = b 2 b c hipotenüsün uzunluğunun karesine eşittir. a B C Ali teknoloji tasarım dersinde, elindeki kartondan alanı 48 cm 2 ve çevresi 28 cm olan dikdörtgen şeklinde bir televizyon yapıyor. Bu televizyonu, aşağıdaki görseldeki gibi dışına taşmayacak şekilde üzerine yerleştirebileceği daire şeklinde bir televizy",
+   "answer": "B",
+   "solved": false,
+   "skill": "Dikdörtgenin köşegeniyle çevrel çemberin çapını bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p7|q7",
+   "page": 7,
+   "n": 7,
+   "bbox": [
+    22.3,
+    49.6,
+    555.7,
+    567.3
+   ],
+   "num": [
+    28.3,
+    56.6,
+    36.3,
+    70.5
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı, a 2 + c 2 = b 2 b c hipotenüsün uzunluğunun karesine eşittir. a B C Aşağıdaki şekilde bir göl ve gölün çevresinde yapılması planlanan yürüyüş yolu (noktalı çizgiler) kuş bakışı olarak gösterilmiştir. 1 birim C D 1 birim E G Ö L B A F Bu yürüyüş yolunun aşağıda belirtilen kısımlarından hangisi en uzundur? A) AB yolu B) BC yolu C) DE yolu D) EF yolu",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareli zeminde Pisagor ile doğru parçası uzunluklarını karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p8|q8",
+   "page": 8,
+   "n": 8,
+   "bbox": [
+    22.3,
+    33.9,
+    527.9,
+    574.3
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Eş üçgenlerin karşılıklı açılarının ölçüleri ve karşılıklı kenarlarının uzunlukları birbirine eşittir. A Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik kenarların uzunluklarının kareleri toplamı, a 2 + c 2 = b 2 b c hipotenüsün uzunluğunun karesine eşittir. a B C Aşağıdaki görselde yelkenleri eş üçgenler şeklinde olan bir gemi modeli verilmiştir. A Yelken direği D 10 m C B 6 m 2 m E F 2 m Geminin boyu Bu modelde tabana dik olarak yerleştirilen yelken direğinin boyu, geminin boyundan % 20 fazladır. Yelkenler tabandan itibaren 2’şer metre ara ile direğe",
+   "answer": "B",
+   "solved": false,
+   "skill": "Eş üçgenlerden kenar bulup yüzde ilişkisiyle uzunluk hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p9|q9",
+   "page": 9,
+   "n": 9,
+   "bbox": [
+    22.3,
+    33.9,
+    573.9,
+    713.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    36.3,
+    54.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Benzer üçgenlerde eş açıların karşılarındaki kenar uzunlukları birbirleriyle orantılıdır. Bu orana “benzerlik oranı” denir. Üçgen şeklindeki üç parçadan oluşan zigon sehpaların üstten görünümleri ve ölçüleri aşağıda verilmiştir. 48 cm 54 cm 45 cm 50 cm 40 cm 32 cm 40 cm 36 cm 60 cm Üst yüzeyleri benzer üçgenler olan bu sehpaların eş açıları aynı yöne bakacak şekilde iç içe yerleştirilmiş hâlinin üstten görünümü aşağıdakilerden hangisi olabilir? A) B) 50 cm 40 cm 50 cm 40 cm 60 cm 60 cm 45 cm 36 cm 45 cm 54 m 32 cm 40 cm 40 cm 32 cm 48 cm 48 cm C) D) 50 cm 40 cm 50 cm 40 cm 60 cm 45 cm 36 cm",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kenar oranlarına göre benzer üçgenlerin yerleşimini belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p10|q10",
+   "page": 10,
+   "n": 10,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    553.8
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Benzer üçgenlerde eş açıların karşılarındaki kenar uzunlukları birbirleriyle orantılıdır. Bu orana “benzerlik oranı” denir. Aşağıda kenar uzunlukları ve açı ölçüleri verilen yamuk biçiminde bir kâğıt verilmiştir. D A 40 cm 120° 4 cm 120° 4 cm 60° 60° B C 44 cm Zehra bu kâğıdın, BC kenarı üzerinde B ve C noktalarından 16 cm uzaklıkta M ve K noktalarını; AD kenarı üzerinde ise [NM] // [DC] ve [LK] // [AB] olacak şekilde N ve L noktalarını işaretliyor. D A N L 120° 120° 4 cm 4 cm 60° 60° B C 16 cm M K 16 cm Daha sonra Zehra bu kâğıdı [MN] ve [KL] boyunca katlayarak aşağıdaki şekli elde ediyor",
+   "answer": "D",
+   "solved": false,
+   "skill": "Katlamada oluşan benzer üçgenlerin benzerlik oranını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p11|q11",
+   "page": 11,
+   "n": 11,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    569.1
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.2,
+    54.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Görünüşleri aynı fakat ölçüleri farklı olan şekillere benzer şekiller denir. Benzer çokgenlerin karşılıklı kenarlarının uzunlukları orantılıdır. Bu orana “benzerlik oranı” denir. Aşağıda ölçüleri verilen akıllı telefon dikey konumda iken çekilen bir fotoğrafın, telefon yatay konuma getirildiğinde oluşan görüntüsü verilmiştir. 74 mm 92 mm 152 mm 152 mm 114 mm 32 mm 32 mm 92 mm 7 mm 7 mm Görselde, telefon dikey konumda iken fotoğrafın tüm ekranı kapladığı, telefon yatay konuma getirildiğinde ise fotoğrafın görünüşünün aynı fakat ölçülerinin değiştiği ve her iki yanında 32 mm lik boşluk kaldı",
+   "answer": "C",
+   "solved": false,
+   "skill": "Benzer şekillerde benzerlik oranını ölçülerden bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p12|q12",
+   "page": 12,
+   "n": 12,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    282.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Üçgende Kenarortay, Açıortay ve Yükseklik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Üçgende bir kenarın orta noktasını karşı köşeye birleştiren doğru parçasına kenarortay denir. Kenarortaylar, üçgenin içinde bir noktada kesişir. Aşağıdaki ABC üçgeninde kenarortaylar üçgenin içindeki G noktasında kesişmektedir. A E D G B F C Esnemeyen 3 tane özdeş mavi ip üçgenin kenarlarına çakışık olacak şekilde yerleştirildiğinde oluşan görüntü yukarı- daki gibi oluyor. Buna göre aşağıdaki ifadelerden hangisi doğrudur? B) m( ë A) > m( ë B) > m( ë C) D) m(B é AF) = m(F é AC) A) |BC| > |AB| > |AC| C) |DB| > |AE|",
+   "answer": "B",
+   "solved": false,
+   "skill": "Eş ip parçalarından kenarortayların özelliğini çıkarma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p12|q13",
+   "page": 12,
+   "n": 13,
+   "bbox": [
+    24.3,
+    360.6,
+    573.7,
+    759.3
+   ],
+   "num": [
+    28.3,
+    363.6,
+    41.6,
+    377.4
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Eğim, dikey uzunluğun yatay uzunluğa oranıdır. A a 2 + c 2 = b 2 b Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik ke- c narlarının uzunluklarının kareleri toplamı, hipotenüsün uzunluğunun karesine eşittir. B C a Şekildeki A ve B tepelerinin en yüksek noktalarının yerden yüksekliği sırayla 1191 ve 591 metredir. A Tepesi B Tepesi Tepelerin en yüksek noktalarına zemine dik olacak şekilde özdeş birer tane direk dikilmiş ve bu direkler en üst noktala- rından bir kablo yardımıyla birbirine bağlanmıştır. 1 ’i kadar azalmıştır. Aşağıdaki gibi Kış aylarında h",
+   "answer": "D",
+   "solved": false,
+   "skill": "Eğimden yatay uzaklığı bulup Pisagor ile kablo uzunluğu hesaplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p13|q14",
+   "page": 13,
+   "n": 14,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    456.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Cetvel üretimi yapılırken çeşitli sebeplerden dolayı cetveller hatalı olarak üretilebilmekte ve bu cetveller aynı uzunluğu farklı değerlerle gösterebilmektedir. Aşağıda hatalı üretilen eş bölmelerden oluşan 20 cm’lik mavi ve yeşil renkli cetveller ile doğru üretilen kırmızı renkli cetvel gösterilmiştir. Yeşil 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Mavi 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Kırmızı 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Yukarıda verilen cetvelleri kullanarak bir üçgenin kenar uzunluklarını ölçen Doğan, yeşil renkli cetvelle AB kena",
+   "answer": "D",
+   "solved": false,
+   "skill": "Hatalı cetvel ölçümlerinden üçgen eşitsizliğiyle kenar aralığı bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p14|q15",
+   "page": 14,
+   "n": 15,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    326.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Doğrusal Denklemler: Eğim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Eğim, dikey uzunluğun yatay uzunluğa oranıdır. 1 birim 1 birim Zehra Öğretmen tasarladığı bir etkinlikte birim kareli zemin üzerinde yukarıda gösterildiği gibi bir dikdörtgen çizmiş ve bu dikdörtgenin uzun kenarları üzerinde köşelerinden itibaren 1’er birim aralıklarla noktalar işaretlemiştir. Bu etkinlikte Zehra Öğretmen öğrencilerinden dikdörtgen üzerinde işaretli noktaların ikisinden geçen ve bu dikdörtgeni iki eş çok- gensel bölgeye ayıran bir doğru çizmelerini istemektedir. Buna göre çizilen doğrunun eğimi aşağıdakilerden hangisi olamaz? 2 4 A) 3 B) 1 C) 3 D) 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Dikdörtgeni eş parçaya bölen doğruların eğimlerini belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p14|q16",
+   "page": 14,
+   "n": 16,
+   "bbox": [
+    24.3,
+    374.4,
+    573.7,
+    740.4
+   ],
+   "num": [
+    28.3,
+    377.4,
+    41.6,
+    391.3
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Üçgenin her bir kenarının uzunluğu, diğer iki kenarının uzunluklarının farkının A |b – c| < a < b + c mutlak değerinden büyük, toplamından küçüktür. b |a – c| < b < a + c c |a – b| < c < a + b B a C Aşağıdaki şekilde, kenar uzunlukları metre cinsinden birer doğal sayı olan üçgen şeklindeki yeşil alanlar ve bu alanların arasından geçen dikdörtgen şeklindeki bir yürüyüş yolu gösterilmiştir. Bu yolun uzunluğu 12 metre ve 1 numaralı yeşil alan ikizkenar üçgen şeklindedir. Yürüyüş yolu 12 m 1 2 Verilenlere göre bu iki yeşil alanın çevrelerinin uzunlukları toplamı en az kaç metredir? A) 50 B) 51",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üçgen eşitsizliğiyle toplam çevrenin en küçük değerini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p15|q17",
+   "page": 15,
+   "n": 17,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    509.2
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Bir konser salonunda çalışan teknik ekip sorumlusu sahne üzerinde bir S noktası belirlemiştir. Bu S noktasına eşit uzaklıklarda A, B ve C noktalarını aşağıdaki gibi işaretleyerek bu noktalara birer kamera yerleştirmiştir. Sahne S S 30° 50° A C B S Verilenlere göre aşağıdakilerden hangisi doğrudur? A) |AB| > |SC| B) |AB| > |BS| C) |BC| > |CS| D) |AS| > |BC|",
+   "answer": "D",
+   "solved": false,
+   "skill": "Eş uzaklıklı noktalarla oluşan üçgenlerde açı-kenar karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p16|q18",
+   "page": 16,
+   "n": 18,
+   "bbox": [
+    22.3,
+    36.5,
+    573.7,
+    374.9
+   ],
+   "num": [
+    28.3,
+    43.5,
+    41.6,
+    57.4
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. A Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende a 2 + c 2 = b 2 dik kenarların uzunluklarının kareleri toplamı, hipotenüsün uzunluğunun karesine b eşittir. c a B C Bir yüzü mor renge boyanmış dikdörtgenler prizmasının ayrıt uzunlukları santimetre cinsinden Şekil 1’de gösterilmiştir. Bu prizmanın açınımı üzerinde A, B ve C noktaları Şekil 2’deki gibi işaretlenerek çevresinin uzunluğu 84 cm olan bir ABC üçgeni çizilmiştir. C B 9x A 5x 7x Şekil 1 Şekil 2 Buna göre ABC üçgenin alanı kaç santimetrekaredir? A) 384 B) 336 C) 315 D) 168",
+   "answer": "B",
+   "solved": false,
+   "skill": "Prizma açınımında Pisagor ve çevre koşuluyla alan bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p16|q19",
+   "page": 16,
+   "n": 19,
+   "bbox": [
+    24.3,
+    492.2,
+    573.7,
+    703.2
+   ],
+   "num": [
+    28.3,
+    495.2,
+    41.6,
+    509.1
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Eşkenar üçgen biçimindeki beş mavi karton aralarında boşluk kalmayacak ve üst üste gelmeyecek şekilde aşağıdaki gibi yerleştirilip yükseklikleri çizildiğinde AB doğru parçası oluşmuştur. A B 2 ’tür. Bu üçgenlerin yükseklikleri santimetre cinsinden birer doğal sayı ve ardışık üçgenlerin benzerlik oranı 3 Buna göre [AB]’nın uzunluğu en az kaç santimetredir? A) 81 B) 130 C) 181 D) 211",
+   "answer": "D",
+   "solved": false,
+   "skill": "Benzerlik oranıyla ardışık yükseklikleri bulup toplama",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p17|q20",
+   "page": 17,
+   "n": 20,
+   "bbox": [
+    22.3,
+    33.9,
+    559.8,
+    377.6
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Dik üçgenlerde 90° lik açının karşısındaki kenara hipotenüs denir. Bir dik üçgende dik A a 2 + c 2 = b 2 kenarların uzunluklarının kareleri toplamı, hipotenüsün uzunluğunun karesine eşittir. b c a B C Kare biçimindeki bir tarla, alanları birbirine eşit olan üç dikdörtgensel bölgeye aşağıdaki gibi ayrılmıştır. C B A Bu tarlanın A köşesinde bulunan bir su kaynağından C noktasına, doğrusal bir su hattı çekilecektir. [AB]’nın uzunluğu 60 metre olduğuna göre çekilecek su hattının uzunluğu kaç metredir? A) 65 B) 75 C) 90 D) 100",
+   "answer": "B",
+   "solved": false,
+   "skill": "Eş alanlı dikdörtgenlerde Pisagor ile uzunluk bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p17|q21",
+   "page": 17,
+   "n": 21,
+   "bbox": [
+    24.3,
+    399.6,
+    573.7,
+    655.4
+   ],
+   "num": [
+    28.3,
+    402.6,
+    41.6,
+    416.4
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "21. Aşağıda ABC üçgeni ile B ve C merkezli, yarıçap uzunluğu santimetre cinsinden doğal sayı olan eş daireler verilmiştir. |AK| = 9 cm ve |MR| = 3 cm’dir. A 9 cm K P M R B C 3 cm Bu üçgende m( ë B) < m( ë A) < m( ë C) olduğuna göre AC doğru parçasının santimetre cinsinden uzunluğunun ala- bileceği en büyük doğal sayı değeri kaçtır? A) 11 B) 12 C) 13 D) 14",
+   "answer": "B",
+   "solved": false,
+   "skill": "Açı sıralamasından kenar sıralaması kurup en büyük uzunluğu bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p18|q22",
+   "page": 18,
+   "n": 22,
+   "bbox": [
+    22.3,
+    38.7,
+    549.3,
+    303.5
+   ],
+   "num": [
+    28.3,
+    45.7,
+    41.6,
+    59.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Aşağıda uzunluğu 32 cm olan AL doğru parçası üzerinde dört üçgen verilmiştir. Bu üçgenlerden A ÿ BC ≅ G ÿ FE’dir. 22. D K 60° B F 10 cm 10 cm 70° 60° 60° 50° A L 5 cm C E G 32 cm Buna göre D ÿ CE ve G ÿ KL ile ilgili aşağıdakilerden hangisi kesinlikle yanlıştır? A) m(D é CE) = m(G é KL) B) D ÿ CE ∼ K ÿ GL 6 ’tir. C) Benzerlik oranı 5 D) 3|CE| = 5|GL|",
+   "answer": "D",
+   "solved": false,
+   "skill": "Eş ve benzer üçgenlerde yanlış ifadeyi belirleme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p18|q23",
+   "page": 18,
+   "n": 23,
+   "bbox": [
+    24.3,
+    319.8,
+    573.7,
+    639.1
+   ],
+   "num": [
+    28.3,
+    322.8,
+    41.6,
+    336.6
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "23. Kare şeklindeki sarı, mavi ve kırmızı kâğıtlar önce ikişer kenarları ve birer köşeleri çakışacak biçimde Şekil I’deki gibi yerleştirilmiştir. Daha sonra bu kâğıtlar ikişer ikişer birer köşelerinden çakıştırılarak Şekil II’deki gibi dik üçgensel bölge oluşacak biçimde yerleştirilmiştir. kırmızı kırmızı sarı mavi sarı mavi Şekil I Şekil II Sarı renkli kâğıdın bir kenarının uzunluğu 8 cm ve Şekil I’de görünen mavi bölgenin alanı 161 cm 2 dir. Buna göre kırmızı karenin bir kenarının uzunluğu kaç santimetredir? A) 10 B) 17 C) 20 D) 27",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kare alanlarından dik üçgenin hipotenüsünü bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p19|q24",
+   "page": 19,
+   "n": 24,
+   "bbox": [
+    22.3,
+    35.9,
+    573.7,
+    403.3
+   ],
+   "num": [
+    28.3,
+    42.9,
+    41.6,
+    56.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6 @ boyunca kesiliyor. Elde edilen ABC üçgeni, AB 6 @ ortak kenar 24. Paralelkenar şeklindeki özdeş iki kâğıttan biri AC olacak şekilde eklenerek Şekil I’deki gibi bir dikdörtgen elde ediliyor. Bu durumda elde edilen dikdörtgeninin çevresinin uzunluğu 46 cm oluyor. 15 cm A A B C B C Şekil I 6 6 @ boyunca kesiliyor. Elde edilen KLM üçgeni, KM @ ortak kenar olacak şekilde eklenerek Şekil Diğer kâğıt ise KL II’deki dikdörtgen elde ediliyor. K M 9 cm L K M 15 cm Şekil II L & ile KML & benzer üçgenler olduğuna göre bu üçgenlerin benzerlik oranı Elde edilen dikdörtgenlerde ABC aşağıdakilerden hangis",
+   "answer": "B",
+   "solved": false,
+   "skill": "Paralelkenardan elde edilen üçgenlerin benzerlik oranını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p19|q25",
+   "page": 19,
+   "n": 25,
+   "bbox": [
+    24.3,
+    447.6,
+    482.2,
+    644.8
+   ],
+   "num": [
+    28.3,
+    454.6,
+    41.6,
+    468.4
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "% 25. ABC üçgeninde m ABC ( ) 60 ° , AB AD ve B, D, C noktaları doğrusaldır. = = A 60o C B D % % olduğuna göre aşağıdakilerden hangisi yanlıştır? m ( BCA ) 2 m ( CAD ) A) BC A C B) AC A D C) D C A D D) BD DC 2 2 1 1",
+   "answer": "D",
+   "solved": false,
+   "skill": "Eşkenar üçgen oluşturan açılardan kenar karşılaştırma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p20|q26",
+   "page": 20,
+   "n": 26,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    348.0
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Hacmi 216 cm 3 olan küp şeklindeki tahta blok, karşılıklı iki yüzünün köşegenleri boyunca kesilerek üçgen prizma 26. biçiminde Şekil I’deki gibi iki adet takoz elde edilmiştir. Kapı Zemin Şekil I Şekil II Bu takozlardan biri, kare şeklindeki yüzü yerde olmak üzere bir kapının altına Şekil II’deki gibi yerleştirilmiştir. Bu durumda kapı, takozda temas ettiği yüzü dikdörtgen şeklinde iki eş parçaya ayırmıştır. Buna göre, kapının zeminden yüksekliği kaç santimetredir? A) 3 B) 4 C) 3 2 D) 4 2",
+   "answer": "A",
+   "solved": false,
+   "skill": "Takozun yüksekliğini Pisagor ile bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p20|q27",
+   "page": 20,
+   "n": 27,
+   "bbox": [
+    24.3,
+    471.8,
+    573.7,
+    692.0
+   ],
+   "num": [
+    28.3,
+    476.7,
+    41.6,
+    490.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Alanları 49 cm 2 olan kare şeklindeki üç farklı renkte kâğıt aşağıda verilmiştir. Bu kâğıtlardan dik kenar uzunlukları san- 27. timetre cinsinden doğal sayı olan ikizkenar dik üçgen şeklindeki parçalar aşağıdaki gibi kesilerek ayrıldığında; kalan parçalar, alanları birbirinden farklı olan dikdörtgenlerdir. Buna göre, aşağıdakilerden hangisi aynı renkteki iki üçgenin benzerlik oranı olamaz? 2 3 A) 5 B) 4 C) 1 D) 3",
+   "answer": "D",
+   "solved": false,
+   "skill": "Benzer ikizkenar dik üçgenlerin olası benzerlik oranını belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p21|q28",
+   "page": 21,
+   "n": 28,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    279.7
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "28. Aşağıda 30 eş daire diliminden oluşmuş O merkezli bir daire ve köşeleri bu daireyi sınırlayan çember üzerinde olan bir KLM üçgeni verilmiştir. K L O M Buna göre, KLM üçgeninin kenarlarının uzunluklarının doğru sıralanışı aşağıdakilerden hangisidir? A) |KL| 1 |KM| 1 |LM| B) |KL| 1 |LM| 1 |KM| C) |LM| 1 |KM| 1 |KL| D) |LM| 1 |KL| 1 |KM|",
+   "answer": "B",
+   "solved": false,
+   "skill": "Çember üzerindeki üçgenin kenarlarını yay uzunluğuyla sıralama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p21|q29",
+   "page": 21,
+   "n": 29,
+   "bbox": [
+    24.3,
+    413.2,
+    573.7,
+    675.0
+   ],
+   "num": [
+    28.3,
+    418.1,
+    41.6,
+    432.0
+   ],
+   "topic": "Üçgenler: Üçgenin Kenarları Arasındaki İlişki",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Aşağıda birer yüzlerinin alanı 80 cm 2 olan dikdörtgen şeklinde üç karton verilmiştir. Her bir kartonun kenarlarının 29. uzunlukları diğer kartonların kenarlarının uzunluklarından farklı ve santimetre cinsinden birer doğal sayıdır. 80 cm 2 80 cm 2 80 cm 2 Bu kartonlar şekildeki gibi köşelerinden çakıştırılarak kartonların uzun kenarları ile bir üçgen oluşturulmuştur. Buna göre, oluşturulan üçgenin çevresinin uzunluğu kaç santimetredir? A) 130 B) 76 C) 70 D) 46",
+   "answer": "D",
+   "solved": false,
+   "skill": "Alan ve çarpan koşuluyla üçgen kenarlarını bulup çevre hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p22|q30",
+   "page": 22,
+   "n": 30,
+   "bbox": [
+    22.3,
+    33.9,
+    523.6,
+    277.7
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Pisagor Bağıntısı",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "30. Aşağıdaki kareli zeminde verilen iki dörtgenin çevrelerinin uzunlukları arasındaki fark 12 cmʼden büyüktür. x cm x cm Buna göre x’in alabileceği en küçük tam sayı değeri kaçtır? A) 3 B) 4 C) 5 D) 6",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareli zeminde dikdörtgen çevreleri farkından eşitsizlik kurma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p22|q31",
+   "page": 22,
+   "n": 31,
+   "bbox": [
+    24.4,
+    431.8,
+    573.7,
+    671.0
+   ],
+   "num": [
+    28.4,
+    434.8,
+    41.6,
+    448.6
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "31. Eşkenar üçgen şeklindeki sarı, kırmızı ve mavi kartonlar, ikişer kenarları ve birer köşeleri çakışacak biçimde aşağıdaki 2 ’tir. gibi üst üste yerleştirilmiştir. Sarı üçgen ile kırmızı üçgenin benzerlik oranı 5 1 cm Mavi Kırmızı Sarı 4 cm 3 Şekilde verilenlere göre, mavi üçgenin çevresinin uzunluğu kaç santimetredir? A) 8 B) 9 C) 10 D) 12",
+   "answer": "B",
+   "solved": false,
+   "skill": "İç içe eşkenar üçgenlerde benzerlik oranıyla çevre bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p23|q32",
+   "page": 23,
+   "n": 32,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    473.1
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Üçgenler: Üçgende Açı Kenar Bağıntıları",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "32. ABC üçgeninin üç köşesi ve DEF üçgeninin sadece D köşesi aşağıdaki gibi boyanmıştır. Açı ölçüleri bozulmayacak biçimde boyalı bu dört parça koparılmıştır. A D C F B E D köşesindeki parça, A ve B köşesindeki parçalarla Şekil Iʼdeki gibi üst üste gelmeyecek ve aralarında boşluk kal- mayacak biçimde d doğrusu ile çakıştırılmıştır. Daha sonra D ve C köşelerindeki parçaların iç açılar ve bu iki köşe arasındaki uzaklığın 12 cm olduğu DCG üçgeni Şekil IIʼdeki gibi çizilmiştir. D 12 cm G d C Şekil I Şekil II C açısının ölçüsü 60° den büyük olduğuna göre, DCG üçgeni ile ilgili aşağıdakilerden hangi",
+   "answer": "D",
+   "solved": false,
+   "skill": "Açı toplamından üçgenin türünü ve kenar karşılaştırmasını çıkarma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_meb_kitap_u5|p24|q33",
+   "page": 24,
+   "n": 33,
+   "bbox": [
+    22.3,
+    33.9,
+    573.7,
+    404.1
+   ],
+   "num": [
+    28.3,
+    40.9,
+    41.6,
+    54.7
+   ],
+   "topic": "Eşlik ve Benzerlik: Eşlik ve Benzerlik",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "33. Sarı, mavi ve kırmızı renkli dikdörtgenlerin uzun kenarlarını oluşturan doğru parçalarının uç noktaları çakıştırılarak Şekil I’deki ABC dik üçgeni, bu dikdörtgenlerin kısa kenarlarını oluşturan doğru parçalarının uç noktaları çakıştırılarak ise Şekil II’deki KLM dik üçgeni oluşturulmuştur. Mavi K Mavi A Sarı 51 cm M L Sarı C B Kırmızı Kırmızı Şekil I Şekil II ABC üçgeninde AB 8 ve |AC| = 51 cm’dir. = 15 BC 2 olduğuna göre, kırmızı dikdörtgenin çevresinin uzunluğu kaç santimetre- Bu iki üçgenin benzerlik oranı 3 dir? A) 80 B) 120 C) 150 D) 170",
+   "answer": "C",
+   "solved": false,
+   "skill": "Pisagor ve benzerlik oranıyla dikdörtgen çevresi bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

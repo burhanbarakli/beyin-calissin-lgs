@@ -1,7 +1,8 @@
 # Beyin Çalışsın — proje rehberi
 
 LGS (8. sınıf) öğrencisinin yapamadığı soruların fotoğraflarına göre, soru bankasından (kerimhoca.com
-çalışma kağıtları, kazanım testleri, konu tarama testleri ve 2018-2026 LGS çıkmış soruları) benzer ve öğretici
+çalışma kağıtları, kazanım testleri, konu tarama testleri, 2018-2026 LGS çıkmış soruları, MEB LGS Çalışma Kitabı
+ve MEBİ LGS denemeleri) benzer ve öğretici
 sorular seçip PDF çalışma kâğıdı üreten yerel web uygulaması. Şu an yalnızca matematik var; fen sonra eklenecek.
 "Beyin" = bu bilgisayardaki Claude Code'un headless (`claude -p`) çalıştırılması.
 
@@ -29,6 +30,9 @@ yükleyip beyin çalıştırdığı için `ogrenci/` ve `data/` **onun güncel v
    - Git deposu değilse (ZIP ile kurulmuş): repoyu geçici bir klasöre indir (`git clone` ya da ZIP) ve yalnızca
      yukarıdaki kod yollarını bu klasörün üzerine kopyala. `ogrenci/`, `data/`, `kaynaklar/`, `config.json`'a dokunma.
      Yeni sürümde `kaynaklar/` altında olmayan yeni bir PDF varsa onu da ekleyebilirsin (mevcutları silme).
+   - Her iki durumda da **yeni kaynaklar** için: `kaynaklar/LGS_Matematik/katalog.json`'u yenisiyle değiştir, yerelde
+     olmayan PDF'leri ve `data/index/` altında yerelde olmayan indeks dosyalarını kopyala (var olan indeksleri ezme).
+     `data/ratings.json`'a yalnızca yerelde olmayan qid'leri ekle (birleştir, mevcut kayıtları değiştirme).
 5. `python -m pip install -r requirements.txt` (sessizce; yeni paket yoksa bir şey değişmez).
 6. Yeni `VERSION`'ı oku; `GUNCELLEME.md`'de **eski sürümden yeni olan bölümleri** kullanıcıya kısaca özetle ve
    her bölümdeki **"Yapmanız gereken"** satırını söyle.
@@ -54,8 +58,10 @@ adımları izle. Soru bankası komutları için: `python -m app.qbank --help`. K
 
 - `app/server.py` — FastAPI sunucusu + `app/static/` tek ekranlık arayüzü (Chrome'dan `http://localhost:8765`):
   fotoğraf yükle (`ogrenci/Sorular/<tarih>/`) → beyin → adayları seç → PDF; altta önceki çalışmalar
-- `kaynaklar/LGS_Matematik/` — kaynak PDF'ler (ünite klasörleri + `00_LGS_Cikmis_Sorular`); `katalog.json` her
-  PDF'in türünü, ünitesini ve kazanımını verir (yeni PDF eklerken buraya da kayıt ekle)
+- `kaynaklar/LGS_Matematik/` — kaynak PDF'ler (ünite klasörleri + `00_LGS_Cikmis_Sorular`, `13_MEBI_Denemeler`,
+  `14_MEB_Calisma_Kitabi` — MEB kitabı ünite ünite bölünmüş, s. 7-298); `katalog.json` her PDF'in türünü, ünitesini
+  ve kazanımını verir (yeni PDF eklerken buraya da kayıt ekle). İsteğe bağlı alanlar: `id` (kitap kimliği),
+  `key` (ayrı yerde duran cevap anahtarı `{"1": "C"}`), `ignore_rects` (kırpıma girmesin diye sayfa süsleri)
 - `app/indexer.py` — kaynak PDF'lerden yapay zekâsız soru indeksi (sayfa, kırpma kutusu, konu, seviye, cevap
   anahtarı) → `data/index/*.json`. Metni bozuk PDF'lerde soruları renkli numara kutularından bulur.
 - `app/qbank.py` — soru bankası sorgu/CLI aracı (beyin bunu kullanır), birleşik zorluk hesabı;

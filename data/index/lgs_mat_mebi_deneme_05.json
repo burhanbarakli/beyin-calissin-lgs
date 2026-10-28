@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_05",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_05_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 5 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 25,
+ "key_pages": [
+  25
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    51.8,
+    107.4,
+    272.4,
+    386.7
+   ],
+   "num": [
+    36.0,
+    110.4,
+    45.0,
+    125.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "Bir hayvan bakım merkezinde 90 kg etli mama ve 126 kg balıklı mama bulunmaktadır. 90 kg 126 kg Etli Mama Balıklı Mama Bu merkezde 50 adet boş mama kutusu bulunmaktadır. Mamalar bu kutuların her birine eşit miktarda ve tek çeşit mama gelecek şekilde paylaştırılacaktır. Kutularda bulunan mama miktarlarının kilogram cinsinden tam sayı olması istenmektedir. Buna göre içerisinde mama bulunan toplam kutu sayısı en fazla kaç olur? A) 12 B) 18 C) 24 D) 36",
+   "answer": "D",
+   "solved": false,
+   "skill": "Ortak bölen ve kutu sayısı kısıtıyla en çok kutu",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p3|q2",
+   "page": 3,
+   "n": 2,
+   "bbox": [
+    278.6,
+    107.4,
+    514.1,
+    452.2
+   ],
+   "num": [
+    282.6,
+    110.4,
+    292.2,
+    125.7
+   ],
+   "topic": "Doğrusal Denklemler: Koordinat Sistemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Bir oyunda dört geminin görüntüsü ve bu görüntü üzerinde gemilerin konumlarını belirlemek için yerleştirilmiş koordinat sistemi aşağıdaki görselde verilmiştir. y 6 5 4 3 2 1 x 0 1 - 6 - 5 - 4 - 3 - 2 - 1 2 3 4 5 6 - 1 - 2 - 3 - 4 - 5 - 6 Buna göre aşağıda verilen koordinatlardan hangisi gemilerden herhangi birinin bulunduğu noktaya ait değildir? A) ( - 4, - 5) B) ( - 3,2) C) (2, - 3) D) (5,4)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Koordinat düzleminde noktaları okuma",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p3|q3",
+   "page": 3,
+   "n": 3,
+   "bbox": [
+    30.0,
+    488.7,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.6,
+    491.7,
+    46.1,
+    506.9
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Aşağıda K noktasında başlayan ve üzerinde L, M, N ve P noktaları ile işaretlenmiş mola istasyonlarının gösterildiği bir bisiklet parkuru verilmiştir. P M 1 km L 1 km 12 km N K 1 km K noktasından sürüşe başlayan bir bisikletli, parkur üzerindeki yolculuğuna devam ederken K noktasından 189 km uzaklaştığı anda bisikletinin lastiği patlamıştır. Buna göre lastiği patlayan bu bisikletli, tamir için en yakın hangi istasyona gitmelidir? A) L B) M C) N D) P",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekök değerini tahmin edip en yakın noktayı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p4|q4",
+   "page": 4,
+   "n": 4,
+   "bbox": [
+    32.1,
+    90.4,
+    516.0,
+    372.5
+   ],
+   "num": [
+    36.1,
+    93.4,
+    45.6,
+    108.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Aşağıda üç farklı renkte kendi içinde özdeş fayansların bulunduğu kutular verilmiştir. Her bir kutuda 5 adet fayans bulunmaktadır. Fayansların kenar uzunlukları aşağıda verilmiştir. Turuncu Yeşil Mavi x br x br y br y br x br y br x br Bu fayanslar kesilmeden aralarında boşluk kalmayacak ve üst üste gelmeyecek şekilde kare biçiminde bir zeminin tamamı kaplanacaktır. Turuncu fayanslardan 1 kutu, mavi fayanslardan 8 kutu ve yeşil fayansların bulunduğu kutulardan belirli sayıda açılmıştır. Zemin en az sayıda fayans artacak şekilde döşendiğine göre, yeşil fayansların bulunduğu kutudan kaç tane ",
+   "answer": "C",
+   "solved": false,
+   "skill": "Tam kare düzenine göre fayans sayısı ve artanı en aza indirme",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p4|q5",
+   "page": 4,
+   "n": 5,
+   "bbox": [
+    30.0,
+    488.7,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.0,
+    491.7,
+    45.5,
+    506.9
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Aşağıda verilen kartlar renklerine göre ikişerli gruplara ayrılmış ve üzerlerine üslü ifadeler veya üslü ifadeleri temsil eden harfler yazılmıştır. A B 2 -2 . 5 8 10 -2 16 2 25 4 Sarı Sarı Turuncu Turuncu Mavi Mavi Aynı renkteki iki kartın üzerinde yazan üslü ifadelerin çarpımları birbirine eşit olduğuna göre, A . B işleminin sonucu kaçtır? A) 20 20 B) 20 10 C) 10 16 D) 20 6",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü kart çiftlerinin çarpımlarını eşitleyerek bilinmeyeni bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    32.0,
+    90.4,
+    522.2,
+    372.4
+   ],
+   "num": [
+    36.0,
+    93.4,
+    44.0,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Birinci Dereceden Bir Bilinmeyenli Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Aşağıda toplam uzunlukları birbirine eşit olan ve ana terminalden başlayıp aktarma istasyonunda kesişen iki farklı metro hattı modellenmiştir. 4 km 2. Metro Hattı Ana Terminal 12 km 1. Metro Hattı Aktarma İstasyonu Hatların ana terminal ile aktarma istasyonu arasında kalan kısımları 1. hatta 3 eş aralığa, 2. hatta ise 4 eş aralığa ayrılmış, 1. hattaki her bir aralığın uzunluğu, 2. hattaki her bir aralığın uzunluğundan 1 km daha fazla olmuştur. Hatların aktarma istasyonundan sonraki kısımlarının uzunlukları ise model üzerinde gösterilmiştir. Buna göre bu metro hatlarından birinin toplam uzun",
+   "answer": "B",
+   "solved": false,
+   "skill": "Eşit aralıklı hat uzunluğundan denklem kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    30.0,
+    480.6,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    483.6,
+    43.4,
+    498.9
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Özdeşlikler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Çekbırak oyuncak arabasıyla oynayan Gizem, ön tekerleği A noktasında bulunan arabayı aşağıdaki gibi B noktasına kadar (x - 3) cm geri çekip bıraktığında ön tekerleği doğrusal bir şekilde (3x + 2) cm ilerleyip C noktasına geliyor. B A C D (x - 3) cm (3x + 2) cm Gizem, ön tekerleği A noktasında bulunan arabaya bu çekbırak hareketini art arda (2x + 5) kez uygulamış ve arabanın ön tekerleği son durumda D noktasında durmuştur. Buna göre A ve D noktaları arası mesafeyi santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 4x 2 + 20x + 25 B) 4x 2 + 8x - 5 C) 6x 2 + 18x + 13 D) 8",
+   "answer": "A",
+   "solved": false,
+   "skill": "Cebirsel ifadelerle tekrarlı hareketin toplam mesafesi",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    32.0,
+    90.4,
+    521.8,
+    444.0
+   ],
+   "num": [
+    36.0,
+    93.4,
+    45.5,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. Yer altı su kaynaklarına ulaşmak için kullanılan bir sondaj sisteminde, birbirine eklenerek uzatılan özdeş sondaj boruları ve bir elmas uç bulunmaktadır. Görsel 1’de sondaj borularından bir tanesinin ve elmas ucun uzunlukları, Görsel 2’de ise iki sondaj borusu ve bir elmas ucun birbirine eklenerek birleştirilmiş hâli gösterilmiştir. Sondaj Borusu Elmas Uç 120 cm 30 cm Görsel 1 15 cm 10 cm Görsel 2 Sondaj işlemi yapılırken istenilen sayıda boru uç uca eklendikten sonra sistemin en ucuna bir adet elmas uç takılmaktadır. İki sondaj borusu birleştirildiğinde 15 cm’lik kısım, sondaj borusu ile e",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üst üste geçmeli borularla doğrusal ilişki kurma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    30.0,
+    480.1,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.0,
+    483.1,
+    45.4,
+    498.4
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Görsel 1’de kenarlarından birinin uzunluğu verilen L şeklindeki karo taşlarından 78 adet kullanılarak Görsel 2’deki desen oluşturulmuştur. 12 3 mm Görsel 1 Görsel 2 Desen oluşturulurken karo taşları, aralarında boşluk kalmadan ve üst üste gelmeden dizilmiştir. Buna göre oluşan desenin çevresinin uzunluğu kaç milimetredir? A) 4 . 12 4 B) 6 . 12 4 C) 12 5 D) 78 . 12 4",
+   "answer": "C",
+   "solved": false,
+   "skill": "Üslü kenarlı L taşlarla desen çevresi bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    32.0,
+    90.4,
+    519.6,
+    352.6
+   ],
+   "num": [
+    36.0,
+    93.4,
+    50.7,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Görsel 1’de verilen dikdörtgen biçimindeki bahçe iki bölgeye ayrılıp aralarına genişliği 4 m olan bir yol yapılmıştır. Alanı 50 m 2 olan kare biçimindeki bölgeye biber, 100 m 2 olan dikdörtgen biçimindeki bölgeye ise patlıcan ekilmiştir. 4 m 2 m 2 m 7 2 m Biber Ekili Patlıcan Ekili Bölge Bölge A B C Yol 100 m 2 50 m 2 Görsel 1 Görsel 2 Aynı bahçe, hasattan sonra Görsel 2’deki gibi üç bölgeye ayrılmış ve bölgelerin arasına genişliği 2 m olan doğrusal yollar yapılmıştır. A bölgesinin genişliği 7 2 m’dir. B ile C bölgelerinin alanları birbirine eşittir. Buna göre C bölgesinin alanı kaç metrek",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kareköklü kenarlı bölgelerin alanını bulma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p7|q11",
+   "page": 7,
+   "n": 11,
+   "bbox": [
+    30.0,
+    450.4,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    453.4,
+    49.9,
+    468.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Cumhuriyet Ortaokulundaki 8. sınıf öğrencilerinden erkek öğrenci sayılarının şubelere göre dağılımı Grafik 1’de, kız öğrenci sayılarının şubelere göre dağılımı ise Grafik 2’de gösterilmiştir. Grafik 1: Erkek Öğrenci Sayılarının Grafik 2: Kız Öğrenci Sayılarının Şubelere Göre Dağılımı Şubelere Göre Dağılımı 8-A 8-A 8-C 8-C 150 o 120 o 8-B 8-B 8-C şubesindeki kız ve erkek öğrenci sayıları birbirine eşit olduğuna göre, bu okuldaki 8. sınıf öğrencilerinin sayısı aşağıdakilerden hangisi olabilir? A) 72 B) 96 C) 108 D) 120",
+   "answer": "C",
+   "solved": false,
+   "skill": "İki daire grafiğinden eşitlik koşuluyla toplam öğrenci sayısı",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p8|q12",
+   "page": 8,
+   "n": 12,
+   "bbox": [
+    32.7,
+    90.4,
+    517.3,
+    405.2
+   ],
+   "num": [
+    36.7,
+    93.4,
+    51.6,
+    108.7
+   ],
+   "topic": "Veri Analizi: Veri Analizi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Türkçe, matematik, fen bilimleri ve sosyal bilgiler derslerinden oluşan bir sınavda derslere ait soru sayıları sütun grafiğinde, Mehmet’in bu sınavda yaptığı toplam doğru yanıtların sayısının derslere göre dağılımı ise daire grafiğinde gösterilmiştir. Grafik 2: Mehmet’in Toplam Doğru Yanıt Grafik 1: Denemedeki Derslerin Soru Sayıları Sayısının Derslere Göre Dağılımı Soru Sayısı 30 Türkçe Matematik 105 o 20 75 o 10 Fen Sosyal Bilimleri 0 Dersler Bilgiler Fen Sosyal Türkçe Matematik Bilimleri Bilgiler Sınavdaki tüm soruları yanıtlayan Mehmet’in matematik dersinden 18 doğrusu vardır. Buna gör",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sütun ve daire grafiğini birleştirip yanlış sayısı farkı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p8|q13",
+   "page": 8,
+   "n": 13,
+   "bbox": [
+    30.0,
+    450.4,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.0,
+    453.4,
+    50.7,
+    468.7
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Görsel 1’de bir kenar uzunluğu (9x - 12) cm olan kare şeklindeki çikolata verilmiştir. A D (9x - 12) cm B C Görsel 1 Görsel 2 Bu çikolatalardan 4 adet alan Beren, çikolatalarının her birini 9 eş kare parçaya ayırıp bu parçaların tamamını Görsel 2’deki gibi kenarlarından çakıştırarak ABCD dikdörtgeni biçiminde bir çerçeve oluşturmuştur. Buna göre ABCD dikdörtgeninin çevre uzunluğunu santimetre cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? A) 54x - 72 B) 96x - 128 C) 108x - 144 D) 120x - 160",
+   "answer": "D",
+   "solved": false,
+   "skill": "Cebirsel kenarlı parçalarla çerçeve çevresi bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p9|q14",
+   "page": 9,
+   "n": 14,
+   "bbox": [
+    32.0,
+    86.4,
+    515.1,
+    405.1
+   ],
+   "num": [
+    36.0,
+    93.4,
+    50.6,
+    108.7
+   ],
+   "topic": "Basit Olayların Olma Olasılığı: Olasılık",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. Aşağıda boş koltukların beyaz renkle gösterildiği bir sinema salonunun oturma planı gösterilmiştir. PERDE ÖN ÖN A 1 2 3 4 5 6 7 8 9 10 B 11 12 13 14 15 16 17 18 19 20 C 21 22 23 24 25 26 27 28 29 30 D 32 33 34 35 36 37 38 39 40 31 E 41 42 43 44 45 46 47 48 49 50 ARKA ARKA Ekrem, bu sinema salonunda B sırasındaki boş koltuklardan birini rastgele seçecektir. Buna göre Ekrem’in seçeceği koltuğun önündeki koltuk numarasının tam kare sayı olma olasılığı kaçtır? 1 1 1 1 A) B) C) D) 2 3 6 9",
+   "answer": "A",
+   "solved": false,
+   "skill": "Tam kare numaralı koltuk için olasılık hesaplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    30.0,
+    418.5,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    421.5,
+    50.7,
+    436.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Cebirsel İfadeler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Bir kenar uzunluğu x cm olan kare biçimindeki bir kâğıt Görsel 1 ve Görsel 2’deki gibi ok yönünde köşeleri çakışacak şekilde katlanıyor. r cm r cm x cm Görsel 1 Görsel 2 Görsel 3 Katlanmış kâğıtta kesikli çizgiler ile gösterilen yerlerden Görsel 3’teki gibi yarıçapının uzunluğu r cm olan çeyrek daire biçiminde özdeş parçalar kesilip atılıyor ve kâğıt yeniden açılıyor. Buna göre son durumdaki kâğıdın bir yüzünün alanını santimetrekare cinsinden veren cebirsel ifade aşağıdakilerden hangisidir? ( π = 3 alınız.) A) (x - 3r) . (x + 3r) B) x 2 - 3r 2 C) x 2 - 6r 2 D) (x - r) . (x + r)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Kağıttan daire dilimleri çıkarılarak kalan alanı ifade etme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p10|q16",
+   "page": 10,
+   "n": 16,
+   "bbox": [
+    32.7,
+    90.4,
+    524.1,
+    385.7
+   ],
+   "num": [
+    36.7,
+    93.4,
+    51.0,
+    108.7
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Kare biçiminde bir ahşap plakanın ön ve arka yüzü üzerine dikdörtgen biçiminde mavi renkli iki farklı şerit çekilmiştir. Ön Arka Ön yüze çekilen şeridin kısa kenar uzunluğu, plakanın bir kenar uzunluğunun 1 ’ine eşittir. Arka yüze 6 çekilen şeridin kısa kenar uzunluğu ise plakanın bir kenar uzunluğunun 1 ’ine eşittir. 8 Şeritlerin kısa kenar uzunlukları santimetre cinsinden birer tam sayı olduğuna göre, bu ahşap plakanın santimetre cinsinden bir kenar uzunluğu aşağıdakilerden hangisi olabilir? A) 108 B) 156 C) 180 D) 216",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kesirli şerit koşullarıyla ortak kat bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    30.0,
+    418.5,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.0,
+    421.5,
+    49.6,
+    436.8
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Dört farklı zekâ oyununun Türk lirası cinsinden adet fiyatlarının çözümlenmiş hâli aşağıdaki tabloda verilmiştir. Tablo: Zekâ Oyunlarının Fiyatlarının Çözümlenmiş Hâli Zekâ Oyununun Adı Adet Fiyatı (TL) Satranç 10 2 + 9 . 10 1 + 9 . 10 -2 9 . 10 1 + 9 . 10 -1 Hedef Renkli Küpler 10 2 + 10 1 + 9 . 10 0 + 5 . 10 -2 10 2 + 9 . 10 -2 Mangala Toplam 2000 TL bütçe ile bu oyunların her birinden eşit sayıda sipariş verilecektir. Buna göre toplamda en fazla kaç oyun sipariş verilebilir? A) 16 B) 12 C) 8 D) 4",
+   "answer": "B",
+   "solved": false,
+   "skill": "Çözümlenmiş ondalık fiyatlarla toplam bütçe",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p11|q18",
+   "page": 11,
+   "n": 18,
+   "bbox": [
+    32.0,
+    90.4,
+    509.9,
+    452.9
+   ],
+   "num": [
+    36.0,
+    93.4,
+    50.7,
+    108.7
+   ],
+   "topic": "Doğrusal Denklemler: Doğrusal Denklemler",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Aşağıda bir odanın kare biçimindeki zemini koordinat sistemi üzerinde modellenmiştir. y 3 2 1 x - 3 - 2 - 1 1 2 3 - 1 - 2 - 3 Orijin üzerindeki şarj istasyonunda bulunan bir robot süpürge ile oda süpürülecektir. Süpürme işleminden önce y = x + 3 doğrusu boyunca sanal duvar eklenmiştir. Şarj istasyonundan süpürmeye başlayan bu robot, sanal duvara kadar olan kısmı süpürebilmekte ancak sanal duvarın diğer tarafına geçememektedir. Buna göre robotun odada süpüremeyeceği alanın süpürebileceği alana oranı aşağıdakilerden hangisidir? 1 1 1 1 A) B) C) D) 9 8 7 6",
+   "answer": "C",
+   "solved": false,
+   "skill": "Doğrusal denklemle oluşan bölgelerin alan oranı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p11|q19",
+   "page": 11,
+   "n": 19,
+   "bbox": [
+    30.0,
+    485.6,
+    544.8,
+    734.1
+   ],
+   "num": [
+    36.0,
+    488.6,
+    50.6,
+    503.8
+   ],
+   "topic": "Cebirsel İfadeler ve Özdeşlikler: Çarpanlara Ayırma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Aşağıda üzerinde cebirsel ifadeler yazan sekiz kart verilmiştir. x 2 - 4 2 - x x + 2 4 - x 2 x - 2 x - 4 - 2 - x x + 1 Bu kartlardan biri rastgele seçildiğinde, seçilen kartta yazan ifadenin x 2 - 4 cebirsel ifadesinin bir çarpanı olma olayına ait olası durum sayısı kaçtır? A) 5 B) 6 C) 7 D) 8",
+   "answer": "B",
+   "solved": false,
+   "skill": "Çarpanlara ayırarak ortak çarpanı olan ifadeleri sayma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_05|p12|q20",
+   "page": 12,
+   "n": 20,
+   "bbox": [
+    30.0,
+    90.4,
+    544.8,
+    734.6
+   ],
+   "num": [
+    36.0,
+    93.4,
+    51.2,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Çarpma ve Bölme İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. Renkleri dışında özdeş sarı ve mavi renkli iki dikdörtgen şerit, uzun kenarları birbirini dik kesecek biçimde yapıştırılarak aşağıdaki şekil oluşturulmuştur. M Y S Dikdörtgen şeritlerin uzun kenar uzunlukları, kısa kenar uzunluklarının 4 katı olup şeritler üst üste geldiğinde oluşan yeşil bölgenin alanı 8 cm 2 dir. Buna göre şeklin çevresi kaç santimetredir? A) 24 2 B) 28 2 C) 32 2 D) 40 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekökle kesişen şeritlerin çevresini bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}

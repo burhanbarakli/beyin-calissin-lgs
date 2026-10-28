@@ -1,0 +1,583 @@
+{
+ "book": {
+  "id": "lgs_mat_mebi_deneme_02",
+  "path": "kaynaklar/LGS_Matematik/13_MEBI_Denemeler/MEBI_Deneme_02_Sayisal_Bolum.pdf",
+  "exam": "LGS",
+  "subject": "mat",
+  "subject_name": "Matematik",
+  "kind": "deneme",
+  "kind_name": "MEBİ Deneme",
+  "unit": "",
+  "code": "",
+  "title": "MEBİ LGS Deneme 2 · Sayısal Bölüm",
+  "level": "LGS",
+  "rank": 3
+ },
+ "pages": 24,
+ "key_pages": [
+  24
+ ],
+ "questions": [
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p3|q1",
+   "page": 3,
+   "n": 1,
+   "bbox": [
+    30.0,
+    114.3,
+    544.8,
+    727.1
+   ],
+   "num": [
+    36.0,
+    117.3,
+    43.7,
+    132.6
+   ],
+   "topic": "Üslü İfadeler: Rasyonel Sayıların Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "1. Utku bahçesine dikmek istediği dört farklı ağacı ve bahçesinde ağaçları dikeceği bölümleri üslü ifadelerle kodlamıştır. Şekil 1’de ağaçların, Şekil 2’de ise bahçesinin bölümlerinin kodları verilmiştir. -2 -15 2 -6 2 12 1 3 1 ( ) 3 ( ) 2   − 16 8 2 -12 − ( ) 5   8 16 −   Şekil 1 Şekil 2 Utku’nun dikeceği ağacın kodu, bahçede hangi bölümün koduna eşit oluyorsa Utku ağacı o bölüme dikecektir. Buna göre son durumda bahçenin görünümü aşağıdakilerden hangisi gibi olur? A) B) C) D)",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü ifadeleri sadeleştirip kodlarla eşleştirme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p4|q2",
+   "page": 4,
+   "n": 2,
+   "bbox": [
+    32.6,
+    91.3,
+    493.5,
+    363.8
+   ],
+   "num": [
+    36.6,
+    94.3,
+    44.7,
+    109.6
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "2. Ali ve Ahmet’in bir kâğıda yazdığı üçer adet sayı aşağıda gösterilmiştir. Ali’nin yazdığı sayılar Ahmet’in yazdığı sayılar 8 45 12 27 20 18 Ali’nin yazdığı sayılar ile Ahmet’in yazdığı sayılar, çarpımları doğal sayı olacak şekilde birer doğru parçası ile eşleştirilecektir. Buna göre oluşan doğru parçalarının görünümü aşağıdakilerden hangisi gibi olur? A) B) C) D)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Sadeleştirerek çarpımı doğal sayı olan kökleri eşleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p4|q3",
+   "page": 4,
+   "n": 3,
+   "bbox": [
+    30.0,
+    401.9,
+    544.8,
+    726.1
+   ],
+   "num": [
+    36.0,
+    404.9,
+    44.0,
+    420.2
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "3. Sarı, kırmızı ve mavi ana renklerinin karıştırılması ile oluşturulabilecek renklerden turuncu, yeşil ve kahverenginin oluşumu aşağıdaki gibidir. Mavi + Sarı = Yeşil Kırmızı + Sarı + Mavi = Kahverengi Kırmızı + Sarı = Turuncu Aynı genişliğe sahip üç farklı camın uzunlukları aşağıda verilmiştir. 72 50 18 cm cm cm Sarı Kırmızı Mavi Bu üç cam, üst üste konulduğunda aşağıdaki gibi yeşil, kahverengi ve turuncu dışında başka bir renk görünmemektedir. Yeşil Kahverengi Turuncu Buna göre kahverengi görünen kısmın uzunluğu kaç santimetredir? A) 4 2 B) 3 2 C) 2 2 D) 2",
+   "answer": "C",
+   "solved": false,
+   "skill": "Kareköklü uzunluklarla çakışan kısmı bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p5|q4",
+   "page": 5,
+   "n": 4,
+   "bbox": [
+    32.3,
+    90.4,
+    271.7,
+    514.9
+   ],
+   "num": [
+    36.3,
+    93.4,
+    44.3,
+    108.7
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "4. Aşağıda dört ürünün kütlelerinin kilogram cinsinden çözümlenmiş hâli verilmiştir. Tablo: Ürünlerin Kütleleri Ürün Adı Kütlesi (kg) 8 . 10 1 + 9 . 10 -1 + 9 . 10 -2 8 . 10 1 + 9 . 10 -1 + 9 . 10 -3 8 . 10 0 + 9 . 10 -1 + 9 . 10 -3 8 . 10 0 + 9 . 10 -1 + 9 . 10 -2 Bazı basamaklarının göstergeleri bozuk olan tartıya bu ürünlerden biri konulduğunda tartının görünümü aşağıdaki gibi olmuştur. kg Buna göre tartılan ürün aşağıdakilerden hangisidir? A) Buğday B) Arpa C) Nohut D) Fasulye",
+   "answer": "D",
+   "solved": false,
+   "skill": "Çözümlenmiş ondalık sayıdan kütleyi belirleme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p5|q5",
+   "page": 5,
+   "n": 5,
+   "bbox": [
+    30.3,
+    526.2,
+    272.4,
+    738.3
+   ],
+   "num": [
+    36.6,
+    529.2,
+    44.6,
+    544.5
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "5. Aşağıda bir kenar uzunluğu verilen dikdörtgen şeklindeki pano, eş kare parçalara ayrılmış ve bu karelerden bazıları şekildeki gibi boyanmıştır. 75 br Buna göre boyalı bölümün alanı kaç birimkaredir? A) 14 B) 14 3 C) 42 D) 42 3",
+   "answer": "C",
+   "solved": false,
+   "skill": "Karekök kenarlı karelerle boyalı alan bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p5|q6",
+   "page": 5,
+   "n": 6,
+   "bbox": [
+    279.5,
+    92.2,
+    518.2,
+    350.0
+   ],
+   "num": [
+    283.5,
+    95.2,
+    291.5,
+    110.5
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "6. Eş karelerden oluşan mavi zemin üzerine, zeminin kenarlarına değecek şekilde turuncu daire çizilmiştir. 2 . 3 -3 m Kare zeminin bir kenar uzunluğu 2 . 3 -3 metredir. Buna göre mavi bölgenin alanı kaç metrekaredir? ( 3 alınız.) π = A) 3 -2 B) 3 -4 C) 3 -5 D) 3 -6",
+   "answer": "D",
+   "solved": false,
+   "skill": "Üslü kenar uzunluğuyla kare ve daire alanı farkı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p5|q7",
+   "page": 5,
+   "n": 7,
+   "bbox": [
+    280.0,
+    495.3,
+    544.8,
+    683.5
+   ],
+   "num": [
+    284.0,
+    498.3,
+    291.5,
+    513.6
+   ],
+   "topic": "Üslü İfadeler: 10'un Kuvvetleriyle İfade Etme ve Bilimsel Gösterim",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "7. Okullarında düzenlenecek olan TÜBİTAK Bilim Fuarı için Ahmet ve Mehmet, yük taşıyabilen birer robot tasarlamıştır. Ahmet’in tasarladığı robotun kütlesi 2 6 gram ve taşıdığı yük miktarı robotun kütlesinin 5 2 katıdır. Mehmet’in tasarladığı robotun kütlesi ise 5 2 gram ve taşıdığı yük miktarı robotun kütlesinin 2 5 katıdır. Buna göre bu iki robotun taşıdığı toplam yük miktarının gram cinsinden bilimsel gösterimi aşağıdakilerden hangisidir? A) 2,4 . 10 4 B) 2,4 . 10 3 C) 2,4 . 10 1 D) 0,24 . 10 4",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü ifadelerle yük toplamını bilimsel gösterme",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p6|q8",
+   "page": 6,
+   "n": 8,
+   "bbox": [
+    32.3,
+    90.4,
+    511.3,
+    391.9
+   ],
+   "num": [
+    36.3,
+    93.4,
+    44.3,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Ondalık İfadelerin Karekökleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "8. EBA üzerinden işlenen bir canlı dersin tabletteki görünümü Görsel 1’de verilmiştir. 4,84 br 3,24 br Görsel 1 Görsel 2 Ekranda öğretmenin görüntüsünün bulunduğu dikdörtgen bölümün kısa kenarının uzunluğu br, 3,24 uzun kenarının uzunluğu br’dir. Öğrenci görüntülerinin bulunduğu dikdörtgen bölümler ise eştir. 4,84 Tabletin kenar uzunlukları birim cinsinden tam sayı olduğuna göre Görsel 2’de verilen tabletin arka yüzünün alanı en az kaç birimkaredir? A) 90 B) 60 C) 30 D) 20",
+   "answer": "C",
+   "solved": false,
+   "skill": "Ondalık karekökle ekran boyutunu tam sayıya tamamlama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p6|q9",
+   "page": 6,
+   "n": 9,
+   "bbox": [
+    30.3,
+    424.9,
+    544.8,
+    726.1
+   ],
+   "num": [
+    37.0,
+    427.9,
+    45.0,
+    443.2
+   ],
+   "topic": "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "9. Aşağıda verilen çubuklardan birincisi 40 eş bölmeye, ikincisi 30 eş bölmeye ayrılmıştır. 1. Çubuk 2. Çubuk 1. çubuğun bir bölmesinin uzunluğu 9 4 mikrometredir. 1. çubuğun 32 bölmesinin uzunluğu 2. çubuğun 27 bölmesinin uzunluğuna eşittir. Buna göre 2. çubuğun uzunluğu kaç mikrometredir? A) 5 . 6 11 B) 5 . 6 6 C) 5 . 6 5 D) 6 5",
+   "answer": "B",
+   "solved": false,
+   "skill": "Üslü ifadelerle orantılı uzunluk bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p7|q10",
+   "page": 7,
+   "n": 10,
+   "bbox": [
+    30.0,
+    91.3,
+    544.8,
+    725.6
+   ],
+   "num": [
+    36.0,
+    94.3,
+    49.1,
+    109.6
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "10. Hakan Şekil 1’deki gibi kalınlıkları 3 cm olan, 165 cm ve 135 cm uzunluğunda iki çıta almıştır. 3 cm Çerçeve 165 cm 3 cm 135 cm Şekil 1 Şekil 2 Çıtaları eşit uzunlukta ve hiç artmayacak şekilde parçalara ayıran Hakan, elde ettiği parçaların tamamı ile, dörder tanesini üst üste gelmeyecek şekilde uç uca ekleyip Şekil 2’deki gibi çerçeveler oluşturmuştur. 50 cm 50 cm 60 cm . . . Hakan çerçevelerin tamamını kullanarak ardışık çerçevelerin arası 60 cm, ilk ve son çerçevenin duvar ve pencereye mesafesi 50 cm olacak şekilde aynı hizada duvara asmıştır. Hakan en az sayıda çerçeve oluşturacak şeki",
+   "answer": "B",
+   "solved": false,
+   "skill": "EBOB ile en az çerçeve sayısı ve duvar uzunluğu",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p8|q11",
+   "page": 8,
+   "n": 11,
+   "bbox": [
+    32.0,
+    89.8,
+    542.8,
+    358.7
+   ],
+   "num": [
+    36.0,
+    92.8,
+    48.5,
+    108.1
+   ],
+   "topic": "Çarpanlar ve Katlar: Çarpanlar ve Asal Çarpanlar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "11. Aşağıda yeterli büyüklükte ve farklı renklerde kartonlar verilmiştir. Bu kartonlardan birer adet kare şeklinde parça kesilecektir. Mavi, sarı ve kırmızı parçaların bir kenar uzunluğu santimetre cinsinden sırasıyla 120, 105 ve 500’ün farklı asal çarpanlarının toplamına eşit olacaktır. Kesim sonunda oluşan kare kartonlar üst üste konulduğunda aşağıdaki görüntülerden hangisi elde edilebilir? A) B) C) D)",
+   "answer": "A",
+   "solved": false,
+   "skill": "Asal çarpanlar toplamıyla kare boyutlarını sıralama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p8|q12",
+   "page": 8,
+   "n": 12,
+   "bbox": [
+    30.0,
+    414.4,
+    544.8,
+    731.2
+   ],
+   "num": [
+    36.0,
+    421.4,
+    49.2,
+    436.7
+   ],
+   "topic": "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "12. Aşağıda bir binada bulunan asansör kabini ve bu asansörün kat tuşlarının görseli verilmiştir. 5 6 4 3 1 2 5 6 3 4 -1 0 1 2 -1 0 -3 -2 -5 -4 -3 -2 DUR -5 -4 DUR Can -4. katta asansöre binmiştir. En az 1, en fazla 3 kat hareket eden bu asansörle yukarı katlara çıkan Can, ilk çıktığı katın numarasını taban, ikinci çıktığı katın numarasını ise kuvvet olarak belirleyip üslü ifadeler oluşturmuştur. Buna göre Can’ın oluşturabileceği üslü ifadelerden değeri en küçük olanın taban ve kuvvetinin toplamı kaç olur? A) -5 B) -3 C) -2 D) -1",
+   "answer": "D",
+   "solved": false,
+   "skill": "Kat kısıtıyla en küçük üslü ifadeyi oluşturma",
+   "role": "zorlayici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p9|q13",
+   "page": 9,
+   "n": 13,
+   "bbox": [
+    32.1,
+    90.4,
+    263.8,
+    221.8
+   ],
+   "num": [
+    36.1,
+    93.4,
+    49.3,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "13. Mert bir yıl boyunca her gün kumbarasına para atacaktır. Günleri 1’den 365’e kadar numaralandıran Mert kumbarasına; numarası tam kare olan günlerde 10 TL, diğer günlerde ise 1 TL atacaktır. Buna göre Mert kumbarasında bir yıl boyunca kaç TL biriktirir? (1 yıl=365 gün) A) 523 B) 536 C) 545 D) 555",
+   "answer": "B",
+   "solved": false,
+   "skill": "Tam kare günleri sayarak toplam tutar bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p9|q14",
+   "page": 9,
+   "n": 14,
+   "bbox": [
+    30.1,
+    307.8,
+    272.4,
+    738.3
+   ],
+   "num": [
+    36.7,
+    310.8,
+    50.0,
+    326.1
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "14. İçerisindeki suyun yüksekliği 3 metre olan silindir şeklindeki bir depoya, sabit hızla su akıtan bir musluktan su doldurulmaya başlanıyor. Deponun duvarında, su seviyesinin 11 metreye ulaştığını gösteren sarı bir çizgi ve 12 metreye ulaştığını gösteren kırmızı bir çizgi bulunmaktadır. 12 m 11 m 7 m 3 m Bir süre sonra musluk kapatıldığında, depodaki su seviyesinin sarı çizgiyi geçtiği ancak kırmızı çizgiye henüz ulaşmadığı görülmüştür. Buna göre, depoya eklenen suyun yüksekliği metre cinsinden aşağıdakilerden hangisi olabilir? A) 99 B) 82 C) 78 D) 48",
+   "answer": "C",
+   "solved": false,
+   "skill": "Su yüksekliği aralığını belirleme (karekök tahmini)",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p9|q15",
+   "page": 9,
+   "n": 15,
+   "bbox": [
+    279.7,
+    90.4,
+    524.0,
+    283.6
+   ],
+   "num": [
+    283.7,
+    93.4,
+    296.9,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "15. Üzerinde tam sayıların yazılı olduğu dokuz kart aşağıda gösterilmiştir. 7 51 59 42 61 32 14 55 17 Kartların üzerinde yazan sayıların kareköklerinin en yakın olduğu tam sayı değerleri eşit olanlar aynı renge boyanacaktır. Buna göre yukarıda verilen kartlardan boyama yapılmayan kartın üzerinde yazan sayı kaçtır? A) 7 B) 14 C) 42 D) 59",
+   "answer": "A",
+   "solved": false,
+   "skill": "Karekökü en yakın tam sayıya yuvarlayarak gruplama",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p9|q16",
+   "page": 9,
+   "n": 16,
+   "bbox": [
+    279.7,
+    373.8,
+    544.8,
+    665.0
+   ],
+   "num": [
+    283.7,
+    376.8,
+    296.9,
+    392.1
+   ],
+   "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "16. Bir müzenin pazartesi ve salı günlerine ait gelir tablosu aşağıda verilmiştir. Tablo: Müzenin Pazartesi ve Salı Günlerine Ait Geliri Günler Pazartesi Salı Gelir 900 TL 1080 TL Bu müzede bilet ücreti sabit olup 10 TL’den büyük bir doğal sayıdır. Buna göre pazartesi ve salı günü satılan toplam bilet sayısı en fazla kaçtır? A) 198 B) 165 C) 132 D) 110",
+   "answer": "B",
+   "solved": false,
+   "skill": "Ortak bölen koşuluyla en çok bilet sayısı",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p10|q17",
+   "page": 10,
+   "n": 17,
+   "bbox": [
+    32.0,
+    90.4,
+    265.1,
+    301.7
+   ],
+   "num": [
+    36.0,
+    93.4,
+    48.3,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: a kök b Şeklinde Yazma ve Katsayıyı Karekök İçine Alma",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "17. Aşağıda dört farklı bovling topunun kütleleri kilogram cinsinden verilmiştir. K L M N 2 6 kg 3 5 kg 5 2 kg 4 3 kg Verilen topların kütlelerine göre küçükten büyüğe doğru sıralanışı aşağıdakilerden hangisidir? A) K < L < N < M B) K < L < M < N C) L < K < M < N D) L < K < N < M",
+   "answer": "A",
+   "solved": false,
+   "skill": "Katsayıyı karekök içine alarak sıralama",
+   "role": "ogretici",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p10|q18",
+   "page": 10,
+   "n": 18,
+   "bbox": [
+    30.0,
+    499.1,
+    272.4,
+    701.4
+   ],
+   "num": [
+    36.0,
+    502.1,
+    49.1,
+    517.4
+   ],
+   "topic": "Kareköklü İfadeler: Kareköklü İfadelerle Toplama ve Çıkarma İşlemi",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "18. Uzunlukları , ve cm 500 cm 405 245 cm olan çubuklardan ikisi, uç uca birleştirilerek üçüncü çubuğa paralel olacak şekilde konumlandırılmıştır. 500 cm 245 cm ? 405 cm Buna göre “?” ile gösterilen uzunluk kaç santimetredir? A) B) C) D) 125 320 340 405",
+   "answer": "B",
+   "solved": false,
+   "skill": "Kareköklü uzunlukları toplama ve çıkarma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p10|q19",
+   "page": 10,
+   "n": 19,
+   "bbox": [
+    279.5,
+    90.4,
+    516.5,
+    350.2
+   ],
+   "num": [
+    283.5,
+    93.4,
+    296.5,
+    108.7
+   ],
+   "topic": "Kareköklü İfadeler: Gerçek Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "19. Bir öğretmen tahtaya sayı kümelerini Venn şeması ile çizerek öğrencilerden kümelere uygun elemanlar yazmasını istemiştir. Aşağıda bir öğrencinin yazdığı elemanlar gösterilmiştir. Q I 0,09 Z 0,49 N π 144 Buna göre öğrenci aşağıda verilen sayılardan hangisini bulunması gereken kümeye yazmamıştır? A) 0,09 B) 0,49 C) D) 144 π",
+   "answer": "B",
+   "solved": false,
+   "skill": "Sayı kümelerine göre yanlış yerleştirmeyi bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  },
+  {
+   "qid": "lgs_mat_mebi_deneme_02|p10|q20",
+   "page": 10,
+   "n": 20,
+   "bbox": [
+    277.5,
+    499.0,
+    544.8,
+    700.1
+   ],
+   "num": [
+    283.7,
+    502.0,
+    297.2,
+    517.3
+   ],
+   "topic": "Çarpanlar ve Katlar: Aralarında Asal Sayılar",
+   "level": "LGS",
+   "rank": 3,
+   "osym": "",
+   "text": "20. 78 dakikalık bir video saat 11.00’da başlatılıyor. Aşağıdaki saatlerin hangisinde videonun oynatılan kısmının süresi ile kalan kısmının süresi dakika cinsinden aralarında asal olur? A) 11.10 B) 11.27 C) 11.35 D) 11.57",
+   "answer": "C",
+   "solved": false,
+   "skill": "Aralarında asal süre koşulunu sağlayan saati bulma",
+   "role": "pekistirme",
+   "broken": false,
+   "labeled": true
+  }
+ ],
+ "answers_filled": true
+}
