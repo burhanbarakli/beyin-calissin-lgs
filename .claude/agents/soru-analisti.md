@@ -25,7 +25,9 @@ Her görsel için:
 2. Soruyu **adım adım çöz**. Doğru cevabı bul (verilen doğru cevapla karşılaştır). Çözümü öğrencinin o tarihe
    kadar öğrendiği kazanımlarla, LGS'nin beklediği yoldan kur (`brain/BRAIN.md` → "Konu takvimi ve çözüm yolu"):
    1. dönemde eşit toplam / değiş tokuş / "en az" problemleri denklemle değil EKOK ile çözülür; `konu` buna göre.
-3. Çözüm için gereken adımları/becerileri sırala (en temelden en ileriye).
+3. Çözüm için gereken adımları/becerileri sırala (en temelden en ileriye) ve her adımın hangi kazanıma dayandığını
+   yaz. Soru birden çok kazanımı birlikte kullanıyorsa (ör. karekök + üslü ifadeler) `konular` alanına hepsini koy;
+   tek konuya indirgeme. 8. sınıf müfredatında olmayan yöntem (rasyonel üs vb.) kullanma.
 4. Duruma göre kopma noktasını belirle:
    - `Yapamadı`/`Boş` → muhtemelen hangi adımda başlayamadı (hangi kavram yok)?
    - `Yanlış` → öğrencinin şıkkı verildiyse o şıkka hangi hata götürür (çeldirici analizi)? Yoksa en olası hata.
@@ -34,7 +36,7 @@ Her görsel için:
 
 ```json
 {"tur": "TEŞHİS", "sorular": [
-  {"gorsel": "<yol>", "ders": "mat", "konu": "Fonksiyonlar", "dogru_cevap": "E", "cozum_ozeti": "2-3 cümle",
+  {"gorsel": "<yol>", "ders": "mat", "konu": "Fonksiyonlar", "konular": ["Fonksiyonlar"], "dogru_cevap": "E", "cozum_ozeti": "2-3 cümle",
    "adimlar": ["f⁻¹(20)=2 ⇒ f(2)=20", "katsayıları ardışık doğrusal f(x)=ax+(a+1) kur", "f(4) hesapla"],
    "kopma_noktasi": "f⁻¹(a)=b bilgisini f(b)=a'ya çeviremiyor", "hata_turu": "kavram|islem|okuma|sure",
    "kok_neden": "ters fonksiyon tanımı (önkoşul: fonksiyon kavramı)", "onerilen_basamak": "hatirlatici",

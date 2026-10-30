@@ -230,7 +230,10 @@
    "osym": "",
    "text": "3 12 : 3 4 işleminin sonucu aşağıdakilerden hangisine 9. eşittir? A) 3 16 B) 3 8 C) 3 3 D) 1 3",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "Aynı tabanlı üslü bölme (3¹² : 3⁴)",
+   "broken": false,
+   "labeled": true
   },
   {
    "qid": "lgs_mat_8.06_test|p2|q10",

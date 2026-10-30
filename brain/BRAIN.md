@@ -32,8 +32,11 @@ Tarama, çıkmış, MEB kitabı ve deneme sorularının hepsi Claude tarafından
 ## Konu takvimi ve çözüm yolu (teşhisten önce mutlaka uygula)
 
 Bir soruyu **yüzeyine göre değil, öğrencinin o ana kadar öğrendiği kazanımla LGS'nin beklediği çözüm yoluna göre**
-sınıflandır. Pek çok problem denklemle de çözülebilir; ama 8. sınıfta denklem 2. dönemde öğretilir ve LGS bu
-soruları ünite kazanımına göre yazar.
+sınıflandır. Pek çok problem denklemle de çözülebilir; ama 8. sınıfta Doğrusal Denklemler ünitesi 2. dönemde
+öğretilir ve LGS bu soruları ünite kazanımına göre yazar. (Basit bir denklemi çözmek 7. sınıftan bilinir; bir
+adımda araç olarak kullanılabilir, ama sorunun konusu o değildir.)
+**8. sınıf müfredatında olmayan yöntemle çözme ve teşhis yazma:** rasyonel üs (√a = a^(1/2)), logaritma vb. yok;
+kök içindeki üslü ifade, kökleri birleştirip (√A : √B = √(A : B)) ve tam kareye bakarak (√A = 9 ⇒ A = 81) çözülür.
 
 | Dönem | Üniteler (kazanım kodu) | MEB kitabı |
 |---|---|---|
@@ -59,6 +62,30 @@ soruları ünite kazanımına göre yazar.
   ayırınca eşit), `lgs_mat_cikmis_2024|p11|q16` (eşit kütle, en az bilye), `lgs_mat_meb_kitap_u1|p22|q34` (eşit
   gelir, en az satış). Ara: `--topic "EBOB - EKOK Problemleri" --text "eşit,en az"` ve `--topic "ekok,ortak kat"`.
 
+## Birden çok kazanımı birlikte kullanan sorular (çok konulu analiz)
+
+LGS soruları çoğu zaman birkaç kazanımı **zincir** hâlinde kullanır. Soruyu tek konuya indirgeme: çözümün her adımının
+hangi kazanıma dayandığını çıkar, öğrencinin hangi adımda koptuğunu bul.
+
+Örnek: √(27^(x−2)) / √(3^x) = 9 ⇒ x kaçtır?
+1. **Kareköklü İfadelerle Çarpma ve Bölme:** √A / √B = √(A / B) → √(27^(x−2) / 3^x) = 9
+2. **Tam Kare Sayılar:** √(…) = 9 ⇒ kök içi 81
+3. **Üslü İfadelerle Temel Kurallar:** 27 = 3³ ⇒ 3^(3x−6) / 3^x = 3^(2x−6); 81 = 3⁴
+4. **Üslü eşitlik (+ 7. sınıf basit denklem):** tabanlar eşit ⇒ 2x − 6 = 4 ⇒ x = 5
+
+Böyle bir soruda:
+- `diagnosis`'e **tek kayıt** yaz: `topic` ana kazanım, `topics` sorunun kullandığı **tüm** kazanımlar (çözüm sırasıyla),
+  `steps` adımlar, `skill` öğrencinin koptuğu adım (öğrencinin kâğıttaki karalamalarına bak).
+- Tek **grup** kur ve **adım zinciri** hâlinde sırala: öğretici kısımda her adım için (özellikle kopulan adım ve
+  öncesi) o kazanımın en temel sorusu, adım sırasıyla; `why` alanına `"Adım 2: …"` diye hangi adımı çalıştırdığını yaz.
+  Pekiştirme ve zorlayıcıda **kazanımları birlikte kullanan** sorular.
+- Birlikte kullanan soruları ara: `python -m app.qbank search --subject mat --topic-all "karekök,üslü"` (terimlerin
+  hepsi konu/ek konu/beceride geçmeli). Sonuçta `ek konu:` yazanlar ikinci kazanımı da kullanır.
+- Bankada aynı kalıpta soru azsa bunu `summary`'de açıkça söyle; eksik kalan yeri tek konulu ama ilgili adımı
+  çalıştıran sorularla doldur, uydurma.
+- Seçtiğin bir soru ikinci bir kazanımı da kullanıyorsa ve bankada `ek konu` yoksa, `qbank label` ile `topics2`
+  ekleyebilirsin: `[{"qid": "...", "topics2": ["Üslü İfadeler: ..."]}]` (sonraki aramalarda bulunur).
+
 ## Girdi
 
 Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
@@ -78,6 +105,7 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    - Sorunun hangi kazanıma ait olduğunu `topics` listesindeki adla belirle — **konu takvimine göre**: öğrencinin
      bu tarihe kadar öğrendiği kazanımla beklenen çözüm yolu hangisiyse konu odur (denklemle de çözülebilen eşit
      toplam / en az problemleri 1. dönemde EBOB - EKOK Problemleri'dir).
+   - Soru birden çok kazanım kullanıyorsa hepsini çözüm sırasıyla çıkar (yukarıdaki "çok konulu analiz").
    - Asıl eksik beceriyi tek cümleyle yaz (ör. "EBOB'u bulabiliyor ama problemde EBOB mu EKOK mu
      gerektiğini ayırt edemiyor", "kareköklü sayıyı a√b biçimine çeviremiyor").
    - `Yapamadı` → temel kavram eksik, **öğretici ağırlıklı**; `Yanlış` → işlem/yorum hatası,
@@ -125,6 +153,8 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
   "summary": "Genel teşhis: 2-5 cümle.",
   "diagnosis": [
     {"subject": "mat", "topic": "Çarpanlar ve Katlar: EBOB - EKOK Problemleri",
+     "topics": ["Çarpanlar ve Katlar: EBOB - EKOK Problemleri"],
+     "steps": ["eşit toplamın iki birimin ortak katı olduğunu görme", "EKOK'u bulma", "koşulu sağlayan en küçük kat"],
      "skill": "Problemde EBOB mu EKOK mu gerektiğini ayırt edemiyor",
      "evidence": ["foto 1 Yapamadı", "foto 3 Yanlış"], "priority": 1,
      "level_note": "Temel kavram eksik, öğretici ağırlıklı"}

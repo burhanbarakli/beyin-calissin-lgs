@@ -184,7 +184,10 @@
    "skill": "Ortak tabanda üs karşılaştırarak en az sayı",
    "role": "pekistirme",
    "broken": false,
-   "labeled": true
+   "labeled": true,
+   "topics2": [
+    "Kareköklü İfadeler: Tam Kare Sayılar ve Kareköklü Sayılarda Tahmin"
+   ]
   },
   {
    "qid": "lgs_mat_uslu_ifadeler_konu_tarama_testi|p2|q7",

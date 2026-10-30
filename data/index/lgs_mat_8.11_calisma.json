@@ -110,7 +110,10 @@
    "osym": "",
    "text": "Aşağıdaki bölme işlemlerinin sonuçlarını bulunuz. 4. a) 75: 5 = b) 12 6 : 4 2 = c) 6 : 6 = 10 10 ç) = 5 2 - 200 = d) 2 5 4 3 = e) 12 6 26 15 = f) 13 30 8 = g) 2 12 = ğ) 3 3 - h) = 3 5 = ı) 7",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "Kareköklü ifadelerle bölme: √a : √b = √(a : b), katsayılı kök bölmesi",
+   "broken": false,
+   "labeled": true
   },
   {
    "qid": "lgs_mat_8.11_calisma|p2|q5",

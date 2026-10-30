@@ -158,7 +158,10 @@
    "osym": "",
    "text": "12 12 işleminin sonucu kaçtır? 6. 4 3 A) 12 B) 9 C) 6 D) 3",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "Katsayılı kareköklü ifadeleri bölme (12√12 : 4√3)",
+   "broken": false,
+   "labeled": true
   },
   {
    "qid": "lgs_mat_8.11_test|p2|q7",
@@ -206,7 +209,10 @@
    "osym": "",
    "text": "75 45 72 + işleminin sonucu kaçtır? 8. - 3 5 2 A) −2 B) 0 C) 2 D) 4",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "Kök bölmelerini tek kökte birleştirme: √75/√3 + √45/√5 − √72/√2",
+   "broken": false,
+   "labeled": true
   },
   {
    "qid": "lgs_mat_8.11_test|p2|q9",
@@ -230,7 +236,10 @@
    "osym": "",
    "text": "48 2 işleminin sonucu kaçtır? 9. : 3 A) 4 2 B) 4 C) 2 2 D) 2",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "Kök çarpma ve bölmesini birlikte yapma: √2 · √48/√3",
+   "broken": false,
+   "labeled": true
   },
   {
    "qid": "lgs_mat_8.11_test|p2|q10",

@@ -467,7 +467,7 @@ def list_source_pdfs() -> list[Path]:
 
 # indeks yenilenince korunacak, sonradan eklenen alanlar: cevap (Claude) ve etiket (`qbank label`)
 KEEP_ANSWER = ("answer", "answer_source")
-KEEP_LABEL = ("topic", "skill", "role", "broken", "labeled")
+KEEP_LABEL = ("topic", "skill", "role", "broken", "labeled", "topics2")
 
 
 def run(paths=None, force=False, log=print):

@@ -166,8 +166,12 @@ async function loadCandidates(id, scroll = false) {
   S.cand = c; S.runId = id;
   $("#candidates").classList.remove("hidden");
   $("#summary").innerHTML = `<p>${esc(c.summary || "")}</p>`;
+  // çok konulu sorularda tüm kazanımlar ve çözüm adımları da gösterilir
   $("#diagnosis").innerHTML = (c.diagnosis || []).map((d) => `<div class="d"><b>${esc(d.topic)}</b>
-    <div>${esc(d.skill || "")}</div><div class="muted small">${esc((d.evidence || []).join(", "))}${d.level_note ? " · " + esc(d.level_note) : ""}</div></div>`).join("");
+    ${(d.topics || []).length > 1 ? `<div class="small">Kazanımlar: ${d.topics.map(esc).join(" + ")}</div>` : ""}
+    <div>${esc(d.skill || "")}</div>
+    ${(d.steps || []).length > 1 ? `<ol class="small steps">${d.steps.map((s) => `<li>${esc(s)}</li>`).join("")}</ol>` : ""}
+    <div class="muted small">${esc((d.evidence || []).join(", "))}${d.level_note ? " · " + esc(d.level_note) : ""}</div></div>`).join("");
   // bu çalışmanın kayıtlı seçimi varsa onu yükle; yoksa beynin önerdikleriyle başla
   const fresh = !loadBasket();
   loadHidden();

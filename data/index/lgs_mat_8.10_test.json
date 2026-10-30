@@ -302,7 +302,13 @@
    "osym": "",
    "text": "3, 4, 5 rakamlarından her biri b a c sayısındaki 12. 2 harflerin yerine ayrı ayrı yazılacaktır. Bu şekilde yazılabilecek en küçük sayı için a, b ve c yerine gelecek değerler aşağıdakilerden hangisinde doğru verilmiştir? A) a = 3 , b = 4 , c = 5 B) a = 3 , b = 5 , c = 4 C) a = 5 , b = 3 , c = 4 D) a = 4 , b = 3 , c = 5",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "b²·a√c ifadesinde üs ve karekökle en küçük sayıyı kurma",
+   "topics2": [
+    "Üslü İfadeler: Tam Sayıların Tam Sayı Kuvvetleri"
+   ],
+   "broken": false,
+   "labeled": true
   }
  ],
  "answers_filled": false

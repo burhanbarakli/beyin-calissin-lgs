@@ -182,7 +182,10 @@
    "osym": "",
    "text": "= = 25 a ve b 4 ise a+b kaçtır? 7. A) 7 B) 21 C) 27 D) 42",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "Karekök eşitliğinden kök içini bulma: √b = 4 ise b = 16",
+   "broken": false,
+   "labeled": true
   },
   {
    "qid": "lgs_mat_8.09_test|p2|q8",

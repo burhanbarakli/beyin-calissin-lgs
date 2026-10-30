@@ -4,6 +4,7 @@ Claude (beyin) bu modülü komut satırından kullanır:
     python -m app.qbank books
     python -m app.qbank topics  --subject mat
     python -m app.qbank search  --subject mat --topic "olasılık" [--text "zar"] [--level 1] [--kind lgs_cikmis] [--limit 40]
+    python -m app.qbank search  --subject mat --topic-all "karekök,üslü"   -> kazanımları BİRLİKTE kullanan sorular
     python -m app.qbank show    "<qid>" ["<qid>" ...]     -> PNG yolunu yazar (Read ile bakılabilir)
     python -m app.qbank keypages <book_id>                -> cevap anahtarı sayfalarını PNG yapar + metnini yazar
     python -m app.qbank setkeys  <book_id> <keys.json>    -> cevapları sorulara işler
@@ -159,7 +160,8 @@ ROLE_RANK = {"ogretici": 1, "pekistirme": 2, "zorlayici": 3}
 def label(items: list[dict]) -> dict:
     """Claude'un soru etiketlerini (konu, beceri, rol, zorluk) indekse ve puan deposuna işler.
 
-    items = [{"qid", "topic", "skill", "role", "difficulty": 1-5, "ok": bool, "note"}]
+    items = [{"qid", "topic", "skill", "role", "difficulty": 1-5, "ok": bool, "note", "topics2": [...]}]
+    `topics2`: sorunun ana konusu dışında birlikte kullandığı kazanımlar (ör. karekök içinde üslü ifade).
     Etiketler indeks yenilense de korunur (`labeled`).
     """
     by_book, ratings, bad = {}, {}, []
@@ -183,6 +185,8 @@ def label(items: list[dict]) -> dict:
                 q["topic"] = it["topic"]
             if it.get("skill"):
                 q["skill"] = it["skill"]
+            if isinstance(it.get("topics2"), list):
+                q["topics2"] = [t for t in it["topics2"] if t and t != q["topic"]]
             if it.get("role") in ROLE_RANK:
                 q["role"] = it["role"]
             q["broken"] = it.get("ok") is False
@@ -256,8 +260,11 @@ def difficulty(book: dict, q: dict, stores: dict | None = None) -> dict:
 
 
 def search(subject=None, exam=None, topic=None, text=None, level=None, kind=None, book=None,
-           limit=40, only_answered=False, exclude=(), include_blocked=False):
+           limit=40, only_answered=False, exclude=(), include_blocked=False, topic_all=None):
+    """topic: terimlerden biri yeter (VEYA). topic_all: terimlerin hepsi konu/ek konu/beceri içinde olmalı (VE) —
+    birden çok kazanımı birlikte kullanan sorular için, ör. topic_all="karekök,üslü"."""
     topic_terms = [fold(t) for t in re.split(r"[,|/]", topic or "") if t.strip()]
+    all_terms = [fold(t) for t in re.split(r"[,|/]", topic_all or "") if t.strip()]
     text_terms = [fold(t) for t in re.split(r"[,|/]", text or "") if t.strip()]
     stores = {k: load_store(k) for k in STORES}
     res = []
@@ -272,9 +279,13 @@ def search(subject=None, exam=None, topic=None, text=None, level=None, kind=None
         rank = diff["rank"]
         if level and rank != int(level):
             continue
-        ft = fold(q.get("topic", "") + " " + q.get("skill", ""))
+        ft = fold(" ".join([q.get("topic", ""), q.get("skill", ""), *q.get("topics2", [])]))
         fx = fold(q.get("text", ""))
         score = 0
+        if all_terms:
+            if not all(t in ft for t in all_terms):
+                continue
+            score += 10 * len(all_terms)
         if topic_terms:
             hit = [t for t in topic_terms if t in ft]
             hit_txt = [t for t in topic_terms if t in fx]
@@ -296,7 +307,7 @@ def search(subject=None, exam=None, topic=None, text=None, level=None, kind=None
         "qid": q["qid"], "book": b["id"], "kind": b["kind_name"], "topic": q["topic"],
         "level": q.get("level", ""), "rank": diff["rank"], "difficulty": diff, "osym": q.get("osym", ""),
         "answer": q.get("answer", ""), "solved": q.get("solved", False), "text": q["text"][:220],
-        "skill": q.get("skill", ""),
+        "skill": q.get("skill", ""), "topics2": q.get("topics2", []),
     } for score, b, q, diff in res[:limit]]
 
 
@@ -439,6 +450,7 @@ def main(argv=None):
     s = sub.add_parser("search")
     for a in ("--subject", "--exam", "--topic", "--text", "--level", "--kind", "--book"):
         s.add_argument(a)
+    s.add_argument("--topic-all", dest="topic_all", help='hepsi geçmeli (VE): "karekök,üslü"')
     s.add_argument("--limit", type=int, default=40)
     s.add_argument("--answered", action="store_true", help="sadece cevabı bilinenler")
     sh = sub.add_parser("show"); sh.add_argument("qids", nargs="+")
@@ -450,7 +462,7 @@ def main(argv=None):
     pp = sub.add_parser("pdfpng"); pp.add_argument("pdf"); pp.add_argument("page", type=int)
     pp.add_argument("--dpi", type=int, default=110)
     ra = sub.add_parser("rate", help='zorluk puanı kaydet: [{"qid","difficulty":1-5,"note"}]'); ra.add_argument("file")
-    lb = sub.add_parser("label", help='soru etiketleri: [{"qid","topic","skill","role","difficulty","ok"}]')
+    lb = sub.add_parser("label", help='soru etiketleri: [{"qid","topic","skill","role","difficulty","ok","topics2"}]')
     lb.add_argument("file")
     tr = sub.add_parser("torate", help="kitabın puanlanmamış soruları"); tr.add_argument("book")
     tr.add_argument("--limit", type=int, default=60)
@@ -466,10 +478,12 @@ def main(argv=None):
             print(f"{x['exam']} {x['subject']:8} | {x['topic'][:60]:60} | {x['count']:3} soru "
                   f"(temel {x['r1']}, orta {x['r2']}, zor {x['r3']}) [{x['books']}]")
     elif a.cmd == "search":
-        for r in search(a.subject, a.exam, a.topic, a.text, a.level, a.kind, a.book, a.limit, a.answered):
+        for r in search(a.subject, a.exam, a.topic, a.text, a.level, a.kind, a.book, a.limit, a.answered,
+                        topic_all=a.topic_all):
             print(f"{r['qid']} | {r['kind']} | {r['topic'][:40]} | {r['level'] or '-'} | seviye={r['rank']} "
                   f"{diff_label(r['difficulty'])} | {r['osym'] or ''} | cevap={r['answer'] or '?'}"
                   f"{' | ÇÖZÜMLÜ ÖRNEK' if r['solved'] else ''}"
+                  f"{' | ek konu: ' + '; '.join(r['topics2']) if r['topics2'] else ''}"
                   f"{' | beceri: ' + r['skill'] if r['skill'] else ''}\n    {r['text'][:200] or '(metin yok, görsele bak: show)'}")
     elif a.cmd == "label":
         _print(label(json.loads(Path(a.file).read_text(encoding="utf-8"))))

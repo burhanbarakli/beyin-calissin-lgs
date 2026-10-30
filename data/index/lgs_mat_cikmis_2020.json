@@ -352,7 +352,10 @@
    "skill": "Karekök tahmini ve kuvvetlerle en büyük alan",
    "role": "zorlayici",
    "broken": false,
-   "labeled": true
+   "labeled": true,
+   "topics2": [
+    "Üslü İfadeler: Üslü İfadelerle İlgili Temel Kurallar ve Çözümleme"
+   ]
   },
   {
    "qid": "lgs_mat_cikmis_2020|p10|q13",

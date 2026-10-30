@@ -38,7 +38,10 @@
    "osym": "",
    "text": "Aşağıdaki sayılardan hangileri tam kare sayıdır? 1. 126 16 200 81 64 169 400 196 27 75 1 256 49 324 4 144 265 100 289 8 48 0 225 441",
    "answer": "",
-   "solved": false
+   "solved": false,
+   "skill": "Tam kare sayıları tanıma (81 = 9², 3'ün kuvveti olan tam kareler)",
+   "broken": false,
+   "labeled": true
   },
   {
    "qid": "lgs_mat_8.09_calisma|p1|q2",

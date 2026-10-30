@@ -8,6 +8,22 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.4.0 · 30 Ekim 2026 · Çok konulu soru analizi (karekök + üslü gibi)
+
+**Yeni**
+- Beyin, birden çok kazanımı birlikte kullanan soruları tek konuya indirgemez: çözümü adım adım kazanımlara ayırır
+  (ör. √(27^(x−2)) / √(3^x) = 9 → kök bölmesi + tam kare + üslü kurallar + üs eşitliği), öğrencinin koptuğu adımı bulur.
+- Teşhiste **"Kazanımlar: … + …"** ve **çözüm adımları** görünür.
+- Aday set **adım zinciri** olur: her adım için öğretici soru (sırasıyla), sonra kazanımları birlikte kullanan sorular.
+- Soru bankasında **ek konu** (`topics2`) etiketi ve birlikte arama: `python -m app.qbank search --topic-all "karekök,üslü"`.
+  Karekök/üslü soruları etiketlendi.
+- Beyin 8. sınıf müfredatında olmayan yöntem (rasyonel üs vb.) kullanmaz.
+
+**Yapmanız gereken:** Sayfayı yenileyin. Birden çok konulu soruları yeniden "Beyin Çalışsın"a verin.
+(Bankada kök içinde üslü ifade içeren soru az; bu tür sorular için yeni kaynak PDF eklemek faydalı olur.)
+
+---
+
 ## 2.3.0 · 30 Ekim 2026 · Beyin konu takvimine göre teşhis eder (EKOK kalıbı)
 
 **Yeni**
