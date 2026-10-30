@@ -209,7 +209,7 @@ $$("[data-bulk]").forEach((b) => (b.onclick = () => {
   syncCards(); saveBasket(); toast(`${hit.length} soru çıkarıldı`);
 }));
 function syncBulk() {
-  $$("[data-bulk]").forEach((b) => { const n = bulkMatches(b.dataset.bulk).length; $("b", b).textContent = `(${n})`; b.disabled = !n; });
+  $$("[data-bulk]").forEach((b) => { const n = bulkMatches(b.dataset.bulk).length; $("b", b).textContent = n; b.disabled = !n; });
 }
 
 function cardHtml(it) {

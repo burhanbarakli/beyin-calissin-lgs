@@ -62,10 +62,12 @@
     <h2><span class="num">3</span> Aday sorular <span class="muted small">— kâğıda koymak istediklerinize tıklayın</span></h2>
     <div id="summary"></div>
     <div id="diagnosis" class="diag"></div>
-    <div class="row wrap gap bulk"><span class="muted small">Seçilenlerden toplu çıkar (tüm konular):</span>
-      <button class="chip" data-bulk="pekistirme">Pekiştirme sorularını kaldır <b></b></button>
-      <button class="chip" data-bulk="orta" title="Zorluk 2,5 – 3,6">Orta düzey soruları kaldır <b></b></button>
-      <button class="chip" data-bulk="zor" title="Zorluk 3,7 ve üstü">Zor soruları kaldır <b></b></button>
+    <div class="bulk"><div class="bulk-title">🧹 Seçilenlerden toplu çıkar <span class="muted">(tüm konulardaki seçili sorulardan)</span></div>
+      <div class="row wrap gap">
+        <button class="bulk-btn pek" data-bulk="pekistirme">✕ Pekiştirme sorularını kaldır <b></b></button>
+        <button class="bulk-btn orta" data-bulk="orta" title="Zorluk 2,5 – 3,6">✕ Orta düzey soruları kaldır <b></b></button>
+        <button class="bulk-btn zor" data-bulk="zor" title="Zorluk 3,7 ve üstü">✕ Zor soruları kaldır <b></b></button>
+      </div>
     </div>
   </div>
   <div id="groups"></div>
