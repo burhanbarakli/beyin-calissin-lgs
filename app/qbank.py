@@ -22,7 +22,7 @@ import re
 import sys
 import unicodedata
 from functools import lru_cache
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 import pymupdf
 
@@ -48,17 +48,32 @@ def _index_files():
     return sorted(config.INDEX_DIR.glob("*.json"))
 
 
-def resolve_pdf(path: str) -> str:
-    """Kitap PDF'ini önce ayarlardaki kaynak klasörlerinde dosya adıyla bul (paylaşılan/taşınan kurulum);
-    bulunamazsa indeksteki yolu kullan."""
-    name = Path(path).name.lower()
-    for src in config.get()["sources"]:
+def _name_key(name: str) -> str:
+    # Mac dosya adlarını NFD yazar, Windows NFC: karşılaştırmadan önce birleştir
+    return unicodedata.normalize("NFC", name).casefold()
+
+
+@lru_cache(maxsize=1)
+def _source_pdfs(sources: tuple) -> dict:
+    out = {}
+    for src in sources:
         d = Path(src)
         if d.is_dir():
-            for f in d.glob("*.pdf"):
-                if f.name.lower() == name:
-                    return str(f)
-    return path
+            for f in d.rglob("*.pdf"):
+                out.setdefault(_name_key(f.name), str(f))
+    return out
+
+
+def resolve_pdf(path: str) -> str:
+    """Kitap PDF'ini bulur: göreli yol program klasörüne göre; o yoksa (başka bilgisayarın yolu, taşınan
+    kurulum) ayarlardaki kaynak klasörlerinde, alt klasörler dahil, dosya adıyla aranır."""
+    p = Path(path)
+    if not p.is_absolute():
+        p = config.ROOT / p
+    if p.is_file():
+        return str(p)
+    name = _name_key(PurePosixPath(path.replace("\\", "/")).name)
+    return _source_pdfs(tuple(config.get()["sources"])).get(name, path)
 
 
 @lru_cache(maxsize=64)
@@ -75,6 +90,7 @@ def load_book(book_id: str) -> dict:
 
 def save_book(data: dict) -> None:
     p = config.INDEX_DIR / f"{data['book']['id']}.json"
+    data = {**data, "book": {**data["book"], "path": config.rel(data["book"]["path"])}}
     p.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
 

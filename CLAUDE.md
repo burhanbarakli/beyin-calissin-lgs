@@ -76,5 +76,7 @@ adımları izle. Soru bankası komutları için: `python -m app.qbank --help`. K
 - Python 3.10+; bağımlılıklar `requirements.txt`. Çalıştırma: `python -m app.server` (veya `baslat.bat`).
   Bu Mac'te proje içi `.venv` (Python 3.12) var: `.venv/bin/python -m app.server`.
 - İndeksi yeniden üretmek: `python -m app.indexer --force` (cevaplar ve etiketler korunur).
+  İndekslerde PDF yolu program klasörüne göreli yazılır; başka bilgisayarın yolunu taşıyan eski indeksler için
+  `python -m app.indexer --relink` (yalnızca yolları düzeltir).
 - Windows'ta konsol kodlaması sorun çıkarır: CLI çıktıları `sys.stdout.reconfigure(encoding="utf-8")` ile yazılır.
 - Yeni sürüm çıkarırken: `VERSION`'ı artır, `GUNCELLEME.md`'ye en üste bölüm ekle (Yeni / Düzeltmeler / Yapmanız gereken).

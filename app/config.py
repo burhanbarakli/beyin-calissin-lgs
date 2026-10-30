@@ -33,6 +33,15 @@ def _abs(p: str) -> str:
     return str(path if path.is_absolute() else (ROOT / path).resolve()).replace("\\", "/")
 
 
+def rel(p) -> str:
+    """Program klasörünün içindeki yolu göreli ("kaynaklar/...") yazar: indeks Mac/Windows arasında taşınabilsin."""
+    path = Path(p)
+    try:
+        return path.resolve().relative_to(ROOT).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
 def get() -> dict:
     cfg = _load()
     cfg.setdefault("student_name", "Öğrenci")

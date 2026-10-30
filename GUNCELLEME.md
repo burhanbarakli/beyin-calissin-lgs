@@ -8,6 +8,24 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.2.0 · 30 Ekim 2026 · Toplu çıkarma düğmeleri, Windows'ta boş görseller
+
+**Yeni**
+- Aday sorularda **toplu çıkarma düğmeleri**: "Pekiştirme sorularını kaldır", "Orta düzey soruları kaldır"
+  (zorluk 2,5 – 3,6) ve "Zor soruları kaldır" (3,7 ve üstü). Tek tıkla tüm konulardaki uyan seçili soruları
+  çıkarır; düğmede kaç soru çıkacağı yazar.
+
+**Düzeltmeler**
+- Mac'te üretilen indeksler Mac'in dosya yollarını taşıdığı için Windows'ta soru görselleri boş geliyordu.
+  İndeksler artık yolu program klasörüne göre yazar (`kaynaklar/...`); PDF bulunamazsa kaynak klasörünün
+  alt klasörlerinde de dosya adıyla aranır. Eski indeksler için: `python -m app.indexer --relink`
+  (yeniden indekslemeden yalnızca yolları düzeltir).
+- Güncellemeden sonra tarayıcı eski arayüzü göstermez (Ctrl+F5 gerekmez).
+
+**Yapmanız gereken:** Sunucuyu yeniden başlatın ve sayfayı bir kez Ctrl+F5 ile yenileyin.
+
+---
+
 ## 2.1.0 · 28 Ekim 2026 · MEB kitabı ve MEBİ denemeleri
 
 **Yeni**

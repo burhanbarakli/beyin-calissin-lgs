@@ -17,6 +17,8 @@ button.stop { background: var(--z); color: #fff; }
 button.small { padding: 3px 9px; font-size: 12px; }
 button.big { width: 100%; padding: 13px; font-size: 16px; font-weight: 600; margin-top: 12px; }
 button.chip { background: var(--accent-2); color: var(--accent); padding: 2px 9px; border-radius: 99px; font-size: 12px; }
+button.chip:disabled { opacity: .45; cursor: default; }
+.bulk { margin-top: 12px; }
 input, select, textarea { border: 1px solid var(--line); border-radius: 8px; padding: 6px 9px; background: #fff; color: var(--ink); }
 textarea { width: 100%; resize: vertical; margin-top: 12px; }
 a { color: var(--accent); }

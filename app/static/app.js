@@ -197,11 +197,26 @@ async function loadCandidates(id, scroll = false) {
 const basketItem = (it, g, gi) => ({ qid: it.qid, role: it.role, group: g?.title || "", gi, answer: it.answer || "",
   source_images: g?.source_images || [] });
 
+// zorluk rozeti: d1 kolay (≤2,4) · d2 orta (≤3,6) · d3 zor
+const diffLevel = (it) => !it.diff ? "" : it.diff.value <= 2.4 ? "d1" : it.diff.value <= 3.6 ? "d2" : "d3";
+
+// toplu çıkar düğmeleri: tüm konu gruplarındaki seçili sorulardan uyanları sepetten çıkarır
+const BULK = { pekistirme: (it) => it.role === "pekistirme", orta: (it) => diffLevel(it) === "d2", zor: (it) => diffLevel(it) === "d3" };
+const bulkMatches = (k) => $$("#groups .group").flatMap((el) => el._items || []).filter((it) => S.basket.has(it.qid) && BULK[k](it));
+$$("[data-bulk]").forEach((b) => (b.onclick = () => {
+  const hit = bulkMatches(b.dataset.bulk);
+  hit.forEach((it) => S.basket.delete(it.qid));
+  syncCards(); saveBasket(); toast(`${hit.length} soru çıkarıldı`);
+}));
+function syncBulk() {
+  $$("[data-bulk]").forEach((b) => { const n = bulkMatches(b.dataset.bulk).length; $("b", b).textContent = `(${n})`; b.disabled = !n; });
+}
+
 function cardHtml(it) {
   const ans = it.bank_answer || it.answer || "";
   const claude = !it.bank_answer && it.answer;
   const d = it.diff;
-  const lvl = !d ? "" : d.value <= 2.4 ? "d1" : d.value <= 3.6 ? "d2" : "d3";
+  const lvl = diffLevel(it);
   return `<div class="card" data-q="${esc(it.qid)}">
     <div class="img"><img loading="lazy" src="${cropUrl(it.qid)}"></div>
     <div class="body"><div class="top-line"><span class="role ${it.role}">${ROLE[it.role] || it.role}</span>
@@ -227,7 +242,10 @@ async function onCard(e, card, groupEl) {
   else S.basket.set(qid, basketItem(groupEl._items.find((x) => x.qid === qid), groupEl._g, groupEl._gi));
   syncCards(); saveBasket();
 }
-function syncCards() { $$(".card").forEach((c) => { const on = S.basket.has(c.dataset.q); c.classList.toggle("on", on); $(".sel", c).textContent = on ? "☑" : "☐"; }); }
+function syncCards() {
+  $$(".card").forEach((c) => { const on = S.basket.has(c.dataset.q); c.classList.toggle("on", on); $(".sel", c).textContent = on ? "☑" : "☐"; });
+  syncBulk();
+}
 
 // ------------------------------------------------------------------ 4 · PDF
 function renderBar() {

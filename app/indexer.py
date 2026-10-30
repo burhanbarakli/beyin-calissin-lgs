@@ -335,7 +335,7 @@ def book_meta(path: Path) -> dict:
     name, level, rank = KINDS[kind]
     return {
         "id": bid,
-        "path": str(path),
+        "path": config.rel(path),
         "exam": "LGS",
         "subject": subject,
         "subject_name": SUBJECTS.get(subject, subject),
@@ -494,7 +494,31 @@ def run(paths=None, force=False, log=print):
         log(f"  {len(data['questions'])} soru, {answered} cevaplı")
 
 
+def relink(log=print):
+    """Yeniden indekslemeden, indekslerdeki PDF yollarını bu bilgisayardaki kaynak dosyalara göreli bağlar
+    (başka bilgisayarda, ör. Mac'te üretilmiş indeksler için). Kırpma kutuları, cevaplar, etiketler aynen kalır."""
+    from .qbank import resolve_pdf
+    missing = 0
+    for out in sorted(config.INDEX_DIR.glob("*.json")):
+        data = json.loads(out.read_text(encoding="utf-8"))
+        old = data["book"].get("path", "")
+        found = resolve_pdf(old)
+        if not Path(found).is_file():
+            missing += 1
+            log(f"bulunamadı: {data['book']['id']} ({Path(old).name})")
+            continue
+        new = config.rel(found)
+        if new != old:
+            data["book"]["path"] = new
+            out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+            log(f"bağlandı: {data['book']['id']} -> {new}")
+    log(f"bitti, bulunamayan: {missing}")
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    run([Path(a) for a in args] or None, force="--force" in sys.argv)
+    if "--relink" in sys.argv:
+        relink()
+    else:
+        run([Path(a) for a in args] or None, force="--force" in sys.argv)

@@ -324,7 +324,15 @@ def output_file(name: str, download: bool = False):
 
 
 # ------------------------------------------------------------------ statik
-app.mount("/", StaticFiles(directory=STATIC, html=True), name="static")
+class _Static(StaticFiles):
+    """Arayüz dosyaları her açılışta tazelenip denetlensin: güncellemeden sonra tarayıcı eski app.js'i kullanmasın."""
+    async def get_response(self, path, scope):
+        r = await super().get_response(path, scope)
+        r.headers["Cache-Control"] = "no-cache"
+        return r
+
+
+app.mount("/", _Static(directory=STATIC, html=True), name="static")
 
 
 def main():
