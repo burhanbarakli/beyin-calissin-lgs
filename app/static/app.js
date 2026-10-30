@@ -25,7 +25,7 @@ const when = (iso) => (iso || "").replace("T", " ").slice(0, 16);
 // photos: yüklenen fotoğraflar [{path, status}] — sayfa yenilense de kalsın
 // basket: seçilen sorular (qid → öğe), her beyin çalışması için ayrı saklanır
 const S = { state: null, photos: store.get("photos", []), job: null, running: false, since: 0, poll: null, cand: null, runId: "",
-  runImages: [], basket: new Map() };
+  runImages: [], basket: new Map(), hidden: new Set() };
 const savePhotos = () => { store.set("photos", S.photos); renderPhotos(); };
 function loadBasket() { S.basket = new Map(store.get("basket:" + S.runId, []).map((x) => [x.qid, x])); return S.basket.size > 0; }
 const saveBasket = () => { store.set("basket:" + S.runId, [...S.basket.values()]); renderBar(); };
@@ -124,7 +124,7 @@ function watchJob(id, fresh = false) {
   S.job = id; S.since = 0; S.live = fresh; clearInterval(S.poll);
   $("#feed").innerHTML = ""; $("#lastThought").textContent = "";
   $("#live").classList.remove("hidden");
-  $("#candidates").classList.add("hidden"); S.cand = null; S.runId = ""; S.basket = new Map(); renderBar();
+  $("#candidates").classList.add("hidden"); S.cand = null; S.runId = ""; S.basket = new Map(); S.hidden = new Set(); renderBar();
   if (fresh) $("#live").scrollIntoView({ behavior: "smooth" });
   S.poll = setInterval(pollJob, 1500); pollJob();
 }
@@ -170,6 +170,7 @@ async function loadCandidates(id, scroll = false) {
     <div>${esc(d.skill || "")}</div><div class="muted small">${esc((d.evidence || []).join(", "))}${d.level_note ? " · " + esc(d.level_note) : ""}</div></div>`).join("");
   // bu çalışmanın kayıtlı seçimi varsa onu yükle; yoksa beynin önerdikleriyle başla
   const fresh = !loadBasket();
+  loadHidden();
   $("#groups").innerHTML = "";
   (c.groups || []).forEach((g, gi) => {
     const items = (g.items || []).filter((it) => it.found).sort((a, b) => (ROLE_ORDER[a.role] ?? 9) - (ROLE_ORDER[b.role] ?? 9));
@@ -183,7 +184,7 @@ async function loadCandidates(id, scroll = false) {
     el._items = items; el._g = g; el._gi = gi;
     $$("[data-a]", el).forEach((b) => (b.onclick = () => {
       items.forEach((it) => {
-        const on = b.dataset.a === "all" || (b.dataset.a === "rec" && it.recommended);
+        const on = !S.hidden.has(it.qid) && (b.dataset.a === "all" || (b.dataset.a === "rec" && it.recommended));
         on ? S.basket.set(it.qid, basketItem(it, g, gi)) : S.basket.delete(it.qid);
       });
       syncCards(); saveBasket();
@@ -200,16 +201,22 @@ const basketItem = (it, g, gi) => ({ qid: it.qid, role: it.role, group: g?.title
 // zorluk rozeti: d1 kolay (≤2,4) · d2 orta (≤3,6) · d3 zor
 const diffLevel = (it) => !it.diff ? "" : it.diff.value <= 2.4 ? "d1" : it.diff.value <= 3.6 ? "d2" : "d3";
 
-// toplu çıkar düğmeleri: tüm konu gruplarındaki seçili sorulardan uyanları sepetten çıkarır
+// toplu kaldır düğmeleri: tüm konu gruplarındaki aday sorulardan uyanları listeden kaldırır (seçimden de çıkar);
+// kaldırılanlar her çalışma için ayrı saklanır, "geri getir" ile döner
 const BULK = { pekistirme: (it) => it.role === "pekistirme", orta: (it) => diffLevel(it) === "d2", zor: (it) => diffLevel(it) === "d3" };
-const bulkMatches = (k) => $$("#groups .group").flatMap((el) => el._items || []).filter((it) => S.basket.has(it.qid) && BULK[k](it));
+const loadHidden = () => { S.hidden = new Set(store.get("hidden:" + S.runId, [])); };
+const saveHidden = () => store.set("hidden:" + S.runId, [...S.hidden]);
+const bulkMatches = (k) => $$("#groups .group").flatMap((el) => el._items || []).filter((it) => !S.hidden.has(it.qid) && BULK[k](it));
 $$("[data-bulk]").forEach((b) => (b.onclick = () => {
   const hit = bulkMatches(b.dataset.bulk);
-  hit.forEach((it) => S.basket.delete(it.qid));
-  syncCards(); saveBasket(); toast(`${hit.length} soru çıkarıldı`);
+  hit.forEach((it) => { S.hidden.add(it.qid); S.basket.delete(it.qid); });
+  saveHidden(); syncCards(); saveBasket(); toast(`${hit.length} soru kaldırıldı`);
 }));
+$("#bulkUndo").onclick = () => { const n = S.hidden.size; S.hidden.clear(); saveHidden(); syncCards(); toast(`${n} soru geri getirildi`); };
 function syncBulk() {
   $$("[data-bulk]").forEach((b) => { const n = bulkMatches(b.dataset.bulk).length; $("b", b).textContent = n; b.disabled = !n; });
+  $("#bulkUndo").classList.toggle("hidden", !S.hidden.size);
+  $("b", $("#bulkUndo")).textContent = S.hidden.size;
 }
 
 function cardHtml(it) {
@@ -243,7 +250,8 @@ async function onCard(e, card, groupEl) {
   syncCards(); saveBasket();
 }
 function syncCards() {
-  $$(".card").forEach((c) => { const on = S.basket.has(c.dataset.q); c.classList.toggle("on", on); $(".sel", c).textContent = on ? "☑" : "☐"; });
+  $$(".card").forEach((c) => { const on = S.basket.has(c.dataset.q); c.classList.toggle("on", on); $(".sel", c).textContent = on ? "☑" : "☐";
+    c.classList.toggle("hidden", S.hidden.has(c.dataset.q)); });
   syncBulk();
 }
 
