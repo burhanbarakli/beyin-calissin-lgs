@@ -39,7 +39,16 @@ def read_job(rid: str) -> dict:
 
 
 def write_job(rid: str, job: dict) -> None:
-    (run_dir(rid) / "job.json").write_text(json.dumps(job, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Önce geçici dosyaya yazılır: sayfa yazım sırasında okursa yarım/boş dosya görmesin.
+    path = run_dir(rid) / "job.json"
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(job, ensure_ascii=False, indent=2), encoding="utf-8")
+    for _ in range(20):
+        try:
+            return os.replace(tmp, path)
+        except PermissionError:  # Windows: dosya o an okunuyorsa kısa süre beklenir
+            time.sleep(0.05)
+    os.replace(tmp, path)
 
 
 def update_job(rid: str, **kw) -> dict:

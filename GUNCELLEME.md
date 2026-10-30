@@ -21,6 +21,7 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
   alt klasörlerinde de dosya adıyla aranır. Eski indeksler için: `python -m app.indexer --relink`
   (yeniden indekslemeden yalnızca yolları düzeltir).
 - Güncellemeden sonra tarayıcı eski arayüzü göstermez (Ctrl+F5 gerekmez).
+- Beyin çalışırken durum dosyası yazılırken okunursa sunucu penceresinde çıkan hata giderildi.
 
 **Yapmanız gereken:** Sunucuyu yeniden başlatın ve sayfayı bir kez Ctrl+F5 ile yenileyin.
 
