@@ -145,6 +145,7 @@ def brain(req: BrainReq):
     h, p, z = SIZES.get(req.size, SIZES["normal"])
     task = {
         "student": config.get()["student_name"],
+        "date": datetime.now().strftime("%Y-%m-%d"),   # beyin hangi dönemde olunduğunu buradan anlar
         "teacher_note": req.note,
         "images": images,
         "counts": {"hatirlatici": h, "pekistirme": p, "zorlayici": z},

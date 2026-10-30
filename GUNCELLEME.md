@@ -8,6 +8,19 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.3.0 · 30 Ekim 2026 · Beyin konu takvimine göre teşhis eder (EKOK kalıbı)
+
+**Yeni**
+- Beyin, soruyu yüzeyine göre değil **öğrencinin o tarihe kadar öğrendiği kazanımla** sınıflandırır. 1. dönemde
+  (Eylül–Ocak) 2. dönem konularını (Doğrusal Denklemler ve sonrası) teşhis etmez, aday olarak da önermez.
+- **"Eşit toplam / değiş tokuş / … den fazla, en az"** problemleri (ör. 20 TL ve 50 TL banknotlar) artık denklem değil
+  **EBOB - EKOK Problemleri** olarak teşhis edilir; benzer EKOK soruları (LGS 2023/7, 2019/20, 2024/16, MEB kitabı) gelir.
+- Görev dosyasına tarih eklendi; derin analiz ajanı da aynı kurala uyar.
+
+**Yapmanız gereken:** Sunucuyu yeniden başlatın. Daha önce yanlış konuyla teşhis edilen soruları yeniden "Beyin Çalışsın"a verin.
+
+---
+
 ## 2.2.0 · 30 Ekim 2026 · Toplu çıkarma düğmeleri, Windows'ta boş görseller
 
 **Yeni**

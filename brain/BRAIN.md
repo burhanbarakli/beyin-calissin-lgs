@@ -29,11 +29,42 @@ Her soruda konu `"Ünite: Kazanım"` biçimindedir
 Tarama, çıkmış, MEB kitabı ve deneme sorularının hepsi Claude tarafından etiketlenmiştir: `beceri: ...` (ölçtüğü beceri) ve
 `zorluk=x/5` (kendi puanı). Bu sorularda metin boş olabilir; içerik için `show` ile görsele bak.
 
+## Konu takvimi ve çözüm yolu (teşhisten önce mutlaka uygula)
+
+Bir soruyu **yüzeyine göre değil, öğrencinin o ana kadar öğrendiği kazanımla LGS'nin beklediği çözüm yoluna göre**
+sınıflandır. Pek çok problem denklemle de çözülebilir; ama 8. sınıfta denklem 2. dönemde öğretilir ve LGS bu
+soruları ünite kazanımına göre yazar.
+
+| Dönem | Üniteler (kazanım kodu) | MEB kitabı |
+|---|---|---|
+| 1. dönem (Eylül–Ocak) | Çarpanlar ve Katlar (8.01–8.04), Üslü İfadeler (8.05–8.08), Kareköklü İfadeler (8.09–8.14), Veri Analizi (8.15), Olasılık (8.16), Cebirsel İfadeler ve Özdeşlikler (8.17–8.19) | ünite 1–3 |
+| 2. dönem (Şubat–Haziran) | Doğrusal Denklemler (8.20–8.23), Eşitsizlikler (8.24), Üçgenler (8.25–8.29), Eşlik ve Benzerlik (8.30), Dönüşüm Geometrisi (8.31), Geometrik Cisimler | ünite 4–6 |
+
+- `task.json`'daki `date` 1. dönemdeyse 2. dönem kazanımlarını **teşhis etme ve aday olarak seçme**; soruyu 1. dönem
+  kazanımlarıyla nasıl çözüleceğine göre sınıflandır. (Öğretmen notu aksini söylüyorsa nota uy.)
+- Fotoğraftaki sınavın diğer sorularına, sayfa başlığına ve sınav koduna da bak: hangi ünitelerden olduğu çoğu zaman
+  sorunun hangi kazanımla çözülmesinin beklendiğini gösterir.
+- `diagnosis.skill` alanına beklenen çözüm yolundaki kopan adımı yaz (ör. "eşit toplamın iki birimin ortak katı
+  olduğunu göremiyor"), denklem kurmayı değil.
+
+**EKOK'a dönen problem kalıbı (denklem sanılmasın):** İki farklı birimden (20 TL ve 50 TL banknot, 4 g ve 28 g bilye,
+3 ve 4 torba, 600 g ve 800 g kavanoz) oluşan iki **eşit toplam**, "… den fazla" ve **"en az/en çok"** sorusu.
+- Toplamlar doğrudan eşitse: eşit toplam iki birimin ortak katıdır → EKOK'un katları, koşulu sağlayan en küçüğü.
+- Birer tane **değiş tokuş / birkaç tanesini ayırma / ekleme** varsa: toplam bir sayı kadar kaydırılınca ortak kat olur.
+  Örnek (Ege 20 TL, Defne 50 TL banknot, birer banknot değiştirince eşit ve 200 TL'den fazla): son toplam T için
+  T − 30 = 20'nin katı, T + 30 = 50'nin katı → **T + 30, EKOK(20, 50) = 100'ün katı** → T + 30 = 300, T = 270 →
+  Ege 12, Defne 6 banknot, toplam en az 18.
+- Bu kalıbı görünce konu `Çarpanlar ve Katlar: EBOB - EKOK Problemleri`'dir. Aynı kalıptaki örnek sorular:
+  `lgs_mat_cikmis_2023|p5|q7` (birer torba değiş tokuş, eşit, en az), `lgs_mat_cikmis_2019|p15|q20` (6'şar paket
+  ayırınca eşit), `lgs_mat_cikmis_2024|p11|q16` (eşit kütle, en az bilye), `lgs_mat_meb_kitap_u1|p22|q34` (eşit
+  gelir, en az satış). Ara: `--topic "EBOB - EKOK Problemleri" --text "eşit,en az"` ve `--topic "ekok,ortak kat"`.
+
 ## Girdi
 
 Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 
 - `student`, `teacher_note` (öğretmenin özel isteği — öncelikli uy)
+- `date`: bugünün tarihi (YYYY-AA-GG) — hangi dönemde olunduğunu buradan anla (yukarıdaki konu takvimi)
 - `images[]`: öğrencinin **yapamadığı soruların fotoğrafları** (tek girdi). Her birinde `path` ve `status`
   (`Yapamadı` ya da `Yanlış`). Konu, soru no ve cevap verilmez; hepsini görselden sen çıkar.
 - `counts`: konu başına hedef soru sayısı `{hatirlatici, pekistirme, zorlayici}`, `max_topics`.
@@ -44,7 +75,9 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 
 1. **Görevi oku.** `task.json`'ı Read ile aç. Kısa bir plan yap (TodoWrite).
 2. **Teşhis.** Her fotoğrafı **Read ile aç, soruyu gerçekten oku ve çöz.**
-   - Sorunun hangi kazanıma ait olduğunu `topics` listesindeki adla belirle.
+   - Sorunun hangi kazanıma ait olduğunu `topics` listesindeki adla belirle — **konu takvimine göre**: öğrencinin
+     bu tarihe kadar öğrendiği kazanımla beklenen çözüm yolu hangisiyse konu odur (denklemle de çözülebilen eşit
+     toplam / en az problemleri 1. dönemde EBOB - EKOK Problemleri'dir).
    - Asıl eksik beceriyi tek cümleyle yaz (ör. "EBOB'u bulabiliyor ama problemde EBOB mu EKOK mu
      gerektiğini ayırt edemiyor", "kareköklü sayıyı a√b biçimine çeviremiyor").
    - `Yapamadı` → temel kavram eksik, **öğretici ağırlıklı**; `Yanlış` → işlem/yorum hatası,

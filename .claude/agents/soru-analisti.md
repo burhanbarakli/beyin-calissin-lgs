@@ -22,7 +22,9 @@ Girdi: bir veya birkaç öğrenci sorusu görseli (dosya yolu), her birinin duru
 
 Her görsel için:
 1. Read ile görseli aç, soruyu oku.
-2. Soruyu **adım adım çöz**. Doğru cevabı bul (verilen doğru cevapla karşılaştır).
+2. Soruyu **adım adım çöz**. Doğru cevabı bul (verilen doğru cevapla karşılaştır). Çözümü öğrencinin o tarihe
+   kadar öğrendiği kazanımlarla, LGS'nin beklediği yoldan kur (`brain/BRAIN.md` → "Konu takvimi ve çözüm yolu"):
+   1. dönemde eşit toplam / değiş tokuş / "en az" problemleri denklemle değil EKOK ile çözülür; `konu` buna göre.
 3. Çözüm için gereken adımları/becerileri sırala (en temelden en ileriye).
 4. Duruma göre kopma noktasını belirle:
    - `Yapamadı`/`Boş` → muhtemelen hangi adımda başlayamadı (hangi kavram yok)?
