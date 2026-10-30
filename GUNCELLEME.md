@@ -12,7 +12,7 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 **Yeni**
 - Aday sorularda **toplu çıkarma düğmeleri**: "Pekiştirme sorularını kaldır", "Orta düzey soruları kaldır"
-  (zorluk 2,5 – 3,6) ve "Zor soruları kaldır" (3,7 ve üstü). Tek tıkla tüm konulardaki uyan aday soruları
+  (zorluk 2,5 – 3,6) ve "Zor / Zorlayıcı soruları kaldır" (Zorlayıcı rolündekiler ve zorluğu 3,7 ve üstü). Tek tıkla tüm konulardaki uyan aday soruları
   listeden ve seçimden kaldırır; düğmede kaç soru kalkacağı yazar. "Kaldırılanları geri getir" ile geri alınır.
 
 **Düzeltmeler**

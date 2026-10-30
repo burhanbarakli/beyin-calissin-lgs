@@ -203,7 +203,8 @@ const diffLevel = (it) => !it.diff ? "" : it.diff.value <= 2.4 ? "d1" : it.diff.
 
 // toplu kaldır düğmeleri: tüm konu gruplarındaki aday sorulardan uyanları listeden kaldırır (seçimden de çıkar);
 // kaldırılanlar her çalışma için ayrı saklanır, "geri getir" ile döner
-const BULK = { pekistirme: (it) => it.role === "pekistirme", orta: (it) => diffLevel(it) === "d2", zor: (it) => diffLevel(it) === "d3" };
+const BULK = { pekistirme: (it) => it.role === "pekistirme", orta: (it) => diffLevel(it) === "d2",
+  zor: (it) => it.role === "zorlayici" || diffLevel(it) === "d3" };
 const loadHidden = () => { S.hidden = new Set(store.get("hidden:" + S.runId, [])); };
 const saveHidden = () => store.set("hidden:" + S.runId, [...S.hidden]);
 const bulkMatches = (k) => $$("#groups .group").flatMap((el) => el._items || []).filter((it) => !S.hidden.has(it.qid) && BULK[k](it));
@@ -264,7 +265,7 @@ function renderBar() {
 $("#bClear").onclick = () => { S.basket.clear(); syncCards(); saveBasket(); };
 $("#makePdf").onclick = async () => {
   // konu grubu → öğretici → pekiştirme → zorlayıcı sırası
-  const items = [...S.basket.values()].map((x, i) => ({ ...x, _i: i }))
+  const items = [...S.basket.values()].filter((x) => !S.hidden.has(x.qid)).map((x, i) => ({ ...x, _i: i }))
     .sort((a, b) => (a.gi ?? 99) - (b.gi ?? 99) || (ROLE_ORDER[a.role] ?? 9) - (ROLE_ORDER[b.role] ?? 9) || a._i - b._i);
   let wrong = [];
   if ($("#optWrong").checked) {
