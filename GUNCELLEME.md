@@ -11,7 +11,7 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 ## 2.2.0 · 30 Ekim 2026 · Toplu çıkarma düğmeleri, Windows'ta boş görseller
 
 **Yeni**
-- Aday sorularda **toplu çıkarma düğmeleri**: "Pekiştirme sorularını kaldır", "Orta düzey soruları kaldır"
+- Aday sorularda **toplu çıkarma düğmeleri**: "Öğretici soruları kaldır", "Pekiştirme sorularını kaldır", "Orta düzey soruları kaldır"
   (zorluk 2,5 – 3,6) ve "Zor / Zorlayıcı soruları kaldır" (Zorlayıcı rolündekiler ve zorluğu 3,7 ve üstü). Tek tıkla tüm konulardaki uyan aday soruları
   listeden ve seçimden kaldırır; düğmede kaç soru kalkacağı yazar. "Kaldırılanları geri getir" ile geri alınır.
 
@@ -21,6 +21,7 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
   alt klasörlerinde de dosya adıyla aranır. Eski indeksler için: `python -m app.indexer --relink`
   (yeniden indekslemeden yalnızca yolları düzeltir).
 - Güncellemeden sonra tarayıcı eski arayüzü göstermez (Ctrl+F5 gerekmez).
+- **Kaldırılanları geri getir** artık soruları seçimleriyle birlikte döndürür; önceden sorular dönüyor ama işaretleri kalkıyordu.
 - Beyin çalışırken durum dosyası yazılırken okunursa sunucu penceresinde çıkan hata giderildi.
 
 **Yapmanız gereken:** Sunucuyu yeniden başlatın ve sayfayı bir kez Ctrl+F5 ile yenileyin.
