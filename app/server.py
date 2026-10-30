@@ -12,7 +12,7 @@ from pathlib import Path
 
 import uvicorn
 from fastapi import FastAPI, File, HTTPException, UploadFile
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
@@ -330,6 +330,17 @@ class _Static(StaticFiles):
         r = await super().get_response(path, scope)
         r.headers["Cache-Control"] = "no-cache"
         return r
+
+
+@app.get("/", include_in_schema=False)
+@app.get("/index.html", include_in_schema=False)
+def index():
+    """app.js ve style.css adreslerine dosya tarihini ekler (app.js?v=...): tarayıcının önbelleğinde eski
+    sürüm kalmışsa bile (no-cache'ten önce yüklenmiş olabilir) yenisi indirilir."""
+    html = (STATIC / "index.html").read_text(encoding="utf-8")
+    for name in ("app.js", "style.css"):
+        html = html.replace(f'"{name}"', f'"{name}?v={int((STATIC / name).stat().st_mtime)}"')
+    return HTMLResponse(html, headers={"Cache-Control": "no-cache"})
 
 
 app.mount("/", _Static(directory=STATIC, html=True), name="static")
