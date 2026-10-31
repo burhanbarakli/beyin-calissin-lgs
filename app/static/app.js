@@ -214,9 +214,9 @@ async function loadCandidates(id, scroll = false) {
   if (scroll) $("#candidates").scrollIntoView({ behavior: "smooth" });
 }
 // Basılı kitap soruları (Fenomen 8A/8B, Ankara): görseli yok, öğrenci kitaptan sayfa/soru no ile bulur; PDF'in sonuna liste olarak eklenir
-const fenomenHtml = (g) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Basılı kitaplardan çöz</b>
-  <span class="muted small">(8A/8B = Fenomen · Ankara = Güçlendiren Soru Bankası · sayfa ve soru no)</span>
-  <ul>${g.fenomen.map((f) => `<li><span class="ref">${esc(f.ref)}</span> <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span>
+const fenomenHtml = (g) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Kitaplardan çöz</b>
+  <span class="muted small">(8A/8B = Fenomen · Ankara = Güçlendiren · diğerleri öğretmen kitaplığı, s. = PDF sayfası; "aç" sayfayı gösterir)</span>
+  <ul>${g.fenomen.map((f) => `<li><span class="ref">${esc(f.ref)}</span>${f.kitap && f.sayfa ? ` <a class="chip" target="_blank" title="Kitaplıktaki sayfayı aç" href="/api/kitaplik/sayfa?kitap=${encodeURIComponent(f.kitap)}&sayfa=${encodeURIComponent(f.sayfa)}">aç</a>` : ""} <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span>
     <span class="muted">${esc(f.why || "")}</span></li>`).join("")}</ul></div>`;
 const fenomenRefs = () => (S.cand?.groups || []).flatMap((g) => (g.fenomen || []).map((f) => ({ ...f, group: g.title })));
 const basketItem = (it, g, gi) => ({ qid: it.qid, role: it.role, group: g?.title || "", gi, answer: it.answer || "",

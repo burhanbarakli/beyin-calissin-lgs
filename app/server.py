@@ -128,6 +128,19 @@ def crop(qid: str):
     return FileResponse(p, media_type="image/png", headers={"Cache-Control": "max-age=86400"})
 
 
+@app.get("/api/kitaplik/sayfa")
+def kitaplik_sayfa(kitap: str, sayfa: int):
+    """Öğretmen kitaplığındaki bir PDF sayfasının görseli (yalnızca indeksli kitaplar)."""
+    from . import kitaplik
+    if not any(r["kitap"] == kitap for r in kitaplik.load()) or not 0 < sayfa < 2000:
+        raise HTTPException(404)
+    try:
+        p = kitaplik.sayfa_png(kitap, sayfa, dpi=130)
+    except (SystemExit, IndexError, ValueError, RuntimeError) as e:
+        raise HTTPException(404) from e
+    return FileResponse(p, media_type="image/png", headers={"Cache-Control": "max-age=86400"})
+
+
 # ------------------------------------------------------------------ beyin
 class BrainReq(BaseModel):
     images: list[dict]            # [{"path", "status"}]

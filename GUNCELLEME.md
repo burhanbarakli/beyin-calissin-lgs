@@ -8,6 +8,28 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.8.0 · 1 Kasım 2026 · Öğretmen kitaplığı (yayınevi PDF'leri)
+
+**Yeni**
+- **Öğretmen kitaplığı:** Yayınevlerinin öğretmene verdiği **163 PDF** soru bankası ve deneme (`tuna beyin/soru bankaları/`)
+  Türkçe OCR ile okundu: **29.081 sayfa**. Her soruya konu verildi: **23.166 soru** tek tek, toplam **32.262 kayıt**.
+  Tüm dersler kitaplarındaki matematik dışı sayfalar elendi. Yeni modül: `app/kitaplik.py`
+  (`tara`, `siniflandir`, `ozet`, `ara`, `sayfa`).
+- **Beyin** artık bu kitaplıktan da soru öneriyor (BRAIN.md adım 5c). Önce uygun sayfaları bulup görselini açıyor ve
+  soruyu kendisi kontrol ediyor, sonra her gruba 2-4 soru veriyor: `<Kitap> s.<PDF sayfası> S<soru no>`.
+  Fenomen/Ankara indeksleri ve soru bankası eskisi gibi kullanılıyor.
+- **Ekran:** Öneri kutusunun adı **📘 Kitaplardan çöz** oldu. Kitaplık sorularının yanındaki **aç** bağlantısı
+  PDF sayfasını gösteriyor (`/api/kitaplik/sayfa`). PDF'teki listenin adı **Kitaplardan Ek Sorular**.
+
+**Önemli:** PDF'ler, OCR metni, sayfa görselleri ve kitaplık indeksi (`data/kitaplik/`) yalnızca bu bilgisayarda kalır.
+GitHub'a yalnızca kod gider. Konular OCR'a dayalı tahmindir; beyin her soruyu görselden kontrol eder.
+
+**Yapmanız gereken:** Bu bilgisayarda bir şey yapmanız gerekmez. Kitaplığa yeni PDF eklerseniz Claude'a
+*"kitaplığı güncelle"* deyin (`python -m app.kitaplik tara` sonra `siniflandir`). Başka bir bilgisayarda kitaplık
+kullanılacaksa Tesseract OCR ve Türkçe dil dosyası kurulmalı, PDF'ler oraya ayrıca konmalı.
+
+---
+
 ## 2.7.1 · 31 Ekim 2026 · Kaynaklar ve veri kullanımı belgesi
 
 **Yeni**

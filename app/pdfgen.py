@@ -212,13 +212,13 @@ class Writer:
             self.text(p, (M, y), f"{n}. {src}", 7.5, False, (0.3, 0.3, 0.3))
             y += 10.5
 
-    def ref_list(self, refs: list[dict], title="Basılı Soru Bankalarından Ek Sorular"):
-        """Basılı kitapta çözülecek sorular: yalnızca adres (kitap, sayfa, soru no), görsel yok."""
+    def ref_list(self, refs: list[dict], title="Kitaplardan Ek Sorular"):
+        """Kitaptan çözülecek sorular: yalnızca adres (kitap, sayfa, soru no), görsel yok."""
         self.new_page(divider=False)
         p = self.page
         self.text(p, (M, M + 18), title, 14, True)
-        self.text(p, (M, M + 34), "Bu soruları kendi kitabından bul ve çöz: 8A / 8B = Fenomen 8. Sınıf Matematik A / B, "
-                  "Ankara = Ankara Güçlendiren Soru Bankası.", 9, False, (0.35, 0.35, 0.35))
+        self.text(p, (M, M + 34), "Bu soruları kitabından bul ve çöz: 8A / 8B = Fenomen 8. Sınıf Matematik A / B, "
+                  "Ankara = Ankara Güçlendiren; diğerlerinde s. = PDF sayfası.", 9, False, (0.35, 0.35, 0.35))
         y, last = M + 56, None
         for r in refs:
             if y > A4.height - M - 14:
@@ -230,9 +230,14 @@ class Writer:
                 y, last = y + 15, r["group"]
             role = ROLE_TITLES.get(r.get("role", ""), "")
             p.draw_rect(pymupdf.Rect(M + 8, y - 8, M + 16, y), color=(0.4, 0.4, 0.4), width=0.7)
-            self.text(p, (M + 22, y), r.get("ref", ""), 10, True)
+            ref = r.get("ref", "")
+            self.text(p, (M + 22, y), self.fit(ref, 10, A4.width - 2 * M - 22, True), 10, True)
             line = " · ".join(x for x in (role, r.get("why", "")) if x)
-            self.text(p, (M + 130, y), self.fit(line, 9, A4.width - 2 * M - 130), 9, False, (0.3, 0.3, 0.3))
+            if len(ref) > 18:                  # uzun kitaplık adresi: açıklama alt satıra
+                y += 12
+                self.text(p, (M + 22, y), self.fit(line, 9, A4.width - 2 * M - 22), 9, False, (0.3, 0.3, 0.3))
+            else:
+                self.text(p, (M + 130, y), self.fit(line, 9, A4.width - 2 * M - 130), 9, False, (0.3, 0.3, 0.3))
             y += 14
 
     def save(self, path: Path):

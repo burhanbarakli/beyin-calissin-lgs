@@ -143,6 +143,19 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    Yeni Nesil, Geçiş ve Beceri Temelli testler (3-5). Çok konulu sorularda `--topic-all "karekök,üslü"` kullan.
    Görsel yok: yalnızca beceri etiketine göre seç, adresi aynen kopyala, uydurma.
    1. dönemde 2. dönem konularından (denklem, eğim, üçgen…) seçme.
+5c. **Öğretmen kitaplığından ek sorular (PDF).** Bu bilgisayarda yayınevlerinin öğretmene verdiği ~160 PDF soru
+   bankası ve deneme var (Nartest, Ata, Bilfen, Mozaik, Newton, Paraf, VIP, Karekök, Muba, Netbil, Okyanus, Ulti,
+   Fenomen, Ankara…). Sayfaları OCR ile okunup her soruya otomatik konu verildi; bu konu **tahmindir**, soruyu
+   görmeden önerme. Her grup için:
+   - Ara: `python -m app.kitaplik ara --topic "ebob - ekok problemleri" --text "eşit,en az" --limit 12`
+     (`--topic` konu adında, `--text` sayfanın OCR metninde arar; `--topic-all "karekök,üslü"` çok konulu sorular
+     için; `--book nartest` tek yayınevi). Çıktının ilk sütunu adrestir: `<Kitap adı> s.<PDF sayfası> S<soru no>`.
+   - Bak: en uygun **en fazla 5 sayfayı** `python -m app.kitaplik sayfa <kitap_id> <sayfa>` ile PNG yap, Read ile aç.
+     Soruyu oku; teşhisteki kopan adımı gerçekten çalıştırıyor mu, konusu doğru mu, kesim tam mı kontrol et.
+   - Seç: uygun **2-4 soru**yu gruba `fenomen` listesine ekle: `{"ref": "<adres>", "kitap": "<kitap_id>",
+     "sayfa": <sayfa>, "role": "...", "why": "..."}`. Soru numarasını sayfada gördüğün gibi yaz (OCR yanlış
+     okumuş olabilir). Yalnızca `roles`'taki tipler; 1. dönemde 2. dönem konusu yok.
+   - Kitaplık PDF'lerinin metnini ya da görselini `candidates.json` dışında bir yere yazma.
 6. **Zorluk.** Her adaya `difficulty` (1-5) ver: 1 = tek adımlı tanım/hatırlatma, 2 = temel uygulama,
    3 = ortalama LGS sorusu, 4 = çok adımlı/yorum gerektiren, 5 = LGS'nin en zor soruları. Kısa gerekçe:
    `difficulty_note`.
@@ -193,7 +206,9 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
       "fenomen": [
         {"ref": "8A s.21 S2", "role": "hatirlatici", "why": "eşit uzunluk, ...den fazla, en az (EKOK)"},
         {"ref": "8B s.17 S1", "role": "pekistirme", "why": "eşit toplam için ortak kat"},
-        {"ref": "Ankara s.22 S10", "role": "zorlayici", "why": "hep aynı sayı eksik, kaydırılmış ortak kat"}
+        {"ref": "Ankara s.22 S10", "role": "zorlayici", "why": "hep aynı sayı eksik, kaydırılmış ortak kat"},
+        {"ref": "Nartest Mod Serisi Soru Bankası 2023 s.45 S3", "kitap": "03_nartest_mod_serisi_8_sinif_matematik_soru_bankasi_2023",
+         "sayfa": 45, "role": "pekistirme", "why": "eşit toplam, ortak kat (kitaplık PDF'i)"}
       ]
     }
   ]

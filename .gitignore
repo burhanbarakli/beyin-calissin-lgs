@@ -4,3 +4,5 @@ data/cache/
 .claude/settings.local.json
 .claude/launch.json
 .venv/
+# öğretmen kitaplığı: PDF OCR metni ve sayfa indeksi yalnızca bu bilgisayarda kalır (yayınevi içeriği)
+data/kitaplik/

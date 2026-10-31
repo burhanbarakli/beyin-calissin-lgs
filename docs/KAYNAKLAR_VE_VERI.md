@@ -1,7 +1,7 @@
 # Kaynaklar ve veri kullanımı
 
 Bu belge, Beyin Çalışsın'ın hangi kaynakları kullandığını, öğrenci verisini nerede tuttuğunu, neyi Claude'a
-(Anthropic) gönderdiğini ve neyin GitHub'a gittiğini anlatır. Son güncelleme: 31 Ekim 2026 (sürüm 2.7.1).
+(Anthropic) gönderdiğini ve neyin GitHub'a gittiğini anlatır. Son güncelleme: 1 Kasım 2026 (sürüm 2.8.0).
 
 ---
 
@@ -37,8 +37,23 @@ sınıflandırma bulunur.
 - **Ne var:** sayfa ve soru no, tür (Fenomen: Kazanım / Kalıplaşmış İkiz / Yeni Nesil; Ankara: test adı), konu, ek konu, Claude'un kısa beceri etiketi, 1–5 zorluk.
 - **Ne yok:** soru metni, soru görseli, cevap anahtarı. Kitapların hiçbir sayfası kopyalanmadı ya da kaydedilmedi.
 - **Nasıl üretildi:** Kitaplar 30–31 Ekim 2026'da kullanıcının lisanslı uygulamasında, Claude'un bilgisayar kontrolüyle sayfa sayfa incelendi. Aktivasyon kodlarını kullanıcı kendisi girdi.
-- **Nasıl kullanılır:** Beyin her konu grubuna 3–6 basılı kitap sorusu önerir. Bunlar ekranda **📘 Basılı kitaplardan çöz** kutusunda, PDF'te de **Basılı Soru Bankalarından Ek Sorular** listesinde görünür. Öğrenci soruyu kendi kitabından bulup çözer.
+- **Nasıl kullanılır:** Beyin her konu grubuna 3–6 basılı kitap sorusu önerir. Bunlar ekranda **📘 Kitaplardan çöz** kutusunda, PDF'te de **Kitaplardan Ek Sorular** listesinde görünür. Öğrenci soruyu kendi kitabından bulup çözer.
 - **Ekran görüntüleri:** Analiz için alınan birkaç sorunun görüntüsü yalnızca bu bilgisayarda, depo dışındaki `tuna beyin/fenomen-ekran/<tarih>/` klasöründe durur. Bunlar GitHub'a ve soru bankasına konmaz.
+
+## 2b. Öğretmen kitaplığı: yayınevlerinin öğretmene verdiği PDF'ler (yalnızca bu bilgisayarda)
+
+Yayınevlerinin öğretmene ücretsiz kullanım için verdiği PDF soru bankaları ve denemeler (yaklaşık 160 PDF,
+26.000 sayfa: Nartest, Ata, Bilfen, Mozaik, Newton, Paraf, VIP, Karekök, Muba, Netbil, Okyanus, Ulti, Fenomen,
+Ankara ve diğerleri). Kullanıcının beyanına göre bu kitaplar öğretmen olan eşine yayınevlerince verilmiştir.
+Çoğaltılmaz; yalnızca öğrencinin yapamadığı sorulara benzer soru bulmak ve deneme hazırlamak için kullanılır.
+
+- **Yer:** `tuna beyin/soru bankaları/`, depo dışında. Başka yer için `config.json` → `kitaplik_dir`.
+- **İndeks:** Sayfalar Tesseract OCR (Türkçe) ile okunur. Her soruya anahtar kelime ve sayfa başlığından otomatik konu verilir. Kayıtlar `data/kitaplik/` altına yazılır: OCR metni ve soru-konu indeksi. Bu klasör `.gitignore`'dadır.
+- **Durum (1 Kasım 2026):** 163 PDF, 29.081 sayfa okundu. 23.208 sayfaya konu verildi: 23.166 soru tek tek, 9.096 kayıt sayfa düzeyinde (toplam 32.262 kayıt). 2.441 soruda ikinci bir konu (ek konu) var. Tüm dersler kitaplarındaki Türkçe, Fen, İnkılap, Din ve İngilizce sayfaları ile içindekiler sayfaları elendi.
+- **İçerik teyidi:** Yayınevlerinden rastgele seçilen sorular okunup kontrol edildi. Bulunan hatalar düzeltildi: "karekök" içindeki "ekok", sayfa altındaki "8. Sınıf" yazısı, Fen grafik soruları. Konular OCR'a dayalı **tahmindir**. Beyin bu yüzden soruyu önermeden önce sayfa görselini açıp kendisi kontrol eder.
+- **Kullanım:** Beyin uygun konudaki sayfaları bulur, görselini açıp soruyu kendisi kontrol eder, 2-4 soru önerir. Adres biçimi: `<Kitap> s.<PDF sayfası> S<soru no>`. Ekrandaki **aç** bağlantısı sayfayı gösterir.
+- **GitHub'a gitmeyenler:** PDF'ler, OCR metni, sayfa görselleri ve kitaplık indeksi. Yalnızca kod (`app/kitaplik.py`) gider.
+- **Komutlar:** `python -m app.kitaplik tara` (OCR; yeni PDF eklenince yalnızca yenileri okur), `siniflandir` (konu indeksi), `ozet`, `ara`, `sayfa`. Gerekenler: Tesseract OCR (`C:\Program Files\Tesseract-OCR`) ve `tuna beyin/tessdata/tur.traineddata`.
 
 ## 3. Öğrenci verisi
 
@@ -52,12 +67,12 @@ sınıflandırma bulunur.
 
 - **Bu bilgisayarda kalır.** Yedekler güncelleme sırasında bir üst klasöre `beyin-yedek-<tarih>/` olarak alınır.
 - **Claude'a (Anthropic) gönderilen:** Beyin çalışırken öğrencinin soru fotoğrafları ve incelenen soru bankası görselleri Claude Code üzerinden Claude'a gönderilir. Kullanım, bu bilgisayarda giriş yapılmış Claude hesabının aboneliğinden düşer.
-- **GitHub'a gönderilmeyen:** Bu bilgisayardaki öğrenci verisi (`ogrenci/` ve `data/` altındaki çalışmalar, PDF'ler, puanlar) GitHub'a **gönderilmez**. GitHub'a yalnızca kod, belgeler, kaynak indeksleri (`data/index/`, `kaynaklar/`) gider.
+- **GitHub'a gönderilmeyen:** Bu bilgisayardaki öğrenci verisi (`ogrenci/` ve `data/` altındaki çalışmalar, PDF'ler, puanlar) ve öğretmen kitaplığı (`data/kitaplik/`) GitHub'a **gönderilmez**. GitHub'a yalnızca kod, belgeler ve kaynak indeksleri (`data/index/`, `kaynaklar/`) gider.
 - **Dikkat:** Depo (`burhanbarakli/beyin-calissin-lgs`) şu an **herkese açık**. Depoda daha önceden yüklenmiş öğrenci verisi de var. Gizli kalması isteniyorsa depo sahibi GitHub'da depoyu **Private** yapmalı.
 
 ## 4. Telif ve kullanım sınırları
 
-- Kaynak PDF'lerin ve basılı kitapların hakları sahiplerine aittir: kerimhoca.com, MEB (ODSGM), Fenomen Yayıncılık, Ankara Yayıncılık.
+- Kaynak PDF'lerin ve basılı kitapların hakları sahiplerine aittir: kerimhoca.com, MEB (ODSGM), Fenomen Yayıncılık, Ankara Yayıncılık ve öğretmen kitaplığındaki yayınevleri.
 - Sistem, öğrencinin kişisel ve ailevi eğitimi için kullanılır. Kaynak PDF'leri, üretilen çalışma kâğıtlarını ve basılı kitap sayfalarını yeniden dağıtmayın, satmayın.
 - Şifreli kitap uygulamalarının koruması aşılmaz. Kitapların tamamı ekran görüntüsüyle kopyalanmaz. İnternetteki izinsiz PDF kopyaları indirilmez.
 

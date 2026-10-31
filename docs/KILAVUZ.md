@@ -85,8 +85,10 @@ yanlış fotoğraf ya da ayar seçtiyseniz beklemeden durdurup yeniden başlatab
 - **⤢** soruyu büyütür. **✕** soruyu bu ve sonraki çalışmalarda bir daha önermez (kesimi bozuk vb.).
 - **🧹 Çıkan sorulardan toplu kaldır:** Öğretici / Pekiştirme / Orta düzey / Zor-Zorlayıcı soruları tek tıkla
   listeden ve seçimden kaldırır. **↺ Kaldırılanları geri getir** geri alır.
-- **📘 Basılı kitaplardan çöz:** Her grubun altında kitap, sayfa ve soru numarası listesi (ör. `Ankara s.83 S7`,
-  `8A s.21 S2`). Bu sorular PDF'te de liste olarak yer alır.
+- **📘 Kitaplardan çöz:** Her grubun altında kitap, sayfa ve soru numarası listesi (ör. `Ankara s.83 S7`,
+  `8A s.21 S2`, `Nartest Mod-a Soru Bankası 2023 s.6 S3`). Öğretmen kitaplığından gelen soruların yanındaki **aç**
+  bağlantısı o PDF sayfasını gösterir. Fenomen ve Ankara'da s. basılı sayfa no'su, diğerlerinde PDF sayfasıdır.
+  Bu sorular PDF'te de liste olarak yer alır.
 
 ## 4. PDF
 
@@ -95,7 +97,7 @@ Alttaki çubukta başlığı yazın, **📄 PDF Oluştur**'a basın. PDF yeni se
 - (İsteğe bağlı) başta **"Hatırla: Yapamadığın sorular"**: öğrencinin fotoğrafları.
 - Konu konu **Öğretici → Pekiştirme → Zorlayıcı** bölümleri. Sorular kaynak PDF'ten vektör olarak
   alınır, bulanıklaşmaz.
-- Cevap anahtarından önce **Basılı Soru Bankalarından Ek Sorular**: kitaptan çözülecek soruların işaretlenebilir listesi.
+- Cevap anahtarından önce **Kitaplardan Ek Sorular**: kitaptan çözülecek soruların işaretlenebilir listesi.
 - Sonda **cevap anahtarı** ve kaynak listesi (çalışma kâğıdı alıştırmaları açık uçludur: "—").
 
 PDF'e konan sorular sonraki çalışmalarda tekrar önerilmez.

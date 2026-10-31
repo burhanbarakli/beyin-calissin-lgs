@@ -53,6 +53,12 @@ soruyu kitaptan bulup çözer.
 | 2026 Fenomen 8. Sınıf Matematik A / B Soru Bankası | `8A` / `8B` | 1357 + 557 | `kaynaklar/Fenomen/` |
 | 2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren Soru Bankası | `Ankara` | 1009 | `kaynaklar/Ankara/` |
 
+### Öğretmen kitaplığı (yalnızca bu bilgisayarda)
+
+Yayınevlerinin öğretmene verdiği yaklaşık 160 PDF soru bankası ve deneme `tuna beyin/soru bankaları/` klasöründe durur.
+Sayfaları Tesseract OCR ile okunup her soruya otomatik konu verilir (`python -m app.kitaplik`). Beyin uygun sayfaları
+açıp kontrol ederek soru önerir. PDF'ler, OCR metni ve indeks GitHub'a gönderilmez (`data/kitaplik/`, `.gitignore`).
+
 Ayrıntı: [docs/KAYNAKLAR_VE_VERI.md](docs/KAYNAKLAR_VE_VERI.md).
 
 ## Kurulum
@@ -68,6 +74,7 @@ Ayrıntı: [docs/KAYNAKLAR_VE_VERI.md](docs/KAYNAKLAR_VE_VERI.md).
 | `app/server.py` | FastAPI sunucusu: yükleme, beyin, adaylar, PDF |
 | `app/static/` | Tek ekranlık arayüz (bağımlılıksız) |
 | `app/fenomen.py` | Basılı kitap indeksleri (Fenomen 8A/8B, Ankara): `python -m app.qbank fenomen` |
+| `app/kitaplik.py` | Öğretmen kitaplığı PDF'leri: OCR, soru-konu indeksi, arama, sayfa görseli |
 | `app/indexer.py` | Kaynak PDF → soru indeksi (sayfa, kırpma kutusu, konu, seviye, cevap anahtarı) |
 | `app/qbank.py` | Soru bankası arama/görsel/etiket CLI'ı: `python -m app.qbank --help` |
 | `app/runner.py` | Claude Code'u headless başlatır, akışı `data/runs/<id>/` altına kaydeder |

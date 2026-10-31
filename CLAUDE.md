@@ -17,6 +17,9 @@ Kaynaklar, öğrenci verisi ve telif kuralları: `docs/KAYNAKLAR_VE_VERI.md`.
 - **Basılı kitaplar** (Fenomen, Ankara): yalnızca adres indeksi (sayfa, soru no, kendi kısa etiketin, zorluk)
   tutulur. Soru metni, görsel ve cevap anahtarı koyma. Kitabın tamamını ekran görüntüsüyle kopyalama.
   Analiz için alınan tek tük görüntüler depo dışında, `tuna beyin/fenomen-ekran/` klasöründe kalır.
+- **Öğretmen kitaplığı** (`tuna beyin/soru bankaları/`, yayınevlerinin öğretmene verdiği PDF'ler): PDF'ler, OCR metni
+  ve `data/kitaplik/` yalnızca bu bilgisayarda kalır; GitHub'a gönderme. `python -m app.kitaplik tara` yeni PDF'leri
+  okur, `siniflandir` indeksi yeniler.
 - Şifreli uygulamaların korumasını aşma. İnternetteki izinsiz PDF kopyalarını indirme. Aktivasyon kodunu ve şifreyi
   kullanıcı girer.
 
