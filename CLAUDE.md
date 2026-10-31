@@ -7,6 +7,18 @@ sorular seçip PDF çalışma kâğıdı üreten yerel web uygulaması. Şu an y
 "Beyin" = bu bilgisayardaki Claude Code'un headless (`claude -p`) çalıştırılması.
 
 Kurulu sürüm: `VERSION`. Sürüm notları: `GUNCELLEME.md`. Kullanıcı kılavuzu: `docs/KILAVUZ.md`.
+Kaynaklar, öğrenci verisi ve telif kuralları: `docs/KAYNAKLAR_VE_VERI.md`.
+
+## Veri ve kaynak kuralları (her iş için geçerli)
+
+- **Öğrenci verisini GitHub'a gönderme:** `ogrenci/`, `data/runs/`, `data/outputs/` ve `data/` altındaki puan, geri
+  bildirim ve "verilen sorular" dosyaları. Commit'e yalnızca kod, belgeler, `kaynaklar/` ve `data/index/` girer;
+  dosyaları tek tek `git add` ile ekle, `git add .` kullanma. Depo herkese açık.
+- **Basılı kitaplar** (Fenomen, Ankara): yalnızca adres indeksi (sayfa, soru no, kendi kısa etiketin, zorluk)
+  tutulur. Soru metni, görsel ve cevap anahtarı koyma. Kitabın tamamını ekran görüntüsüyle kopyalama.
+  Analiz için alınan tek tük görüntüler depo dışında, `tuna beyin/fenomen-ekran/` klasöründe kalır.
+- Şifreli uygulamaların korumasını aşma. İnternetteki izinsiz PDF kopyalarını indirme. Aktivasyon kodunu ve şifreyi
+  kullanıcı girer.
 
 ## Kullanıcıya yardım eden Claude isen (kurulum / güncelleme / "ne yeni?")
 
@@ -15,7 +27,7 @@ Teknik terimleri azalt, Türkçe ve adım adım konuş.
 
 ### Güncelleme ("sistemi güncelle", "GitHub'dan yeni sürümü al" vb.)
 
-Repo: `https://github.com/burhanbarakli/beyin-calissin-lgs` (özel; eski TYT/AYT sürümü `beyin-calissin`). Repoda kodla birlikte **öğrenci verisi**
+Repo: `https://github.com/burhanbarakli/beyin-calissin-lgs` (şu an herkese açık; eski TYT/AYT sürümü `beyin-calissin`). Repoda kodla birlikte **öğrenci verisi**
 (`ogrenci/`, `data/`) ve kaynak PDF'ler (`kaynaklar/`) de vardır. Kullanıcı kendi bilgisayarında fotoğraf
 yükleyip beyin çalıştırdığı için `ogrenci/` ve `data/` **onun güncel verisidir — asla üzerine yazma, silme.**
 

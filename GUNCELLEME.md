@@ -8,6 +8,21 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.7.1 · 31 Ekim 2026 · Kaynaklar ve veri kullanımı belgesi
+
+**Yeni**
+- **`docs/KAYNAKLAR_VE_VERI.md`**: hangi kaynakların kullanıldığı (soru bankası PDF'leri ve basılı kitap indeksleri),
+  öğrenci verisinin nerede tutulduğu, neyin Claude'a gönderildiği, neyin GitHub'a gittiği, telif ve kullanım sınırları,
+  yeni kaynak ekleme.
+- README, kılavuz ve `CLAUDE.md` bu belgeye göre güncellendi. Kılavuza soru tipi seçimi, toplu kaldır düğmeleri,
+  basılı kitap önerileri ve "bilgisayar yeniden başlayınca" notu eklendi.
+- `CLAUDE.md`'ye veri kuralları eklendi: öğrenci verisi GitHub'a gönderilmez, basılı kitaplardan yalnızca adres indeksi tutulur.
+
+**Yapmanız gereken:** Bir şey yapmanız gerekmez. Depo herkese açık; gizlilik isteniyorsa depo sahibi GitHub'da
+depoyu **Private** yapmalı.
+
+---
+
 ## 2.7.0 · 31 Ekim 2026 · Ankara Güçlendiren Soru Bankası indeksi
 
 **Yeni**

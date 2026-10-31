@@ -7,6 +7,7 @@ hazırlayan yerel web uygulaması. Şu an LGS matematik; fen sonra eklenecek.
 "Beyin", uygulamanın çalıştığı bilgisayardaki **Claude Code**'dur (`claude -p`).
 
 > 📖 **Kılavuz:** [docs/KILAVUZ.md](docs/KILAVUZ.md) · 🆕 **Yenilikler:** [GUNCELLEME.md](GUNCELLEME.md) ·
+> 🔒 **Kaynaklar ve veri:** [docs/KAYNAKLAR_VE_VERI.md](docs/KAYNAKLAR_VE_VERI.md) ·
 > **Güncellemek için** Claude Code'a bu klasörde *"sistemi GitHub'dan güncelle"* demeniz yeterli;
 > verileriniz korunur (ayrıntı: `CLAUDE.md`).
 
@@ -41,6 +42,19 @@ hazırlayan yerel web uygulaması. Şu an LGS matematik; fen sonra eklenecek.
 Kazanım testi ve çalışma kâğıdı dışındaki soruların hepsi Claude tarafından kazanım, ölçtüğü beceri ve 1-5 zorlukla
 etiketlenmiştir. `katalog.json` her PDF'in türünü, ünitesini ve kazanımını verir.
 
+### Basılı kitap indeksleri
+
+Öğrencinin elindeki basılı soru bankalarının soruları sistemde **yok**. Sistemde yalnızca her sorunun adresi
+(kitap, sayfa, soru no) ve Claude'un kısa sınıflandırması var. Beyin bunlardan da benzer soru önerir, öğrenci
+soruyu kitaptan bulup çözer.
+
+| Kitap | Kod | Soru | Dosya |
+|---|---|---|---|
+| 2026 Fenomen 8. Sınıf Matematik A / B Soru Bankası | `8A` / `8B` | 1357 + 557 | `kaynaklar/Fenomen/` |
+| 2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren Soru Bankası | `Ankara` | 1009 | `kaynaklar/Ankara/` |
+
+Ayrıntı: [docs/KAYNAKLAR_VE_VERI.md](docs/KAYNAKLAR_VE_VERI.md).
+
 ## Kurulum
 
 - Python 3.10+ ve **Claude Code** (bir kez `claude` → `/login`).
@@ -53,6 +67,7 @@ etiketlenmiştir. `katalog.json` her PDF'in türünü, ünitesini ve kazanımın
 |---|---|
 | `app/server.py` | FastAPI sunucusu: yükleme, beyin, adaylar, PDF |
 | `app/static/` | Tek ekranlık arayüz (bağımlılıksız) |
+| `app/fenomen.py` | Basılı kitap indeksleri (Fenomen 8A/8B, Ankara): `python -m app.qbank fenomen` |
 | `app/indexer.py` | Kaynak PDF → soru indeksi (sayfa, kırpma kutusu, konu, seviye, cevap anahtarı) |
 | `app/qbank.py` | Soru bankası arama/görsel/etiket CLI'ı: `python -m app.qbank --help` |
 | `app/runner.py` | Claude Code'u headless başlatır, akışı `data/runs/<id>/` altına kaydeder |
@@ -65,10 +80,16 @@ ve `python` komutları.
 
 İndeksi yeniden üretmek: `python -m app.indexer --force` (cevaplar ve etiketler korunur).
 
-## Gizlilik
+## Kaynaklar ve veri kullanımı
 
-Beyin çalışırken öğrencinin soru fotoğrafları Claude'a (Anthropic) gönderilir. Fotoğraflar yerelde
-`ogrenci/Sorular/` altında, çalışmalar ve PDF'ler `data/` altında durur.
+Ayrıntılı açıklama [docs/KAYNAKLAR_VE_VERI.md](docs/KAYNAKLAR_VE_VERI.md) belgesindedir. Kısaca:
+
+- **Claude'a gönderilen:** Beyin çalışırken öğrencinin soru fotoğrafları Claude'a (Anthropic) gönderilir.
+- **Bu bilgisayarda kalan:** Fotoğraflar `ogrenci/Sorular/` altında, çalışmalar, PDF'ler ve puanlar `data/` altında durur.
+- **GitHub'a gidenler:** Kod, belgeler ve kaynak indeksleri gider. Bu bilgisayardaki öğrenci verisi gönderilmez.
+  Depo herkese açık olduğu için gizlilik isteniyorsa depo **Private** yapılmalı.
+- **Telif:** Kaynakların hakları sahiplerine aittir. Sistem kişisel eğitim içindir. Basılı kitapların yalnızca
+  adres indeksi tutulur; kitap içeriği kopyalanmaz.
 
 ## Sorun giderme
 
