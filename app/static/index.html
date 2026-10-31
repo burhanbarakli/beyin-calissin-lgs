@@ -31,6 +31,12 @@
       <label><input type="radio" name="size" value="normal" checked>Normal</label>
       <label><input type="radio" name="size" value="cok">Çok</label>
     </span>
+    <span class="muted" title="Sadece seçilen tipte soru aranır; daha kısa sürer">Soru tipi:</span>
+    <span class="seg multi" id="roles">
+      <label title="Kavramı öğreten, kolay sorular"><input type="checkbox" name="role" value="hatirlatici" checked>Kolay</label>
+      <label title="Orta düzey alıştırma soruları"><input type="checkbox" name="role" value="pekistirme" checked>Pekiştirme</label>
+      <label title="LGS düzeyinde zorlayıcı sorular"><input type="checkbox" name="role" value="zorlayici" checked>Zor</label>
+    </span>
     <details class="adv"><summary class="muted">Gelişmiş</summary>
       <label class="check">Model
         <select id="model">

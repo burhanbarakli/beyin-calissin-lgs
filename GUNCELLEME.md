@@ -8,6 +8,18 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.6.0 · 31 Ekim 2026 · Soru tipi seçimi (kolay / pekiştirme / zor)
+
+**Yeni**
+- "Beyin Çalışsın"dan önce, soru sayısının yanında **Soru tipi** seçimi: **Kolay**, **Pekiştirme**, **Zor**
+  ayrı ayrı açılıp kapatılabilir (birden çok seçilebilir, en az biri seçili kalır, seçim hatırlanır).
+- Beyin yalnızca seçilen tiplerde soru arar; seçilmeyen tipler için arama ve doğrulama yapmaz. Böylece daha kısa
+  sürede tam istenen tipte sorular gelir. Önceki çalışmalar listesinde başlıkta seçilen tipler yazar (ör. "· zor").
+
+**Yapmanız gereken:** Sunucuyu yeniden başlatın.
+
+---
+
 ## 2.5.0 · 31 Ekim 2026 · Fenomen 8A/8B kitaplarından benzer sorular (sayfa ve soru no ile)
 
 **Yeni**

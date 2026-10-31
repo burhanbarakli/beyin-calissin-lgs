@@ -106,6 +106,20 @@ function renderRunButton() {
 try { $("#model").value = localStorage.getItem("model") || ""; } catch {}
 $("#model").onchange = () => { try { localStorage.setItem("model", $("#model").value); } catch {} };
 
+// soru tipi (kolay / pekiştirme / zor): beyin yalnızca seçilen tiplerde soru arar; seçim hatırlanır, en az biri kalır
+const ROLE_KEYS = ["hatirlatici", "pekistirme", "zorlayici"];
+const pickedRoles = () => $$("input[name=role]:checked").map((x) => x.value);
+{
+  const saved = store.get("roles", ROLE_KEYS).filter((r) => ROLE_KEYS.includes(r));
+  $$("input[name=role]").forEach((x) => {
+    x.checked = (saved.length ? saved : ROLE_KEYS).includes(x.value);
+    x.onchange = () => {
+      if (!pickedRoles().length) { x.checked = true; return toast("En az bir soru tipi seçili olmalı"); }
+      store.set("roles", pickedRoles());
+    };
+  });
+}
+
 $("#runBrain").onclick = async () => {
   if (S.running) return stopBrain();
   await loadState();  // giriş sonradan yapılmış olabilir: sayfayı yenilemeden tekrar bak
@@ -113,7 +127,7 @@ $("#runBrain").onclick = async () => {
   if (S.state.claude_login === false)
     return toast("Claude Code'da giriş yapılmamış: terminalde `claude` çalıştırıp /login ile giriş yapın.", 7000);
   const body = { images: S.photos, note: $("#note").value, size: $("input[name=size]:checked").value,
-    allow_repeat: $("#allowRepeat").checked, model: $("#model").value, deep: $("#deep").checked };
+    roles: pickedRoles(), allow_repeat: $("#allowRepeat").checked, model: $("#model").value, deep: $("#deep").checked };
   try {
     const r = await api("/api/brain", { method: "POST", body });
     watchJob(r.job, true); loadRuns();

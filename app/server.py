@@ -26,6 +26,8 @@ IMG_EXT = {".jpg", ".jpeg", ".png", ".webp", ".gif"}
 IMG_MAGIC = (b"\xff\xd8", b"\x89PNG", b"RIFF", b"GIF8")
 # her seçenek konu başına {öğretici, pekiştirme, zorlayıcı} hedefi; beyin seçim için daha fazla aday getirir
 SIZES = {"az": (2, 2, 1), "normal": (3, 3, 2), "cok": (4, 5, 3)}
+ROLES = ("hatirlatici", "pekistirme", "zorlayici")
+ROLE_NAMES = {"hatirlatici": "kolay", "pekistirme": "pekiştirme", "zorlayici": "zor"}
 
 
 def _json(p: Path, default):
@@ -131,6 +133,7 @@ class BrainReq(BaseModel):
     images: list[dict]            # [{"path", "status"}]
     note: str = ""
     size: str = "normal"          # az / normal / cok
+    roles: list[str] = ["hatirlatici", "pekistirme", "zorlayici"]   # istenen soru tipleri (kolay/pekiştirme/zor)
     allow_repeat: bool = False
     model: str = ""               # "" = ayarlardaki; opus / sonnet / haiku
     deep: bool = False            # soru-analisti ajanıyla derin analiz
@@ -143,17 +146,23 @@ def brain(req: BrainReq):
     if not images:
         raise HTTPException(400, "Önce yapamadığı sorunun fotoğrafını yükleyin.")
     h, p, z = SIZES.get(req.size, SIZES["normal"])
+    roles = [r for r in ROLES if r in req.roles] or list(ROLES)
+    # seçilmeyen tipin hedefi 0: beyin o tipte soru aramaz (daha kısa sürer)
+    counts = {r: n if r in roles else 0 for r, n in zip(ROLES, (h, p, z))}
     task = {
         "student": config.get()["student_name"],
         "date": datetime.now().strftime("%Y-%m-%d"),   # beyin hangi dönemde olunduğunu buradan anlar
         "teacher_note": req.note,
         "images": images,
-        "counts": {"hatirlatici": h, "pekistirme": p, "zorlayici": z},
+        "counts": counts,
+        "roles": roles,
         "max_topics": 4,
         "exclude_qids": [] if req.allow_repeat else _json(USED_FILE, []),
         "deep": req.deep,
     }
     title = f"{len(images)} soru fotoğrafı" + (" · derin analiz" if req.deep else "")
+    if len(roles) < len(ROLES):
+        title += " · " + " + ".join(ROLE_NAMES[r] for r in roles)
     prompt = ("brain/BRAIN.md dosyasındaki talimatları uygula. Görev dosyası: <RUN_DIR>/task.json. "
               "RUN_DIR = <RUN_DIR>. Sonucu <RUN_DIR>/candidates.json dosyasına yaz. Türkçe çalış.")
     rid = runner.start("brain", title, prompt, req.model_dump() | {"images": images},

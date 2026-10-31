@@ -95,6 +95,11 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 - `images[]`: öğrencinin **yapamadığı soruların fotoğrafları** (tek girdi). Her birinde `path` ve `status`
   (`Yapamadı` ya da `Yanlış`). Konu, soru no ve cevap verilmez; hepsini görselden sen çıkar.
 - `counts`: konu başına hedef soru sayısı `{hatirlatici, pekistirme, zorlayici}`, `max_topics`.
+- `roles`: öğretmenin istediği soru tipleri (`hatirlatici` = kolay/öğretici, `pekistirme`, `zorlayici` = zor).
+  **Yalnızca bu tiplerde aday ver; listede olmayan tip için arama yapma, doğrulama yapma** (hedefi `counts`'ta 0'dır).
+  Böylece çalışma kısa sürer. Teşhis yine tam yapılır; "Yapamadı → öğretici ağırlıklı" gibi kurallar yalnızca
+  seçilen tipler arasında uygulanır. Ör. yalnız `zorlayici` istendiyse adım 3'te sadece zorlayıcı aramayı yap,
+  5. adımdaki "en az bir çalışma kâğıdı" şartı uygulanmaz.
 - `exclude_qids[]`: daha önce verilmiş sorular — TEKRAR SEÇME.
 - `deep`: `true` ise **derin analiz modu** (aşağıda).
 
@@ -111,7 +116,7 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    - `Yapamadı` → temel kavram eksik, **öğretici ağırlıklı**; `Yanlış` → işlem/yorum hatası,
      **pekiştirme ağırlıklı**.
    - Aynı beceriyi gösteren fotoğrafları tek grupta topla. En fazla `max_topics` grup.
-3. **Benzer soru ara.** Her grup için önce kazanımla, sonra beceri kelimeleriyle ara:
+3. **Benzer soru ara.** Her grup için önce kazanımla, sonra beceri kelimeleriyle ara (yalnızca `roles`'taki tipler için):
    - Öğretici: `python -m app.qbank search --subject mat --topic "EBOB - EKOK Problemleri" --level 1 --limit 30`
      (çalışma kâğıdı alıştırmaları ve kazanım testinin temel soruları)
    - Pekiştirme: aynı komut `--level 2`
@@ -130,7 +135,7 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    bankaları var. Bu kitapların soruları bankada yok (şifreli uygulama), ama her sorunun kitap/sayfa/soru no, konu,
    tür (Kazanım · Kalıplaşmış İkiz · Yeni Nesil), kısa beceri etiketi ve zorluğu indekslidir. Her grup için
    `python -m app.qbank fenomen --topic "ebob - ekok problemleri" --text "eşit,en az,ortak kat"` gibi arayıp
-   **3-6 soru** seç ve gruba `fenomen` listesi ekle. Teşhisteki kopan adımı çalıştıranları öne al; öğretici için
+   **3-6 soru** seç ve gruba `fenomen` listesi ekle (yalnızca `roles`'taki tiplerde). Teşhisteki kopan adımı çalıştıranları öne al; öğretici için
    Kazanım (zorluk 1-3), pekiştirme/zorlayıcı için İkiz ve Yeni Nesil (3-4). Çok konulu sorularda `--topic-all
    "karekök,üslü"` kullan. Görsel yok: yalnızca beceri etiketine göre seç, adresi aynen kopyala, uydurma.
    1. dönemde 2. dönem konularından (denklem, eğim, üçgen…) seçme.
