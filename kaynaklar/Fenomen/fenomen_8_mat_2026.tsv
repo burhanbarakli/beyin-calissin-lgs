@@ -1,0 +1,1915 @@
+kitap	sayfa	soru	tur	konu	ek_konu	beceri	zorluk
+8A	3	1	K	CK1		bir sayının çarpanlarını tanıma	1
+8A	3	2	K	CK1		pozitif çarpan sayısı (sembolle verilen işlem)	2
+8A	3	3	K	CK1		bölen merdiveninden (çarpan algoritması) sayıyı bulma	2
+8A	3	4	K	CK1		çarpan ağacındaki bilinmeyenleri bulma	2
+8A	3	5	K	CK1		pozitif çarpanların toplamı ve sayısı (sembolle verilen işlem)	3
+8A	3	6	K	CK1		asal sayıları belirleme (tablo)	2
+8A	3	7	K	CK1		tam iki pozitif çarpanı olan sayı = asal sayı	2
+8A	4	8	K	CK1		asal çarpanlarla yazılmış sayının en küçük değeri	3
+8A	4	9	K	CK1		pozitif çarpan sayısı tek olan sayılar (asalın karesi)	3
+8A	4	10	K	CK1		farklı asal çarpanların toplamı	1
+8A	4	11	K	CK1		asal çarpan gösteriminde üsleri koşula göre seçme	3
+8A	4	12	K	CK1		asal çarpanları verilen üç basamaklı en büyük sayı	3
+8A	4	13	K	CK1		asal çarpanları verilen iki basamaklı sayıları sayma	3
+8A	5	1	K	CK1		pozitif tam sayı çarpanlarının sayısı	1
+8A	5	2	K	CK1		pozitif çarpan sayısı (günlük hayat bağlamı)	2
+8A	5	3	K	CK1		pozitif çarpanları sıralama ve sıradaki çarpanı bulma	3
+8A	5	4	K	CK1		alanı verilen dikdörtgenin kenarları = çarpan çiftleri, çevre en küçük/en büyük	3
+8A	5	5	K	CK1		alanı verilen dikdörtgen sayısı = çarpan çifti sayısı	2
+8A	5	6	K	CK1		iki basamaklı asal sayıları sayma	2
+8A	6	7	K	CK1		farklı asal çarpanların toplamı (bağlam)	2
+8A	6	8	K	CK1		bölen merdiveninden harf değerlerini bulma	2
+8A	6	9	K	CK1		en küçük/en büyük asal çarpanı verilen sayıyı seçme	2
+8A	6	10	K	CK1		bölüm asal olacak şekilde bölen sayısı (çarpan çiftleri)	3
+8A	6	11	K	CK1		mükemmel sayı (kendisi hariç çarpanlar toplamı)	2
+8A	6	12	K	CK1		yalnız bir asal çarpanı olan sayılar	3
+8A	7	1	I	CK1		asal çarpanların üslerinin toplamı (kural uygulama)	3
+8A	7	2	I	CK1		asal çarpanların üslerinden yeni sayı üretme (kural uygulama)	3
+8A	7	3	I	CK1		tam iki asal çarpanı olan sayılar (bağlam, toplam tutar)	3
+8A	7	4	I	CK1		tam üç pozitif çarpanı olan sayılar (bağlam, toplam tutar)	3
+8A	8	5	I	CK1		iki sayının asal çarpanlarını eşleştirme (kural)	3
+8A	8	6	I	CK1		iki sayının asal çarpanlarını eşleştirme (kural)	3
+8A	8	7	I	CK1		asal sayıları belirleme (bağlam)	2
+8A	8	8	I	CK1		tek asal çarpanı olan sayı (bağlam)	3
+8A	9	1	Y	CK1		tek asal çarpanı olan sayıları sayma (asalın kuvvetleri)	3
+8A	9	2	Y	CK1		tam üç pozitif çarpanı olan sayılar (asalın karesi)	3
+8A	9	3	Y	CK1		tek sayıda pozitif çarpanı olan sayılar = tam kareler	3
+8A	10	4	Y	CK1		asal olmayıp tek asal çarpanı olan sayılar (bağlam, okuma yükü)	4
+8A	10	5	Y	CK1		çarpanlar toplamı / en büyük asal çarpan kuralıyla puanlama	4
+8A	11	6	Y	CK1		asal çarpanların çarpımından bilinmeyen sayıyı bulma	4
+8A	11	7	Y	CK1		alanlardan kenar uzunluklarını çarpanlarla bulma	3
+8A	12	8	Y	CK1		eş dikdörtgenlerin alanından kenar (çarpan çifti) ve çevre	3
+8A	12	9	Y	CK1		kendisi hariç en büyük iki çarpan, bölme ile bilinmeyen	4
+8A	13	1	K	CK2		iki sayının EBOB'u	1
+8A	13	2	K	CK2		ortak bölenlerin en büyüğü (şema)	2
+8A	13	3	K	CK2		EBOB koşuluna uyan sayıları seçme	3
+8A	13	4	K	CK2		bölen merdiveninden EBOB	2
+8A	13	5	K	CK2		üslü asal çarpan gösteriminden EBOB	2
+8A	13	6	K	CK2		EBOB'u verilen sayılarda üsleri bulma	3
+8A	14	7	K	CK2		iki bölmede ortak bölenin en büyük değeri	2
+8A	14	8	K	CK2		kalanlı bölmede bölenin en büyük değeri (kalanı çıkarıp EBOB)	3
+8A	14	9	K	CK2		EBOB'u verilen iki sayının toplamı olamayacak değer	3
+8A	14	10	K	CK2		çarpımı ve EBOB'u verilen iki sayı	3
+8A	14	11	K	CK3		EBOB'u verilen iki uzunluğun toplamı en az	3
+8A	14	12	K	CK3		ortak kenar = alanların ortak böleni, en fazla	3
+8A	15	1	K	CK3		eşit parçalara ayırma, parça uzunluğu en fazla (EBOB)	2
+8A	15	2	K	CK3		eşit parçalara ayırma, en az parça sayısı (EBOB)	2
+8A	15	3	K	CK3		EBOB ile kesim sayısı ve süre	3
+8A	15	4	K	CK3		karıştırmadan eşit hacimli kaplar, en fazla hacim (EBOB)	2
+8A	15	5	K	CK3		eşit hacimli kaplar, en az kap sayısı (EBOB)	2
+8A	15	6	K	CK3		ortak bölen sayısı (kaç farklı kap hacmi)	3
+8A	16	7	K	CK3		çevreye eşit aralıklı direk, aralık en fazla (EBOB)	3
+8A	16	8	K	CK3		çevreye eşit aralıklı direk, en az maliyet (EBOB)	3
+8A	16	9	K	CK3		iki uçlu dizilim, en az nesne (EBOB + uç sayısı)	3
+8A	16	10	K	CK3		kesişen yollara eşit aralık, en az ağaç (ortak nokta)	3
+8A	16	11	K	CK3		dikdörtgeni eş karelere ayırma, kesim sayısı (EBOB)	3
+8A	16	12	K	CK3		eş kare parsellerin köşelerine fidan, en az fidan	4
+8A	17	1	K	CK2		iki sayının EKOK'u	1
+8A	17	2	K	CK2		şemada EKOK bulma	2
+8A	17	3	K	CK2		EKOK hesaplama (terazi bağlamı)	2
+8A	17	4	K	CK2		bölen merdiveninden EKOK	2
+8A	17	5	K	CK2		üslü asal çarpan gösteriminden EKOK ve EBOB oranı	3
+8A	17	6	K	CK2		EKOK'u verilen sayılarda üslerin en büyük toplamı	3
+8A	18	7	K	CK3		farklı kalanlı iki bölme, ortak katı kaydırarak en küçük sayı	3
+8A	18	8	K	CK3		iki bölmede aynı kalan, üç basamaklı en küçük sayı (EKOK + kalan)	3
+8A	18	9	K	CK2		oranı ve EKOK'u verilen iki sayının EBOB'u	3
+8A	18	10	K	CK2		EKOK, EBOB ve bir sayı verilince diğer sayı	2
+8A	18	11	K	CK3		EKOK'u verilen iki uzunluğun toplamı en fazla	3
+8A	18	12	K	CK3		iki sayıya birden bölünen sayıları sayma (ortak kat)	3
+8A	19	1	K	CK3		periyodik olaylarda ilk karşılaşma (EKOK)	2
+8A	19	2	K	CK3		periyodik olaylarda n. karşılaşma (EKOK katı)	2
+8A	19	3	K	CK3		karşılaşmaya kadar tur sayıları toplamı (EKOK)	3
+8A	19	4	K	CK3		iki gruplamaya da uyan üç basamaklı en az sayı (EKOK)	2
+8A	19	5	K	CK3		her gruplamada aynı artık, en az sayı (EKOK + artık)	2
+8A	19	6	K	CK3		her gruplamada aynı artık, üç basamaklı en az sayı	3
+8A	20	7	K	CK3		her gruplamada aynı eksik, en az sayı (EKOK − eksik)	2
+8A	20	8	K	CK3		aynı eksik, üç basamaklı en az sayı (EKOK katı − eksik)	3
+8A	20	9	K	CK3		aynı artık, aralıktaki tüm değerler ve birler basamağı	4
+8A	20	10	K	CK3		bir kısmı ayrılınca kalan ortak kat olur, en az ayrılan	3
+8A	20	11	K	CK3		dikdörtgen karolarla en küçük kare (EKOK)	3
+8A	20	12	K	CK3		farklı uzunluklar uç uca, uçların ilk aynı hizaya gelmesi (EKOK)	3
+8A	21	1	I	CK3		eşit uzunluk, ...den fazla, en az (EKOK)	3
+8A	21	2	I	CK3		eşit uzunluklar ...den fazla, toplam en az (EKOK)	3
+8A	21	3	I	CK3		halkaları çubuklara eşit dağıtma, boş kalan çubuk (EBOB)	3
+8A	21	4	I	CK3		halkaları çubuklara eşit dağıtma, boş kalan çubuk en fazla (EBOB)	3
+8A	22	5	I	CK3		yüksekliği tam bölen kutuları seçme (ortak bölen, boşluksuz dizme)	3
+8A	22	6	I	CK3		boşluksuz dizmede en fazla kutu (bölen)	3
+8A	22	7	I	CK3		iki ölçü yan yana boşluksuz, aralıktaki ortak kat (EKOK)	4
+8A	22	8	I	CK3		iki ölçü yan yana, aralıktaki ortak kat ve kalan mesafe	4
+8A	23	9	I	CK3		tekerlek tam tur, iki çevrenin ortak katı (EKOK + çember çevresi)	4
+8A	23	10	I	CK3		tekerlek tam tur ve aralık koşulu, ortak kat ile uzunluk	4
+8A	23	11	I	CK3		yolun iki yanında farklı aralıklar, karşılıklı ağaç sayısı en fazla (EKOK)	4
+8A	23	12	I	CK3		yolun iki yanında farklı aralıklar, karşılıklı ağaç sayısı en az (EKOK)	4
+8A	24	13	I	CK3		iki sırada farklı aralıklar, aynı hizadakiler (EKOK)	4
+8A	24	14	I	CK3		iki sırada farklı aralıklar, aynı hizadakilerde fark (EKOK)	4
+8A	24	15	I	CK3		aralık değişince ilk tekrar eden durum (EKOK)	4
+8A	24	16	I	CK3		iki dizilimde sayı farkı en az (EKOK)	4
+8A	25	17	I	CK3		farklı periyotlu araçlar, ilk aynı anda gelme (EKOK, saat)	3
+8A	25	18	I	CK3		farklı periyotlu araçlar, ilk aynı anda gelme (EKOK, saat)	3
+8A	25	19	I	CK3		iki birimin eşit toplamı ve aralık koşulu (EKOK, maliyet)	4
+8A	25	20	I	CK3		iki birimin eşit toplamı ve aralık koşulu (EKOK, sayı)	4
+8A	26	21	I	CK3		bölmelere boşluksuz eş küp, ayrıt koşulu, en az küp (ortak bölen)	4
+8A	26	22	I	CK3		bölmelere boşluksuz eş küp, ayrıt aralığı, en az küp (ortak bölen)	4
+8A	26	23	I	CK3		iki birimin eşit geliri, toplam miktar en az (EKOK)	4
+8A	26	24	I	CK3		iki birimin eşit miktarı ve üst sınır, gelir en fazla (EKOK)	4
+8A	27	25	I	CK3		iki ürünün eşit içerik miktarı, ödeme farkı (EKOK)	4
+8A	27	26	I	CK3		iki ürünün eşit içerik miktarı, alınan adet (EKOK)	4
+8A	27	27	I	CK3		eşit uzunluk ...den fazla, iki parça boyu, en az ürün (EKOK)	4
+8A	27	28	I	CK3		eşit uzunluk ...den fazla, iki parça boyu, en az ürün (EKOK)	4
+8A	28	29	I	CK3		ortak kenar = alanların EBOB'u, birleşik şeklin alanı	4
+8A	28	30	I	CK3		ortak kenar = alanların EBOB'u, birleşik alan en az	4
+8A	28	31	I	CK3	Üçgen alanı	eşit tabanlı üçgenlerin alanlarından ortak bölen, yükseklik farkı en az	4
+8A	28	32	I	CK3	Üçgen alanı	eşit tabanlı üçgenlerin alanlarından ortak bölen, yükseklik farkı en fazla	4
+8A	29	1	Y	CK3		eşit aralıklı duraklar, iki mesafenin ortak böleni, en az durak	4
+8A	29	2	Y	CK3		iki ağırlığın eşit toplamı (EKOK), üst sınırla en fazla	4
+8A	30	3	Y	CK3		eşit sayıda kişi, iki farklı kapasite, en az (EKOK)	3
+8A	30	4	Y	CK3		satır/sütunlarda eşit ve en fazla (EBOB), dizilimi aktarma	4
+8A	31	5	Y	CK3		kalan hacimleri dolduran eş bloklar, en az blok (ortak bölen)	4
+8A	31	6	Y	CK3		iki tarifede eşit ücret (açılış + birim, kaydırılmış ortak kat)	4
+8A	32	7	Y	CK3		iki gruptan eşit sayıda, toplam alt sınır, en fazla (EKOK)	4
+8A	32	8	Y	CK3		eşit sayıda üç tür, toplam ağırlıklardan ortak bölen, en fazla	4
+8A	33	1	K	CK4		aralarında asal sayı çiftini seçme	1
+8A	33	2	K	CK4		aralarında asal olmayan çifti seçme	1
+8A	33	3	K	CK4		aralarında asal olma koşuluna uyan sayılar	2
+8A	33	4	K	CK4		aralarında asal sayıların özellikleri (her zaman doğru)	2
+8A	33	5	K	CK4		rakam bilinmeyeniyle aralarında asal olma	3
+8A	33	6	K	CK4		çarpımı verilen aralarında asal iki sayının toplamı en az	3
+8A	34	7	K	CK4		kenarları aralarında asal dikdörtgenin olamayacak alanı	3
+8A	34	8	K	CK4		sadeleşmeyen kesir, pay ve payda aralarında asal	3
+8A	34	9	K	CK4		cebirsel ifadelerde her zaman aralarında asal olan çift	3
+8A	34	10	K	CK4	Çarpanlar ve Asal Çarpanlar	tanımlı kural: sayı ile asal çarpanlar toplamı aralarında asal	3
+8A	34	11	K	CK4		aktarma sonrası aralarında asal olma, en az aktarma	3
+8A	34	12	K	CK4		kalan alan ile kare alanı aralarında asal	3
+8A	35	1	K	CK4		aralarında asal çifti seçme	1
+8A	35	2	K	CK4		aralarında asal kurallarıyla çiftleri sayma (ardışık, tek, 1)	2
+8A	35	3	K	CK4		çarpımı verilen aralarında asal iki sayı, toplamın en büyük-en küçük farkı	3
+8A	35	4	K	CK4		aralarında asal çifti eşleştirme (bağlam)	2
+8A	35	5	K	CK4		iki basamaklı sayı ile aralarında asal, rakam değerleri toplamı	3
+8A	35	6	K	CK4	EBOB - EKOK	aralarında asal iki sayının EKOK'u = çarpımları	3
+8A	36	7	K	CK4	EBOB - EKOK	aralarında asal iki sayının EBOB ve EKOK toplamı	3
+8A	36	8	K	CK4		aralarında asal olmayanları eleme, kalan sayı	3
+8A	36	9	K	CK4		çarpımı asal olan aralarında asal iki ifade	3
+8A	36	10	K	CK4		sadeleşmiş oran ve aralarında asal → sayıların kendisi	3
+8A	36	11	K	CK4		alanı verilen, kenarları aralarında asal dikdörtgenin çevresi olamaz	3
+8A	36	12	K	CK4		çevresi verilen, kenarları aralarında asal dikdörtgenin alanı olamaz	3
+8A	37	1	I	CK4		basamak bilinmeyenli sayı ile aralarında asal, olası değerler	3
+8A	37	2	I	CK4		ekleme öncesi ve sonrası aralarında asal kalma, olası değerler	4
+8A	37	3	I	CK4		katlama sonrası kenarları aralarında asal dikdörtgen, kısa kenar	3
+8A	37	4	I	CK4		katlama sonrası kenarları aralarında asal dikdörtgen, kısa kenar	3
+8A	38	5	I	CK4		küp açınımında komşu yüzlerdeki sayılar aralarında asal	4
+8A	38	6	I	CK4		küp açınımında komşu yüzler aralarında asal, karşılıklı yüzler toplamı	4
+8A	38	7	I	CK4		sayıları aralarında asal gruplara ayırma	3
+8A	38	8	I	CK4		sayıları aralarında asal gruplara ayırma	3
+8A	39	9	I	CK4		süre ifadesinde iki değerin aralarında asal olması	3
+8A	39	10	I	CK4	Çarpanlar ve Asal Çarpanlar	tek asal çarpanlı ve aralarında asal süre değerleri	4
+8A	39	11	I	CK4		numaralar aralarında asal, fark en az	3
+8A	39	12	I	CK4	Çarpanlar ve Asal Çarpanlar	numaralar aralarında asal ve tek asal çarpanlı, fark en çok	4
+8A	40	13	I	CK4		artış sonrası iki uzunluk aralarında asal	3
+8A	40	14	I	CK4		düzenli artışla en az kaç adım sonra aralarında asal	3
+8A	40	15	I	CK4	Çarpanlar ve Asal Çarpanlar	komşu karelerde aralarında asal ve asal çarpan kuralı	4
+8A	40	16	I	CK4	Çarpanlar ve Asal Çarpanlar	komşu karelerde aralarında asal ve asal çarpan kuralı	4
+8A	41	1	Y	CK4	Çarpanlar ve Asal Çarpanlar	alanı verilen dikdörtgenin kenarları aralarında asal, çevre en küçük	4
+8A	41	2	Y	CK4		saat ve dakika değerlerinin aralarında asal olduğu durumları sayma	4
+8A	42	3	Y	CK4		rakam toplamları aralarında asal olacak en az seçim	3
+8A	42	4	Y	CK4	Çarpanlar ve Asal Çarpanlar	tek asal çarpanlı sayılar aralarında asal, uzaklık en fazla	4
+8A	43	1	K	U1		negatif üssün anlamı	1
+8A	43	2	K	U1		negatif tabanlı üslü ifadelerle işlem	2
+8A	43	3	K	U1		negatif üslü ifadelerle işlem (sembol)	2
+8A	43	4	K	U1		negatif üslü eşitlikten bilinmeyen	2
+8A	43	5	K	U1		negatif kesri üslü ifade olarak yazma	2
+8A	43	6	K	U1		işaret ve negatif üs ile değer aralığı	2
+8A	43	7	K	U1		negatif üslü ifadenin değerini aralığa yerleştirme	2
+8A	43	8	K	U1	10'un Kuvvetleri	negatif üslü ifadeyi ondalık gösterimle yazma	2
+8A	44	9	K	U1		pozitif/negatif ve en küçük/en büyük üslü ifadeyi belirleme	3
+8A	44	10	K	U1		negatif üslü eşitliklerde yanlışı bulma	2
+8A	44	11	K	U1		kesrin negatif kuvveti (bağlam)	2
+8A	44	12	K	U1		ondalık/kesir kuvvet eşitliğinde üssü bulma	3
+8A	44	13	K	U1		negatif üslü uzunluklarla katlama	3
+8A	44	14	K	U1	Temel Kurallar	üslü ifadeleri ortak tabanda sıralama	3
+8A	45	1	K	U1		-1'in kuvvetleri ve negatif tabanlı işlem	2
+8A	45	2	K	U1	Temel Kurallar	üslü eşitlikten a ve b, a üzeri b değeri	3
+8A	45	3	K	U1		a üzeri b = 81, tam sayı a,b ile a+b en küçük (81'i farklı tabanlarla yazma)	4
+8A	45	4	K	U1		sembol kuralıyla negatif üslü ifade	3
+8A	45	5	K	U1		sembol kuralıyla negatif üslü ifade	3
+8A	45	6	K	U1		kartlardan en küçük değerli üslü ifade	3
+8A	45	7	K	U1		0 ile 1 arasında en küçük üslü ifade	4
+8A	46	8	K	U1		negatif tabanlı negatif üslü ifadelerle işlem	2
+8A	46	9	K	U1	Temel Kurallar	denge (eşitlik) koşulundan üssü bulma	3
+8A	46	10	K	U1		denge koşulunda negatif üslü değeri ondalık bulma	3
+8A	46	11	K	U1		kare/küp alma sembolleriyle iç içe işlem	3
+8A	46	12	K	U1		taban ve üs değişince sonucun değişimi	3
+8A	46	13	K	U1		bir aralıktaki 2'nin kuvvetlerini sayma	2
+8A	47	1	I	U1		denge koşulu, negatif üslü kesirli kütle	3
+8A	47	2	I	U1		dengeyi sağlamak için kuvvet aktarma	3
+8A	47	3	I	U1		rakamların kareleriyle oluşan dizi, bilinmeyen rakam	3
+8A	47	4	I	U1		rakamların kareleriyle oluşan dizi, bilinmeyen rakam	3
+8A	48	5	I	U1		taban/üs seçimiyle -1 ile 0 arasında en büyük değer	4
+8A	48	6	I	U1		taban/üs seçimiyle en büyük ve en küçük değer farkı	4
+8A	48	7	I	U1		eşit değerli üslü ifadeleri eşleştirme	3
+8A	48	8	I	U1		eşit değerli negatif üslü ifadeleri eşleştirme	4
+8A	49	9	I	U1		sayı doğrusu kaydırmayla oluşan üslü ifadelerin değeri	4
+8A	49	10	I	U1		sayı doğrusu kaydırmayla oluşan üslü ifadelerin toplamı	4
+8A	49	11	I	U1		bir aralıkta 3'ün kuvvetlerini sayma, puan en fazla	4
+8A	49	12	I	U1		bir aralıkta 2'nin kuvvetlerini sayma, puan en fazla	4
+8A	50	13	I	U1		2'nin kuvveti olan kenarlarla parçalama, çevre	3
+8A	50	14	I	U1		2'nin kuvveti olan kenarlarla eş karelere ayırma sayısı	3
+8A	50	15	I	U1		bir sayıyı farklı biçimlerde tam sayı kuvveti olarak yazma, fark	4
+8A	50	16	I	U1		bir sayıyı farklı biçimlerde tam sayı kuvveti olarak yazma, fark en fazla	4
+8A	51	1	Y	U1		0 ile 1 arasındaki üslü ifadeleri belirleme, oranı üslü yazma	4
+8A	51	2	Y	U1		küp ayrıtlarını a^3 biçiminde yazma, yükseklik en fazla	4
+8A	52	3	Y	U1		2'nin ve 3'ün kuvvetleri olan sayıları sayma, eşitlik koşulu	4
+8A	52	4	Y	U1		2'nin kuvvetleriyle tutar oluşturma, en az adet	4
+8A	53	1	K	U2		aynı tabanlı üslü ifadelerde çarpma	1
+8A	53	2	K	U2		aynı tabanlı negatif üslü çarpma	1
+8A	53	3	K	U2		ortak tabana çevirip çarpma	2
+8A	53	4	K	U2		üslü kenar uzunluklarıyla çevre	3
+8A	53	5	K	U2		ortak tabana çevirip alan (çarpma)	2
+8A	53	6	K	U2		alanı üslü verilen dikdörtgenin kenarlarını seçme	3
+8A	53	7	K	U2		katlanarak artan miktarlarda çarpma	3
+8A	54	8	K	U2		ortak tabanda çarpma eşitliği, bilinmeyen	2
+8A	54	9	K	U2	10'un Kuvvetleri	üslü çarpımı 10'un kuvvetine çevirip basamak sayısı	4
+8A	54	10	K	U2		kesir tabanlı üslülerle alan	3
+8A	54	11	K	U2		ikiye katlanan parça sayısı (kuvvet)	3
+8A	54	12	K	U2		iç içe kareler, kenar yarılanınca alan ve çevre	4
+8A	54	13	K	U2		üslü uzunluk ve birim fiyatla toplam tutar	3
+8A	55	1	K	U2		aynı tabanlı üslü ifadelerde bölme	1
+8A	55	2	K	U2		negatif üslü ifadelerde bölme	1
+8A	55	3	K	U2		bölme eşitliğinde bilinmeyen üs	2
+8A	55	4	K	U2		bir üslü ifade diğerinin kaç katı (bölme)	2
+8A	55	5	K	U2		negatif tabanlı ifadelerin oranı	2
+8A	55	6	K	U2		ortak tabana çevirip çarpma-bölme	2
+8A	55	7	K	U2		farklı tabanları ortak tabana çevirip çarpma-bölme	3
+8A	55	8	K	U2		tekrarlı çarpma ve toplamayı üslü yazıp bölme	3
+8A	56	9	K	U2		üslü uzunluğu eş parçalara bölme	2
+8A	56	10	K	U2		üslü alanı eş parçalara bölüp kenar bulma	3
+8A	56	11	K	U2		alan ve bir kenardan diğer kenar (bölme)	2
+8A	56	12	K	U2		üslü alanların oranı ve yüzde	3
+8A	56	13	K	U2		üslü kenarlarla parça alanı	3
+8A	56	14	K	U2	10'un Kuvvetleri	üslü uzaklıkta yüzde ile kalan yol	3
+8A	57	1	K	U2	10'un Kuvvetleri	10'un kuvvetleriyle çarpma-bölme	2
+8A	57	2	K	U2		negatif tabanlı ifadeyle çarpımı belirli sonuç veren çarpan	2
+8A	57	3	K	U2		ondalık tabanları ortak tabana çevirip işlem	3
+8A	57	4	K	U2		farklı tabanları asal çarpanlara ayırıp sadeleştirme	3
+8A	57	5	K	U2		kare ve dikdörtgen alanlarının oranı (üslü)	3
+8A	57	6	K	U2		orantı kurup üslü ifadeyle sonuç	3
+8A	58	7	K	U2		birleşik eş karelerde çevreden kenar, alan (üslü)	3
+8A	58	8	K	U2		dik üçgen alanı (üslü kenarlar)	2
+8A	58	9	K	U2		kareli zeminde boyalı alan (üslü birim)	3
+8A	58	10	K	U2	10'un Kuvvetleri	büyük sayıların çarpımı ve birim çevirme	3
+8A	58	11	K	U2		eşit dağıtımda kişi sayısı (üslü bölme)	3
+8A	58	12	K	U2		iki tarafa eşit aralıkla dikim, sayı (üslü bölme)	4
+8A	59	1	I	U2		katlanarak çoğalma, iki miktarın oranı	3
+8A	59	2	I	U2		katlanarak çoğalma ve yüzde azalma, oran	4
+8A	59	3	I	U2		kurala göre üslü ifade puanları, çarpım en fazla	4
+8A	59	4	I	U2		kurala göre taban/üs seçimi, puan oranı	4
+8A	60	5	I	U2		kurallı dizilimde üslü ifadeler ve çarpım	4
+8A	60	6	I	U2		kurallı dizilimde üslü ifadeler, bilinmeyenlerin toplamı	4
+8A	60	7	I	U2		tekrarlı çarpımı üslü yazma, üslerin toplamı en az	3
+8A	60	8	I	U2		tekrarlı çarpımı üslü yazma, üslerin toplamı en az	3
+8A	61	9	I	U1		kurala göre oluşan üslü ifadeler, fark en fazla	4
+8A	61	10	I	U1		kurala göre oluşan üslü ifadeler, en küçük ve en büyük çarpımı	4
+8A	61	11	I	U2		tekrarlı toplama ile tekrarlı çarpma karşılaştırma, kaç katı	3
+8A	61	12	I	U2		tekrarlı toplama ile tekrarlı çarpma karşılaştırma, çarpım	3
+8A	62	13	I	U2		kesirli üslü kenarla alan ve yüzde	3
+8A	62	14	I	U2		üslü kenarla alan ve yüzde	3
+8A	62	15	I	U2		tablodan üslü bölme ile adet karşılaştırma, en fazla	4
+8A	62	16	I	U2		tablodan üslü çarpma ile miktar karşılaştırma, en az	4
+8A	63	17	I	U2		puanlama kuralı ve kuvvet koşulu, en çok puan	4
+8A	63	18	I	U2		puanlama kuralı ve kuvvet koşulu, en çok puan	4
+8A	63	19	I	U2		üslü uzunluğu eş parçalara bölme	3
+8A	63	20	I	U2		negatif üslü uzunlukla eş parça sayısı	3
+8A	64	21	I	U2		katlama ile alanlar oranı, alan (üslü)	4
+8A	64	22	I	U2		katlama ile kenar oranı, alan (üslü)	4
+8A	64	23	I	U2		paketleme sonrası kalan miktar (üslü bölme)	3
+8A	64	24	I	U2		paketleme sonrası kalan miktar (üslü bölme)	3
+8A	65	25	I	U2		süre ve birim miktarla toplam (üslü çarpma)	3
+8A	65	26	I	U2		süre ve birim miktarla toplam (üslü çarpma)	3
+8A	65	27	I	U2		yüzde ile miktar (üslü)	3
+8A	65	28	I	U2		ardışık yüzdelerle miktar (üslü)	4
+8A	66	29	I	U2		birim süreler üslü, karşılaştırma ve kalan uzunluk	4
+8A	66	30	I	U2		birim süreler üslü, toplam sürelerin oranı	4
+8A	66	31	I	U2		iç içe kareler, çevreden kenar ve alan (üslü)	4
+8A	66	32	I	U2		iç içe kareler, alandan kenar ve çevre (üslü)	4
+8A	67	1	Y	U2		katlama ile oluşan kare alanından ilk şeklin çevresi (üslü)	4
+8A	67	2	Y	U2		yüzde ve kuvvet koşuluyla adet, toplam tutar en az	4
+8A	68	3	Y	U2		ardışık yüzde doldurma, kalan kapasiteden toplam	4
+8A	68	4	Y	U2		yol boyunca üslü çarpım, eksik çarpan	4
+8A	69	5	Y	U2		uzunluk/kalınlıktan adet, toplam miktar (üslü çarpma)	3
+8A	69	6	Y	U2	Veri Analizi	üslü değerlerle aritmetik ortalama	4
+8A	70	7	Y	U2	Daire alanı	daire dilimlerinin alanları toplamı (üslü sonuç)	4
+8A	70	8	Y	U2	Daire alanı	çeyrek dairelerle oluşan alan ve birim başına miktar (üslü)	4
+8A	71	1	K	U4		ondalık sayıyı 10'un kuvvetleriyle çözümleme	1
+8A	71	2	K	U4		ondalık sayının çözümlenmiş biçimini seçme	1
+8A	71	3	K	U4		çözümlemedeki katsayıları bulma	2
+8A	71	4	K	U4		çözümlenmiş biçimden ondalık gösterime	2
+8A	71	5	K	U4		çözümlenmiş biçimden birim çevirip ondalık	3
+8A	71	6	K	U4		alan sonucunu 10'un kuvvetleriyle çözümleme	3
+8A	72	7	K	U4	Tam Sayıların Tam Sayı Kuvvetleri	kuvvetler toplamını ondalık yazıp çözümleme	3
+8A	72	8	K	U4		üslü uzunluğu ondalık yazıp çözümleme	3
+8A	72	9	K	U4		çözümlemeden eksik rakamları bulma	2
+8A	72	10	K	U4		rakamlarla en küçük ondalık sayının çözümlemesi	3
+8A	72	11	K	U4		çözümlenmiş kütlelerle denge, adet	3
+8A	72	12	K	U4		farklı sayı tabanında basamak değeriyle çözümleme	4
+8A	73	1	I	U4		çözümlenmiş değerle hatalı gösterimi karşılaştırma	3
+8A	73	2	I	U4		çözümlenmiş değerlerle ölçüm farkı	3
+8A	73	3	I	U4		çözümlenmiş uzunlukları sınırla karşılaştırma	3
+8A	73	4	I	U4		çözümlenmiş ağırlıkları sınırla karşılaştırma	3
+8A	74	5	I	U4		çözümlenmiş fiyatlarla toplam ve para üstü	3
+8A	74	6	I	U4		çözümlenmiş fiyatlarla bütçe ve adet	3
+8A	74	7	I	U4		çözümlenmiş uzunluğa ekleme, tam sayı olma koşulu	3
+8A	74	8	I	U4		çözümlenmiş düzenli artış, en az kaç adım	3
+8A	75	1	Y	U4		çözümlenmiş yüksekliklerle fark	4
+8A	75	2	Y	U4		kurala göre artış/azalış, toplamın çözümlemesi	4
+8A	76	3	Y	U4		çözümlenmiş kütlelerle denge, en az adet	4
+8A	76	4	Y	U4	Tam Sayıların Tam Sayı Kuvvetleri	0-1 arası en küçük üslü değeri çözümleme	4
+8A	77	1	K	U4		10'un kuvvetiyle eşit gösterimlerde üssü bulma	2
+8A	77	2	K	U4		10'un kuvvetiyle eşit gösterimlerde üssü bulma	2
+8A	77	3	K	U4		10'un kuvvetiyle eşit gösterimlerde katsayıyı bulma	2
+8A	77	4	K	U4		eşit bilimsel/üslü gösterimi seçme	2
+8A	77	5	K	U4		büyük sayının farklı gösterimlerinde üsler toplamı	3
+8A	77	6	K	U4		küçük sayının farklı gösterimlerinde üsler	3
+8A	78	7	K	U4		10'un kuvvetiyle eşitliklerde yanlışı bulma	2
+8A	78	8	K	U4		a·10^b eşitliğinde olamayacak değer	3
+8A	78	9	K	U4		iki sayının çarpımına eşit olmayan gösterim	3
+8A	78	10	K	U4		10'un kuvvetleriyle bölme sonucu	3
+8A	78	11	K	U4		10'un kuvvetleriyle bölme, sonucun basamak sayısı	3
+8A	78	12	K	U4		değer koşuluna göre en küçük üs	3
+8A	79	1	K	U4		hangilerinin bilimsel gösterim olduğunu belirleme	2
+8A	79	2	K	U4		büyük sayıyı bilimsel gösterimle yazma	1
+8A	79	3	K	U4		küçük sayıyı bilimsel gösterimle yazma	1
+8A	79	4	K	U4		birim çevirip bilimsel gösterim (büyük sayı)	2
+8A	79	5	K	U4		birim çevirip bilimsel gösterim (küçük sayı)	2
+8A	79	6	K	U4		bilimsel gösterimden katsayı ve üs	2
+8A	80	7	K	U4		bilimsel gösterimi seçme	1
+8A	80	8	K	U4		bilimsel gösterimleri sıralama	2
+8A	80	9	K	U4		iki bilimsel gösterimi karşılaştırma	2
+8A	80	10	K	U4		katlanarak artışın bilimsel gösterimi	3
+8A	80	11	K	U4		orantı ve birim çevirme, bilimsel gösterim	3
+8A	80	12	K	U4	Temel Kurallar	ikiye bölünerek çoğalma, bilimsel gösterim	3
+8A	81	1	I	U4		birim alandaki miktar, bilimsel gösterim	3
+8A	81	2	I	U4		birim alandaki miktarlar toplamı, bilimsel gösterim	3
+8A	81	3	I	U4		tablodaki değerlerin toplamı, bilimsel gösterim	3
+8A	81	4	I	U4		hacimler toplamı, bilimsel gösterim	3
+8A	82	5	I	U4		tablodaki değerlerin çarpımı, bilimsel gösterim	3
+8A	82	6	I	U4		çarpım ve yüzde değişim, bilimsel gösterim	4
+8A	82	7	I	U4		çarpma ve birim çevirme, bilimsel gösterim	3
+8A	82	8	I	U4		süre ve birim miktarla toplam, adet	3
+8A	83	9	I	U4		yüzde ile miktar, bilimsel gösterim	3
+8A	83	10	I	U4		iki aşamalı yüzde, bilimsel gösterim	4
+8A	83	11	I	U4		alan ve katlanan sayı ile birim başına alan	4
+8A	83	12	I	U4		alan birimi çevirme, birim başına alan	3
+8A	84	13	I	U4		birim değer × süre × adet, bilimsel gösterim	3
+8A	84	14	I	U4		birim değer × süre × adet, bilimsel gösterim	3
+8A	84	15	I	U4		eşitliklerden bilinmeyen katsayıları karşılaştırma	3
+8A	84	16	I	U4		bilimsel/üslü gösterimleri sıralama	3
+8A	85	1	Y	U4	Çember çevresi	çevreden çap, uzunluk toplamı, bilimsel gösterim	4
+8A	85	2	Y	U4		aralık koşuluna uyan bilimsel gösterim değeri	4
+8A	86	3	Y	U4		yüzdeler ve birim çevirme, fark bilimsel gösterim	4
+8A	86	4	Y	U4	Çember	yarıçap artışı ile kareye sığma, kenar en az	4
+8A	87	1	K	K1		tam kare doğal sayıyı seçme	1
+8A	87	2	K	K1		çarpımları tam kare olanları sayma	2
+8A	87	3	K	K1		karesel bölge alanından kenar, çevreye eşit aralık	3
+8A	87	4	K	K1		eş karelerle kare oluşturmak için en az ek	3
+8A	87	5	K	K1		koşullu en küçük/en büyük tam kare sayılar	3
+8A	87	6	K	K1		birleşik alanın tam kare olması	3
+8A	88	7	K	K1		tam kare kapasiteli birimler, en az sayı	3
+8A	88	8	K	K1		tam kare sayının birler basamağı olamayacak rakam	2
+8A	88	9	K	K1		iç içe karelerin alanlarından olası kenar sayısı	3
+8A	88	10	K	K1		alandan kenar uzunluğu (kare kesilmiş köşeler)	3
+8A	88	11	K	K1		tam kare uzunlukların birleşimi, en az	4
+8A	89	1	K	K1		karekök eşitliklerinde yanlışı bulma	1
+8A	89	2	K	K1		karekök eşitliklerinden doğruları sayma	2
+8A	89	3	K	K1		sonucu tam kare olan kök içini seçme	2
+8A	89	4	K	K1		karesi verilen sayının karekökü	2
+8A	89	5	K	K1		iki karekök arasındaki tam sayılar, en büyük ve en küçük	3
+8A	89	6	K	K1	Temel Kurallar	iç içe kökleri içten dışa açma, kök içinde üslü ifade	3
+8A	90	7	K	K1		kareköklü uzunlukları karşılaştırma, en az değer	3
+8A	90	8	K	K1		alanı kök verilen karelerden kenar	3
+8A	90	9	K	K1		karekök değerleriyle bölme (hacim bağlamı)	3
+8A	90	10	K	K1		kare alma ve karekök almanın ters işlem olması (√A = 9 ⇔ A = 81)	3
+8A	90	11	K	K1		kareköklü uzunluklar ve yüzde, fark	4
+8A	91	1	I	K1		kare alanlarından kenar, birleşik şekilde dikdörtgen alanı en az	3
+8A	91	2	I	K1		kare alanlarından kenar, birleşik şekilde dikdörtgen alanı en az	3
+8A	91	3	I	K1		karesel bölümlerin alanından salon kenarı en fazla	4
+8A	91	4	I	K1		karesel bölümlerin alanından salon çevresi en fazla	4
+8A	92	5	I	K1		eşit alanlı kareler, dikdörtgen alanı en az	3
+8A	92	6	I	K1		eşit alanlı kareler, dikdörtgen alanı en az	3
+8A	92	7	I	K1	Tam Sayıların Tam Sayı Kuvvetleri	kare alanından kenar, kuvvet koşullu iç dikdörtgen alanı en fazla	4
+8A	92	8	I	K1	Tam Sayıların Tam Sayı Kuvvetleri	kare alanından kenar, kuvvet koşullu dış dikdörtgen alanı en az	4
+8A	93	1	Y	K1		düzenli azalma ile tam kare olma, en az adım	3
+8A	93	2	Y	K1		kişi sayısının karesi kadar toplam, tam kareye inme	4
+8A	94	3	Y	K1		karekök ve rakam toplamıyla kurallı şifre, olamayan durum	4
+8A	94	4	Y	K1		karekök kadar aktarma kuralı, son durumda fark	4
+8A	95	1	K	K1		karekökün hangi ardışık doğal sayılar arasında olduğu	1
+8A	95	2	K	K1		karekökün en yakın olduğu doğal sayı	2
+8A	95	3	K	K1		iki karekök arasındaki doğal sayıları sayma	2
+8A	95	4	K	K1		kökü belirli sayıya en yakın olan en küçük değer	3
+8A	95	5	K	K1		sayı doğrusundaki köklerden bilinmeyen, fark en fazla	3
+8A	95	6	K	K1		kareköklü uzunluğu yaklaşık değerle karşılaştırma	3
+8A	96	7	K	K1		alanı verilen karenin kenarının yaklaşık değeri	3
+8A	96	8	K	K1		kareköklü mesafenin noktalar arasındaki konumu	3
+8A	96	9	K	K1		kareköklü değerleri aralıkla karşılaştırma	3
+8A	96	10	K	K1		sayı doğrusunda kareköklü uzaklık, aralık	3
+8A	96	11	K	K1		kareköklü alan, tam birim alım ve en az maliyet	3
+8A	96	12	K	K1		kareköklü değer aralıklarıyla konum belirleme	4
+8A	97	1	K	K2		kareköklü sayıyı a√b biçiminde yazma	1
+8A	97	2	K	K2		katsayıyı kök içine alma	1
+8A	97	3	K	K2		eşit kareköklü ifadeleri eşleştirme	2
+8A	97	4	K	K2		harfli ifadeleri kök dışına çıkarma	2
+8A	97	5	K	K2		a√b eşitliğinde katsayıyı bulma	2
+8A	97	6	K	K2		a√b biçimindeki değerleri karşılaştırma	3
+8A	98	7	K	K2		a√b uzunluklarını karşılaştırma	3
+8A	98	8	K	K2		a√b uzaklıklarını sıralama	3
+8A	98	9	K	K2		kökü verilen sayıyı a√b ile ilişkilendirme	3
+8A	98	10	K	K2		formülde kök değerini a√b biçimine çevirme	3
+8A	98	11	K	K2		tanımlı modelle a√b biçimi, kök içleri toplamı	4
+8A	99	1	I	K2	Tam Kare Sayılar	ölçümden kök aralığı, olası a√b değeri	3
+8A	99	2	I	K2	Tam Kare Sayılar	a√b uzunluğunun hangi tam sayılar arasında olduğu	3
+8A	99	3	I	K1		karekökün en yakın tam sayısına göre gruplama	3
+8A	99	4	I	K1		karekökün en yakın tam sayısına göre gruplama	3
+8A	100	5	I	K2	Tam Kare Sayılar	a√b yükseklikleri sıralama, olası değer	3
+8A	100	6	I	K2	Tam Kare Sayılar	a√b yükseklikleri sıralama ve fark koşulu	3
+8A	100	7	I	K1		karekök veya en yakın sayı kuralıyla puan, olamayan toplam	4
+8A	100	8	I	K1		karekök değerlerinin en yakın tam sayılarıyla puan	4
+8A	101	9	I	K1		karekökün en yakın tam sayısına göre sayma ve fark	3
+8A	101	10	I	K1		karekökün en yakın tam sayısına göre toplam	3
+8A	101	11	I	K2	Tam Kare Sayılar	a√b uzunluklarının yaklaşık değeriyle aralık, en büyük ve en küçük	4
+8A	101	12	I	K2	Tam Kare Sayılar	a√b uzunlukların yaklaşık değeri, uzaklık en az	4
+8A	102	13	I	K1		karekök değerlerinin en yakın tam sayıları, çarpım	4
+8A	102	14	I	K1		karekök değerlerinin en yakın tam sayıları, toplam	4
+8A	102	15	I	K2		a√b uzaklıkları karşılaştırma	3
+8A	102	16	I	K2		a√b uzaklıkları karşılaştırma	3
+8A	103	1	Y	K1		kareköklü mesafenin yaklaşık değeriyle durum belirleme	4
+8A	103	2	Y	K2	Tam Kare Sayılar	a√b uzaklıklarını bir uzunlukla karşılaştırıp sayma	4
+8A	104	3	Y	K2		a√b uzunlukları sıralayıp görünürlük	4
+8A	104	4	Y	K1	a kök b	a√b değerin en yakın tam sayısıyla eşleştirme	4
+8A	105	5	Y	K1		kare alanından kenarın yaklaşık değeri, uzaklık farkı aralığı	4
+8A	105	6	Y	K1		karekökün en yakın tam sayısına göre gruplama	4
+8A	106	7	Y	K1		karekök veya en yakın tam sayı kuralıyla tekrarlı azaltma	4
+8A	106	8	Y	K1		karekök veya en yakın tam sayı kuralıyla tekrarlı azaltma	4
+8A	107	1	K	K4		a√b ile c√d çarpma	1
+8A	107	2	K	K4		a√b ile c√d çarpma	1
+8A	107	3	K	K4		kareköklü çarpma eşitliklerinden doğruları sayma	2
+8A	107	4	K	K4		a√b'yi c√d'ye bölme	1
+8A	107	5	K	K4		tam sayıyı kareköke bölme	2
+8A	107	6	K	K4		komşu kutuların çarpımı kuralıyla bilinmeyenler	3
+8A	108	7	K	K4		kareköklü çarpma ve bölme birlikte	2
+8A	108	8	K	K4		a√b kenarlı karenin alanı	2
+8A	108	9	K	K4		alandan kenar, kenarın √2 katıyla yeni alan	3
+8A	108	10	K	K4		kareköklü kenarlı dik üçgenin alanı	2
+8A	108	11	K	K4		kare alanlarından kenar, dik üçgen alanı	3
+8A	108	12	K	K4		eşit alanlarda bilinmeyen kenar (bölme)	3
+8A	109	1	K	K4		kareköklü çarpma ve bölme birlikte	2
+8A	109	2	K	K4		kareköklü çarpım ve bölme sonucu	2
+8A	109	3	K	K4	Tam Kare Sayılar	kökleri birleştirip iki kökün eşitliğinden bilinmeyen	3
+8A	109	4	K	K4		kareköklü miktarlarla oran (bölme)	2
+8A	109	5	K	K4		kareköklü uzunluğu eş parçalara bölüp kare alanı	3
+8A	109	6	K	K4	Tam Kare Sayılar	tam sayı kenar koşulu, kare alanı en fazla	4
+8A	110	7	K	K4		kareköklü miktarları bölme, adet ve tutar	3
+8A	110	8	K	K4		kareköklü hız ve miktarla süre	3
+8A	110	9	K	K4		kareköklü hız-yol-zaman	3
+8A	110	10	K	K4		kareköklü kenarlı dikdörtgeni eş karelere bölme	3
+8A	110	11	K	K4		kareköklü uzama oranı, parça uzunluğu en fazla	4
+8A	110	12	K	K4	Tam Kare Sayılar	aralık koşullarıyla katsayılar, çarpım en fazla	4
+8A	111	1	I	K4		kareköklü kenarlarla alan ve birim miktar	3
+8A	111	2	I	K4		kareköklü kenarlarla alan ve kesirli birim miktar	3
+8A	111	3	I	K4		kare alanı ve alan oranıyla kenar	3
+8A	111	4	I	K4		kare ve dikdörtgen alanlarının oranı	3
+8A	112	5	I	K4		köşegen a√2 bağıntısıyla yol uzunluğu	4
+8A	112	6	I	K4		köşegen ve kenar zinciriyle kenar uzunluğu	4
+8A	112	7	I	K4		eş karesel bölgeler, toplam alanın yüzdesi	4
+8A	112	8	I	K4		eş dikdörtgensel bölgeler, yüzdeden uzun kenar	4
+8A	113	9	I	K4		eş parçalara ayrılan alan, en az tüp sayısı	4
+8A	113	10	I	K4		eş parçalara ayrılan alan, en az tüp sayısı	4
+8A	113	11	I	K4		a√b kenar, alanın doğal sayı olması, olamayan değer	4
+8A	113	12	I	K4		a√b kenar, alanın doğal sayı olması, değerler toplamı	4
+8A	114	13	I	K4		yüzde ile kare alanı, dikdörtgen çevresi	4
+8A	114	14	I	K4		yüzde ile iç dikdörtgen alanı, dış çevre	4
+8A	114	15	I	K4		tur başına kareköklü artış, en fazla tur	3
+8A	114	16	I	K4		tur başına kareköklü artış, en fazla tur	3
+8A	115	1	Y	K4		kare alanından kenar, parçalara ayırıp yeni şeklin alanı	4
+8A	115	2	Y	K4		kareköklü kenarlı bileşik alan, kişi başına alan, en fazla	4
+8A	116	3	Y	K4		kareköklü değerlerin çarpımıyla puan	4
+8A	116	4	Y	K4		kareköklü alanlar ve birim kapasiteyle en az adet	4
+8A	117	1	K	K3		benzer kareköklü terimleri toplama-çıkarma	1
+8A	117	2	K	K3		kareköklü kenarlarla çevre	1
+8A	117	3	K	K3	a kök b	a√b biçimine çevirip toplama	2
+8A	117	4	K	K3	a kök b	kareköklü eşitliklerden bilinmeyenlerin toplamı	2
+8A	117	5	K	K3	a kök b	kök içini sadeleştirip toplama-çıkarma	2
+8A	117	6	K	K3	a kök b	denge koşulunda kareköklü fark	3
+8A	118	7	K	K3		kareden şerit kesince kalan parçanın çevresi	3
+8A	118	8	K	K3		kenar eşitliklerinden kareköklü kısa kenar	3
+8A	118	9	K	K3		eş dikdörtgenlerle oluşan uzunluktan kenar	3
+8A	118	10	K	K3		üst üste yapıştırmada toplam uzunluk	3
+8A	118	11	K	K3		kareköklü uzaklıklar, hareket sonrası kalan mesafe	3
+8A	118	12	K	K3		devrilme ile uç noktalar arası uzaklık, olamayan değer	4
+8A	119	1	K	K3	a kök b	parantezli kareköklü toplama-çıkarma	2
+8A	119	2	K	K3	Çarpma ve Bölme	kareköklü toplama ve bölme birlikte	2
+8A	119	3	K	K3	Çarpma ve Bölme	kareköklü eşitlikte işlem sembolünü bulma	3
+8A	119	4	K	K3	Çarpma ve Bölme	kareköklü toplama ve bölme birlikte	2
+8A	119	5	K	K3		kareköklü parçaların birleşim uzunluğu	3
+8A	119	6	K	K3		komşuluk kuralıyla kareköklü toplama	3
+8A	120	7	K	K3		kare alanlarından kenar, uzunluk toplamı	3
+8A	120	8	K	K3		katlamada kareköklü parça uzunluğu	3
+8A	120	9	K	K3		iç içe nesneler, eşit artış, kareköklü yükseklik	3
+8A	120	10	K	K3		eş üçgenlerle kareköklü uzaklık	3
+8A	120	11	K	K3		kareköklü ağırlıkların toplamı	3
+8A	121	1	I	K3		katlayıp kesme, kalan şeklin çevresi (kareköklü)	4
+8A	121	2	I	K3		katlayıp kesme, kalan şeklin çevresi (kareköklü)	4
+8A	121	3	I	K3		oran ve kareköklü uzaklıklarla yükseklik	4
+8A	121	4	I	K3		oran ve kareköklü uzaklıklarla yükseklik	4
+8A	122	5	I	K3		tur başına kareköklü artış, yükseklik farkı	4
+8A	122	6	I	K3		tur başına kareköklü artış, başlangıç uzaklığı en fazla	4
+8A	122	7	I	K3	Tam Kare Sayılar	kare alanlarından kenar, yükseklik farkları oranı	4
+8A	122	8	I	K3	Tam Kare Sayılar	kare alanlarından kenar, yükseklik farkları oranı	4
+8A	123	9	I	K3	a kök b	alandan eş karelerle kenarlar, çevre en az	4
+8A	123	10	I	K3	a kök b	alandan eş karelerle kenarlar, çevre en az	4
+8A	123	11	I	K3	a kök b	kareköklü sürelerin toplamını karşılaştırma	3
+8A	123	12	I	K3	a kök b	kareköklü sürelerin toplamını karşılaştırma	3
+8A	124	13	I	K3	Çarpma ve Bölme	kesirli açılma, iç bölge alanından uzunluk farkı	4
+8A	124	14	I	K3	Çarpma ve Bölme	kesirli açılma, iç bölge alanından uzunluk farkı	4
+8A	124	15	I	K3	Tam Kare Sayılar	kare alanlarından kenar, uzunluğun aralığı	4
+8A	124	16	I	K3	Tam Kare Sayılar	alan ve kenarlarla uzunluk toplamı	4
+8A	125	1	Y	K3	Tam Kare Sayılar	eş kare alanlarından kenar, boş kalan alan	4
+8A	125	2	Y	K3	Tam Kare Sayılar	kareköklü yükseklik farkından küp yüzü alanı	4
+8A	126	3	Y	K3	Çarpma ve Bölme	kareköklü uzunluklardan bölüm alanı	4
+8A	126	4	Y	K3	Çarpma ve Bölme	orantılı bölümlemede kareköklü alan	4
+8A	127	5	Y	K3	a kök b	kaplar arası aktarmada kareköklü miktar	4
+8A	127	6	Y	K3	a kök b	en fazla ve en az kareköklü yükseklikten uzunluk	4
+8A	128	7	Y	K3	Çarpma ve Bölme	kareköklü uzunluklarla parça alanı	4
+8A	128	8	Y	K3	Çarpma ve Bölme	devrilme sonrası kareköklü kenarlarla alan	4
+8A	129	1	K	K5		ondalık sayının karekökü	1
+8A	129	2	K	K5		ondalık karekök ifadelerinde yanlışı bulma	2
+8A	129	3	K	K5		ondalık kareköklü eşitlikte bilinmeyen	2
+8A	129	4	K	K5		ondalık kareköklerle bölme ve çıkarma	2
+8A	129	5	K	K5		ondalık kareköklerle işlem	2
+8A	129	6	K	K5		devirli ondalık sayının karekökü	3
+8A	130	7	K	K5		ondalık kareköklerle çarpma	2
+8A	130	8	K	K5		ondalık alanlardan kenar farkı	2
+8A	130	9	K	K5		ondalık kareköklü uzunluklarla işlem	3
+8A	130	10	K	K5		ondalık kareköklü hacimlerle adet	3
+8A	130	11	K	K5		ondalık karekök değerlerini sınırla karşılaştırma	3
+8A	130	12	K	K5		ondalık kare alanından kenar, parça alanı	3
+8A	131	1	K	K6		irrasyonel olmayan sayıyı seçme	1
+8A	131	2	K	K6		irrasyonel sayıyı seçme	1
+8A	131	3	K	K6		rasyonel sayıları sayma	2
+8A	131	4	K	K6	Çarpma ve Bölme	çarpımı doğal sayı yapan kareköklü çarpan	2
+8A	131	5	K	K6		sayı kümeleri şemasında yanlış yerleşimi bulma	3
+8A	131	6	K	K6		kalanların rasyonel olması için en az silme	2
+8A	132	7	K	K6		ondalık karekökün rasyonel olma koşulu	3
+8A	132	8	K	K6	Çarpma ve Bölme	çarpımı rasyonel olan kareköklü çiftleri eşleme	3
+8A	132	9	K	K6	Çarpma ve Bölme	kareköklerin çarpımı doğal sayı olacak en yakın durum	4
+8A	132	10	K	K6	Çarpma ve Bölme	çarpımı doğal sayı olacak seçimler, fark en fazla	4
+8A	132	11	K	K6	Çarpma ve Bölme	komşu çarpım kuralı ve doğal sayı koşulu	3
+8A	132	12	K	K6	Tam Kare Sayılar	alanlarda tam kare ve doğal sayı koşulu, en az değer	4
+8A	133	1	I	K6	Çarpma ve Bölme	çarpımı rasyonel olan irrasyonel sayı örneklerini denetleme	3
+8A	133	2	I	K6	Çarpma ve Bölme	çarpımı irrasyonel olan irrasyonel sayı örneklerini denetleme	3
+8A	133	3	I	K6	Çarpma ve Bölme	çarpımı rasyonel olacak parça seçimi	3
+8A	133	4	I	K6	Çarpma ve Bölme	çarpımı rasyonel olacak parça seçimi	3
+8A	134	5	I	K5		ondalık alanından kenar, birleşik şeklin çevresi	3
+8A	134	6	I	K1	Gerçek Sayılar	tam kare ve doğal sayı koşullu alanlar, en az	4
+8A	134	7	I	K5		ondalık kareköklü uzunluklardan birim uzunluk, toplam	4
+8A	134	8	I	K5		ondalık kareköklü uzunluklardan birim uzunluk, toplam	4
+8A	135	9	I	K5		ondalık kareköklü mesafelerle yol uzunluklarını sıralama	3
+8A	135	10	I	K5		ondalık kareköklü mesafelerle yol uzunluklarını sıralama	3
+8A	135	11	I	K5		ondalık karekökler toplamı doğal sayı, en az kalan	4
+8A	135	12	I	K5		ondalık karekökler toplamı doğal sayı, en az kalan	4
+8A	136	13	I	K2	Tam Kare Sayılar	alan tam sayı koşulu ve kenarlar, çevre en az	4
+8A	136	14	I	K2	Tam Kare Sayılar	alan tam kare koşulu ve kenarlar, çevre en az	4
+8A	136	15	I	K5		ondalık karekökler toplamı ve kapasite, bilinmeyen	4
+8A	136	16	I	K5		ondalık karekökler toplamı ve kapasite, bilinmeyen	4
+8A	137	1	Y	K6		görünen sayılardan irrasyonel olanları sayma	4
+8A	137	2	Y	K5		ondalık alan toplamlarından kenar ve çevre	4
+8A	138	3	Y	K5		ondalık kareköklü azalma ile yükseklik	4
+8A	138	4	Y	K5		ondalık kareköklü uzaklıklar ve eş karelerle uzunluk	4
+8A	139	1	K	V		çizgi grafiğinden toplamları karşılaştırma	1
+8A	139	2	K	V		çizgi grafiğinde eşit değerli dönemi bulma	1
+8A	139	3	K	V		daire grafiğinde merkez açıdan miktar	2
+8A	139	4	K	V		miktarlardan merkez açı hesaplama	2
+8A	139	5	K	V		daire grafiğinde açı ve bir miktardan diğer miktar	2
+8A	139	6	K	V		kalan miktarı bulup merkez açı	2
+8A	140	7	K	V		daire grafiği ve fark bilgisiyle miktar	3
+8A	140	8	K	V		yüzdelerden merkez açı	2
+8A	140	9	K	V		oranlardan merkez açı	3
+8A	140	10	K	V		sütun grafiğinde toplamdan eksik değer	2
+8A	140	11	K	V		sütun grafiğinden daire grafiğine dönüştürme	3
+8A	141	1	K	V		tablodan daire grafiğiyle eşleşen veriyi bulma	3
+8A	141	2	K	V		tablodan merkez açı	2
+8A	141	3	K	V		sütun grafiğinden yüzde	2
+8A	141	4	K	V		daire grafiği ve oranla miktar	3
+8A	142	5	K	V		orandan uygun daire grafiğini seçme	2
+8A	142	6	K	V		daire grafiğinde yüzde değişim	3
+8A	142	7	K	V		daire grafiği açılarıyla uzunluk	3
+8A	142	8	K	V		iki daire grafiğini birlikte yorumlama	4
+8A	143	1	I	V		sütun ve daire grafiğini birlikte kullanma, en az	4
+8A	143	2	I	V		sütun ve daire grafiğini birlikte kullanma, en az toplam	4
+8A	143	3	I	V		daire ve sütun grafiğinden birim başına üretim karşılaştırma	4
+8A	143	4	I	V		daire ve sütun grafiğinden birim başına üretim karşılaştırma	4
+8A	144	5	I	V		sütun grafiği ve yüzde değişimle uygun daire grafiği	4
+8A	144	6	I	V		sütun grafiği ve yüzde değişimle uygun daire grafiği	4
+8A	144	7	I	V		daire ve sütun grafiğini birleştirerek miktar	4
+8A	144	8	I	V		daire ve sütun grafiğini birleştirerek miktar	4
+8A	145	9	I	V		tablo ve sütun grafiğinden gelir, en az miktar	4
+8A	145	10	I	V		tablo ve sütun grafiğinden gelir, en az miktar	4
+8A	145	11	I	V		daire grafiği ve yüzde sütun grafiğiyle miktar	4
+8A	145	12	I	V		daire grafiği ve yüzde sütun grafiğiyle miktar	4
+8A	146	13	I	V		sütun grafiğinden daire grafiği merkez açısı	4
+8A	146	14	I	V		sütun grafiğinden daire grafiği merkez açısı	4
+8A	146	15	I	V		sütun ve daire grafiğiyle kapasite ve sıralama	4
+8A	146	16	I	V		sütun ve daire grafiğiyle kapasite ve sıralama	4
+8A	147	1	Y	V		sütun grafiğinden değişen sayıları bulup daire grafiği seçme	4
+8A	147	2	Y	V		daire grafiği ve kuralla yeni dağılımın daire grafiği	4
+8A	148	3	Y	V		daire grafiği ve yüzde tablosuyla kalan miktar	4
+8A	148	4	Y	V		iki daire grafiğini birleştirip toplam	4
+8A	149	1	K	O		olası durumları sayma (tek deney)	1
+8A	149	2	K	O		olası durumları sayma (renk birleşimleri)	2
+8A	149	3	K	O		boş yerler arasından olası durumları sayma	2
+8A	149	4	K	O		koşula uyan olası durumları sayma	3
+8A	149	5	K	O		iki seçimde farklı toplam sayısı	3
+8A	149	6	K	O		yan yana boş yer seçimi olası durumları	2
+8A	150	7	K	O		torbalarda olasılıkları karşılaştırma	2
+8A	150	8	K	O		olayların olasılıklarını karşılaştırma	2
+8A	150	9	K	O		iki özellikli nesnelerde olasılık karşılaştırma	2
+8A	150	10	K	O		eş olasılıklı olayları belirleme	2
+8A	150	11	K	O		dizilimde konuma göre olasılık karşılaştırma	3
+8A	151	1	K	O		imkânsız olayları belirleme	2
+8A	151	2	K	O		basit olayın olasılığı	1
+8A	151	3	K	O		eşit olasılıklı seçimlerde olasılık	2
+8A	151	4	K	O	Çarpanlar ve Asal Çarpanlar	sayı özelliği koşulunda olasılık	3
+8A	151	5	K	O		olasılıktan toplam ve diğer miktarı bulma	3
+8A	151	6	K	O		koşula uyan seçimin olasılığı	3
+8A	152	7	K	O		tablodan olasılık	2
+8A	152	8	K	O		eşit dilimli çarkta en az koşulu olasılığı	2
+8A	152	9	K	O		eşit olasılık için en az çıkarma	3
+8A	152	10	K	O		cisim üzerinde yön seçimi olasılığı	2
+8A	152	11	K	O		küp yüzlerinde temas olasılığı	3
+8A	152	12	K	O		boyalı ayrıta göre temas olasılığı	3
+8A	153	1	I	O	Çarpanlar ve Asal Çarpanlar	sayı koşullu kodlarda olası durum sayısı	3
+8A	153	2	I	O	Çarpanlar ve Asal Çarpanlar	sayı koşullu kodlarda olası durum sayısı	3
+8A	153	3	I	O		kesim sonrası parça içeriği olasılığı	4
+8A	153	4	I	O		kesim sonrası parça içeriği olasılığı	4
+8A	154	5	I	O		ekleme sonrası olasılıkların değişimi	3
+8A	154	6	I	O		ekleme sonrası olasılığı artanları sayma	3
+8A	154	7	I	O	Çarpanlar ve Asal Çarpanlar	asal sayı olasılığı verilince n en fazla	3
+8A	154	8	I	O	Çarpanlar ve Asal Çarpanlar	asal sayı olasılığı verilince n en fazla	3
+8A	155	9	I	O	Çember	yüzde büyümeyle sığma koşulu, olasılık	4
+8A	155	10	I	O	Çember	yüzde büyümeyle sığma koşulu, olasılık	4
+8A	155	11	I	O		eş dilimlerle alan oranı koşulunun olasılığı	4
+8A	155	12	I	O		eş dilimlerle alan oranı koşulunun olasılığı	4
+8A	156	13	I	O	EBOB - EKOK Problemleri	eşit olasılık koşulunda eklenen miktar, olamayan değer	4
+8A	156	14	I	O	EBOB - EKOK Problemleri	eşit olasılık koşulunda eklenen miktar, olamayan değer	4
+8A	156	15	I	O	Tam Kare Sayılar	karekökün en yakın tam sayısı koşuluyla olasılık	4
+8A	156	16	I	O	Tam Kare Sayılar	karekökün en yakın tam sayısı koşuluyla olasılık	4
+8A	157	17	I	O		toplam tutar ve olasılıklardan adetler, istenen olasılık	4
+8A	157	18	I	O		toplam tutar ve olasılıklardan adetler, istenen olasılık	4
+8A	157	19	I	O	Çarpanlar ve Asal Çarpanlar	sayı özelliği koşullarıyla seçim olasılığı	4
+8A	157	20	I	O	Çarpanlar ve Asal Çarpanlar	sayı özelliği koşullarıyla seçim olasılığı	4
+8A	158	21	I	O		koşullu miktarlardan olasılık en fazla	4
+8A	158	22	I	O		koşullu miktarlardan olasılık en fazla	4
+8A	158	23	I	O	Veri Analizi	daire grafiği ve koşulla olasılık, olamayan değer	4
+8A	158	24	I	O	Veri Analizi	daire grafiği ve koşulla olasılık, olamayan değer	4
+8A	159	1	Y	O		düzenekte seçime göre düşme olasılığı en fazla	4
+8A	159	2	Y	O		kurallı yol seçiminde belirli yerden geçme olasılığı	4
+8A	160	3	Y	O		bükülen parçalarda aynı renk olasılığı	4
+8A	160	4	Y	O		bükülen parçalarda farklı renk olasılığı	4
+8A	161	5	Y	O		ekleme sonrası olasılık değişiminden ilk durum	4
+8A	161	6	Y	O	Çarpanlar ve Asal Çarpanlar	olasılık ve sayı koşullarıyla toplam en az	4
+8A	162	7	Y	O		kurallı dönüşümler sonrası olasılık	4
+8A	162	8	Y	O		kurallı dönüşümler sonrası olasılık	4
+8A	163	1	K	C1		terim, katsayı, sabit terim ve değişken sayısı	1
+8A	163	2	K	C1		cebirsel ifadenin özelliklerini doğru/yanlış belirleme	1
+8A	163	3	K	C1		dağılma özelliğiyle sadeleştirme	2
+8A	163	4	K	C1		iki durumdan fark ifadesi yazma	2
+8A	163	5	K	C1		alış-satış ifadelerinden kâr ifadesi	2
+8A	163	6	K	C1		iki terimlinin çarpımı	2
+8A	164	7	K	C1		eş dikdörtgenlerden oluşan şeklin çevre ifadesi	3
+8A	164	8	K	C1		dikdörtgen alanı ifadesi (iki terimli çarpımı)	2
+8A	164	9	K	C1		çarpım sonucunda bir terimin katsayısı	2
+8A	164	10	K	C1		kesilen parça sonrası kalan alan ifadesi	3
+8A	164	11	K	C1		iç bölge alanı ifadesi	3
+8A	164	12	K	C1		cebir karolarıyla modellenen çarpım	2
+8A	165	1	K	C2		özdeşlik olmayan eşitliği belirleme	2
+8A	165	2	K	C2		(a+b)² açılımı	1
+8A	165	3	K	C2		iki değişkenli (a+b)² açılımı	1
+8A	165	4	K	C2		(a−b)² açılımı	1
+8A	165	5	K	C2		iki değişkenli (a−b)² açılımı	1
+8A	165	6	K	C2		özdeşlikteki bilinmeyen katsayılar	3
+8A	165	7	K	C2		alan modeliyle tam kare özdeşliği	2
+8A	165	8	K	C2		kesilen şeritler sonrası kalan kare alanı	3
+8A	166	9	K	C2		çerçeve içi kare alanının ifadesi	3
+8A	166	10	K	C2		parçalar çıkarılınca kalan alan ifadesi	3
+8A	166	11	K	C2		iki kare alanı farkı ifadesi	3
+8A	166	12	K	C2	Daire alanı	daire alanında tam kare açılımı	3
+8A	166	13	K	C2		bağlamda (x+y)² ifadesi	2
+8A	166	14	K	C2		a+b ve a²+b² verilince ab	3
+8A	166	15	K	C2		a−b ve ab verilince a²+b²	3
+8A	167	1	K	C2		iki kare farkı özdeşliği	1
+8A	167	2	K	C2		katsayılı iki kare farkı	1
+8A	167	3	K	C2		sabitli iki kare farkı	1
+8A	167	4	K	C2		kesirli terimlerle iki kare farkı	2
+8A	167	5	K	C2		kalan alanı iki kare farkı olarak yazma	2
+8A	167	6	K	C2		kesilen kare sonrası kalan alanın çarpanlara ayrılmış hali	2
+8A	167	7	K	C2		katlayıp kesme sonrası kalan alan ifadesi	3
+8A	168	8	K	C2		köşelerden kare kesilince kalan alan ifadesi	3
+8A	168	9	K	C2		iki kare farkıyla sayısal hesap	2
+8A	168	10	K	C2		alan farkı ve kenar farkından kenar toplamı	3
+8A	168	11	K	C2		kalan alan ve kenar toplamından kenar farkı	3
+8A	168	12	K	C2		katlayıp kesme sonrası kalan alan ifadesi	3
+8A	168	13	K	C2		iki kare farkıyla çıkarılan kare sayısı	3
+8A	169	1	K	C3		ortak çarpan parantezine alma	1
+8A	169	2	K	C3		çarpanlara ayırmada yanlışı bulma	2
+8A	169	3	K	C3		ortak iki terimli çarpanı dışarı alma	2
+8A	169	4	K	C3		işaret değiştirerek ortak çarpan bulma	2
+8A	169	5	K	C3	Özdeşlikler	ortak çarpan sonra iki kare farkı	3
+8A	169	6	K	C3	Özdeşlikler	çarpanlarından biri olmayan ifadeyi bulma	3
+8A	169	7	K	C3	Özdeşlikler	tam kare ifadenin çarpanı	2
+8A	170	8	K	C3	Özdeşlikler	açılımdan tam kare özdeşliğine dönme	2
+8A	170	9	K	C3	Özdeşlikler	alan ifadesinden kare kenarı	2
+8A	170	10	K	C3	Özdeşlikler	tam kare olma koşulunda katsayı	3
+8A	170	11	K	C3	Özdeşlikler	tam kare olma koşulunda katsayı değerlerinin çarpımı	3
+8A	170	12	K	C3	Özdeşlikler	tam kare özdeşliğiyle sayısal değer	2
+8A	170	13	K	C3	Kareköklü İfadeler	kareköklü değerlerle tam kare özdeşliği	3
+8A	171	1	I	C2		çerçeve modelinde iç bölge alanı ifadesi	3
+8A	171	2	I	C2		çerçeve modelinde iç bölge alanı ifadesi	3
+8A	171	3	I	C2		sembol kurallarıyla tam kare ifadesini modelleme	3
+8A	171	4	I	C2		sembol kurallarıyla tam kare ifadesini modelleme	3
+8A	172	5	I	C1	Özdeşlikler	alan karolarıyla ifadeyi modelleme	3
+8A	172	6	I	C1	Özdeşlikler	alan karolarıyla ifadeyi modelleme	3
+8A	172	7	I	C2		kaydırılan parçalarla görünen alan ifadesi	4
+8A	172	8	I	C2		kaydırılan parçalarla görünen alan ifadesi	4
+8A	173	9	I	C1		dizilimden kenarları bulup alan farkı ifadesi	3
+8A	173	10	I	C3	Özdeşlikler	çevreden kenar, tam kare biçiminde alan	4
+8A	173	11	I	C1		kesip birleştirmede alan ifadesi	4
+8A	173	12	I	C1		kesip birleştirmede kalan alan ifadesi	4
+8A	174	13	I	C2		parçalara ayırmada bir parçanın alan ifadesi	4
+8A	174	14	I	C2		parçalara ayırmada bir parçanın alan ifadesi	4
+8A	174	15	I	C2		açılan kapakla oluşan bölgenin alan ifadesi	4
+8A	174	16	I	C2		açılan kapakla oluşan bölgenin alan ifadesi	4
+8A	175	17	I	C1		dizilen parça sayısı ve uzunluk ifadesinin çarpımı	4
+8A	175	18	I	C1		dizilen parça sayısı ve uzunluk ifadesinin çarpımı	4
+8A	175	19	I	C1	Özdeşlikler	açılan kapaklarla dizilimde alan ifadesi	4
+8A	175	20	I	C1	Özdeşlikler	açılan kapaklarla dizilimde alan ifadesi	4
+8A	176	21	I	C2		alan toplamından kare alanını tam kare olarak yazma	4
+8A	176	22	I	C2		alan toplamından kare alanını tam kare olarak yazma	4
+8A	176	23	I	C2		tangram parçalarıyla alan ifadesi	4
+8A	176	24	I	C2	Kareköklü İfadeler	köşegenden kenar ve çerçeveli alan ifadesi	4
+8A	177	1	Y	C2		iki uzaklığın çarpımını iki kare farkı olarak yazma	4
+8A	177	2	Y	C2		üst üste gelen tam kare alandan boyalı alan ifadesi	4
+8A	178	3	Y	C1		devrilen cisimden kenarları bulup yüz alanı ifadesi	4
+8A	178	4	Y	C2		kesilen parçalarla oluşan boşluğun alan ifadesi	4
+8A	179	5	Y	C2		yapıştırma ile kenarları ifade edip alan	4
+8A	179	6	Y	C1		katlama sonrası bölgenin alan ifadesi	4
+8A	180	7	Y	C1		kâr ifadesi ile maliyetin çarpımı	4
+8A	180	8	Y	C2	Daire alanı	kareli zeminde daire parçalarının alan ifadesi	4
+8A	181	1	K	D1		basit birinci dereceden denklem	1
+8A	181	2	K	D1		parantezli denklem	1
+8A	181	3	K	D1		orantı biçimindeki denklem	2
+8A	181	4	K	D1		oran ve ondalık sayılı denklem	2
+8A	181	5	K	D1		kesirli denklem	2
+8A	181	6	K	D1		kesirli denklem	2
+8A	182	7	K	D1		çok terimli kesirli denklem	2
+8A	182	8	K	D1		ondalıklı denklem	2
+8A	182	9	K	D1		eşitlik kurarak bilinmeyen ve toplam	3
+8A	182	10	K	D1		çevreler eşitliğinden denklem	2
+8A	182	11	K	D1	Cebirsel İfadeler	çarpım tablosundan denklem kurma	3
+8A	182	12	K	D1		denge koşulundan denklem	3
+8A	183	1	K	D1		sözel ifadeyi denkleme çevirme	1
+8A	183	2	K	D1		iki miktar arası ilişki ve toplamdan denklem	2
+8A	183	3	K	D1		kesip birleştirmede toplam uzunluktan denklem	3
+8A	183	4	K	D1		sözel ifadeyi denkleme çevirme	1
+8A	183	5	K	D1		çevreler arası ilişkiden denklem	2
+8A	183	6	K	D1		sıra numaraları ve toplamdan denklem	2
+8A	184	7	K	D1		değişim sonrası ilişkiden ilk durum	3
+8A	184	8	K	D1		yerleşme problemi (fazla/eksik kalma)	3
+8A	184	9	K	D1		eşit dağıtımda eksilen kap ile toplam	3
+8A	184	10	K	D1		yaş problemi	2
+8A	184	11	K	D1		uzaklıklar toplamından denklem	2
+8A	184	12	K	D1		doğru-yanlış puanlama problemi	3
+8A	185	1	K	D1		problemi temsil eden denklemi seçme	2
+8A	185	2	K	D1		boşluk ve taşma ile uzunluk denklemi	3
+8A	185	3	K	D1		sayılar arası ilişkiler ve toplam puan	3
+8A	185	4	K	D1		iki birim fiyat ve toplam adetle denklem	2
+8A	185	5	K	D1		kesirli doluluk oranıyla hacim	2
+8A	185	6	K	D1		ardışık kesirli kısımlar ve kalan	3
+8A	186	7	K	D1		artan ve azalan miktarların eşitlenmesi	2
+8A	186	8	K	D1		kesirli tekrar eden azalma ile başlangıç değeri	3
+8A	186	9	K	D1		kesirli grup ve fiyatlarla toplam tutar	3
+8A	186	10	K	D1		kesirli aktarma sonrası eşitlik	3
+8A	186	11	K	D1		geçiş sonrası oran koşulu, ilk durum	3
+8A	186	12	K	D1		oran ilişkilerinden toplam	3
+8A	187	1	I	D1		dizilimden birim uzunluğu bulup sığan en fazla adet	4
+8A	187	2	I	D1		dizilimden birim uzunluğu bulup sığan en fazla adet	4
+8A	187	3	I	D1		kesilen parçalar arası ilişkiyle ilk uzunluk	3
+8A	187	4	I	D1		parça uzunlukları ilişkisiyle toplam uzaklık	4
+8A	188	5	I	D1		yükseklik oranı ve hizalanmadan adet	4
+8A	188	6	I	D1		yükseklik ilişkisi ve hizalanmadan adet	4
+8A	188	7	I	D1		yüzde ve miktar boşaltma sonrası ilişkiden toplam	3
+8A	188	8	I	D1		ardışık yüzde boşaltma sonrası farktan kapasite	3
+8A	189	9	I	D1		basamak uzunlukları ilişkisiyle toplam uzunluk	4
+8A	189	10	I	D1		basamak uzunlukları ilişkisiyle toplam uzunluk	4
+8A	189	11	I	D1		iki seçenekte gider farkından miktar	4
+8A	189	12	I	D1		kesirli dağılım ve gelir farkından toplam	4
+8A	190	13	I	D1		vergi dahil toplam tutardan adet	4
+8A	190	14	I	D1		vergi dahil toplam tutardan adet	4
+8A	190	15	I	D1		yüzde alan ve sayı ilişkisinden toplam kişi	4
+8A	190	16	I	D1		yüzde alan ve sayı ilişkisinden toplam kişi	4
+8A	191	17	I	D1		konum ve kesirli ilişkiyle kalan uzunluk	3
+8A	191	18	I	D1		konum ve kesirli ilişkiyle kalan uzunluk	3
+8A	191	19	I	D1		eşit toplam enlerden birim en ve toplam	4
+8A	191	20	I	D1		eşit toplam enlerden birim en, sığan en fazla	4
+8A	192	21	I	D1		yüzde fazla ilişkisi ve toplam tüketim	3
+8A	192	22	I	D1		yüzde ilişkisi, fiyat ve toplam tutardan miktar	4
+8A	192	23	I	D1		ekleme sonrası yüzde oranından toplam	4
+8A	192	24	I	D1		ekleme sonrası yüzde oranından ilk miktar	4
+8A	193	1	Y	D1		kaydırılan parçalarla uzunluk ilişkisi	4
+8A	193	2	Y	D1		yükseklik ilişkilerinden toplam	4
+8A	194	3	Y	D1		dizilim sayıları ilişkisinden toplam	4
+8A	194	4	Y	D1		genişlik toplamı koşulu, adet en küçük ve en büyük	4
+8A	195	5	Y	D1		iki yerleşimden uzunluk ilişkisi, çevre	4
+8A	195	6	Y	D1		yapıştırma ile kenar ilişkisi, alan	4
+8A	196	7	Y	D1		orantılı dağıtım sonrası eşitlik, en az	4
+8A	196	8	Y	D1	Doğrusal Denklemler	tablodaki doğrusal ilişkiden miktar	4
+8A	197	1	K	D2		noktaların koordinatlarını okuma	1
+8A	197	2	K	D2		bölge ve eksen üzerindeki noktalar	2
+8A	197	3	K	D2		eksen üzerinde olma koşulundan bilinmeyen	2
+8A	197	4	K	D2		eksen koşulundan diğer noktanın bölgesi	3
+8A	197	5	K	D2		bölge işaretlerinden diğer noktanın bölgesi	2
+8A	197	6	K	D2		orijin değişince koordinatlar	3
+8A	198	7	K	D2		verilen koordinatlara göre orijin ve nokta	3
+8A	198	8	K	D2		bir noktanın koordinatından diğerleri	3
+8A	198	9	K	D2		koordinatlarla çizim adımları	2
+8A	198	10	K	D2		köşe koordinatlarıyla alan	2
+8A	198	11	K	D2		noktanın eksenlere uzaklığı	2
+8A	198	12	K	D2		bölge ve eksen uzaklıklarından koordinat	2
+8A	199	1	K	D2		iki nokta arası uzaklık (eksene paralel)	1
+8A	199	2	K	D2		doğru parçasının orta noktası	2
+8A	199	3	K	D2		karenin dördüncü köşesi	2
+8A	199	4	K	D2		paralelkenarın dördüncü köşesi	3
+8A	199	5	K	D2		koordinatlarla üçgen alanı	3
+8A	199	6	K	D2		köşegen uçlarından dikdörtgen çevresi	3
+8A	200	7	K	D2		çevreden köşe koordinatı	2
+8A	200	8	K	D2		uzaklık koşuluna uyan nokta, olamayan	3
+8A	200	9	K	D2		ikizkenar dik üçgende köşe koordinatı	3
+8A	200	10	K	D2		koordinatlı hedefte kurallı puanlama	4
+8A	200	11	K	D2		iki nokta uzaklığından bilinmeyen	3
+8A	200	12	K	D2		karenin köşegeni üzerindeki noktalar	3
+8A	201	1	K	D3		eksene paralel doğrunun denklemi	1
+8A	201	2	K	D3		y = sabit doğrusunun grafiği	1
+8A	201	3	K	D3		x eksenine paralel doğrunun denklemi	1
+8A	201	4	K	D3		doğrularla sınırlı bölgenin çevresi	2
+8A	201	5	K	D3		doğrular ve eksenlerle sınırlı bölgenin alanı	2
+8A	201	6	K	D3		iki paralel doğru arası uzaklık	2
+8A	202	7	K	D3		y = mx doğrusunun grafiği	1
+8A	202	8	K	D3		orantılı doğrunun grafiği	1
+8A	202	9	K	D3		denklemin grafiğini seçme	2
+8A	202	10	K	D3		orijinden geçmeyen doğruyu belirleme	2
+8A	202	11	K	D3		grafikten doğru denklemi	2
+8A	202	12	K	D3		grafik ve denklemden bilinmeyen	2
+8A	203	1	K	D3		eksenleri kestiği noktalardan grafiği seçme	2
+8A	203	2	K	D3		eksenleri kestiği noktalardan grafiği seçme	2
+8A	203	3	K	D3		eksenleri kestiği noktalardan grafiği seçme	2
+8A	203	4	K	D3		kesirli denklemin grafiği	2
+8A	203	5	K	D3		grafikten doğru denklemi	2
+8A	203	6	K	D3		doğru ile eksenler arasındaki bölgenin alanı	3
+8A	204	7	K	D3		doğru üzerindeki noktayı belirleme	1
+8A	204	8	K	D3		doğru üzerindeki noktadan bilinmeyen	2
+8A	204	9	K	D3		doğru üzerindeki noktadan bilinmeyen	2
+8A	204	10	K	D3		grafikten denklemdeki bilinmeyen	2
+8A	204	11	K	D3		doğru üzerindeki noktalardan bilinmeyenlerin toplamı	3
+8A	204	12	K	D3		köşesi doğru üzerinde olan dikdörtgenin çevresi	3
+8A	204	13	K	D3		iki doğru ve eksenlerle sınırlı alan	3
+8A	205	1	K	D3		tablodan doğrusal ilişki denklemi	2
+8A	205	2	K	D3		tablodan doğrusal ilişki denklemi	2
+8A	205	3	K	D3		denklemden tablodaki bilinmeyenler	2
+8A	205	4	K	D3		tablodaki doğrusal ilişkiye uymayan değer	3
+8A	205	5	K	D3		tablodaki doğrusal ilişkiye uymayan değer	3
+8A	205	6	K	D3		doğrusal ilişki gösteren tabloyu seçme	2
+8A	206	7	K	D3		bağımlı ve bağımsız değişkeni belirleme	1
+8A	206	8	K	D3		sabit artışlı durumun denklemi	2
+8A	206	9	K	D3		sabit azalışlı durumun ifadesi	2
+8A	206	10	K	D3		doğrusal ilişki denkleminden değer	2
+8A	206	11	K	D3		sabit ve birim ücretli ilişkiden değer	3
+8A	206	12	K	D3		açılış ve birim ücretten mesafe	2
+8A	207	1	K	D3		grafikten doğrusal ilişki denklemi ve değer	2
+8A	207	2	K	D3		durumu gösteren grafiği seçme	2
+8A	207	3	K	D3		grafikteki doğrusal ilişkiden değer	3
+8A	207	4	K	D3		grafikteki doğrusal ilişkiden zaman	3
+8A	207	5	K	D3		azalan grafikten denklem	3
+8A	207	6	K	D3		azalan grafikte bitiş zamanı	3
+8A	208	7	K	D3		iki doğrusal grafikte fark	3
+8A	208	8	K	D3		iki doğrusal grafikte eşitlik zamanı	3
+8A	208	9	K	D3		ardışık iki grafiği zincirleme kullanma	3
+8A	208	10	K	D3		iki grafikte kalan miktar	3
+8A	208	11	K	D3		grafikten doğrusal ilişkiyle zaman	3
+8A	208	12	K	D3		iki grafikte eşit olma zamanı	3
+8A	209	1	I	D2		koordinatlarla konum kuralından nokta	3
+8A	209	2	I	D2		koordinatlarla bölge puanları	3
+8A	209	3	I	D3		doğrular ve eksenler arası alan, birim başına miktar	4
+8A	209	4	I	D3		doğrular ve eksenler arası alan, birim başına miktar	4
+8A	210	5	I	D3		dizilimde çevrenin doğrusal ilişkisi	3
+8A	210	6	I	D3		dizilimde çevrenin doğrusal ilişkisinden adet	3
+8A	210	7	I	D3		iki doğrusal grafikte eşit olma zamanı	3
+8A	210	8	I	D3		iki doğrusal grafikte belirli fark zamanı	3
+8A	211	9	I	D3		iki doğrusal grafikten bitiş zamanı	3
+8A	211	10	I	D3		iki doğrusal grafikten belirli andaki fark	3
+8A	211	11	I	D3		iki doğrusal grafikten belirli andaki fark	3
+8A	211	12	I	D3		iki doğrusal grafikte farkın değeri için zaman	3
+8A	212	13	I	D3		azalan grafikler ve tabloyla en büyük değişimi seçme	4
+8A	212	14	I	D3		azalan/artan grafikler ve tabloyla değişimi seçme	4
+8A	212	15	I	D3		iki doğrusal grafik ve fiyatla toplam tutar	4
+8A	212	16	I	D3		iki doğrusal grafik ve fiyatla toplam tutar	4
+8A	213	1	Y	D2	Kareköklü İfadeler	köşegen bağıntısı ve koordinatlarla konum	4
+8A	213	2	Y	D2		orta nokta kuralıyla koordinat	4
+8A	214	3	Y	D3		doğrunun ötelenmiş halinin denklemi	4
+8A	214	4	Y	D3		doğrular arasındaki bölgede nokta	3
+8A	215	5	Y	D3	Kareköklü İfadeler	köşegen bağıntısı ve doğru üzerinde konum aralığı	4
+8A	215	6	Y	D3		tablodaki sabit + birim ilişkisinden değer	3
+8A	216	7	Y	D3		iki doğrusal grafikte belirli fark zamanı	4
+8A	216	8	Y	D3		iki doğrusal grafikte belirli mesafe zamanı	4
+8A	217	1	K	D4		dikey/yatay oranla eğim	1
+8A	217	2	K	D4		kareli zeminde eğim	1
+8A	217	3	K	D4		dayalı nesnenin eğimi	1
+8A	217	4	K	D4		doğru parçalarının eğimleri, olamayan değer	2
+8A	217	5	K	D4		eğim sınırına göre karşılaştırma	2
+8A	218	6	K	D4		oranla eğimin yüzdesi	2
+8A	218	7	K	D4		eğimden yatay uzaklık	2
+8A	218	8	K	D4		bir eğimden diğer eğimi bulma	3
+8A	218	9	K	D4		basamak ölçüleriyle eğim	1
+8A	218	10	K	D4		eğimi yüzde olarak bulma	2
+8A	218	11	K	D4		eğimden basamaklı yapının genişliği	3
+8A	219	1	K	D4		yükseklik farkı ve yatay uzaklıkla eğim	2
+8A	219	2	K	D4		ölçülerden eğim hesaplama	2
+8A	219	3	K	D4		eğimi istenen yüzdeye indirmek için yükseklik değişimi	3
+8A	219	4	K	D4		eğimden uzunluk bulma	3
+8A	219	5	K	D4		alan ve eğimden uzunluk	3
+8A	220	6	K	D4		parçalardan iki nokta arası eğim	3
+8A	220	7	K	D4		eşit eğimle kaydırma sonrası uzaklık	4
+8A	220	8	K	D4		eğim sınırıyla en fazla yatay uzaklık	3
+8A	220	9	K	D4		iki eğimden toplam yatay uzunluk	3
+8A	221	1	K	D4		negatif eğimli doğruyu belirleme	1
+8A	221	2	K	D4		grafikten doğrunun eğimi	1
+8A	221	3	K	D4		grafikten doğrunun eğimi	1
+8A	221	4	K	D4		grafikten negatif eğim	2
+8A	221	5	K	D4		eksenleri kestiği noktalardan eğim	2
+8A	221	6	K	D4		orijin ve bir noktadan eğim	2
+8A	222	7	K	D4		denklemden eğim	2
+8A	222	8	K	D4		eğimden denklemdeki katsayı	2
+8A	222	9	K	D4		iki doğrunun eğimleri çarpımı	2
+8A	222	10	K	D4		eğimden noktanın ordinatı	2
+8A	222	11	K	D4		noktadan geçme koşulu ve eğim	3
+8A	222	12	K	D4		eğimi verilen iki noktayı seçme	2
+8A	222	13	K	D4		eğim ve noktadan geçen doğrunun geçtiği nokta	3
+8A	223	1	I	D4		kareli zeminde yolların eğimiyle hedefe ulaşma	3
+8A	223	2	I	D4		kareli zeminde yolların eğimiyle hedefe ulaşma	3
+8A	223	3	I	D4		eğimi değişen yolda ulaşılan nokta	4
+8A	223	4	I	D4		eğimi değişen yolda ulaşılan nokta	4
+8A	224	5	I	D4		eşit eğimli iki yol koşuluyla nokta	4
+8A	224	6	I	D4		eşit eğimli iki yol koşuluyla nokta	4
+8A	224	7	I	D4		yüzde eğim ve basamak ölçüleriyle eğim	4
+8A	224	8	I	D4		eğim ve basamak ölçüleriyle eğim	4
+8A	225	9	I	D4		eşit eğimlerden yükseklik	4
+8A	225	10	I	D4		eşit eğimlerden yükseklik	4
+8A	225	11	I	D4		istenen eğim için taşınacak nokta	3
+8A	225	12	I	D4		istenen eğim için taşınacak nokta	3
+8A	226	13	I	D4	Pisagor Bağıntısı	eğimden kenarlar ve eğik uzunluk	4
+8A	226	14	I	D4	Pisagor Bağıntısı	eğimden kenarlar ve eğik uzunluk	4
+8A	226	15	I	D4		eğimler oranından uzaklık	4
+8A	226	16	I	D4		eğimler oranından uzaklık	4
+8A	227	1	Y	D4		devrilmeyle konum ve iki nokta arası eğim	4
+8A	227	2	Y	D4		eğim korunarak hedefe uzaklık	4
+8A	228	3	Y	D4		yükseklik değişimi ve eğim	4
+8A	228	4	Y	D4		eğimler oranından uzunluk	4
+8A	229	1	K	E		"en az" ifadesini eşitsizlikle yazma	1
+8A	229	2	K	E		"en fazla" ifadesini eşitsizlikle yazma	1
+8A	229	3	K	E		"az" ifadesini eşitsizlikle yazma	1
+8A	229	4	K	E		sınır aşımını eşitsizlikle yazma	2
+8A	229	5	K	E		bağlamdan eşitsizlik kurma	2
+8A	229	6	K	E		iki sınırlı aralığı eşitsizlikle yazma	3
+8A	230	7	K	E		tolerans payıyla aralık	2
+8A	230	8	K	E		seçimlere göre tutar aralığı	3
+8A	230	9	K	E		indirim sonrası fiyat aralığı	3
+8A	230	10	K	E		hata payıyla gerçek değer aralığı	2
+8A	230	11	K	E		değişim aralığıyla tutar aralığı	3
+8A	230	12	K	E		ardışık değişimlerle değer aralığı	3
+8A	231	1	K	E		denge durumundan eşitsizlik yazma	2
+8A	231	2	K	E		eşitsizliği sayı doğrusunda gösterme	1
+8A	231	3	K	E		sayı doğrusundaki gösterimden eşitsizlik	2
+8A	231	4	K	E		bağlamdaki aralığın sayı doğrusu gösterimi	2
+8A	231	5	K	E		eşitsizliği sağlayan doğal sayıların toplamı	2
+8A	231	6	K	E		eşitsizliği sağlayan en büyük tam sayı	2
+8A	232	7	K	E		kesirli eşitsizlikte en büyük tam sayı	2
+8A	232	8	K	E		kesirli eşitsizlikte en büyük tam sayı	2
+8A	232	9	K	E		çok terimli kesirli eşitsizlikte en küçük tam sayı	3
+8A	232	10	K	E		eşitsizlik çözümünün sayı doğrusu gösterimi	2
+8A	232	11	K	E		aralıklardan ifadenin en büyük değeri	3
+8A	232	12	K	E		tanımlı kural ve eşitsizlikle en küçük değer	4
+8A	233	1	K	E		uzunluk ilişkisinden en büyük doğal sayı	3
+8A	233	2	K	E		süre ilişkisinden en az değer	3
+8A	233	3	K	E		olası puan aralığını eşitsizlikle yazma	3
+8A	233	4	K	E		kapasite sınırıyla en fazla değer	3
+8A	233	5	K	E		iki denge durumundan değer aralığı	3
+8A	233	6	K	E	Üçgenin Kenarları Arasındaki İlişki	uzunluk ilişkisi ve eşitsizlikle en az değer	3
+8A	234	7	K	E		miktar aralığı ve gelir sınırıyla en az fiyat	4
+8A	234	8	K	E		indirim aralığıyla ödeme farkı en az	4
+8A	234	9	K	E		ilişkilerden değer aralığı	3
+8A	234	10	K	E		kâr koşulundan en az fiyat	3
+8A	234	11	K	E		taşıma sınırıyla en fazla adet	2
+8A	234	12	K	E		puanlama ve sınırla en fazla yanlış	4
+8A	235	1	I	E		kâr koşulundan en az satış	3
+8A	235	2	I	E		kâr koşulundan en az satış	3
+8A	235	3	I	E		düzenli birikimde geçme zamanı, en az	3
+8A	235	4	I	E		düzenli birikimde geçme zamanı, en az	3
+8A	236	5	I	E		aralığa göre değişen fiyat tablosuyla toplam	3
+8A	236	6	I	E		aralığa göre değişen fiyat tablosuyla en fazla toplam	3
+8A	236	7	I	E		yükseklik sınırıyla en büyük tam sayı ayrıt	3
+8A	236	8	I	E		yükseklik sınırıyla en büyük tam sayı ayrıt	3
+8A	237	9	I	E		uzunluk sınırıyla en büyük tam sayı kenar	3
+8A	237	10	I	E		uzunluk sınırıyla en büyük tam sayı kenar	3
+8A	237	11	I	E		tablodaki aralıklar ve koşulla değer aralığı	4
+8A	237	12	I	E		tablodaki aralıklar ve koşulla değer aralığı	4
+8A	238	13	I	E		çoklu kapasite koşuluyla en fazla	4
+8A	238	14	I	E		çoklu kapasite koşuluyla en fazla	4
+8A	238	15	I	E		ilişkiler ve toplamla en az değer	4
+8A	238	16	I	E		ilişkiler ve toplamla en az değer	4
+8A	239	1	Y	E		aralık koşulu ve farklardan uzunluk	4
+8A	239	2	Y	E		kademeli kazanç kuralı ve sınırla en fazla	4
+8A	240	3	Y	E		çoklu koşullardan değeri belirleme	4
+8A	240	4	Y	E		kesirli kısım ve yer değiştirmede en az uzunluk	4
+8A	241	5	Y	E		farklı paylaştırma koşuluyla en az miktar	4
+8A	241	6	Y	E		ücret ilişkisi ve sınırla en az değer	4
+8A	242	7	Y	E		oran aralığıyla mesafe koşulunu sağlayan seçenek	4
+8A	242	8	Y	E		oran aralığıyla mesafe, en fazla	4
+8A	243	1	K	T1		kenarortay tanımı	1
+8A	243	2	K	T1		eşit parçalara ayıran doğru parçası (kenarortay)	1
+8A	243	3	K	T1		kenarortayların özellikleri	2
+8A	243	4	K	T1	Birinci Dereceden Denklemler	kenarortay ile kenar uzunluğu	2
+8A	243	5	K	T1		açıortay tanımı	1
+8A	243	6	K	T1		açılardan yardımcı elemanı belirleme	2
+8A	244	7	K	T1		uzunluk ve diklik bilgisiyle yardımcı eleman türü	2
+8A	244	8	K	T1		açıortaylarla açı hesabı	3
+8A	244	9	K	T1		yükseklik tanımı	1
+8A	244	10	K	T1		yükseklikle ilgili yorumlarda yanlışı bulma	2
+8A	244	11	K	T1		yardımcı elemanların çakıştığı üçgen türü	2
+8A	244	12	K	T1		kenarın yükseklik olduğu üçgen	2
+8A	245	1	K	T1		kareli zeminde kenarortayı belirleme	1
+8A	245	2	K	T1		kareli zeminde kenarortayı belirleme	2
+8A	245	3	K	T1		kareli zeminde yüksekliği belirleme	2
+8A	245	4	K	T1		kareli zeminde yükseklik uzunluğu	2
+8A	245	5	K	T1		kareli zeminde açıortayın geçtiği nokta	2
+8A	245	6	K	T1		yüksekliğin geçmesi için köşe seçimi	3
+8A	246	7	K	T1		yükseklik ve açıortayın çakışmasıyla üçgen türü	2
+8A	246	8	K	T1		yükseklik kesişim noktasından olamayan açı	3
+8A	246	9	K	T1		yardımcı eleman uzunluklarını sıralama	3
+8A	246	10	K	T1		yüksekliklerin kesişimine göre üçgen türü	2
+8A	246	11	K	T1	Üçgende Açı Kenar Bağıntıları	dış açılar ve açıortayla açı	3
+8A	246	12	K	T1		açıortaylarla oluşan açı	3
+8A	247	1	I	T1		katlama iziyle yardımcı eleman türü	3
+8A	247	2	I	T1		katlama sonrası oluşan üçgenin çevresi	3
+8A	247	3	I	T1		katlama iziyle yardımcı eleman türü	3
+8A	247	4	I	T1		katlama sonrası oluşan üçgenin çevresi	3
+8A	248	5	I	T1		köşeleri çakıştıran katlamanın izi (kenar orta dikme)	3
+8A	248	6	I	T1		birleştirmede kenarortayın geçtiği nokta	4
+8A	248	7	I	T1	Üçgen Çizimleri	pergelle çizim adımlarından yardımcı eleman	3
+8A	248	8	I	T1	Üçgen Çizimleri	pergelle çizim adımlarından yardımcı eleman	3
+8A	249	1	Y	T1		uzunluk bilgisinden yardımcı eleman doğrultusu	4
+8A	249	2	Y	T1	Üçgende Açı Kenar Bağıntıları	kesim sonrası açılardan yardımcı eleman	4
+8A	250	3	Y	T1	Üçgende Açı Kenar Bağıntıları	kesim sonrası açılardan yardımcı eleman	4
+8A	250	4	Y	T1		kesim sonrası kenar eşitliğinden yardımcı eleman	4
+8A	251	5	Y	T1		kesim sonrası eşit kenarlardan olamayacak yardımcı eleman	4
+8A	251	6	Y	T1		kesim sonrası yardımcı elemanların yerinin değişimi	4
+8A	252	7	Y	T1		karede açıortay ve kenarortayla uzunluk	4
+8A	252	8	Y	T1		kenar ortasından karşı köşeye yolların kesişimi	3
+8A	253	1	K	T2		iki kenar verilince üçüncü kenarın alabileceği değer	1
+8A	253	2	K	T2		üçgen oluşturamayan kenar üçlüsü	2
+8A	253	3	K	T2		iki kenar verilince olamayacak üçüncü kenar	2
+8A	253	4	K	T2		bir kenar verilince çevrenin en küçük tam sayı değeri	3
+8A	253	5	K	T2		iki kenar verilince çevrenin en küçük tam sayı değeri	2
+8A	253	6	K	T2		üçüncü kenarın alabileceği tam sayı değer sayısı	2
+8A	254	7	K	T2		iki üçgende ortak kenarın olası değer sayısı	3
+8A	254	8	K	T2		dörtgende köşegenle çevre en az	3
+8A	254	9	K	T2		birleşik üçgenlerde çevre en çok	3
+8A	254	10	K	T2		ikizkenar olmama koşuluyla olası değer sayısı	3
+8A	254	11	K	T2		katlama ile kenar ve olası değer sayısı	4
+8A	254	12	K	T2	Üçgende Açı Kenar Bağıntıları	kesim ve açı koşuluyla çevre en çok	4
+8A	255	1	K	T3		açılardan kenarları sıralama	1
+8A	255	2	K	T3		kenarlardan açıları sıralama	1
+8A	255	3	K	T3		dış açılardan kenarları sıralama	2
+8A	255	4	K	T3		açı ilişkisinden kenarları sıralama	2
+8A	255	5	K	T3		birleşik şekilde en uzun kenar	3
+8A	255	6	K	T3		açılardan en yakın iki nokta	3
+8A	256	7	K	T3		çokgende en uzun kenar	3
+8A	256	8	K	T3	Üçgende Kenarortay, Açıortay ve Yükseklik	açıortaylı dik üçgende en uzun parça	3
+8A	256	9	K	T3		kesim sonrası açıları sıralama	3
+8A	256	10	K	T3		açı-kenar ilişkisine uyan şekil	3
+8A	256	11	K	T3	Üçgenin Kenarları Arasındaki İlişki	açı koşulu ve üçgen eşitsizliğiyle çevre en küçük	3
+8A	256	12	K	T3	Üçgenin Kenarları Arasındaki İlişki	açı koşulu ve üçgen eşitsizliğiyle çevre en büyük	3
+8A	257	1	K	T4		tek üçgen çizilemeyen eleman üçlüsü	1
+8A	257	2	K	T4		pergel ve cetvelle çizilebilen üçgen	2
+8A	257	3	K	T4		çizimde gerekmeyen araç	2
+8A	257	4	K	T4		çizimde kullanılması gereken araçlar	2
+8A	257	5	K	T4		tek üçgen çizilemeyen ölçüler	2
+8A	257	6	K	T4		tek üçgen için yetersiz bilgi	2
+8A	258	7	K	T4		üçgen çizimi bilgilerinden yanlışı bulma	2
+8A	258	8	K	T4		tek çeşit belirtilmeyen üçgen	2
+8A	258	9	K	T4		çizimde kullanılabilecek araçlar	2
+8A	258	10	K	T4		çizilemeyen ölçüler	2
+8A	258	11	K	T4		pergel izlerinden kenarlar ve çevre	3
+8A	258	12	K	T4	Üçgende Açı Kenar Bağıntıları	açılar ve kenarla çevre hakkında kesin bilgi	3
+8A	259	1	I	T2	Çember çevresi	verilen toplam uzunlukla oluşabilecek üçgen	3
+8A	259	2	I	T3	Üçgenin Kenarları Arasındaki İlişki	açı koşulu ve üçgen eşitsizliğiyle çevre en küçük	4
+8A	259	3	I	T2		iç üçgenlerin çevresi için en büyük/en küçük değerler	4
+8A	259	4	I	T2		iç üçgenlerin çevresi en küçük	4
+8A	260	5	I	T3		sürelerden kenarlar, kenarlardan açılar	3
+8A	260	6	I	T3		açılardan kenarlar, kenarlardan süreler	3
+8A	260	7	I	T2		parçalardan üçgen, kenar en fazla	3
+8A	260	8	I	T2		parçalardan oluşabilecek farklı üçgen sayısı	3
+8A	261	1	Y	T3		açılardan en kısa mesafeyi seçme	4
+8A	261	2	Y	T2	Üçgende Açı Kenar Bağıntıları	birleşik üçgenlerde uzunluk hakkında kesin bilgi	4
+8A	262	3	Y	T2		kesip açmada uzunluk farkı en çok	4
+8A	262	4	Y	T2		birleştirilen üçgenlerden yeni üçgenin çevresi en az	4
+8A	263	5	Y	T2		kesim sonrası kenar, en büyük doğal sayı değer	4
+8A	263	6	Y	T2		birleşik üçgenlerle kare kenar aralığı, alan en küçük ve en büyük	4
+8A	264	7	Y	T2		sabit uzunlukta konumlara göre kenar farkı	4
+8A	264	8	Y	T2	Kareköklü İfadeler	doğal sayı kenar koşuluyla alanın farklı değer sayısı	4
+8A	265	1	K	T5		dik üçgende hipotenüs	1
+8A	265	2	K	T5		dik üçgende dik kenar	1
+8A	265	3	K	T5		iki dik üçgende ardışık Pisagor, fark	2
+8A	265	4	K	T5		iki dik üçgende ardışık Pisagor, toplam	2
+8A	265	5	K	T5		kare alanından kenar, dik üçgenlerde uzunluk toplamı	3
+8A	265	6	K	T5		dik üçgenden kenar, kare alanı	2
+8A	266	7	K	T5	Kareköklü İfadeler	kareköklü sonuçlu Pisagor	2
+8A	266	8	K	T5	Kareköklü İfadeler	kareköklü kenarlarla Pisagor	3
+8A	266	9	K	T5		dik yamukta yükseklik indirerek kenar	3
+8A	266	10	K	T5		dik yamukta Pisagorla yükseklik ve alan	3
+8A	266	11	K	T5		ikizkenar üçgende yükseklik ve alan	3
+8A	266	12	K	T5		dörtgende köşegenle iki dik üçgen	4
+8A	267	1	K	T5		ortak kenarlı iki dik üçgende uzunluk	2
+8A	267	2	K	T5		birden çok dik üçgenin hipotenüsleri toplamı	3
+8A	267	3	K	T5	Kareköklü İfadeler	kare köşegenleri toplamından uzunluk	3
+8A	267	4	K	T5	Kareköklü İfadeler	kareköklü dik kenarlarla hipotenüs	2
+8A	267	5	K	T5		Pisagorla kenar bulup çevre	3
+8A	267	6	K	T5	Kareköklü İfadeler	kareköklü dik kenarlarla hipotenüs	2
+8A	268	7	K	T5		Pisagor üçlüsünü belirleme	2
+8A	268	8	K	T5	Kareköklü İfadeler	dik üçgen oluşturamayan uzunluk üçlüsü	2
+8A	268	9	K	T5		bükülmüş parçanın uçları arası en kısa mesafe	3
+8A	268	10	K	T5		bükülmüş parçanın uçları arası en kısa mesafe	3
+8A	268	11	K	T5	Kareköklü İfadeler	eş dikdörtgenlerde köşegen uzunlukları toplamı	3
+8A	268	12	K	T5	Kareköklü İfadeler	dörtgende iki dik üçgenle kareköklü uzunluk	3
+8A	269	1	I	T5		sapma miktarından Pisagorla uzunluk	3
+8A	269	2	I	T5		sapma miktarından Pisagorla uzunluk	3
+8A	269	3	I	T5	Kareköklü İfadeler	ardışık dik üçgenlerde hipotenüs zinciri	3
+8A	269	4	I	T5	Kareköklü İfadeler	ardışık dik üçgenlerde doğal sayı hipotenüs sayısı	4
+8A	270	5	I	T5		kırılan nesnede Pisagorla mesafe	3
+8A	270	6	I	T5		kırılan nesnede Pisagorla ilk uzunluk	4
+8A	270	7	I	T5		katlamada Pisagorla kenar ve alan	4
+8A	270	8	I	T5		kesip çakıştırmada Pisagorla çevre farkı	4
+8A	271	1	I	T5		devrilen nesneyle oluşan dik üçgende uzaklık	3
+8A	271	2	I	T5	Kareköklü İfadeler	birbirine dayanan nesnelerle Pisagor	4
+8A	271	3	I	T5		uç noktalar arası mesafeleri sıralama	3
+8A	271	4	I	T5		kesilen parçalarda noktalar arası mesafeler toplamı	4
+8A	272	5	I	T5		sabit uzunluklu ipte konum değişimiyle yükseklik	4
+8A	272	6	I	T5		sabit uzunluklu ipte konum değişimiyle yatay mesafe	4
+8A	272	7	I	T5		sabit uzunluklu ipte bağlantı noktası değişimi	4
+8A	272	8	I	T5		Pisagor ve aralık koşuluyla konum	4
+8A	273	1	Y	T5		Pisagorla kenar bulup alanları karşılaştırma	4
+8A	273	2	Y	T5		katlamada Pisagorla uzunluk	4
+8A	274	3	Y	T5		ikizkenar yapıda Pisagorla yükseklik ve aralık	4
+8A	274	4	Y	T5	Üçgenin Kenarları Arasındaki İlişki	kesim sonrası doğal sayı kenarlarla çevre farkı	4
+8A	275	5	Y	T5		dönen parçalarla Pisagordan uzunluk ve alan	4
+8A	275	6	Y	T5	Üçgenin Kenarları Arasındaki İlişki	geniş açı koşuluyla uzunluk aralığı	4
+8A	276	7	Y	T3		konum bilgisinden açıların sıralaması	4
+8A	276	8	Y	T5		sabit uzunlukla ikizkenar yapı, Pisagorla uzaklıklar	4
+8A	277	1	K	EB		benzer üçgenlerde benzerlik oranı	1
+8A	277	2	K	EB		eş üçgenlerde kenarları sıralama	2
+8A	277	3	K	EB	Üçgenin Kenarları Arasındaki İlişki	benzerlik oranıyla çevre en küçük tam sayı	3
+8A	277	4	K	EB		eş üçgenlerde bilinmeyen uzunluklar	2
+8A	277	5	K	EB		eş üçgenleri belirleme	2
+8A	277	6	K	EB		eşlik ve benzerlik yorumlarını değerlendirme	2
+8A	278	7	K	EB		benzer dikdörtgenlerde çevre	2
+8A	278	8	K	EB		benzer çokgenlerde çevreler oranı	2
+8A	278	9	K	EB		benzer üçgenlerde kenar	3
+8A	278	10	K	EB		benzer dik üçgenlerde kenar	3
+8A	278	11	K	EB		paralel kenarlarla benzerlik, çevre	3
+8A	278	12	K	EB		paralel doğrularla benzerlik, uzunluk toplamı	3
+8A	279	1	K	EB		açılardan benzer üçgeni seçme	1
+8A	279	2	K	EB		benzerlik bağıntısında köşe eşlemesi	2
+8A	279	3	K	EB		kareli zeminde benzer dikdörtgenler	2
+8A	279	4	K	EB		orta noktalarla oluşan üçgenlerde benzerlik oranı	3
+8A	279	5	K	EB		kareli zeminde benzer olmayan üçgen	2
+8A	279	6	K	EB		eşlik bilgisinden kesin çıkarım	2
+8A	280	7	K	EB		kareli zeminde eş üçgen oluşturan nokta	2
+8A	280	8	K	EB		benzerlik oranı koşulunu sağlayan nokta	3
+8A	280	9	K	EB		paralel kenarlarla benzerlik, çevre	3
+8A	280	10	K	EB		benzer üçgenlerle uzunluk toplamı	3
+8A	280	11	K	EB		benzer üçgenlerle çevre	3
+8A	280	12	K	EB	Olasılık	benzerlik eşlemesinin doğru yazılma olasılığı	3
+8A	281	1	I	EB		katlama sonrası benzer üçgenlerde oran	4
+8A	281	2	I	EB		katlama sonrası benzerlikle uzunluk	4
+8A	281	3	I	EB		katlama sonrası benzerlik oranı	4
+8A	281	4	I	EB		çakıştırma sonrası eşlik yorumları	4
+8A	282	5	I	EB	Kareköklü İfadeler	katlama ile benzer dikdörtgenler, kenar en çok	4
+8A	282	6	I	EB	Kareköklü İfadeler	benzerlik oranı ve kareköklü kenarla çevre	4
+8A	282	7	I	EB		benzer üçgenlerle uzunluk	3
+8A	282	8	I	EB		benzer üçgenlerle uzunluklar toplamı	4
+8A	283	1	Y	EB		benzerlik oranlarından iç dikdörtgen kenarları	4
+8A	283	2	Y	EB	Pisagor Bağıntısı	kesişen doğrularla benzer üçgenlerden mesafe	4
+8A	284	3	Y	EB		benzerlik oranı ve uzunluk oranıyla yükseklik	4
+8A	284	4	Y	EB		kesişen parçalarda benzerlikle uzunluk	4
+8A	285	5	Y	EB		birleşik şeklin çevresinden benzerlik oranı	4
+8A	285	6	Y	EB		kesip birleştirme sonrası benzerlik oranı	4
+8A	286	7	Y	EB		kareli zeminde benzer üçgen koşuluyla konum	4
+8A	286	8	Y	EB		iç içe benzer üçgenlerde oran	4
+8A	287	1	K	DG		ötelenen noktanın koordinatı	1
+8A	287	2	K	DG		öteleme kuralından toplam hareket	2
+8A	287	3	K	DG		iki ötelemeden sonra noktalar arası uzaklık	2
+8A	287	4	K	DG		aynı öteleme kuralıyla koordinatlar	2
+8A	287	5	K	DG		ötelenen üçgenin köşe koordinatları	2
+8A	287	6	K	DG		ötelemeyle şeklin tek bölgede kalması	3
+8A	288	7	K	DG		ötelenen şeklin köşe koordinatı	2
+8A	288	8	K	DG		noktayı orijine getiren öteleme	2
+8A	288	9	K	DG		parçaları öteleyerek şekil oluşturma, en az hareket	3
+8A	288	10	K	DG		öteleme sonrası üst üste gelen kareler	3
+8A	288	11	K	DG		ötelenen şekillerin çakışan alanı	3
+8A	288	12	K	DG		ötelemeyle çakıştırma, en az hareket	2
+8A	289	1	K	DG		y eksenine göre yansıma	1
+8A	289	2	K	DG		x eksenine göre yansıma	1
+8A	289	3	K	DG		orijine göre yansıma	2
+8A	289	4	K	DG		ardışık yansımalardan sonra bölge	2
+8A	289	5	K	DG		yansıma ve öteleme sonrası uzaklık	3
+8A	289	6	K	DG		dönüşümlerin özellikleriyle ilgili yorumlar	2
+8A	290	7	K	DG		dönüşüm hareketleriyle kare oluşturma	3
+8A	290	8	K	DG		yansımalarla oluşan üçgenin alanı	3
+8A	290	9	K	DG		yansımalarla oluşan eşkenar üçgende köşe	3
+8A	290	10	K	DG		öteleme ve yansımayla elde edilemeyen şekil	3
+8A	290	11	K	DG		ayna görüntüsünden saat okuma, süre	3
+8A	290	12	K	DG	Özdeşlikler	köşelerde yansımayla oluşan şeklin çevre ifadesi	4
+8A	291	1	I	DG		sembollerle tanımlı ötelemelerle hedefe ulaşma	3
+8A	291	2	I	DG		ötelemeler ve yansımadan başlangıç konumu	3
+8A	291	3	I	DG		yansıma ve öteleme sonrası noktaların konumu	3
+8A	291	4	I	DG		yansıma ve öteleme ile hedefe ulaşma	3
+8A	292	5	I	DG		ayna yansımasıyla oluşan sayılar, fark	4
+8A	292	6	I	DG		ayna yansımasıyla oluşan sayılar, toplam	4
+8A	292	7	I	DG		yansıma ve ötelemeyle hedef puanları	4
+8A	292	8	I	DG		yansıma ve ötelemeyle hedef puanları	4
+8A	293	1	Y	DG		ardışık ötelemelerle geçilen bölgeler	4
+8A	293	2	Y	DG		doğrulara göre simetri ve uzaklık koşulu	4
+8A	294	3	Y	DG		yansıma ve öteleme ile dizilim oluşturma	4
+8A	294	4	Y	DG	Daire alanı	doğruya göre simetri sonrası kesişim alanı	4
+8A	295	1	K	G1		prizmaların ayrıt, köşe ve yüz sayıları	1
+8A	295	2	K	G1		kare prizmanın özellikleri	2
+8A	295	3	K	G1		iki prizmanın ayrıt uzunlukları toplamı farkı	2
+8A	295	4	K	G1		yüzlerden taban çevresi en fazla	3
+8A	295	5	K	G1		dikdörtgen prizmada yüz ve ayrıt ilişkileri	2
+8A	295	6	K	G1		dik üçgen prizmanın özellikleri	2
+8A	296	7	K	G1		yüzlerden ayrıtlar toplamı en çok	3
+8A	296	8	K	G1		yüzlerden yan yüz çevresi, olamayan değer	3
+8A	296	9	K	G1		kartondan prizma oluşturup ayrıtlar toplamı	3
+8A	296	10	K	G1	Çarpanlar ve Asal Çarpanlar	küp açınımında karşılıklı yüzler	3
+8A	296	11	K	G1		açınımda aynı köşede çakışan noktalar	2
+8A	296	12	K	G1		kartonlardan prizma yüzlerini seçme	2
+8A	297	1	K	G1		kesip birleştirmede ayrıtlar toplamı	3
+8A	297	2	K	G1	EBOB - EKOK Problemleri	kalıpları boşluksuz yerleştirmeye uygun kutu	3
+8A	297	3	K	G1		birleşen prizmalarda ayrıt toplamları	3
+8A	297	4	K	G1		dizilimden yükseklik ve uzaklık	4
+8A	298	5	K	G1		kutu açılımından ayrıtlar toplamı	3
+8A	298	6	K	G1		basılan prizmalarda ayrıtlar toplamı	3
+8A	298	7	K	G1		kartlarla kare prizmalar, ayrıtlar toplamı	3
+8A	298	8	K	G1		kartlarla kare prizmalar, ayrıt toplamları farkı	3
+8A	299	1	Y	G1		bükülen kartonla oluşan prizmanın ayrıtlar toplamı	4
+8A	299	2	Y	G1		kesilen parçalarla kare prizma, kenar farkı en az	4
+8A	300	3	Y	G1		karton kesip katlayarak kare prizma, ilk çevre	4
+8A	300	4	Y	G1	Pisagor Bağıntısı	parçalarla dik üçgen prizma, ayrıtlar toplamı	4
+8A	301	1	K	G2		silindir açınımını seçme	1
+8A	301	2	K	G2		silindirin özelliklerinde yanlışı bulma	2
+8A	301	3	K	G2		açınımdaki dikdörtgenin çevresi	2
+8A	301	4	K	G2		silindire ait olamayan açınım	2
+8A	301	5	K	G2		açınım ölçülerinden silindir modeli	3
+8A	301	6	K	G2		silindirin yanal yüzey alanı	2
+8A	302	7	K	G2		açınımdan silindirin yüzey alanı	3
+8A	302	8	K	G2		yanal yüze uygun taban seçimi	3
+8A	302	9	K	G2		teğet tabanlarla yanal yüzey alanı	3
+8A	302	10	K	G2		teğet tabanlarla silindir yüksekliği	3
+8A	302	11	K	G2		kartonlardan silindir, olamayan yarıçap	3
+8A	302	12	K	G2		bölünen silindirlerde yüzey alanı farkı	4
+8A	303	1	K	G2		taban alanı ve yükseklikten hacim	1
+8A	303	2	K	G2		hacim ve yükseklikten taban alanı	1
+8A	303	3	K	G2		çap ve yükseklikten hacim	2
+8A	303	4	K	G2		levhaları bükerek oluşan silindirlerin hacim oranı	3
+8A	303	5	K	G2		açınım ölçülerinden hacim	2
+8A	303	6	K	G2	10'un Kuvvetleri	yanal alandan yarıçap ve hacim	3
+8A	304	7	K	G2		döndürme ile oluşan silindirin hacmi	3
+8A	304	8	K	G2		iç içe silindirler arası hacim	3
+8A	304	9	K	G2		hacim eşitliğinden doldurulan kap sayısı	3
+8A	304	10	K	G2		dilim hacmi	3
+8A	304	11	K	G2		ölçüler değişince hacmin kaç katına çıktığı	2
+8A	304	12	K	G2		silindir hacimlerini sıralama	2
+8A	305	1	I	G2		açınımda yerleştirilen parçalarla kalan alan	4
+8A	305	2	I	G2		açınımda yerleştirilen parçalardan yüzey alanı	4
+8A	305	3	I	G2		kesilen levhayla oluşan silindirde yüzey alanı farkı	4
+8A	305	4	I	G2		kesilen levhayla oluşan silindirde hacim oranı	4
+8A	306	5	I	G2	Pisagor Bağıntısı	silindir yüzeyinde en kısa yol	4
+8A	306	6	I	G2	Pisagor Bağıntısı	silindir yüzeyinde en kısa yol	4
+8A	306	7	I	G2		açıklığı kapatan parçanın alanı	4
+8A	306	8	I	G2		açıklık alanından ilk dikdörtgenin çevresi	4
+8A	307	1	Y	G2	Eşitsizlikler	hacim ve oran koşuluyla kalınlık en fazla	4
+8A	307	2	Y	G2		yanal yüz açınımında doğrunun görüntüsü	4
+8A	308	3	Y	G2		tur sayısı ve taban çevresiyle bant uzunluğu, alan	4
+8A	308	4	Y	G2	Eşitsizlikler	daldırma derinliğiyle uzunluk aralığı	4
+8A	309	5	Y	G2		delik konumuna göre alınabilen hacim farkı	4
+8A	309	6	Y	G2	EBOB - EKOK Problemleri	taban çevresinden çap, kutuya boşluksuz yerleşme	4
+8A	310	7	Y	G2		hacimle orantılı fiyatlarla toplam tutar	4
+8A	310	8	Y	G2		yanal yüzü bölerek iki silindir, çevre en çok	4
+8A	311	1	K	G3		dik piramidin temel elemanları	1
+8A	311	2	K	G3		piramitlerin ayrıt ve yan yüz sayıları	1
+8A	311	3	K	G3		dik piramidin yan yüzü olamayan üçgen	2
+8A	311	4	K	G3		kare piramidin açınımı olamayan şekil	2
+8A	311	5	K	G3		dikdörtgen piramitte ayrıtlar toplamı	3
+8A	311	6	K	G3		dik piramitlerle ilgili bilgileri değerlendirme	2
+8A	312	7	K	G3		taban alanından kenar, açınım çevresi	2
+8A	312	8	K	G3		açınım çevresinden uzunluk	3
+8A	312	9	K	G3	Pisagor Bağıntısı	yükseklik ve tabandan yan yüz yüksekliği	3
+8A	312	10	K	G3	Pisagor Bağıntısı	yan yüz yükseklikleriyle uzunluk farkı	4
+8A	312	11	K	G3		açınımda köşelerin eşleşmesi, yanlış bilgi	3
+8A	312	12	K	G3	Pisagor Bağıntısı	taban alanı ve yükseklikle ayrıt uzunlukları	4
+8A	313	1	K	G4		koninin temel elemanları	1
+8A	313	2	K	G4		koniye ait olamayan açınım	1
+8A	313	3	K	G4	Pisagor Bağıntısı	yükseklik, yarıçap ve ana doğru ilişkisi	2
+8A	313	4	K	G4		koni açınımıyla ilgili yanlış bilgi	2
+8A	313	5	K	G4	Pisagor Bağıntısı	ana doğru ve yarıçaptan yükseklik	2
+8A	313	6	K	G4		yay uzunluğu ile taban çevresi eşitliği, uygun açınımlar	3
+8A	314	7	K	G4		yay uzunluğuna uygun tabanı seçme	3
+8A	314	8	K	G4	Pisagor Bağıntısı	açınımdan koninin yüksekliği	3
+8A	314	9	K	G4		yarıçap, ana doğru ve merkez açı bağıntısı	3
+8A	314	10	K	G4		merkez açı ve ana doğrudan yarıçap	3
+8A	314	11	K	G4	Pisagor Bağıntısı	iki konide taban çevresinden uzunluk	4
+8A	314	12	K	G4		daire dilimlerinden konilerin yüksekliklerini sıralama	4
+8A	315	1	I	G4		daire diliminden koni, tabanın izi	4
+8A	315	2	I	G4		dilimlerden koni, uygun olmayan taban	4
+8A	315	3	I	G3	Pisagor Bağıntısı	prizmadan piramit, ayrıtlar toplamı	4
+8A	315	4	I	G3	Pisagor Bağıntısı	piramit ayrıtlarından prizma ayrıtlar toplamı	4
+8A	316	5	I	G4		koni yüzeyinde en kısa yolun açınımdaki görünümü	3
+8A	316	6	I	G4	Pisagor Bağıntısı	koni yüzeyinde en kısa yol uzunluğu	4
+8A	316	7	I	G3		açınımdan piramidin görünümü, olamayan	3
+8A	316	8	I	G3		açınımdan piramidin görünümü, olamayan	3
+8A	317	1	Y	G3		yan yüzlerden aynı piramide ait olmayanları bulma	4
+8A	317	2	Y	G3		açınım yüzlerinin katlanmasıyla taban görünümü	4
+8A	318	3	Y	G4	Pisagor Bağıntısı	konum değişimiyle koninin tepe yüksekliği	4
+8A	318	4	Y	G4		merkez açıyla koni ölçüleri ilişkisi, iç içe koniler	4
+8B	5	1	Y	CK1		pozitif çarpan sayısı ve bölenler toplamıyla tutar	3
+8B	5	2	Y	CK1		kendisinden farklı en büyük çarpanla tekrarlı azalma	4
+8B	6	3	Y	CK1		kendisi hariç çarpanlar toplamıyla karşılaştırma	3
+8B	6	4	Y	CK1		çarpan sayısı kuralıyla eşleştirme	4
+8B	7	5	Y	CK1		kendisinden farklı en büyük çarpan ve kat koşuluyla uzaklık	4
+8B	7	6	Y	CK1		alt sınırlı eşit dağıtım, olamayan toplam (çarpan çiftleri)	3
+8B	8	7	Y	CK1		alanlardan çarpan çiftleriyle kenar bulma	3
+8B	8	8	Y	CK1		kendisi hariç pozitif bölenlere göre seçim	4
+8B	9	1	Y	CK1		bölen sayısı ve asal çarpanlar toplamı modeli, yanlış olan	3
+8B	9	2	Y	CK1		farklı asal bölenler toplamıyla eşitlik	4
+8B	10	3	Y	CK1		asal sayıda eşit paylaşım ve aralıkla bölen sayısı	4
+8B	10	4	Y	CK1		asal çarpan kurallarıyla miktarlar toplamı	3
+8B	11	5	Y	CK1		iki asal çarpanlı sayılar tablosuyla en fazla adet	4
+8B	11	6	Y	CK1		en büyük asal çarpan kadar tekrarlı azaltma, fark	4
+8B	12	7	Y	CK1	Çember çevresi	farklı asal çarpanlar toplamıyla yay uzunlukları, çap	4
+8B	12	8	Y	CK1		asal çarpanların çarpımıyla oluşabilecek değer	4
+8B	13	1	Y	CK3	EBOB - EKOK	ortak bölenlerden farklı değerler, toplam en fazla	3
+8B	13	2	Y	CK3		boşluklu iki dizilimde eşit uzunluk, ...den fazla en az (EKOK)	4
+8B	14	3	Y	CK3		karıştırmadan eşit hacim (EBOB), kalan kap en fazla	3
+8B	14	4	Y	CK3		bölme yüksekliklerinin ortak böleni, en az çekmece	4
+8B	15	5	Y	CK3		iki gruba eşit sayıda dağıtılan nesneler (ortak kat), toplam en az	4
+8B	15	6	Y	CK3		iki uzunluğun ortak katı ve ...den fazla koşulu, en az	4
+8B	16	7	Y	CK3		iki sayının katları ve rakam kısıtı, ortak en küçük	4
+8B	16	8	Y	CK3		uzunlukların ortak böleni ile en az değer	4
+8B	17	1	Y	CK3		eşit toplam için ortak kat, en az	2
+8B	17	2	Y	CK3		farklı periyotlu dizilimlerde ilk hizalanma (EKOK)	3
+8B	18	3	Y	CK3		farklı yüksekliklerle eşit kuleler (EKOK), toplam en az	4
+8B	18	4	Y	CK3		kenar boyunca iki ölçünün ortak katı, ...den fazla en az	4
+8B	19	5	Y	CK3	Birinci Dereceden Denklemler	iki dizilimden birim ölçüler, ortak kat ve üst sınır, en fazla	4
+8B	20	6	Y	CK3		iki birimde eşit uzunluk (EKOK), maliyet en az	4
+8B	20	7	Y	CK3		iki sürenin eşit toplamı (EKOK), toplam adet en az	4
+8B	21	8	Y	CK3		iki artış hızıyla eşit aralık (ortak bölen), en az sayı	4
+8B	21	9	Y	CK3	Tam Kare Sayılar	kare alanlarından kenar ve aralıkla eşit uzunluk, aralıkta değer	4
+8B	22	1	Y	CK3	Çember çevresi	çevre iki aralığın ortak katı, çap en az	4
+8B	22	2	Y	CK3		iki ölçüyle boşluksuz kaplama, adım sayısı en fazla	4
+8B	23	3	Y	CK3	Çember çevresi	yay uzunluklarının ortak katı ve sınırla yarıçap en fazla	4
+8B	23	4	Y	CK3		eşit sayı için paket katları ve eşit tutar, en az	4
+8B	24	5	Y	CK3		iki uzunluğu eşit parçalara (EBOB), kalan parçaların toplamı	4
+8B	24	6	Y	CK3		süre tam sayı koşuluyla uzunlukların ortak katı, toplam en az	4
+8B	25	7	Y	CK3		eşit kalınlıklar (EBOB) ile boy farkı en az	4
+8B	25	8	Y	CK3		iki parça uzunluğuyla eşit bölme (EKOK), ilk uzunluk en az	4
+8B	26	1	Y	CK4		uzunlukların aralarında asal olma koşulu, en fazla	4
+8B	26	2	Y	CK4		süre değerlerinin aralarında asal olma koşulu, en az	4
+8B	26	3	Y	CK4		toplam tutarların aralarında asal olma koşulu, en fazla	4
+8B	27	4	Y	CK4		bağlantılı karelerde aralarında asal olmama koşulu	4
+8B	27	5	Y	CK4		numaraların aralarında asal olmasıyla seçim	3
+8B	27	6	Y	CK4		basamak bilinmeyenli sayıyla aralarında asal, olamayan rakam	3
+8B	28	7	Y	CK4	EBOB - EKOK	gruplama sonrası sayıların aralarında asal olması, en az ekleme	4
+8B	28	8	Y	CK4	Çarpanlar ve Asal Çarpanlar	alan ve aralarında asal kenarlarla çevre	4
+8B	29	1	Y	CK3		eşit toplam kütle (ortak kat), uzunluk en az	4
+8B	29	2	Y	CK3		taksit tutarlarının ortak katı, toplam en az	4
+8B	30	3	Y	CK4	Çarpanlar ve Asal Çarpanlar	alandan kenarlar ve aralarında asal koşulu, alan farkı en az	4
+8B	30	4	Y	CK3	Çarpanlar ve Asal Çarpanlar	iki alanın ortak çarpanı ile uzunluk en az	4
+8B	31	5	Y	CK3		eşit aralıklı bölmeler, uzunlukların ortak böleni, en fazla	3
+8B	31	6	Y	CK3		iki uzunluğu en büyük eşit parçalara (EBOB), en fazla adet	3
+8B	32	7	Y	CK3		iki aralığın ortak katları ve tek çakışma koşulu, en fazla	4
+8B	32	8	Y	CK3		iki ürünle eşit gelir (EKOK), toplam miktar en az	4
+8B	33	1	Y	CK3		eşit uzunlukta süreler tam sayı (ortak bölen), en az süre	4
+8B	33	2	Y	CK3		iki gruplamada eşit sayı (ortak kat), en az araç	4
+8B	34	3	Y	CK3		eşit parçalar için ortak bölen, en fazla değer	4
+8B	34	4	Y	CK3		puanlardan ortak bölen ile sayılar, fark en az	4
+8B	35	5	Y	CK3	Doğrusal Denklemler	grafikten iki miktar, ortak bölenle eşit paket, en az	4
+8B	35	6	Y	CK3		iki sayının katlarında karşılıklı durum (EKOK), uzunluk en fazla	4
+8B	36	7	Y	CK3		alanlardan ortak kenar (ortak bölen) ve koşulla mesafe en az	4
+8B	36	8	Y	CK3		periyodik hareketlerde ortak katlar ile sayma	4
+8B	37	1	Y	CK1	EBOB - EKOK Problemleri	ortak kenarlı dikdörtgenlerde alanlar ve çevre en az koşulu	4
+8B	37	2	Y	CK1		asal çarpanlara bağlı kuralla konum değişimi	4
+8B	38	3	Y	CK1	Prizmalar	yüz alanlarından ayrıt uzunlukları, olamayan yüzey	3
+8B	38	4	Y	CK3		iki sayının katlarına göre dağıtım ve ortak katlar, en fazla	4
+8B	39	5	Y	CK3		iki kap hacmiyle eşit miktar (EKOK), toplam en az	4
+8B	39	6	Y	CK3		eşit üretim için ortak kat, maliyet en az	4
+8B	40	7	Y	CK3	Çember çevresi	eşit parçalar (ortak bölen) ve doğal sayı yarıçap, farklı değer sayısı	4
+8B	40	8	Y	CK3	Eşitsizlikler	eşit kullanım (EKOK) ve maliyet aralığıyla adet	4
+8B	41	1	Y	CK3	Üçgen alanı	iki alandan ortak kenar uzunluğu, en fazla	4
+8B	41	2	Y	CK3		iki çap ölçüsünün ortak katı ile kare kenarı, çevre en az	4
+8B	42	3	Y	CK3		ayrıtlara eş karelerle döşeme (ortak bölen), en az adet	4
+8B	42	4	Y	CK3	Çarpanlar ve Asal Çarpanlar	iki alanın ortak kenarı, en küçük yükseklik için alan	4
+8B	43	5	Y	CK3		iki günlük maliyetle eşit toplam (EKOK), gün farkı en az	4
+8B	43	6	Y	CK3		uzunlukların ortak böleniyle çap, sığan adet en az	4
+8B	44	7	Y	CK3		iki genişliğin ortak böleniyle bölme, işlem sayısı en az	4
+8B	44	8	Y	CK3	Pisagor Bağıntısı	kenar ve köşegenlere eşit aralık (ortak bölen), en az adet	4
+8B	45	9	Y	CK3		alanlardan eşit kısa kenar (EBOB), yükseklik farkı en az	4
+8B	45	10	Y	CK3		yüzdelerle eşit miktar (ortak kat), en az	4
+8B	46	11	Y	CK4		kesim sonrası kenarlar aralarında asal, çevre en az	4
+8B	46	12	Y	CK3		eşit paylaşım (ortak kat) ve alt sınır, artış en az	4
+8B	47	1	Y	U1		kesrin negatif/pozitif kuvveti olarak oran	3
+8B	47	2	Y	U1		üslü ifadelerin işaret koşuluyla değer seçimi	3
+8B	48	3	Y	U1		2'nin ve 3'ün kuvvetlerini sayma, denge	4
+8B	48	4	Y	U1		2'nin kuvvetleriyle uzaklık, olası değer	4
+8B	49	5	Y	U1		taban/üs kaydırmayla 0-1 arası en küçük değer, en az hareket	4
+8B	49	6	Y	U1		2'nin kuvvetleri konumlarıyla karşılaşma, fark	4
+8B	50	7	Y	U1		üslü uzaklıklarla konum belirleme	3
+8B	50	8	Y	U1		farklı üslü yazılabilen sayılar ve toplam koşulu, en fazla	4
+8B	51	1	Y	U1		modellerden üslü ifadelerin değeri, en küçük	3
+8B	51	2	Y	U1		ardışık sayılarda tek 2'nin kuvveti koşulu, en fazla	3
+8B	52	3	Y	U1		taban/üs değiştirerek hedef değere ulaşma, en az adım	4
+8B	52	4	Y	U1	10'un Kuvvetleri	negatif üslüleri ondalık yazıp karşılaştırma	4
+8B	53	5	Y	U1	EBOB - EKOK Problemleri	periyotlu seçimle üslü ifadenin ondalık değeri	4
+8B	53	6	Y	U1	EBOB - EKOK Problemleri	periyotlu seçimle istenen değerin zamanı	4
+8B	54	7	Y	U1		koşullara göre sayıyı üslü yazma, uygun durumlar	4
+8B	54	8	Y	U1		zaman değerlerinin 2 veya 3'ün kuvveti olması, sayma	4
+8B	55	1	Y	U2		kare ve küp alma sembolleriyle iç içe işlem	3
+8B	55	2	Y	U2		üssün üssü değerlerini ortak tabanda karşılaştırma	4
+8B	56	3	Y	U2		tur başına üslü ilerlemeyle uzaklık	4
+8B	56	4	Y	U2		eşit değerli üslü ifadeleri belirleme	3
+8B	57	5	Y	U2		üslü çarpma-bölmeyle birim başına değer	3
+8B	57	6	Y	U2		üslü alandan eş parçaların alanı	4
+8B	58	7	Y	U2		üslü kütlelerle toplam ve adet	4
+8B	58	8	Y	U2		üslü uzunluklarla toplam uzunluk	4
+8B	59	1	Y	U2		2'nin kuvveti genişliklerle parçalama, alan en fazla	4
+8B	59	2	Y	U2		üslü miktarı eşit dağıtıp birim fiyatla tutar	3
+8B	60	3	Y	U2		üslü sayıda nesneyle modelleme, toplam	4
+8B	60	4	Y	U2		üslü ölçek okumasıyla ağırlık ve tarife	4
+8B	61	5	Y	U2		büyütme oranlarının üslü çarpımı	3
+8B	61	6	Y	U2		büyütmeden gerçek boyu bulma (üslü bölme)	3
+8B	62	7	Y	U2		yüzde ve üslü adetlerle toplam gelir	4
+8B	62	8	Y	U2		kat başına üslü sayıyla toplam	4
+8B	63	1	Y	U2		kartlardan seçilen sayıların çarpımı üslü, toplam	4
+8B	63	2	Y	U2		2'nin kuvveti yükseklikler, yer değiştirme sonrası fark	4
+8B	64	3	Y	U2	Tam Kare Sayılar	üslü alandan kenar ve toplam alan	4
+8B	64	4	Y	U2		üslü sayfa ve kullanım miktarından gereken kutu, en az tutar	4
+8B	65	5	Y	U2		üslü uzunluğu eş parçalara bölüp yan yana dizme	4
+8B	65	6	Y	U2		ardışık kesmelerle oluşan karelerin üslü alanı	4
+8B	66	7	Y	U2		tablodaki üslü kota ve satışlar, dolmayan şube	4
+8B	66	8	Y	U2		zincirleme üslü işlemle toplam gelir	4
+8B	67	1	Y	U2		farklı kuvvetlerin çarpım eşitliği, en fazla	4
+8B	67	2	Y	U2		adım adım kesme ile kalan üslü uzunluk	4
+8B	68	3	Y	U2		tablodaki üslü sayılarla gelir oranı	4
+8B	68	4	Y	U2		eş kartlarla yapıdan iç bölgenin üslü alanı	4
+8B	69	5	Y	U2		yüzdelerle kalan bölgenin üslü alanından kenar	4
+8B	69	6	Y	U2		üslü üretim ve paketlemeyle kargo ücreti	4
+8B	70	7	Y	U2		üslü fiyat ve miktarlarla toplam ödeme	4
+8B	70	8	Y	U2	Tam Kare Sayılar	üslü alanlı karelerle büyük kare, en az parça	4
+8B	71	1	Y	U4		çözümlenmiş uzaklıkları sınırla karşılaştırma	3
+8B	71	2	Y	U4		kibrit sayısından çözümlenmiş uzunluk	3
+8B	72	3	Y	U4		ikilik kodlamanın basamak değeriyle çözümlenmesi	4
+8B	72	4	Y	U4		denge durumlarından birim kütlenin çözümlenmesi	4
+8B	73	5	Y	U4		çözümlenmiş uzaklıklarla sıralama koşulu	4
+8B	73	6	Y	U4		hacim artışıyla yeni yüksekliğin çözümlenmesi	4
+8B	74	7	Y	U4	Çember	çözümlenmiş uzaklıkları sınırla karşılaştırıp puan	4
+8B	74	8	Y	U4		ikilik kodun çözümlenmesi ve hedefe en az tuş	4
+8B	75	1	Y	U4		birim çevirme ve artışla bilimsel gösterim	3
+8B	75	2	Y	U4		alanlardan kenar, bilimsel gösterim	3
+8B	76	3	Y	U4		orantı ve birim çevirmeyle bilimsel gösterim	4
+8B	76	4	Y	U4		yüzde ve birim çevirmeyle bilimsel gösterim	4
+8B	77	5	Y	U4		çarpım ve orantıyla toplam tutarın bilimsel gösterimi	4
+8B	77	6	Y	U4		yüzdeler ve birim çevirmeyle bilimsel gösterim	4
+8B	78	7	Y	U4		tüketim ve oranlarla miktarın bilimsel gösterimi	4
+8B	78	8	Y	U4		eş parça ve aralıklarla uzunluğun bilimsel gösterimi	4
+8B	2-1	1	Y	K1		kibrit sayısı ve tam kare koşulu	3
+8B	2-1	2	Y	K1		kibrit sınırıyla oluşturulamayan karekök değeri	3
+8B	2-1	3	Y	K1		tam kare sayı ve karekökünden şifre, olamayan toplam	3
+8B	2-2	4	Y	K1		alt sınır ve tam kare toplam, en az	3
+8B	2-2	5	Y	K1		artan tam kare aralıklarla uzunluk, en fazla	4
+8B	2-3	6	Y	K1		kare alanından kenar, kalan alanın tam kare olması, en az	4
+8B	2-3	7	Y	K1		iç kare alanından dış kare alanının olası değeri	4
+8B	2-4	8	Y	K1		kaydırmayla oluşan toplamların tam kare olup olmaması	3
+8B	2-4	9	Y	K1	EBOB - EKOK Problemleri	tam kare sayıda eşit satış, toplam gün en az	4
+8B	2-5	1	Y	K1		kare alanından kenarın yaklaşık değeriyle konum aralığı	3
+8B	2-5	2	Y	K1		karekök tam sayı değilse en yakın tam sayı kuralıyla puan, en fazla	4
+8B	2-6	3	Y	K1	Daire alanı	ölçülerden uzaklık, olası kareköklü değer	4
+8B	2-6	4	Y	K1	Kareköklü İfadeler	köşegen bağıntısıyla uzunluğun tam sayı aralığı	4
+8B	2-7	5	Y	K1	Çarpanlar ve Asal Çarpanlar	alan ve aralarında asal kenarla kareköklü uzunluğun aralığı	4
+8B	2-7	6	Y	K1		tam kare olmayan sayıların kareköklerinin yaklaşık değeri, toplam	4
+8B	2-8	7	Y	K1		karekökünün en yakın tam sayısına göre sayma	3
+8B	2-8	8	Y	K1		karekök kuralıyla verilen miktar farkı	4
+8B	2-9	1	Y	K3	Çarpma ve Bölme	kareköklü kenarlarla birleşik uzunluktan alan	3
+8B	2-9	2	Y	K3	a kök b	kareköklü artışla çevrelenebilecek en büyük alan	4
+8B	2-10	3	Y	K4	Tam Kare Sayılar	kare alanlarından kenar, dikdörtgen bölge alanı	3
+8B	2-10	4	Y	K2	Tam Kare Sayılar	kareköklü uzunluktan tam sayı parçalar, iç boşluk alanı en fazla	4
+8B	2-11	5	Y	K3		kareköklü uzaklıklar arası ilişkiden uzaklık	3
+8B	2-11	6	Y	K4		kareköklü yüksekliklerle orantı, eklenecek miktar	4
+8B	2-12	7	Y	K1		eş bölmeli göstergede karekök değerinin konumu	4
+8B	2-12	8	Y	K4		kareköklü birim dönüşümü ile uzunluk	4
+8B	2-13	1	Y	K3	Çarpma ve Bölme	alandan kareköklü kenar, kademeli yerleşimle çevre	4
+8B	2-13	2	Y	K1	Çember	kareköklü yarıçapla yüksekliğin tam sayı aralığı	4
+8B	2-14	3	Y	K3		kareköklü kütlelerle denge, eklenecek kütle	4
+8B	2-14	4	Y	K3	Pisagor Bağıntısı	kareköklü ölçülerle iki nokta arası en kısa uzaklık	4
+8B	2-15	5	Y	K1		alanlardan kenarların yaklaşık değeriyle sayı doğrusunda konum	4
+8B	2-15	6	Y	K3	a kök b	hizalı uzaklıkların toplam ve farkından uzaklık	4
+8B	2-16	7	Y	K3	a kök b	kareköklü genişlik, boşluk ve taşmayla parça genişliği	4
+8B	2-17	8	Y	K1	Tam Kare Sayılar	alandan kareköklü kenar ve tahmin farkı, en az	4
+8B	2-17	9	Y	K4	Pisagor Bağıntısı	köşegen bağıntısı ve kareköklü uzunluklarla alan toplamı	4
+8B	2-18	1	Y	K3	Çarpma ve Bölme	devrilmeyle kareköklü uzaklık, doğal sayı koşulu en fazla	4
+8B	2-18	2	Y	K3	Çarpma ve Bölme	kareköklü çevreden eş dikdörtgenin çevresi	4
+8B	2-19	3	Y	K2	Çarpma ve Bölme	alandan kareköklü kenar, doğal sayı uzunluk değer sayısı	4
+8B	2-19	4	Y	K2		eşit uzunluklarda kesim, artan parçaların toplamı	4
+8B	2-20	5	Y	K2	Toplama ve Çıkarma	a√b biçimine göre yükseklik kuralı, toplam en çok	4
+8B	2-20	6	Y	K2	Çarpma ve Bölme	alandan kenar ve a√b ayrıtlarla en fazla toplam	4
+8B	2-21	7	Y	K3	Çarpma ve Bölme	eş üçgen çevresinden kenar, dörtgen çevresi	4
+8B	2-21	8	Y	K3		iki asılışta yüksekliklerden kareköklü uzunluk	4
+8B	2-22	1	Y	K1	Çarpma ve Bölme	alan ve kenarla kareköklü uzaklık farkının tam sayı aralığı	4
+8B	2-22	2	Y	K3		kareköklü puan kuralıyla toplam en fazla	4
+8B	2-23	3	Y	K3	Tam Kare Sayılar	örtüşen karelerde alanlardan uzunluk	4
+8B	2-23	4	Y	K3	Çarpma ve Bölme	parçaları yeniden birleştirip kareköklü kenar	4
+8B	2-24	5	Y	K2	Tam Kare Sayılar	kareköklü kenar ve doğal sayı koşuluyla fark en küçük	4
+8B	2-24	6	Y	K4	Pisagor Bağıntısı	alan oranı ve kareköklü yükseklikle çevre	4
+8B	2-25	7	Y	K3	Çarpma ve Bölme	bükülen tel uzunluğundan dikdörtgen alanı	4
+8B	2-26	8	Y	K3		dönme sayısına göre kareköklü uzunluk değişimi	4
+8B	2-26	9	Y	K3	Tam Kare Sayılar	eşit alanlı parçalardan kareköklü kenar uzunluğu	4
+8B	2-27	1	Y	K3	Çarpma ve Bölme	alandan kenar, açılan kapaklarla en kısa uzaklık	4
+8B	2-27	2	Y	K5		ondalık kareköklerin toplamlarının eşitliği	4
+8B	2-28	3	Y	K1		kareköklü çaplarla görünen tam sayılar farkı	4
+8B	2-28	4	Y	K2	Tam Kare Sayılar	kare alanından kenar, görünen alanın doğal sayı olması	4
+8B	2-29	5	Y	K2	Tam Kare Sayılar	eş kare alanlarından uzunluklar ve kalan alan	4
+8B	2-29	6	Y	K3		kareköklü parçalarla toplam uzunluk	3
+8B	2-30	7	Y	K4		kareköklü çap oranı koşulu ve enerji hesabı	4
+8B	2-30	8	Y	K4	Pisagor Bağıntısı	köşegen bağıntısıyla blok sayısı	4
+8B	2-31	9	Y	K2	Tam Kare Sayılar	eş şekillerde alandan kenar, başka kare alanı	4
+8B	2-31	10	Y	K3	EBOB - EKOK Problemleri	kareköklü kartları eşit dağıtma, kalanların toplamı	4
+8B	2-32	11	Y	K1	Kareköklü İfadeler	köşegen bağıntısıyla uzunluğun tam sayı aralığı	4
+8B	2-32	12	Y	K4		eş yamuklardan kare çerçeve, iç alan	4
+8B	2-33	1	Y	K6	Çarpma ve Bölme	çarpımı doğal sayı yapan karekök, en fazla	4
+8B	2-33	2	Y	K6	Çarpma ve Bölme	irrasyonel sayıların çarpımının tam kare olması	4
+8B	2-34	3	Y	K6		rasyonel ve irrasyonel sayıları sayma, eşitlik koşulu	3
+8B	2-34	4	Y	K6	Çarpma ve Bölme	görünen kareköklerin çarpımı doğal sayı koşulu	4
+8B	2-35	5	Y	K5		ondalık kareköklü uzunluklarla konum aralığı	4
+8B	2-35	6	Y	K6	EBOB - EKOK Problemleri	periyotlu çarklarla çarpımın tam kare olması, en az süre	4
+8B	2-36	7	Y	K6	Çarpma ve Bölme	çarpımı tam kare olan çiftleri çıkarma, kalan	4
+8B	2-36	8	Y	K6	Çarpma ve Bölme	kareköklü kenarlarla alanın doğal sayı olması, toplam en az	4
+8B	2-37	1	Y	V		daire grafiği açıları ve farktan miktar	3
+8B	2-37	2	Y	V		sütun grafiği ve maliyetle kâr	3
+8B	2-38	3	Y	V		üç grafikten kâr hesaplama, toplam	4
+8B	2-39	4	Y	V		çizgi grafiği ve yüzde tablosundan daire grafiği	4
+8B	2-39	5	Y	V		sütun grafiği ve daire grafiğiyle kazanç	4
+8B	2-40	6	Y	V		iki daire grafiği ve tablodan eklenen miktar	4
+8B	2-41	1	Y	V		iki daire grafiğini birleştirip yüzde	4
+8B	2-41	2	Y	V		daire grafiği ve ilişkilerden yüzde	4
+8B	2-42	3	Y	V		daire grafiği ve paylaştırma sonrası yüzde artış	4
+8B	2-42	4	Y	V		daire grafiği açısından miktar, olamayan sonuç	4
+8B	2-43	5	Y	V		daire grafiği ve eşit sayılarla toplam	4
+8B	2-43	6	Y	V		daire ve sütun grafiğinden satış yüzdesi	4
+8B	2-44	7	Y	V		daire ve yüzde sütun grafiğiyle miktar	4
+8B	2-44	8	Y	V		daire ve sütun grafiğiyle satılmayan miktar, en az	4
+8B	2-45	9	Y	V		iki daire grafiğinden satış yüzdesi	4
+8B	2-45	10	Y	V		iki daire grafiği ve farktan toplam	4
+8B	2-46	11	Y	V	Üslü İfadeler	üslü sayfa sayıları ve daire grafiğiyle toplam	4
+8B	2-46	12	Y	V		iki daire grafiğinden oran	4
+8B	3-1	1	Y	O		farklı seçimlerde olası durum sayısı	3
+8B	3-1	2	Y	O	Aralarında Asal Sayılar	koşullu eşleştirmede olası durum sayısı	4
+8B	3-2	3	Y	O		olasılık en fazla için seçim	3
+8B	3-2	4	Y	O		olasılıklardan sayıları bulup toplam en fazla	4
+8B	3-3	5	Y	O		olasılık koşulu için en az işlem	3
+8B	3-3	6	Y	O		ardışık boş yerlerde olası durum sayısı	3
+8B	3-4	7	Y	O	Çarpanlar ve Asal Çarpanlar	tablolardan koşullu seçim, tek asal çarpan olasılığı	4
+8B	3-5	8	Y	O		hareket sonrası bölge değişimiyle olasılık	4
+8B	3-6	1	Y	O	Üçgenin Kenarları Arasındaki İlişki	üçgen oluşturan seçimlerde asal toplam olasılığı	4
+8B	3-6	2	Y	O		kayma sonrası eşleşmenin doğru olma olasılığı	4
+8B	3-7	3	Y	O		eşit toplamlı dağıtım, olasılık en az	4
+8B	3-7	4	Y	O	Çarpanlar ve Asal Çarpanlar	asal numaralı katlar hariç, aynı katta olmama olasılığı	4
+8B	3-8	5	Y	O	Çarpanlar ve Asal Çarpanlar	komşuluk ve asal toplam koşuluyla olasılık	4
+8B	3-8	6	Y	O	Çarpanlar ve Asal Çarpanlar	uzaklık kuralıyla konum ve asal olma olasılığı	4
+8B	3-9	7	Y	O		uzunluk koşulundan dizilim ve dikey olma olasılığı	4
+8B	3-9	8	Y	O		komşuluk koşuluyla seçim olasılığı	4
+8B	3-10	1	Y	O		olasılıkların eşitliğinden adet	4
+8B	3-10	2	Y	O	Çarpanlar ve Asal Çarpanlar	toplamın asal olma olasılığı	3
+8B	3-11	3	Y	O		ekleme sonrası olasılık eşitliği, en fazla	4
+8B	3-11	4	Y	O	Çarpanlar ve Asal Çarpanlar	koşullu konumlar ve olasılıktan en fazla	4
+8B	3-12	5	Y	O		denge koşulunun olasılığı	4
+8B	3-12	6	Y	O		döndürmeyle eşleşmelerin farklı olma olasılığı	4
+8B	3-13	7	Y	O		ardışık çevirmelerden sonra olasılık	4
+8B	3-13	8	Y	O	EBOB - EKOK	ortak bölenlerle kesim olasılığı	4
+8B	3-14	1	Y	O		ödül toplamından adetler, olasılık	4
+8B	3-14	2	Y	O		görünümlerden adet, olasılık en fazla	4
+8B	3-15	3	Y	O		koparılan sayfalar sonrası olasılık en fazla	4
+8B	3-15	4	Y	O		kesirli dağıtım ve hata payıyla olasılık	4
+8B	3-16	5	Y	O		yükseklik ve olasılık koşuluyla artış en fazla	4
+8B	3-16	6	Y	O		iki kutudaki olasılıklardan adet	4
+8B	3-17	7	Y	O		olasılık değeri olamayan seçenek	3
+8B	3-17	8	Y	O	Eşitsizlikler	tolerans tablosuyla kusurlu olma olasılığı	4
+8B	3-18	1	Y	C2		tam kare alandan kenar, kalan bölge alan ifadesi	3
+8B	3-18	2	Y	C2		tam kare alanlardan kenarlar, dikdörtgen alan ifadesi	4
+8B	3-19	3	Y	C2		eş yamuklarla iç boşluğun alan ifadesi	4
+8B	3-19	4	Y	C2		tam kare alandan kenar, toplam alan ifadesi	4
+8B	3-20	5	Y	C1		kaydırma sonrası görünen bölgenin alan ifadesi	4
+8B	3-20	6	Y	C2		tam kare alandan kenar, eş parçanın alan ifadesi	4
+8B	3-21	7	Y	C1		kesip yapıştırma sonrası alan ifadesi	4
+8B	3-21	8	Y	C2		(a+b)² modelinde terim adetleriyle uygun şekil	4
+8B	3-22	1	Y	C1		çevre ifadesinden kenar, çevre ifadesi	3
+8B	3-22	2	Y	C1		kesip birleştirmede çevre farkıyla alan ifadesi	4
+8B	3-23	3	Y	C3		kaydırma sonrası kenar, çarpanlara ayrılmış alan	4
+8B	3-23	4	Y	C3	Özdeşlikler	tam kare alandan kenar, büyük alanın çarpanlı ifadesi	4
+8B	3-24	5	Y	C2		tam kare alandan kenar, eş parçalarla çevre ifadesi	4
+8B	3-24	6	Y	C2		eş parçalarla dikdörtgen, kalan bölge alan ifadesi	4
+8B	3-25	7	Y	C2		tam kare alandan kenar, uzaklık ifadesi	4
+8B	3-25	8	Y	C2		tam kare ifadesinden değer, rakamlar toplamı	4
+8B	3-26	1	Y	C2		tam kare alandan kenar, iç bölge alan ifadesi	4
+8B	3-26	2	Y	C1		çerçeve çevre ifadesinden parça alanı	4
+8B	3-27	3	Y	C1		kenar ve alan ifadelerinden görünen bölge alanı	4
+8B	3-27	4	Y	C1		kaydırma sonrası kalan bölgenin alan ifadesi	4
+8B	3-28	5	Y	C2		yol ayrılınca parsel alanının iki kare farkı olarak ifadesi	3
+8B	3-28	6	Y	C2	Daire alanı	yükseklik farkından yarıçap, daire alanı özdeşliği	4
+8B	3-29	7	Y	C3	Özdeşlikler	kesip birleştirmede alan ifadesinin özdeşi	4
+8B	3-29	8	Y	C2		katlamada uzunluktan alan ifadesi	4
+8B	3-30	9	Y	C1		ardışık katlamalarla görünen bölgenin alan ifadesi	4
+8B	3-30	10	Y	C2		tam kare alandan kenar, parçaların alan ifadesi	4
+8B	3-31	1	Y	C1		ip uzunluklarından kenar, alan ifadesi	4
+8B	3-31	2	Y	C2		eş dikdörtgenlerle üçgenin alan ifadesi	4
+8B	3-32	3	Y	C2	Daire alanı	daire bölgeleri alan ifadesinden çevre farkı	4
+8B	3-32	4	Y	C2		alanları birer artan kartonlarla iki kare farkı, adet	4
+8B	3-33	5	Y	C1		katlamada bölge alan ifadesi	4
+8B	3-33	6	Y	C2		kartonlarla tam kare oluşturma, en az adet	4
+8B	3-34	7	Y	C1	Çember çevresi	en uzak konumdan çap, tur uzunluğu ifadesi	4
+8B	3-34	8	Y	C1		eş karelere bölünen bölgede köşe sayısı ifadesi	4
+8B	3-35	1	Y	C1		konum uzaklıklarından kenarlar, alan ifadesi	4
+8B	3-35	2	Y	C2		tam kare alandan kenar, dikdörtgen alan ifadesi	4
+8B	3-36	3	Y	C1		kapak kayması sonrası görünen alan ifadesi	4
+8B	3-36	4	Y	C2		kalan alan tam kare ifadesinden yapıştırılan alan	4
+8B	3-37	5	Y	C2		iki konumdan uzunluklar, alanın özdeş ifadesi	4
+8B	3-37	6	Y	C1		açılma sonrası uzunluktan parça alan ifadesi	4
+8B	3-38	7	Y	C1		eş bölmelerden kenar, yükseklik ifadesi	4
+8B	3-38	8	Y	C1		çakışmalı parçalarla çevreden alan ifadesi, katsayı toplamı	4
+8B	4-1	1	Y	D1		tartı göstergelerinden ağırlık denklemi	3
+8B	4-1	2	Y	D1		kenar oranı ve yükseklikten denklem, alan	4
+8B	4-2	3	Y	D1		çerçeve iç çevresinden parça uzunluğu	3
+8B	4-2	4	Y	D1		uzunluk toplamları eşitliğinden birim uzunluk	4
+8B	4-3	5	Y	D1		katlama sonrası uzunluklardan denklem, alan	4
+8B	4-3	6	Y	D1		ardışık sayılar ve dağıtım eşitliği, toplam en küçük	4
+8B	4-4	7	Y	D1		oranlı uzaklıklar ve konumlardan uzunluk	4
+8B	4-4	8	Y	D1		dönme ile yükseklik değişimi ilişkileri	4
+8B	4-5	1	Y	D1		formül ve tablodan bilinmeyen	4
+8B	4-5	2	Y	D1		çevre ve uzaklıklardan kare çevresi	3
+8B	4-6	3	Y	D1		yüzde ve süreden kalan miktar	3
+8B	4-6	4	Y	D1		örtüşen parçalarla çevreden kenar	4
+8B	4-6	5	Y	D1		kademeli tarife ve ücret farkından sayı	4
+8B	4-7	6	Y	D1		makine kapasiteleri ilişkisinden üretim	4
+8B	4-7	7	Y	D1		artan sıra düzeniyle toplamdan bir terim	4
+8B	4-8	8	Y	D1		uzatılabilen ölçü araçlarıyla uzunluk denklemi	4
+8B	4-8	9	Y	D1		çevre oranı ve kenar ilişkisinden uzunluk	4
+8B	4-9	1	Y	D1		boşluksuz dizilim ve uzunluk farkından toplam	4
+8B	4-9	2	Y	D1		bölüm yükseklikleri ilişkisinden toplam yükseklik	4
+8B	4-10	3	Y	D1		eşit aralıklı raflarda yükseklik ilişkisi	4
+8B	4-10	4	Y	D1		iki yıllık tarife farkından birim ücret	4
+8B	4-11	5	Y	D1		dilim fiyatları ve menü toplamından birim fiyat	4
+8B	4-11	6	Y	D1		eş parçalarla çevreden başka bölgenin çevresi	4
+8B	4-12	7	Y	D1		iki parça uzunluğu ve yükseklik farkından toplam uzunluk	4
+8B	4-12	8	Y	D1		kesirli katlama ve ölçümlerden uzunluk	4
+8B	4-13	9	Y	D1		sonuç sayıları arası ilişkilerden değer	4
+8B	4-13	10	Y	D1		kapasite ilişkileriyle adet	4
+8B	4-14	11	Y	D1		birleşik şeklin çevresinden yamuk alanı	4
+8B	4-14	12	Y	D1		yapıştırma ve uzunluk ilişkisinden görünen alan	4
+8B	4-15	1	Y	D2		eksenlere paralel hareketle karşılaşma noktası	3
+8B	4-15	2	Y	D2		koordinatlarla en kısa yol uzunluğu	3
+8B	4-16	3	Y	D2		eksen hareketleriyle noktanın yeni koordinatı	3
+8B	4-16	4	Y	D2		oran ve koordinatlarla köşe, olamayan nokta	4
+8B	4-17	5	Y	D2		ölçek değişimiyle koordinat	4
+8B	4-17	6	Y	D2	Kareköklü İfadeler	çarpım koşuluyla uç nokta koordinatı, olamayan	4
+8B	4-18	7	Y	D2		eş dikdörtgenlerden köşe koordinatları toplamı	4
+8B	4-18	8	Y	D2		eksenlere yaklaşma/uzaklaşma koşullarıyla nokta	4
+8B	4-19	1	Y	D3		doğru üzerinde atlama ve dik iniş noktası	4
+8B	4-19	2	Y	D3		doğru üzerinde koşullu nokta, olabilecek	4
+8B	4-20	3	Y	D3		doğru üzerindeki noktaları sayma	3
+8B	4-20	4	Y	D3		doğruların bölgeden geçip geçmediği	4
+8B	4-21	5	Y	D3		doğruların eksenleri kestiği noktalarla yol uzunluğu	4
+8B	4-21	6	Y	D3		eksen üzerinde uzaklıkla nokta koordinatı	3
+8B	4-22	7	Y	D3		katlama sonrası köşenin doğru üzerinde olmasıyla katsayı	4
+8B	4-22	8	Y	D3		doğruların eksenle kesişimlerinden uzunluk toplamı	4
+8B	4-23	1	Y	D3		azalan iki grafikten aynı andaki değer	3
+8B	4-23	2	Y	D3		azalan grafikten oran koşulunun zamanı	3
+8B	4-24	3	Y	D3		grafiklerdeki artış/azalış yönünü yorumlama	3
+8B	4-24	4	Y	D3		grafik ve tablodan uygun seçeneği belirleme	4
+8B	4-25	5	Y	D3		iki doğrusal grafikle toplamdan uzunluk	4
+8B	4-26	6	Y	D3		iki doğrusal grafikle eşitlik anı	4
+8B	4-26	7	Y	D3		yapılan/kalan grafikleriyle eşitlik anında uzaklık	4
+8B	4-27	1	Y	D3		iki grafikle menzil, ulaşılabilen noktaları sayma	4
+8B	4-27	2	Y	D3		yay uzama doğrusal ilişkisinden kütle	3
+8B	4-28	3	Y	D3		iki doğrusal grafikte fark koşulunun zamanı	4
+8B	4-28	4	Y	D3		azalan grafikte yüzde sınırının altına düşme zamanı	3
+8B	4-29	5	Y	D3		iki birikim grafiğinde fark koşulunun zamanı	3
+8B	4-29	6	Y	D3		alan değişim grafikleriyle eşitlik anında adet	4
+8B	4-30	7	Y	D3		doğrusal büyümeden hedef değer zamanı	3
+8B	4-30	8	Y	D3		iki grafiği birleştirip kalan miktar	4
+8B	4-30	9	Y	D3	EBOB - EKOK	doğrusal kullanım ve döngüyle sıra belirleme	4
+8B	4-31	1	Y	D3	Üslü İfadeler	hız değişimli grafikle uzunluk (üslü)	4
+8B	4-31	2	Y	D3		iki doğrusal grafikle fark koşulunun zamanı	4
+8B	4-32	3	Y	D3	Daire alanı	iki grafikten kesilen daire alanı ve yarıçap	4
+8B	4-32	4	Y	D3		iki doğrusal grafikten toplam değer	4
+8B	4-33	1	Y	D4		ardışık eğimli yollarla varış noktası	3
+8B	4-33	2	Y	D4	Kareköklü İfadeler	kareköklü uzunluklardan noktalar arası eğim	4
+8B	4-34	3	Y	D4	Tam Kare Sayılar	alanlardan kenarlar, olamayan eğim değeri	4
+8B	4-34	4	Y	D4		hedef ve isabet noktası arasında eğim değişimi yüzdesi	4
+8B	4-35	5	Y	D4		yüzde eğimden yükseklik	4
+8B	4-35	6	Y	D4		ardışık bölmelerde eğim sırası	4
+8B	4-36	7	Y	D4		kareli zeminde aynı doğrultudaki noktalar	3
+8B	4-36	8	Y	D4		eş parçalardan kenarlar, köşegen eğimi	4
+8B	4-37	1	Y	D4		dönme ile uzayan boyla istenen eğim	4
+8B	4-37	2	Y	D4		eşit eğimli desteklerle uzunluk	4
+8B	4-38	3	Y	D4		yükseklik farkı ve yatay mesafeden yüzde eğim	3
+8B	4-38	4	Y	D4		eğim sınırına göre gidilebilen noktaları sayma	4
+8B	4-39	5	Y	D4		adım adım yükselen bloklarda eğim koşulu	4
+8B	4-39	6	Y	D4		iki eğimden kenar ve alan	4
+8B	4-40	7	Y	D4		uzayan direkle eğim değişimi, uzaklık	4
+8B	4-40	8	Y	D4		basamak ve yüzde eğimden uzunluk	4
+8B	4-41	1	Y	D4		yüzde eğim ve yükseklikten yatay uzaklık	4
+8B	4-41	2	Y	D4		katlama sonrası eğimlerden uzunluk farkı	4
+8B	4-42	3	Y	D4		eğim sınırlarına göre çıkabilen araç sayısı	4
+8B	4-42	4	Y	D4		blok oranlarına göre eğim, en fazla	4
+8B	4-43	5	Y	D4		yüzde eğimlerle iki aşamalı yol	4
+8B	4-43	6	Y	D4		kareli zeminde hedefe uygun eğim	3
+8B	4-44	7	Y	D4	Doğrusal Denklemler	eğim ve kalori tablosundaki doğrusal ilişki	4
+8B	4-44	8	Y	D4	Doğrusal Denklemler	doğru denklemi ve eğimle uzunluk	4
+8B	4-45	1	Y	E		formül ve aralıktan en fazla değer	3
+8B	4-45	2	Y	E		alan oranı aralıklarıyla kat sayısı farkı	4
+8B	4-46	3	Y	E		kaydırma sınırıyla uzaklık aralığı	3
+8B	4-46	4	Y	E		hata payıyla fiyat aralığı	3
+8B	4-47	5	Y	E		koşullu adetlerle toplam aralığı	4
+8B	4-47	6	Y	E	Daire alanı	alanlardan yarıçap, uzunluk aralığı	4
+8B	4-47	7	Y	E		indirim kademeleriyle fiyat koşulu, en fazla	4
+8B	4-48	8	Y	E		formül ve tolerans aralığıyla fark en fazla	4
+8B	4-48	9	Y	E		boy aralığı ve uzaklık koşuluyla yükseklik aralığı	4
+8B	4-49	1	Y	E		süre ve tam sayı koşulundan en az değer	3
+8B	4-49	2	Y	E		yükseklik ilişkileri ve koşullardan en fazla	4
+8B	4-50	3	Y	E		iki seçenekte birikimli maliyet karşılaştırma, en az	4
+8B	4-50	4	Y	E		çevirme sonrası oran koşulundan en fazla	4
+8B	4-51	5	Y	E		oranlı uzunluklar ve toplamla boşluk en az	4
+8B	4-51	6	Y	E		yükseklik koşuluyla kalınlık en az	4
+8B	4-52	7	Y	E		tolerans aralığıyla fiyat aralığı	4
+8B	4-52	8	Y	E		birikim karşılaştırmasında en erken zaman	4
+8B	4-53	1	Y	E		koşullardan sıcaklık aralığı	3
+8B	4-53	2	Y	E		tablodaki aralıkların kesişimi	3
+8B	4-54	3	Y	E		boşluk ve sınırla uzunluk, en küçük tam sayı	4
+8B	4-54	4	Y	E		yerleşim kuralıyla en fazla kişi	4
+8B	4-55	5	Y	E		kapasite ve doluluk oranlarından en az araç	4
+8B	4-55	6	Y	E	Tam Kare Sayılar	kare kesip ekleme ile alan aralığı	4
+8B	4-55	7	Y	E		kademeli fiyatlarla sayı, en az	4
+8B	4-56	8	Y	E		oranlı kademe yükseklikleriyle boy aralığı	4
+8B	4-56	9	Y	E		çevre koşulları ve ilişkilerle en fazla çevre	4
+8B	4-57	1	Y	E		yüzde görünürlük koşuluyla çekme aralığı	4
+8B	4-57	2	Y	E		eş dikdörtgenlerde çevre ilişkisi, en fazla	4
+8B	4-58	3	Y	E		etiket alan aralığıyla görünen alan aralığı	4
+8B	4-58	4	Y	E		çevre koşuluyla en az uzunluk	4
+8B	5-1	1	Y	T1		katlama izinden yardımcı eleman türü	3
+8B	5-1	2	Y	T1		kareli zeminde kenarortay olan üçgenleri sayma	3
+8B	5-2	3	Y	T1		kareli zeminde kenarortayın geçtiği nokta	3
+8B	5-2	4	Y	T1	Üçgenin Kenarları Arasındaki İlişki	katlamada açıortay ve uzunluk yorumları	4
+8B	5-3	5	Y	T1		eşit uzaklıktaki buluşma ile yardımcı eleman	3
+8B	5-3	6	Y	T1		hareket koşullarından yardımcı eleman türü	3
+8B	5-4	7	Y	T1		kenarortayla kesip çevreden parça çevresi	4
+8B	5-4	8	Y	T1	Üçgende Açı Kenar Bağıntıları	açılardan yükseklik kesişim noktasının yeri	3
+8B	5-5	9	Y	T1		kenarortay ve sapmalarla uzaklık	4
+8B	5-6	10	Y	T1		katlama izlerinden yardımcı elemanlar ve uzunluk	4
+8B	5-6	11	Y	T1		eşit uzunluklardan yükseklik olan çizgiler	4
+8B	5-7	1	Y	T2	Pisagor Bağıntısı	üçgen eşitsizliğiyle olamayan dikdörtgen	4
+8B	5-8	2	Y	T2		eşit ekle üçgen oluşturma, en az ek	3
+8B	5-8	3	Y	T2		toplam uzunlukla oluşabilecek farklı üçgen sayısı	4
+8B	5-9	4	Y	T2		kesim sonrası iki üçgende eşitsizlikle uzunluk	4
+8B	5-9	5	Y	T2	EBOB - EKOK Problemleri	eş kare parçalarla üçgen kenarı, en fazla	4
+8B	5-10	6	Y	T2		ortak köşeli üçgenlerde eşitsizlikle uzunluk en az	4
+8B	5-10	7	Y	T2		dikdörtgen içindeki üçgenlerle kenarın olası değer sayısı	4
+8B	5-11	1	Y	T2		parça uzunluğuyla kenarın tam sayı değer sayısı	3
+8B	5-11	2	Y	T2		kırılan parçalarla çevrenin en büyük ve en küçük değeri	4
+8B	5-12	3	Y	T3		açı-kenar ilişkisiyle yerleşim seçimi	4
+8B	5-13	4	Y	T3		açılardan uzaklıkları sıralayıp eşleştirme	4
+8B	5-14	5	Y	T3	Üçgende Kenarortay, Açıortay ve Yükseklik	katlamalardan dış açıları sıralama	4
+8B	5-14	6	Y	T2	Üçgen alanı	alan ve kenarlarla yükseklik aralığı, en küçük	4
+8B	5-15	7	Y	T2		kesilen parçalarla çevre koşulu, toplam en az	4
+8B	5-15	8	Y	T3		birleştirmeden açıları sıralama	4
+8B	5-16	9	Y	T4		verilen elemanlarla üçgen çizimi mümkün mü	3
+8B	5-17	1	Y	T5	Kareköklü İfadeler	Pisagorla kenarlar, bölge çevresi	4
+8B	5-17	2	Y	T5		Pisagorla dik üçgen çevresi	4
+8B	5-18	3	Y	T5		kırılan nesnede Pisagorla en kısa uzaklık	4
+8B	5-18	4	Y	T5		ip uzunluğu ve konum değişimiyle Pisagor	4
+8B	5-19	5	Y	T5		tur sayısıyla değişen yükseklik, Pisagorla uzaklık	4
+8B	5-19	6	Y	T5	Olasılık	ip uzunluğuyla ulaşılabilen kenar olasılığı	4
+8B	5-20	7	Y	T5	Kareköklü İfadeler	kare alanlarından kenarlar, yeni konumda Pisagor	4
+8B	5-20	8	Y	T5		öteleme sonrası Pisagorla alan	4
+8B	5-21	1	Y	T5	Üçgende Kenarortay, Açıortay ve Yükseklik	ikizkenarda kenar orta dikme ve Pisagor	4
+8B	5-21	2	Y	T5		katlamalarla Pisagordan alan	4
+8B	5-22	3	Y	T5		eş parçalarla iskelette Pisagor	4
+8B	5-22	4	Y	T5		karede köşegen ve doğal sayı uzunluk değer sayısı	4
+8B	5-23	5	Y	T5		eş dikdörtgenlerin alanı ve uzunluktan köşegen	4
+8B	5-23	6	Y	T5		iki konumda ip uzunluklarıyla Pisagor	4
+8B	5-24	7	Y	T5	Kareköklü İfadeler	eş karelerde Pisagorla kareköklü uzunluk	4
+8B	5-24	8	Y	T5		eş parçalı kenarlarla Pisagor ve alan	4
+8B	5-25	9	Y	T5	Üçgenin Kenarları Arasındaki İlişki	köşegen ve eşitsizlikle çevre en küçük	4
+8B	5-25	10	Y	T5		alan ve kenardan köşegen, kayma miktarı	4
+8B	5-26	11	Y	T5		eş dikdörtgenlerde alanlardan Pisagor	4
+8B	5-26	12	Y	T5		kesip birleştirmede Pisagorla kenar	4
+8B	5-27	1	Y	EB		benzer dik üçgenlerde benzerlik oranıyla uzunluk	4
+8B	5-27	2	Y	EB		benzer dikdörtgenlerde kenar ve çevre	4
+8B	5-28	3	Y	EB		benzer dikdörtgenlerde kesim payıyla uzunluk	4
+8B	5-28	4	Y	EB		eşlik ve benzerlikle aradaki uzaklık	4
+8B	5-29	5	Y	EB		kareli zeminde benzer üçgenlerle uzunluk	4
+8B	5-29	6	Y	EB	Pisagor Bağıntısı	kare alanlarından kenar, benzerlikle toplam uzunluk	4
+8B	5-30	7	Y	EB		devrilen kutuda benzer üçgenlerle yüz alanı	4
+8B	5-30	8	Y	EB		benzer üçgenlerde yükseklik oranıyla kenar	4
+8B	5-31	1	Y	EB		örtüşen dikdörtgenlerde benzerlik oranıyla uzunluk	4
+8B	5-31	2	Y	EB		eş açılı benzer üçgenlerle uzaklık	4
+8B	5-32	3	Y	EB		benzer üçgen paspaslarda çevre farkı	4
+8B	5-32	4	Y	EB		dik üçgen ve yamukta benzerlikle alan	4
+8B	5-33	5	Y	EB	Tam Kare Sayılar	benzer dikdörtgenlerde oran ve alanla çevre	4
+8B	5-33	6	Y	EB		dikdörtgen gruplarının benzerliğini değerlendirme	4
+8B	5-34	7	Y	EB		benzer üçgenlerle direk uzunluğu	4
+8B	5-34	8	Y	EB		doğrusal noktalar ve benzerlikle yürünen mesafe	4
+8B	5-35	1	Y	EB	Pisagor Bağıntısı	kare alanından kenar, benzerlikle bölge alanı	4
+8B	5-35	2	Y	EB		benzer üçgenlerle kesilen yamuğun ölçüleri	4
+8B	5-36	3	Y	EB		benzer üçgenlerle uzaklık	4
+8B	5-36	4	Y	EB		benzer dikdörtgen ve üçgenlerle ip uzunluğu	4
+8B	5-37	5	Y	EB		benzer dikdörtgenlerde örtüşme alanı	4
+8B	5-37	6	Y	EB		kenarlardan benzerlik oranı, olamayan	4
+8B	5-37	7	Y	EB		benzerlik ve alan toplamından uzunluk	4
+8B	5-38	8	Y	EB		benzer üçgenlerin yerleşiminde iç bölge çevresi	4
+8B	5-38	9	Y	EB		eş karelerde benzer üçgenlerle uzunluk	4
+8B	6-1	1	Y	DG		harf dizisinde öteleme kuralıyla şifre çözme	3
+8B	6-1	2	Y	DG	Koordinat Sistemi	yansıma noktası ve hedefe en az birim	4
+8B	6-2	3	Y	DG	Çarpanlar ve Asal Çarpanlar	ayna yansımasıyla sayı oluşturma, asal çarpan koşulu	4
+8B	6-3	4	Y	DG		kodlu ötelemelerle noktanın koordinatı	4
+8B	6-3	5	Y	DG		yansıma ve yakıt sınırıyla ulaşılabilen nokta	4
+8B	6-4	6	Y	DG		katlama ve yansımalarla başlangıç şekli	4
+8B	6-4	7	Y	DG		yansıma ve öteleme ile şeklin yeni konumu	4
+8B	6-5	1	Y	DG		öteleme ve iki yansımayla noktanın konumu	4
+8B	6-5	2	Y	DG		yansıma ve ötelemelerle dikdörtgen oluşturma	4
+8B	6-6	3	Y	DG		komut dizisiyle başlangıç noktası	4
+8B	6-6	4	Y	DG		öteleme miktarından kenarlar, kesişim alanı en çok	4
+8B	6-7	5	Y	DG		kesilen parçaların ötelenmiş görünümü	3
+8B	6-7	6	Y	DG		öteleme ve doğruya göre yansımayla alan	4
+8B	6-8	1	Y	DG	Pisagor Bağıntısı	uzaklık ve yansıma komutlarıyla ulaşılamayan nokta	4
+8B	6-8	2	Y	DG	Pisagor Bağıntısı	yansıma ve uzaklık komutuyla ulaşılan nokta	4
+8B	6-9	3	Y	DG	Pisagor Bağıntısı	düzenli ötelemelerle tam sayı uzaklık koşulu	4
+8B	6-9	4	Y	DG	Pisagor Bağıntısı	düzenli ötelemelerle ikinci uygun noktaya en az hareket	4
+8B	6-10	5	Y	DG		katlama ve delmeyle deliklerin konumu, uzaklık	4
+8B	6-10	6	Y	DG		katlama ve kesmeyle oluşan delikler arası uzaklık	4
+8B	6-11	1	Y	G1		küp açınımında üst üste gelen noktalar	3
+8B	6-11	2	Y	G1		birim karelerle kaplama, prizmanın ayrıtları toplamı	4
+8B	6-12	3	Y	G1		kesilen parçalarla kare prizma, ayrıtlar toplamı	4
+8B	6-12	4	Y	G1		parçalanan prizmada boşluğu dolduran küp, ayrıtlar toplamı	4
+8B	6-13	5	Y	G1		birleştirilen prizmalarda ayrıt toplamları farkı	3
+8B	6-13	6	Y	G1		eş bölgelerden kenarlar, ayrıtlar toplamı	4
+8B	6-14	7	Y	G1		parçaları yeniden dizip ayrıtlardan yükseklik	4
+8B	6-14	8	Y	G1		açınım çevresinden ayrıtlar, olamayan yüz alanı	4
+8B	6-15	1	Y	G2		hacimden yükseklik, sığan kare zeminler	4
+8B	6-15	2	Y	G2	Pisagor Bağıntısı	ip desenlerinden çevre, yanal alan	4
+8B	6-16	3	Y	G2		çıkarılan parçalarla yüzey alanı değişimi	4
+8B	6-16	4	Y	G2	Kareköklü İfadeler	kareköklü ölçülerle hacim ve gelir, olamayan	4
+8B	6-17	5	Y	G2	Çember çevresi	tur sayısı ve ip uzunluğuyla çap	4
+8B	6-17	6	Y	G2		yanal yüzey bölgelerine ip sarma uzunlukları	4
+8B	6-18	7	Y	G2		yanal alandan boru sayısı	4
+8B	6-18	8	Y	G2		yarıçap oranıyla hacim katı, birleşecek parça sayısı	4
+8B	6-19	1	Y	G2		tablodaki ölçülerle motor hacmi karşılaştırma	4
+8B	6-20	2	Y	G2	Prizmalar	su hacmi ve batan küple devrilince yükseklik	4
+8B	6-20	3	Y	G2	Eşlik ve Benzerlik	benzerlikle yükseklik, hacim ve erime süresi farkı	4
+8B	6-21	4	Y	G2		bölümlerin hacmi ve yoğunluk sırasıyla yorum	4
+8B	6-21	5	Y	G2	EBOB - EKOK Problemleri	boş yanal alandan yükseklik, koliye sığan en fazla	4
+8B	6-22	6	Y	G2	Kareköklü İfadeler	boyanan alandan ölçüler, rulo hacmi	4
+8B	6-22	7	Y	G2	Kareköklü İfadeler	boyalı kare sayısıyla duvar çevresi en az	4
+8B	6-22	8	Y	G2	Prizmalar	parçalara ayrılan silindirde boşluk hacmi	4
+8B	6-23	9	Y	G2		boyalı alandan rulo ölçüleri ve hacim	4
+8B	6-24	10	Y	G2		mühür yuvarlanmasıyla boyutlar, hacim	4
+8B	6-24	11	Y	G2		parçalardan silindirin yüzey alanı	3
+8B	6-25	1	Y	G3		üçgen piramit açınımında çakışan noktalar	3
+8B	6-25	2	Y	G3	Pisagor Bağıntısı	açınımdan piramit, iki nokta arası uzaklık	4
+8B	6-26	3	Y	G3	Pisagor Bağıntısı	yan yüz yüksekliği ve tam sayı çevre, olamayan taban alanı	4
+8B	6-26	4	Y	G3	Kareköklü İfadeler	taban alanından ayrıt, uygun çıta sayısı	4
+8B	6-27	5	Y	G4	Pisagor Bağıntısı	dilimlerden koniler, yükseklikleri karşılaştırma	4
+8B	6-27	6	Y	G4		merkez açı aralığıyla ana doğru, tam sayı değer sayısı	4
+8B	6-28	7	Y	G4	Pisagor Bağıntısı	dilimlerden koniler, tepe uzaklıklarını sıralama	4
+8B	6-28	8	Y	G4		yarıçap farkıyla kesilen parçanın merkez açısı	4

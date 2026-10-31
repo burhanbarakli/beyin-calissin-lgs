@@ -279,6 +279,7 @@ class PdfReq(BaseModel):
     items: list[dict]                   # [{"qid", "role", "group", "answer"?}]
     wrong_images: list[str] = []        # öğrencinin yapamadığı soru fotoğrafları (başa eklenir)
     run_id: str = ""
+    fenomen: list[dict] = []            # Fenomen basılı kitap soruları [{"ref", "role", "why", "group"}] (sona liste)
 
 
 @app.post("/api/pdf")
@@ -302,7 +303,8 @@ def make_pdf(req: PdfReq):
     qbank.get_question = with_override
     try:
         wrong = [{"path": str(_resolve(p)), "caption": f"Soru {i}"} for i, p in enumerate(req.wrong_images, 1)]
-        out = pdfgen.build(req.items, req.title, config.get()["student_name"], req.title, wrong)
+        out = pdfgen.build(req.items, req.title, config.get()["student_name"], req.title, wrong,
+                           book_refs=req.fenomen)
     finally:
         qbank.get_question = orig
     used = _json(USED_FILE, [])

@@ -467,6 +467,14 @@ def main(argv=None):
     tr = sub.add_parser("torate", help="kitabın puanlanmamış soruları"); tr.add_argument("book")
     tr.add_argument("--limit", type=int, default=60)
     hi = sub.add_parser("history", help="öğrencinin çalışma kâğıdı sonuçları (konu bazında)"); hi.add_argument("--subject")
+    fe = sub.add_parser("fenomen", help="Fenomen 8A/8B basılı kitaplarında sayfa/soru no ile benzer soru ara")
+    for x in ("--topic", "--text", "--book", "--kind"):
+        fe.add_argument(x)
+    fe.add_argument("--topic-all", dest="topic_all", help='hepsi geçmeli (VE): "karekök,üslü"')
+    fe.add_argument("--min", type=int, default=0, help="en az zorluk (1-5)")
+    fe.add_argument("--max", type=int, default=5, help="en çok zorluk (1-5)")
+    fe.add_argument("--limit", type=int, default=30)
+    fe.add_argument("--topics", action="store_true", help="konu başına soru sayıları")
     a = ap.parse_args(argv)
 
     if a.cmd == "books":
@@ -511,6 +519,18 @@ def main(argv=None):
         for q in todo[:a.limit]:
             print(f"{q['qid']} | {q['topic'][:40]} | {q.get('level') or '-'} | cevap={q.get('answer') or '?'}"
                   f"{' | ÇÖZÜMLÜ' if q.get('solved') else ''}\n    {q['text'][:350]}")
+    elif a.cmd == "fenomen":
+        from . import fenomen
+        if a.topics:
+            for t, n in fenomen.topics():
+                print(f"{t[:70]:70} | {n:3} soru")
+            return
+        rows = fenomen.search(a.topic, a.text, a.topic_all, a.book, a.kind, a.min, a.max, a.limit)
+        if not rows:
+            print("Eşleşen Fenomen sorusu yok; terimleri genişletin (--topic tek kelime, --text'i kaldırın).")
+        for q in rows:
+            print(f"{q['ref']:22} | {q['tur']:16} | zorluk={q['zorluk']} | {q['konu'][:45]}"
+                  f"{' | ek konu: ' + q['ek_konu'] if q['ek_konu'] else ''}\n    beceri: {q['beceri']}")
     elif a.cmd == "history":
         res = load_store("results")
         agg = {}

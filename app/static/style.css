@@ -106,6 +106,10 @@ details.adv[open] { flex-basis: 100%; background: #fafafa; border-radius: 8px; p
 .card .sel { margin-left: auto; font-size: 18px; }
 .card .ans { font-weight: 600; white-space: nowrap; }
 .card .ans.claude { color: #b45309; }
+.fenomen { margin-top: 12px; border: 1px dashed var(--line); border-radius: 10px; padding: 8px 12px; font-size: 13px; background: #fbfcff; }
+.fenomen ul { margin: 6px 0 0; padding-left: 18px; }
+.fenomen li { margin: 3px 0; }
+.fenomen .ref { font-weight: 600; white-space: nowrap; }
 .card .never { background: #f3f4f6; color: var(--muted); }
 .card .never:hover { background: #fbe9e7; color: var(--z); }
 .role { color: #fff; border-radius: 6px; padding: 1px 7px; font-size: 11px; font-weight: 600; }

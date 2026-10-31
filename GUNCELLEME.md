@@ -8,6 +8,25 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.5.0 · 31 Ekim 2026 · Fenomen 8A/8B kitaplarından benzer sorular (sayfa ve soru no ile)
+
+**Yeni**
+- **2026 Fenomen 8. Sınıf Matematik A ve B** soru bankalarının tamamı (1914 soru) tarandı ve indekslendi.
+  Her soru için kitap, sayfa, soru no, tür (Kazanım · Kalıplaşmış İkiz · Yeni Nesil), konu, varsa ikinci konu,
+  ölçtüğü beceri ve zorluk kayıtlı. Kitapların soruları ve görselleri sisteme alınmadı; kitap elinizde olduğu için
+  soruyu kitaptan bulup çözersiniz.
+- Beyin, her konu grubuna yapamadığı soruya benzeyen **3–6 Fenomen sorusu** ekler (ör. `8A s.21 S2`, `8B Ünite 2 s.9 S1`).
+- Aday sorular ekranında her grubun altında **"📘 Fenomen kitabından çöz"** kutusu var.
+- PDF'te cevap anahtarından önce **"Fenomen Soru Bankasından Ek Sorular"** sayfası yer alır: konu konu, işaretlenebilir liste.
+- Yeni komut: `python -m app.qbank fenomen --topic "…" --text "…"` (`--topic-all`, `--book 8A`, `--max 3`, `--topics`).
+- Bankada olmayan iki konu Fenomen indeksine eklendi: Piramit ve Koni.
+
+**Yapmanız gereken:** `baslat.bat` penceresini kapatıp yeniden başlatın, sonra sayfayı yenileyin. Yeni çalışmalarda
+Fenomen önerileri kendiliğinden gelir; eski çalışmalarda görünmez.
+8B'nin 2. ve sonraki ünitelerinde sayfa numarası her ünitede yeniden başlar: `8B Ünite 4 s.12` diye yazılır.
+
+---
+
 ## 2.4.0 · 30 Ekim 2026 · Çok konulu soru analizi (karekök + üslü gibi)
 
 **Yeni**

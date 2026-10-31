@@ -183,7 +183,7 @@ async function loadCandidates(id, scroll = false) {
     el.innerHTML = `<div class="group-head"><div><h3>${esc(g.title)}</h3><div class="muted">${esc(g.why || "")}</div>
       <div class="row gap" style="margin-top:6px"><button class="chip" data-a="rec">Önerilenler</button><button class="chip" data-a="all">Tümü</button><button class="chip" data-a="none">Hiçbiri</button></div></div>
       <div class="src-imgs">${(g.source_images || []).map((p) => `<img src="${fileUrl(p)}" title="Öğrencinin yapamadığı soru">`).join("")}</div></div>
-      <div class="cards">${items.map(cardHtml).join("")}</div>`;
+      <div class="cards">${items.map(cardHtml).join("")}</div>${fenomenHtml(g)}`;
     $("#groups").appendChild(el);
     el._items = items; el._g = g; el._gi = gi;
     $$("[data-a]", el).forEach((b) => (b.onclick = () => {
@@ -199,6 +199,12 @@ async function loadCandidates(id, scroll = false) {
   syncCards(); saveBasket();
   if (scroll) $("#candidates").scrollIntoView({ behavior: "smooth" });
 }
+// Fenomen basılı kitap soruları: görseli yok, öğrenci kitaptan sayfa/soru no ile bulur; PDF'in sonuna liste olarak eklenir
+const fenomenHtml = (g) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Fenomen kitabından çöz</b>
+  <span class="muted small">(8A/8B soru bankası · sayfa ve soru no)</span>
+  <ul>${g.fenomen.map((f) => `<li><span class="ref">${esc(f.ref)}</span> <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span>
+    <span class="muted">${esc(f.why || "")}</span></li>`).join("")}</ul></div>`;
+const fenomenRefs = () => (S.cand?.groups || []).flatMap((g) => (g.fenomen || []).map((f) => ({ ...f, group: g.title })));
 const basketItem = (it, g, gi) => ({ qid: it.qid, role: it.role, group: g?.title || "", gi, answer: it.answer || "",
   source_images: g?.source_images || [] });
 
@@ -283,7 +289,7 @@ $("#makePdf").onclick = async () => {
   $("#makePdf").disabled = true; $("#makePdf").textContent = "Hazırlanıyor…";
   try {
     const r = await api("/api/pdf", { method: "POST", body: { title: $("#pdfTitle").value || "Çalışma Kâğıdı",
-      items: items.map(({ qid, role, group, answer }) => ({ qid, role, group, answer })), wrong_images: wrong, run_id: S.runId } });
+      items: items.map(({ qid, role, group, answer }) => ({ qid, role, group, answer })), wrong_images: wrong, run_id: S.runId, fenomen: fenomenRefs() } });
     window.open(r.url, "_blank");
     toast("PDF hazır: " + r.file); loadRuns(); loadState();
   } catch (e) { toast("PDF hatası: " + e.message, 5000); }
