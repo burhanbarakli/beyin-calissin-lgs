@@ -25,7 +25,7 @@ yükleyip beyin çalıştırdığı için `ogrenci/` ve `data/` **onun güncel v
 4. **Sadece kodu güncelle:**
    - Klasör bir git deposuysa (`.git` var):
      `git fetch origin` ardından
-     `git checkout origin/main -- app brain docs .claude/agents kaynaklar/Fenomen README.md CLAUDE.md GUNCELLEME.md VERSION requirements.txt baslat.bat config.example.json`
+     `git checkout origin/main -- app brain docs .claude/agents kaynaklar/Fenomen kaynaklar/Ankara README.md CLAUDE.md GUNCELLEME.md VERSION requirements.txt baslat.bat config.example.json`
      (`git pull` KULLANMA — kullanıcının veri değişiklikleriyle çakışır.)
    - Git deposu değilse (ZIP ile kurulmuş): repoyu geçici bir klasöre indir (`git clone` ya da ZIP) ve yalnızca
      yukarıdaki kod yollarını bu klasörün üzerine kopyala. `ogrenci/`, `data/`, `kaynaklar/`, `config.json`'a dokunma.
@@ -65,6 +65,9 @@ adımları izle. Soru bankası komutları için: `python -m app.qbank --help`. K
 - `kaynaklar/Fenomen/fenomen_8_mat_2026.tsv` + `app/fenomen.py` — öğrencinin basılı Fenomen 8A/8B soru bankalarının
   sayfa/soru no indeksi (konu, tür, beceri, zorluk; soru metni ve görsel yok). `python -m app.qbank fenomen`;
   beyin gruplara `fenomen` önerisi ekler, arayüz ve PDF listeler. Güncellemede bu klasörü de kopyala.
+- `kaynaklar/Ankara/ankara_8_mat_gsb_2025.tsv` — aynı biçimde Ankara Yayıncılık 2025 8. Sınıf Matematik Güçlendiren
+  Soru Bankası indeksi (1009 soru, kitap kodu `Ankara`). `app/fenomen.py` iki kitap setini birlikte okur;
+  `qbank fenomen --book Ankara`. Güncellemede bu klasörü de kopyala.
 - `app/indexer.py` — kaynak PDF'lerden yapay zekâsız soru indeksi (sayfa, kırpma kutusu, konu, seviye, cevap
   anahtarı) → `data/index/*.json`. Metni bozuk PDF'lerde soruları renkli numara kutularından bulur.
 - `app/qbank.py` — soru bankası sorgu/CLI aracı (beyin bunu kullanır), birleşik zorluk hesabı;

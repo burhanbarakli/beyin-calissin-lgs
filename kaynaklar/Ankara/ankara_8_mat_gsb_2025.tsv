@@ -1,0 +1,1010 @@
+kitap	sayfa	soru	tur	konu	ek_konu	beceri	zorluk
+Ankara	11	1	Konu Testi 1	CK1		asal çarpanların toplamı	1
+Ankara	11	2	Konu Testi 1	CK1		bir sayının tüm pozitif çarpanlarını listeleme	1
+Ankara	11	3	Konu Testi 1	CK1	Temel Kurallar	asal çarpan üslü gösteriminden üsleri bulma	2
+Ankara	11	4	Konu Testi 1	CK1		sayıyı asal çarpanların üslü çarpımı olarak yazma	1
+Ankara	11	5	Konu Testi 1	CK1		asal çarpan algoritmasında bilinmeyen sayıyı karşılaştırma	3
+Ankara	11	6	Konu Testi 1	CK1		çarpımı verilen iki sayının toplamının en azı (çarpan çiftleri)	2
+Ankara	11	7	Konu Testi 1	CK1		rakamı bilinmeyen iki basamaklı asal sayı	3
+Ankara	12	8	Konu Testi 1	CK1		asal/çarpan sayısı koşullarından iki yaşı bulma	3
+Ankara	12	9	Konu Testi 1	CK1		çarpan ağacındaki harflerin toplamı	2
+Ankara	12	10	Konu Testi 1	CK1		üslü asal çarpan gösterimindeki üslerle ifadelerin yorumu	2
+Ankara	12	11	Konu Testi 1	CK1		asal çarpan gösterimi eşitliklerinin doğruluğu	1
+Ankara	12	12	Konu Testi 1	CK1	Temel Kurallar	farklı üslerle yazılan sayının en küçük değeri	3
+Ankara	13	1	Konu Testi 2	CK1		çarpan ağacında bilinmeyenlerin toplamının en çoğu	3
+Ankara	13	2	Konu Testi 2	CK1		sayı doğrusunda asal olan/olmayan sayıları belirleme	2
+Ankara	13	3	Konu Testi 2	CK1		rakamları yer değiştirince asal olma koşulu	3
+Ankara	13	4	Konu Testi 2	CK1		bölümü asal sayı olacak böleni bulma	2
+Ankara	13	5	Konu Testi 2	CK1	Temel Kurallar	üs toplamı verilen sayının alamayacağı değer	2
+Ankara	13	6	Konu Testi 2	CK1		alanı verilen dikdörtgenin çevresinin en azı (çarpan çiftleri)	2
+Ankara	14	7	Konu Testi 2	CK1	Temel Kurallar	sembollerle asal çarpan gösterimi	2
+Ankara	14	8	Konu Testi 2	CK1		bölenleri sırayla yazma, eksik bölenlerin toplamı	3
+Ankara	14	9	Konu Testi 2	CK1		rakamları sayının çarpanı olan üç basamaklı sayı	3
+Ankara	14	10	Konu Testi 2	CK1		örüntü terimlerinden asal çarpan bulma	4
+Ankara	14	11	Konu Testi 2	CK1		çarpımın asal çarpanlarının ortalamasından en küçük çarpan	4
+Ankara	14	12	Konu Testi 2	CK1		çarpımları verilen asal yaşları bulma	3
+Ankara	15	1	Geçiş Testi 3	CK1	Temel Kurallar	asal çarpanların üslerini kodlayan sayaç (yeni nesil)	4
+Ankara	15	2	Geçiş Testi 3	CK1		abaküste oluşan sayıların asal çarpanları	3
+Ankara	15	3	Geçiş Testi 3	CK1	EBOB - EKOK Problemleri	eşit aralıkla dikim, toplam sayının bölenlerle bulunması	3
+Ankara	16	4	Geçiş Testi 3	CK1		en büyük tam sayı çarpanı kadar azaltma işlemi	4
+Ankara	16	5	Geçiş Testi 3	CK1		asal sayıların çarpım şeması, olamayacak sayı	3
+Ankara	16	6	Geçiş Testi 3	CK1	Tam Kare	eş dikdörtgenlerden kare oluşturma, alan olamaz	4
+Ankara	17	1	Konu Testi 4	CK2		iki sayının ortak bölenlerini sayma	2
+Ankara	17	2	Konu Testi 4	CK2		katı verilen iki sayının EBOB'undan toplam	2
+Ankara	17	3	Konu Testi 4	CK2		EBOB'u verilen sayının olası değeri	2
+Ankara	17	4	Konu Testi 4	CK2		iki kesri tam sayı yapan en büyük payda (EBOB)	2
+Ankara	17	5	Konu Testi 4	CK2		EBOB'dan bilinmeyen ifadeleri bulma	3
+Ankara	17	6	Konu Testi 4	CK2		çarpımlardan ortak çarpanı bulma	3
+Ankara	17	7	Konu Testi 4	CK2		asal çarpan algoritmasından EBOB	2
+Ankara	18	8	Konu Testi 4	CK3		iki çubuğu en büyük eş parçalara ayırma	1
+Ankara	18	9	Konu Testi 4	CK2		asal çarpanları verilen sayıların en büyük ortak böleni	2
+Ankara	18	10	Konu Testi 4	CK3		paketleme sınırıyla bilinmeyen miktarı bulma (EBOB)	3
+Ankara	18	11	Konu Testi 4	CK3		ipleri eş parçalara ayırıp en az gelir	2
+Ankara	18	12	Konu Testi 4	CK3		alanlardan kenar uzunluğunun en fazlası (EBOB)	4
+Ankara	19	1	Geçiş Testi 5	CK3		ortak kenarlı kartonları birleştirince en az alan (EBOB)	4
+Ankara	19	2	Geçiş Testi 5	CK3		yol boyunca eşit aralıklı bayrak sayısının en azı (EBOB)	4
+Ankara	19	3	Geçiş Testi 5	CK3		kapları eş kovayla boşaltma, kova seçenekleri (ortak bölen)	3
+Ankara	20	4	Geçiş Testi 5	CK3	Yüzdeler	bayrakların yerleşiminden bir bayrağın en çok alanı	4
+Ankara	20	5	Geçiş Testi 5	CK3		panoyu eş etiketlerle kaplama, en az etiket	4
+Ankara	20	6	Geçiş Testi 5	CK2		sayıları ikişerli eşleyip EBOB toplamı	4
+Ankara	21	1	Konu Testi 6	CK2		çarpan ağaçlarından EKOK	1
+Ankara	21	2	Konu Testi 6	CK2		EBOB ve EKOK değerleriyle işlem	2
+Ankara	21	3	Konu Testi 6	CK2		kesirlerin toplamını tam sayı yapan en küçük değer (EKOK)	3
+Ankara	21	4	Konu Testi 6	CK2		EKOK'u verilen en büyük iki basamaklı sayı	3
+Ankara	21	5	Konu Testi 6	CK3		kalanlı bölmede en küçük sayıyı bulma adımları	2
+Ankara	21	6	Konu Testi 6	CK2		iki sayıya bölünen sayının kesin bölenleri	2
+Ankara	22	7	Konu Testi 6	CK3		gruplara ayırınca hep aynı kalan (kalanlı EKOK)	3
+Ankara	22	8	Konu Testi 6	CK3		eşit sayıdaki kalemlerin kalansız bölünmesi, en az fark	3
+Ankara	22	9	Konu Testi 6	CK3		nöbet günlerinin yeniden çakışması (EKOK)	2
+Ankara	22	10	Konu Testi 6	CK3		gruplayınca hep aynı sayı eksik, sınır altında en çok (kaydırılmış ortak kat)	3
+Ankara	22	11	Konu Testi 6	CK3		dikdörtgen fayanslardan kare duvar, en kısa uzunluk (EKOK)	4
+Ankara	22	12	Konu Testi 6	CK3		kasalara bölünen elmalar, satıştan sonra en az (EKOK)	3
+Ankara	23	1	Geçiş Testi 7	CK3		farklı kalınlıktaki kitaplarla rafı tam doldurma (ortak kat)	3
+Ankara	23	2	Geçiş Testi 7	CK3		eşit miktarda iki malzeme, en az artan (EKOK)	4
+Ankara	23	3	Geçiş Testi 7	CK3		teli eş parçalara ayırıp üçgen ve yedigen oluşturma (EKOK)	4
+Ankara	24	4	Geçiş Testi 7	CK3		iki levhanın çevresi boyunca tam tur, ortak uzunluk (EKOK)	4
+Ankara	24	5	Geçiş Testi 7	CK3		yolun iki tarafında farklı aralıklı kutular, çakışma sayısı (EKOK)	4
+Ankara	24	6	Geçiş Testi 7	CK3		çubuğu iki farklı biçimde parçalama, kalanlardan uzunluk (kalanlı EKOK)	5
+Ankara	25	1	Konu Testi 8	CK4		sayı çiftlerinin aralarında asal olup olmadığı	1
+Ankara	25	2	Konu Testi 8	CK4	EBOB - EKOK	aralarında asal sayıların EBOB/EKOK özellikleri	2
+Ankara	25	3	Konu Testi 8	CK4		bir sayı ile aralarında asal olan sayının kesin bölünmeyeceği sayı	2
+Ankara	25	4	Konu Testi 8	CK4	EBOB - EKOK	EKOK'u verilen aralarında asal iki sayının en az toplamı	2
+Ankara	25	5	Konu Testi 8	CK4		aralarında asal olma koşulundan bölünebilme	2
+Ankara	25	6	Konu Testi 8	CK4		aralarında asal sayılarla eşitsizlik, olamayacak değer	3
+Ankara	26	7	Konu Testi 8	CK4		toplamı verilen aralarında asal sayılardan biri olamaz	2
+Ankara	26	8	Konu Testi 8	CK4	EBOB - EKOK	EBOB + EKOK verilen aralarında asal sayıların çarpımı	2
+Ankara	26	9	Konu Testi 8	CK4		koşullu aralarında asallıkla iki basamaklı sayılar, en büyük değer	4
+Ankara	26	10	Konu Testi 8	CK4		bir sayı ile aralarında asal iki basamaklı sayılar, rakam sayısı	3
+Ankara	26	11	Konu Testi 8	CK4		aralarında asal sayılarla ilgili genellemelerin doğruluğu	2
+Ankara	26	12	Konu Testi 8	CK4	EBOB - EKOK Problemleri	aralarında asal kenarlı bahçeye eşit aralıklı fidan, en az sayı	4
+Ankara	27	1	Geçiş Testi 9	CK4		cetveli kırınca parçaların aralarında asal olması	3
+Ankara	27	2	Geçiş Testi 9	CK4		sayfa numaralarıyla aralarında asal olanların toplamı	3
+Ankara	27	3	Geçiş Testi 9	CK4		prizmayı parçalara ayırma, yükseklikler aralarında asal	4
+Ankara	28	4	Geçiş Testi 9	CK4		kartlardaki sayıların aralarında asal olması, en az toplam	4
+Ankara	28	5	Geçiş Testi 9	CK4	Çarpanlar ve Asal Çarpanlar	küplerin yüzlerindeki bölenlerden aralarında asal ikililer	4
+Ankara	28	6	Geçiş Testi 9	CK4	Çarpanlar ve Asal Çarpanlar	beşgenin köşelerine aralarında asal sayılar, en az toplam	5
+Ankara	29	1	Beceri Temelli Test 10	CK1	Temel Kurallar	asal çarpanların üslü gösterimini modelleme	3
+Ankara	29	2	Beceri Temelli Test 10	CK1		cetveli asal çarpanlı uzunluklara kesme, olamayacak parça	3
+Ankara	30	3	Beceri Temelli Test 10	CK3		farklı periyotla yanan lambaların aynı anda yanması (EKOK)	4
+Ankara	30	4	Beceri Temelli Test 10	CK3		masaları eş örtülerle kaplama, en az örtü (EBOB)	4
+Ankara	31	5	Beceri Temelli Test 10	CK1		katlara göre duran asansörler, uygun kat numaraları	4
+Ankara	31	6	Beceri Temelli Test 10	CK1		iki asal çarpanlı iki basamaklı sayılara zıplama	4
+Ankara	32	7	Beceri Temelli Test 10	CK3		farklı kalınlıktaki topları aynı yüksekliğe dizme (EKOK)	4
+Ankara	32	8	Beceri Temelli Test 10	CK1		kare kartonu alanlarına göre bölme, olamayacak bölünüş	4
+Ankara	33	1	Beceri Temelli Test 11	CK3		duvarı en büyük kare fayanslarla döşeme (EBOB)	5
+Ankara	33	2	Beceri Temelli Test 11	CK3		kumaşları eş kare parçalara ayırma, alan farkı (EBOB)	4
+Ankara	34	3	Beceri Temelli Test 11	CK4		aralarında asal olma kuralına göre puanlama, en yüksek ve en düşük	4
+Ankara	34	4	Beceri Temelli Test 11	CK3		prizma kutulara eşit uzunlukta tam tur bant (EKOK)	5
+Ankara	35	5	Beceri Temelli Test 11	CK3		iki dikiş aralığının çakıştığı noktalar, toplam düğme (EKOK)	5
+Ankara	35	6	Beceri Temelli Test 11	CK3	Yüzdeler	iki ürünü tam kullanma, ödeme farkı (ortak kat)	5
+Ankara	36	7	Beceri Temelli Test 11	CK3		farklı cetvellerle kenarı kaplama, en az toplam (EKOK)	5
+Ankara	36	8	Beceri Temelli Test 11	CK4		kalan ve gidilen yolun aralarında asal olduğu noktalar	4
+Ankara	37	1	Beceri Temelli Test 12	CK3		farklı fayanslarla eşit alan döşeme, en az kâr (EKOK)	5
+Ankara	37	2	Beceri Temelli Test 12	CK4	Çarpanlar ve Asal Çarpanlar	asal çarpanlar toplamı kadar aktarma, aralarında asal olmama	5
+Ankara	38	3	Beceri Temelli Test 12	CK1	Prizmalar	kare prizmaların yüzey alanından yükseklik, olamayacak değer	4
+Ankara	38	4	Beceri Temelli Test 12	CK3		iki çember teli eş parçalara ayırma, en az çiçek (EBOB)	5
+Ankara	39	5	Beceri Temelli Test 12	CK3		eş parçalara ayrılan kartonların çevresinin kesin çarpanı (EBOB/EKOK)	5
+Ankara	39	6	Beceri Temelli Test 12	CK1		ardışık sayıların pozitif çarpan sayısının tek olması (tam kare)	5
+Ankara	40	7	Beceri Temelli Test 12	CK3		iki dolaba eşit aralıklı raf, en çok raf (EBOB)	5
+Ankara	40	8	Beceri Temelli Test 12	CK1		kat/bölen ilişkisine göre çemberde sayı yerleştirme	4
+Ankara	41	1	Konu Testi 1	U1		negatif tam sayı kuvvetlerinin doğruluğu	1
+Ankara	41	2	Konu Testi 1	U1		tam sayı kuvvetleriyle toplama	1
+Ankara	41	3	Konu Testi 1	U1		negatif tabanlı kuvvetlerle kesirli işlem	2
+Ankara	41	4	Konu Testi 1	U1		negatif taban ve üsle a^b değeri	2
+Ankara	41	5	Konu Testi 1	U1		kartlardan üslü sayı, olamayacak değer	2
+Ankara	41	6	Konu Testi 1	U1		negatif üslü kenar uzunluklarıyla çevre ve maliyet	3
+Ankara	42	7	Konu Testi 1	U1		üslü eşitliklerden bilinmeyen üsleri bulma	2
+Ankara	42	8	Konu Testi 1	U1		negatif üslü sayıyı 2'ye tamamlayan çarpan	2
+Ankara	42	9	Konu Testi 1	U1		taban-üs tablosundaki değerlerle işlem	2
+Ankara	42	10	Konu Testi 1	U1		p^r = 64 koşulunda p+r olamaz	3
+Ankara	42	11	Konu Testi 1	U1		üslü eşitliklerden a+b+c'nin en küçük değeri	3
+Ankara	42	12	Konu Testi 1	U1		okunan sayfa sayısının pozitif tam sayı kuvveti olması	4
+Ankara	43	1	Geçiş Testi 2	U1		her gün 2 katına çıkan adım sayısı, hedefe ulaşma günü	3
+Ankara	43	2	Geçiş Testi 2	U1		depo azalışı ve mesafenin 3'ün kuvveti olması	4
+Ankara	43	3	Geçiş Testi 2	U1		küp yüzeylerindeki sayılardan üslü ifade, en küçük değer	4
+Ankara	44	4	Geçiş Testi 2	U1		ipleri 2'nin kuvveti uzunluklarda kesme, olamayacak kalan	4
+Ankara	44	5	Geçiş Testi 2	U1		yarıçapları 2'nin ardışık kuvvetleri olan diskler	3
+Ankara	44	6	Geçiş Testi 2	U1		kartlarda 2'nin ve 3'ün kuvvetleri, n'nin en büyük-en küçük farkı	4
+Ankara	45	1	Konu Testi 3	U2		üslü çarpma eşitliklerinin doğruluğu	2
+Ankara	45	2	Konu Testi 3	U2		negatif tabanlı üslü çarpım	2
+Ankara	45	3	Konu Testi 3	U2		çarpım durumunun üslü ifadesi (toka, çiçek, boncuk)	2
+Ankara	45	4	Konu Testi 3	U2		küp hacmini üslü ifadeyle bulma	2
+Ankara	45	5	Konu Testi 3	U2		örüntüde üslü toplam kütle	3
+Ankara	45	6	Konu Testi 3	U2		kareli zeminde şeklin çevresini üslü ifade etme	3
+Ankara	46	7	Konu Testi 3	U2		10'un kuvvetinden 1 çıkarınca 9 rakamı sayısı	3
+Ankara	46	8	Konu Testi 3	U2		her gün 2 katı okuma, yedinci gün sayfa	2
+Ankara	46	9	Konu Testi 3	U2		negatif üslü kesirle dikdörtgen alanı	3
+Ankara	46	10	Konu Testi 3	U2		üslü çarpma tablosunda bilinmeyen	2
+Ankara	46	11	Konu Testi 3	U2		üslü uzunluklarla üçgen alanı	3
+Ankara	46	12	Konu Testi 3	U2		sayının kendisi hariç en büyük böleni (üslü)	4
+Ankara	47	1	Konu Testi 4	U2		farklı tabanları eşitleyip üslü bölme	2
+Ankara	47	2	Konu Testi 4	U2		10'un ve 5'in kuvvetleriyle bölme	2
+Ankara	47	3	Konu Testi 4	U2		negatif üslü kesirleri ortak tabana çevirip bölme	3
+Ankara	47	4	Konu Testi 4	U2		bir üslü sayının diğerinin kaç katı olduğu	2
+Ankara	47	5	Konu Testi 4	U2		negatif tabanlı üslü bölme	2
+Ankara	47	6	Konu Testi 4	U2		toplam sayfa / günlük sayfa (üslü bölme)	2
+Ankara	48	7	Konu Testi 4	U2		üslü sayının yarısının yarısı	2
+Ankara	48	8	Konu Testi 4	U2		üslü sayının üçte birinin dokuz katı	3
+Ankara	48	9	Konu Testi 4	U2		üslü bölme eşitliklerinin doğruluğu	3
+Ankara	48	10	Konu Testi 4	U2		üçgen şemasında köşe çarpımı / iç değer, doğal sayı olması	3
+Ankara	48	11	Konu Testi 4	U2		yarışmacıları odalara eşit dağıtma (üslü bölme)	3
+Ankara	49	1	Konu Testi 5	U2		ortak tabanda üslü çarpma ve bölme	2
+Ankara	49	2	Konu Testi 5	U2		üslü kenarlarla iki dikdörtgen alanının oranı	3
+Ankara	49	3	Konu Testi 5	U2		kare tavanın çevresinden boya maliyeti (üslü)	3
+Ankara	49	4	Konu Testi 5	U2		alan ve kenardan diğer kenar (üslü bölme)	2
+Ankara	49	5	Konu Testi 5	U2		negatif değerli tabanlarla üslü kesir	3
+Ankara	49	6	Konu Testi 5	U2		tabloda satır-sütun çarpımları eşit, bilinmeyenlerin oranı	3
+Ankara	50	7	Konu Testi 5	U2		kutulara bölme ve kâr hesabı (üslü)	3
+Ankara	50	8	Konu Testi 5	U1		teli ikiye bölüp yarısını atma, kalan oranın sınırı	4
+Ankara	50	9	Konu Testi 5	U2		cevizleri paylaştırma, üssü bulma	3
+Ankara	50	10	Konu Testi 5	U2		eş üslü terimlerin çarpımının toplamına oranı	3
+Ankara	50	11	Konu Testi 5	U2		akış şemasında üslü çarpma ve bölme	3
+Ankara	50	12	Konu Testi 5	U2		eş üçgenlerden büyük üçgenin çevresi (üslü)	3
+Ankara	51	1	Geçiş Testi 6	U2		bakteri ağacında 3'ün kuvvetleriyle çoğalma	3
+Ankara	51	2	Geçiş Testi 6	U2	Yüzdeler	dairelerin döşeme maliyeti üslü ifadeyle, olamayacak tutar	4
+Ankara	51	3	Geçiş Testi 6	U2		küplerin görünen yüzlerindeki 4'lerin çarpımı	4
+Ankara	52	4	Geçiş Testi 6	U2		kartlardan üslü bölme, en büyük sonuç	4
+Ankara	52	5	Geçiş Testi 6	U2		kartonun kenarına üslü etiketler, en az alan	4
+Ankara	52	6	Geçiş Testi 6	U2		boyalı şeklin alanını üslü ifade etme	3
+Ankara	53	1	Konu Testi 7	U2		ondalık sayıyı çözümleme	1
+Ankara	53	2	Konu Testi 7	U2		çözümlenmiş ifadeden sayıyı bulma	1
+Ankara	53	3	Konu Testi 7	U2		çözümlemeden silinmiş rakamları bulma	2
+Ankara	53	4	Konu Testi 7	U2		çözümlemedeki üslerin toplamı	2
+Ankara	53	5	Konu Testi 7	U2		çözümlemede basamak katsayılarının çarpımı	2
+Ankara	53	6	Konu Testi 7	U2	Prizmalar	prizma hacmini çözümlenmiş biçimde yazma	3
+Ankara	54	7	Konu Testi 7	U2		çözümlemedeki bilinmeyenlerle işlem	2
+Ankara	54	8	Konu Testi 7	U2		kesirli toplamdan ondalık sayı ve bilinmeyenler	2
+Ankara	54	9	Konu Testi 7	U2		rakamlarla çözümlenmiş sayıyı yazma	2
+Ankara	54	10	Konu Testi 7	U2		basamak değeri verilen rakamın bulunduğu sayı	2
+Ankara	54	11	Konu Testi 7	U2		üçgen alanını çözümlenmiş biçimde yazma	3
+Ankara	54	12	Konu Testi 7	U2		iki çözümlenmiş ifadenin farkı	3
+Ankara	55	1	Geçiş Testi 8	U2		çözümlenmiş genleşme miktarlarını karşılaştırma	3
+Ankara	55	2	Geçiş Testi 8	U2		çözümlenmiş fiyatlarla para üstü, olamayacak tutar	3
+Ankara	55	3	Geçiş Testi 8	U2		eş çevreli altıgen ve kare, alanı çözümlenmiş yazma	4
+Ankara	56	4	Geçiş Testi 8	U2	10'un Kuvvetleri	tablodan toplam kütleyi çözümlenmiş yazma	4
+Ankara	56	5	Geçiş Testi 8	U2		çözümlenmiş kütlelerle taşıma kapasitesi yorumu	4
+Ankara	57	1	Konu Testi 9	U4		büyük sayıyı 10'un kuvvetiyle yazma	1
+Ankara	57	2	Konu Testi 9	U4		küçük ondalık sayıyı 10'un kuvvetiyle yazma	1
+Ankara	57	3	Konu Testi 9	U4		10'un kuvvetleriyle eşitliklerden üsleri bulma	2
+Ankara	57	4	Konu Testi 9	U4		ondalık sayıyı x·10^y biçiminde yazma, olası toplam	2
+Ankara	57	5	Konu Testi 9	U4		10'un negatif kuvvetinden üssü bulma	2
+Ankara	57	6	Konu Testi 9	U4		10'un kuvvetiyle verilen sayının sınırından üs	3
+Ankara	57	7	Konu Testi 9	U4		10'un kuvvetleriyle yazılmış sayıları sıralama	3
+Ankara	58	8	Konu Testi 9	U4		5 ile çarpma kısayolunu 10'un kuvvetiyle uygulama	2
+Ankara	58	9	Konu Testi 9	U4		10'un kuvvetleriyle verilen sayfa sayılarını karşılaştırma	2
+Ankara	58	10	Konu Testi 9	U4		üssün işaretini yanlış yazma, kaç kat büyük	3
+Ankara	58	11	Konu Testi 9	U4		10'un kuvvetleriyle verilen sayılarla işlem	3
+Ankara	58	12	Konu Testi 9	U4		atom kütlesinden atom sayısı (10'un kuvveti)	3
+Ankara	58	13	Konu Testi 9	U4	Temel Kurallar	sonucun basamak sayısı 100'den fazla olan işlem	4
+Ankara	59	1	Konu Testi 10	U4		bilimsel gösterim olan ifadeyi seçme	1
+Ankara	59	2	Konu Testi 10	U4		bilimsel gösterim olmayanları sayma	1
+Ankara	59	3	Konu Testi 10	U4		sayıyı bilimsel gösterime çevirme	2
+Ankara	59	4	Konu Testi 10	U4	Temel Kurallar	üslü çarpımın sonucunu bilimsel gösterimle yazma	3
+Ankara	59	5	Konu Testi 10	U4		nanometre birim çevirmesiyle bilimsel gösterim	2
+Ankara	59	6	Konu Testi 10	U4		ondalık sayının bilimsel gösteriminden işlem	2
+Ankara	60	7	Konu Testi 10	U4		nüfus artışını bilimsel gösterimle yazma	2
+Ankara	60	8	Konu Testi 10	U4		tablet başına madde miktarını bilimsel gösterimle	3
+Ankara	60	9	Konu Testi 10	U4		bilimsel gösterimdeki katsayı ve üslerin karşılaştırılması	3
+Ankara	60	10	Konu Testi 10	U4		çarpım sonucunu bilimsel gösterimle yazma	2
+Ankara	60	11	Konu Testi 10	U4		uzaklığı bilimsel gösterimle yazma	1
+Ankara	60	12	Konu Testi 10	U4		iki bilimsel gösterimdeki değerlerin yorumu	3
+Ankara	61	1	Geçiş Testi 11	U4	Yüzdeler	nüfus dağılımından bilimsel gösterimle kişi sayısı	3
+Ankara	61	2	Geçiş Testi 11	U4		iki musluğun debisi, bilimsel gösterim	4
+Ankara	61	3	Geçiş Testi 11	U4	Prizmalar	prizma hacmini birim çevirip bilimsel gösterimle	4
+Ankara	62	4	Geçiş Testi 11	U4	Temel Kurallar	daireyi tekrar tekrar bölme örüntüsü, alanı bilimsel gösterim	4
+Ankara	62	5	Geçiş Testi 11	U4		geri dönüşüm verisiyle kâğıt miktarını bilimsel gösterim	3
+Ankara	62	6	Geçiş Testi 11	U4		paspas püskül sayısının toplamını bilimsel gösterimle	4
+Ankara	63	1	Beceri Temelli Test 12	U2		kareyi eş üçgenlere bölme, bir üçgenin alanı (üslü)	4
+Ankara	63	2	Beceri Temelli Test 12	U4		malzemeleri kaşık ölçüsüne çevirme (10'un kuvvetleri)	4
+Ankara	64	3	Beceri Temelli Test 12	U3		her adımda dörde bölme örüntüsünde kenar uzunluğu (negatif üs)	4
+Ankara	64	4	Beceri Temelli Test 12	U2		üslü yüksekliklerle şekil, dikdörtgenin çevresi	5
+Ankara	65	5	Beceri Temelli Test 12	U2		küp açınımında karşılıklı yüzlerin üslü çarpımı	4
+Ankara	65	6	Beceri Temelli Test 12	U4		atık pil verisiyle bilimsel gösterim	3
+Ankara	66	7	Beceri Temelli Test 12	U2		çözümlenmiş kütlelerle taşıma sınırı	4
+Ankara	66	8	Beceri Temelli Test 12	U2		çarpma/bölme düzeneğinde 2'nin kuvvetleri	4
+Ankara	67	1	Beceri Temelli Test 13	U4		ipek böceği üretim zincirinde bilimsel gösterim	4
+Ankara	67	2	Beceri Temelli Test 13	U2		kareli zeminde kare alanlarının toplamını çözümleme	5
+Ankara	68	3	Beceri Temelli Test 13	U2	Prizmalar	birim küplerden prizma boyama maliyeti (üslü fiyat)	5
+Ankara	68	4	Beceri Temelli Test 13	U2		yarım çemberlerden desenin çevresi (üslü)	4
+Ankara	69	5	Beceri Temelli Test 13	U2		eşkenar üçgen parçalardan yeni üçgenin çevresi (üslü)	5
+Ankara	69	6	Beceri Temelli Test 13	U2		küplerin yüzlerindeki 10'un kuvvetlerinin çarpımı	4
+Ankara	70	7	Beceri Temelli Test 13	U2		iç içe karelerde kenar oranı 2, alanların toplamı	5
+Ankara	70	8	Beceri Temelli Test 13	U2	Yüzdeler	bölünerek çoğalan bakteri, ilaçtan sonra sayısı	5
+Ankara	71	1	Beceri Temelli Test 14	U2		kareyi bölüp boyanan parçaların alanı (üslü)	5
+Ankara	71	2	Beceri Temelli Test 14	U2		üçgen köşelerindeki üslü sayıların çarpımı eşit	4
+Ankara	72	3	Beceri Temelli Test 14	U4	Oran	harita ölçeklerini bilimsel gösterimle karşılaştırma	5
+Ankara	73	4	Beceri Temelli Test 14	U1		parmaklarla negatif taban/üs etkinliği, yanlış sonuç	4
+Ankara	73	5	Beceri Temelli Test 14	U2		10'un kuvvetli kartlardan ondalık gösterim	4
+Ankara	74	6	Beceri Temelli Test 14	U2		tahtayı ikiye bölme işlemleri, döşemenin çevresi	5
+Ankara	74	7	Beceri Temelli Test 14	U2		göçmen kuşların her 500 km'de azalması (üslü)	5
+Ankara	77	1	Konu Testi 1	K1		listedeki tam kare sayıları sayma	1
+Ankara	77	2	Konu Testi 1	K1		kareleri verilen sayılardan farkın en azı	2
+Ankara	77	3	Konu Testi 1	K1		tam karelerin karekökleriyle toplam	1
+Ankara	77	4	Konu Testi 1	K1		karekökü tam kare olan sayı	2
+Ankara	77	5	Konu Testi 1	K1		fayans sayılarından kare zemin oluşturma (tam kare)	3
+Ankara	77	6	Konu Testi 1	K1		kareden kareler kesilince kalan parçanın çevresi	3
+Ankara	78	7	Konu Testi 1	K1		iç içe kareköklerle işlem	2
+Ankara	78	8	Konu Testi 1	K1		tam kare günlere göre harçlık toplamı	2
+Ankara	78	9	Konu Testi 1	K1		alanlardan boyalı bölgenin çevresi	2
+Ankara	78	10	Konu Testi 1	K1		kare alanlarından en büyük karenin alanı	3
+Ankara	78	11	Konu Testi 1	K1		yapıştırmalarla kare kaplama (tam kare toplam)	3
+Ankara	78	12	Konu Testi 1	K1	Temel Kurallar	üslü çarpımı tam kare yapan en küçük çarpan	3
+Ankara	79	1	Geçiş Testi 2	K1		kare arsada kamelyalar ve havuz, alanlardan kenar	4
+Ankara	79	2	Geçiş Testi 2	K1		kart toplamlarının eşit ve tam kare olması, en az fark	4
+Ankara	79	3	Geçiş Testi 2	K1		alan farkı sınırlarıyla kare parçaların kenarları	4
+Ankara	80	4	Geçiş Testi 2	K1	Temel Kurallar	katlanınca üst üste gelen üslü ifadelerin çarpımı tam kare	4
+Ankara	80	5	Geçiş Testi 2	K1		üst üste kareler, görünen bölgelerin çevresi	3
+Ankara	81	1	Konu Testi 3	K1		hangi karekökün iki doğal sayı arasında olduğu	1
+Ankara	81	2	Konu Testi 3	K1		karekök uzaklığın hangi noktalar arasında olduğu	2
+Ankara	81	3	Konu Testi 3	K1		uzunluk aralığına uyan karekök	2
+Ankara	81	4	Konu Testi 3	K1		negatif karekökün en yakın tam sayısı	2
+Ankara	81	5	Konu Testi 3	K1		hedef tahtasında karekök yükseklik tahmini	3
+Ankara	81	6	Konu Testi 3	K1		sayı doğrusunda karekök uzaklıkla nokta aralığı	3
+Ankara	82	7	Konu Testi 3	K1		kareköklerin en yakın doğal sayılarıyla işlem	2
+Ankara	82	8	Konu Testi 3	K1		karekökün ardışık tam sayılar arasında olması	2
+Ankara	82	9	Konu Testi 3	K1		yaklaşık değerle katsayılı karekök tahmini	2
+Ankara	82	10	Konu Testi 3	K1		iki karekökün en yakın sayıları, çarpımın karekökü	3
+Ankara	82	11	Konu Testi 3	K1		sayı doğrusunda karekök konumu, olamayacak değer	3
+Ankara	82	12	Konu Testi 3	K1		eş aralıklı doğruda karekök uzaklığın konumu	3
+Ankara	83	1	Konu Testi 4	K2		katsayıyı kök içine alma, bilinmeyenlerin toplamı	2
+Ankara	83	2	Konu Testi 4	K2		a√b biçimindeki sayıları sıralama	2
+Ankara	83	3	Konu Testi 4	K2		katsayılı kareköklerden en büyüğü	2
+Ankara	83	4	Konu Testi 4	K2		diğerlerinden farklı a√b ifadesi	2
+Ankara	83	5	Konu Testi 4	K2		√360 = c√d, d'nin en küçük değeri	2
+Ankara	83	6	Konu Testi 4	K2		a√b biçiminde yazılamayan karekök	2
+Ankara	83	7	Konu Testi 4	K2	Temel Kurallar	kök içindeki üslü ifadeyi a√b biçiminde yazma (√(3^7))	3
+Ankara	83	8	Konu Testi 4	K2	Tam Kare	karekökün yaklaşık değeri için gereken temel kök	3
+Ankara	84	9	Konu Testi 4	K2		a√b yazımında a+b'nin en büyük değeri	2
+Ankara	84	10	Konu Testi 4	K2		alanlardan kenarları a√b biçiminde yazma	2
+Ankara	84	11	Konu Testi 4	K2	Tam Kare	alan aralığına göre karenin çevresi olabilecek değer	3
+Ankara	84	12	Konu Testi 4	K2	Temel Kurallar	kök içindeki üslü değişkenlerle yanlış işlem (√(x^5 y^3))	4
+Ankara	84	13	Konu Testi 4	K2	Tam Kare	sayı doğrusunda 4√2 uzaklığın aralığı	3
+Ankara	85	1	Geçiş Testi 5	K2	Tam Kare	kulp uzunluklarını kapak kenarıyla karşılaştırma	4
+Ankara	85	2	Geçiş Testi 5	K2	Tam Kare	hesap makinesi tuş sırasıyla karekök tahmini	3
+Ankara	85	3	Geçiş Testi 5	K2	Tam Kare	cetvelde silgi boyunun karekök değeri	3
+Ankara	86	4	Geçiş Testi 5	K2		karekökleri sıralayıp kartlardan kelime	3
+Ankara	86	5	Geçiş Testi 5	K2		iki terazinin gösterdiği karekök değerleri	4
+Ankara	86	6	Geçiş Testi 5	K2	Tam Kare	sırıkla atlama yüksekliğinin karekök değeri	3
+Ankara	87	1	Konu Testi 6	K4	Tam Kare	kök çarpımıyla eşitsizlikte en büyük tam sayı	3
+Ankara	87	2	Konu Testi 6	K4		karekök kenarlı dikdörtgenlerin alanını karşılaştırma	2
+Ankara	87	3	Konu Testi 6	K4		karekök çarpma tablosunda bilinmeyenler	2
+Ankara	87	4	Konu Testi 6	K4		alan doğal sayı olacak şekilde diğer kenar	3
+Ankara	87	5	Konu Testi 6	K4		çarpımı doğal sayı yapan karekök	2
+Ankara	87	6	Konu Testi 6	K4		1/√50 ile çarpımı doğal sayı yapan ifade	3
+Ankara	88	7	Konu Testi 6	K4		a·√17 − b = 24 koşulunda olamayacak değerler	3
+Ankara	88	8	Konu Testi 6	K4		alanı verilen dikdörtgenin olamayacak kenarları	2
+Ankara	88	9	Konu Testi 6	K4		karekök kenarlı bahçeye gübre miktarı	3
+Ankara	88	10	Konu Testi 6	K4	Temel Kurallar	kök içindeki üslü değişkenleri eşitleyip üs bulma	4
+Ankara	88	11	Konu Testi 6	K4	Temel Kurallar	n tane √2'nin çarpımının doğal sayı olması	3
+Ankara	88	12	Konu Testi 6	K4		√x·√y tam sayı olacak değerler	2
+Ankara	89	1	Geçiş Testi 7	K4		iki tablodaki kareköklerin çarpımlarından doğal sayılar	4
+Ankara	89	2	Geçiş Testi 7	K4		kare parçaların alanlarından kâğıdın çevresi	4
+Ankara	89	3	Geçiş Testi 7	K4		logo alanlarıyla defter yaprak sayısı	4
+Ankara	90	4	Geçiş Testi 7	K4		alan oranından kare bahçe, en az tel	4
+Ankara	90	5	Geçiş Testi 7	K4	Oran	pano kartonlarının alan oranlarından çevre	5
+Ankara	90	6	Geçiş Testi 7	K4		eş karelerden şeklin çevresi (karekök)	4
+Ankara	91	1	Konu Testi 8	K4		kök bölmelerini birleştirip sadeleştirme	2
+Ankara	91	2	Konu Testi 8	K4		kök bölme eşitliklerinin doğruluğu	2
+Ankara	91	3	Konu Testi 8	K4		paydası karekök kesirlerle işlem	3
+Ankara	91	4	Konu Testi 8	K4		alan ve kısa kenardan uzun kenar (kök bölme)	2
+Ankara	91	5	Konu Testi 8	K4		eşitlikten bilinmeyen katsayı (kök bölme)	2
+Ankara	91	6	Konu Testi 8	K4		bir kökün diğerinin kaç katı olduğu	3
+Ankara	92	7	Konu Testi 8	K4		yol / hız ile süre (karekök bölme)	2
+Ankara	92	8	Konu Testi 8	K4		daire ve kare alanı eşit, karenin çevresi	3
+Ankara	92	9	Konu Testi 8	K4		bölümü tam sayı yapan karekök	2
+Ankara	92	10	Konu Testi 8	K4		bölümü verilen ifadeyi bulma	2
+Ankara	92	11	Konu Testi 8	K4	Tam Kare	bölümü iki sayı arasında olacak karekök	3
+Ankara	92	12	Konu Testi 8	K4		pirinci eş çuvallara bölme (kök bölme)	2
+Ankara	93	1	Geçiş Testi 9	K4		karekök kenarlı kâğıtlarla doğru parçasını kaplama, sayı farkı	4
+Ankara	93	2	Geçiş Testi 9	K4		çubuğu karekök uzunluklu parçalara bölme	3
+Ankara	93	3	Geçiş Testi 9	K4		karenin çevresi ve alanlardan dikdörtgen alanı	4
+Ankara	94	4	Geçiş Testi 9	K4		boruları eş parçalara kesme, kapak sayısı	4
+Ankara	94	5	Geçiş Testi 9	K4	Oran	alan oranlarından kare panonun çevresi	4
+Ankara	94	6	Geçiş Testi 9	K4	Tam Kare	dolap bölmesi yüksekliğinin karekök tahmini	3
+Ankara	95	1	Konu Testi 10	K3		kök toplama-çıkarma eşitliklerinden yanlış olanı	2
+Ankara	95	2	Konu Testi 10	K3		eşitlikte bilinmeyen karekökü bulma	2
+Ankara	95	3	Konu Testi 10	K3		iki eşitlikten A+B (kök toplama)	2
+Ankara	95	4	Konu Testi 10	K3	Tam Kare	√x + √y = 9 koşulunda x+y'nin en çoğu	3
+Ankara	95	5	Konu Testi 10	K3		dikdörtgenin çevresi karenin çevresine eşit, kenar	3
+Ankara	95	6	Konu Testi 10	K3		karekök kenarlı karondan şerit kesince kalan alan	3
+Ankara	95	7	Konu Testi 10	K3		toplamı tam sayı yapan karekök	2
+Ankara	96	8	Konu Testi 10	K3		dikdörtgen bahçeden karesel bölgeler çıkınca çevre	3
+Ankara	96	9	Konu Testi 10	K3		karekök kenarlı oyun alanının çevresi	3
+Ankara	96	10	Konu Testi 10	K3		kare ve eşkenar üçgenin çevreleri eşit	3
+Ankara	96	11	Konu Testi 10	K3	Oran	alan ve kenar oranından dikdörtgenin çevresi	3
+Ankara	96	12	Konu Testi 10	K3		iki karenin alanlarından birleşik şeklin çevresi	3
+Ankara	97	1	Geçiş Testi 11	K3		şekil örüntüsünde iki nokta arası uzaklık (karekök)	4
+Ankara	97	2	Geçiş Testi 11	K3		makaralara sarılan tel, sarılmayan kısım	3
+Ankara	97	3	Geçiş Testi 11	K3		eş dikdörtgenlerden oluşan şeklin çevresi	4
+Ankara	98	4	Geçiş Testi 11	K3	Temel Kurallar	üslü alanlı hapların tablette yerleşimi, çevre	5
+Ankara	98	5	Geçiş Testi 11	K3		dikdörtgen ve yarım daireden kartonun boyanmayan alanı	4
+Ankara	98	6	Geçiş Testi 11	K3		toplarda kareköklerin toplamından kesin alınan top	4
+Ankara	99	1	Konu Testi 12	K5		ondalık sayının karekökü	1
+Ankara	99	2	Konu Testi 12	K5		ondalık kareköklerle bölme ve toplama	2
+Ankara	99	3	Konu Testi 12	K5		ondalık kareköklü eşitlikten bilinmeyen	2
+Ankara	99	4	Konu Testi 12	K5		ondalık karekök kenarlarla alan	2
+Ankara	99	5	Konu Testi 12	K5		iki ondalık karekökün oranı	2
+Ankara	99	6	Konu Testi 12	K5		ondalık karekökle ilgili yanlış ifade	2
+Ankara	99	7	Konu Testi 12	K5		iki kare kenarının farkı (ondalık karekök)	2
+Ankara	99	8	Konu Testi 12	K5		ondalık kareköklerle kesirli işlem	3
+Ankara	100	9	Konu Testi 12	K5		çevreleri eşit dikdörtgen ve kare, karenin alanı	3
+Ankara	100	10	Konu Testi 12	K5		ondalık kareköklerle kesirli işlem	3
+Ankara	100	11	Konu Testi 12	K5		iç içe ondalık karekökler	3
+Ankara	100	12	Konu Testi 12	K5		alanı ondalık olan karenin çevresi	2
+Ankara	100	13	Konu Testi 12	K5		ondalık kareköklerle bölme-çıkarma	3
+Ankara	100	14	Konu Testi 12	K5		parantezli ondalık karekök işlemi	2
+Ankara	101	1	Konu Testi 13	K6		irrasyonel sayıyı seçme	1
+Ankara	101	2	Konu Testi 13	K6		sayı kümeleriyle ilgili yanlış ifade	1
+Ankara	101	3	Konu Testi 13	K6		√x rasyonel olacak x olamaz	2
+Ankara	101	4	Konu Testi 13	K6		balonlardaki irrasyonel sayıları sayma	2
+Ankara	101	5	Konu Testi 13	K6		√xyz rasyonel olacak rakamların toplamı	3
+Ankara	101	6	Konu Testi 13	K6		√4ab irrasyonel olacak üç basamaklı sayıları sayma	3
+Ankara	101	7	Konu Testi 13	K6		√(55−B) rasyonel, B yazılamaz	2
+Ankara	101	8	Konu Testi 13	K6		rasyonel ifade edilemeyen ölçü	2
+Ankara	102	9	Konu Testi 13	K6		rasyonel/irrasyonel tablosunda hatalı yerleşim	2
+Ankara	102	10	Konu Testi 13	K6		d/e biçiminde yazılamayan sayı	2
+Ankara	102	11	Konu Testi 13	K6		karekök rasyonel olacak rakamların toplamı	3
+Ankara	102	12	Konu Testi 13	K6	Kareköklü İfadelerle Çarpma	çarpımı rasyonel yapmayan sayı	3
+Ankara	102	13	Konu Testi 13	K6		√144'ün ait olmadığı küme	1
+Ankara	102	14	Konu Testi 13	K6		sonucu irrasyonel olan işlem	2
+Ankara	103	1	Geçiş Testi 14	K5	Tam Kare	sayı doğrusundaki ondalık değerlerin karekökleri toplamı	4
+Ankara	103	2	Geçiş Testi 14	K5		ondalık kareköklü uzunluklardan kapı uzunluğu	4
+Ankara	104	3	Geçiş Testi 14	K5		vida tur sayısı ve ondalık karekök, blok kalınlığı	5
+Ankara	104	4	Geçiş Testi 14	K6	Temel Kurallar	rasyonel/irrasyonel kartlarla puanlama (kök içinde kare toplamı)	5
+Ankara	105	1	Beceri Temelli Test 15	K2		kare örtünün daire masalara sığması (karekök karşılaştırma)	4
+Ankara	105	2	Beceri Temelli Test 15	K3		levhaya tam tur sarılan ip, kalan uzunluk	4
+Ankara	106	3	Beceri Temelli Test 15	K3		üst üste birleştirilen kalaslar, örtüşen uzunluk	4
+Ankara	106	4	Beceri Temelli Test 15	K3		kalemleri uç uca dizince toplam uzunluk (karekök)	5
+Ankara	107	5	Beceri Temelli Test 15	K4		karekök kenarlı kartondan parçalar kesince kalan alan	4
+Ankara	107	6	Beceri Temelli Test 15	K4		bilyeleri kutulara eşit paylaştırma (karekök kütle)	5
+Ankara	108	7	Beceri Temelli Test 15	K3		kartonları birleştirince çevre, kırmızı kartonun çevresi	5
+Ankara	108	8	Beceri Temelli Test 15	K2		yamuklardan kare, büyük ve küçük karenin kenar oranı	5
+Ankara	109	1	Beceri Temelli Test 16	K2	Tam Kare	uygulamaları silerek yer açma (karekök tahmini)	4
+Ankara	109	2	Beceri Temelli Test 16	K4		otopark uzunluğundan yeşil alan uzunluğu	5
+Ankara	110	3	Beceri Temelli Test 16	K2	Tam Kare	balık boylarını karekökle karşılaştırma	4
+Ankara	111	4	Beceri Temelli Test 16	K4		fotoğraf kolajının alan farkından çevre	5
+Ankara	111	5	Beceri Temelli Test 16	K1		karekök hızlarla kayıkların bitişe uzaklığını sıralama	4
+Ankara	112	6	Beceri Temelli Test 16	K3		yamuk parçalardan sehpa, çevre hesabı	5
+Ankara	112	7	Beceri Temelli Test 16	K2		eş dikdörtgenlerden pano, en küçük alan ve çevre	5
+Ankara	113	1	Beceri Temelli Test 17	K6		tabloda rasyonel sayı sayıları satır/sütun	4
+Ankara	113	2	Beceri Temelli Test 17	K4		üst üste daireler, görünen alanlardan pano uzunluğu	5
+Ankara	114	3	Beceri Temelli Test 17	K1		farklı kalınlıktaki kitaplarla rafı doldurma, en çok kitap	4
+Ankara	114	4	Beceri Temelli Test 17	K2		karenin köşegeni a√2, parçalarda mavi çizgilerin toplamı	5
+Ankara	115	5	Beceri Temelli Test 17	K2		dörtgeni katlayarak dikdörtgen, alanın olası değeri	5
+Ankara	115	6	Beceri Temelli Test 17	K3	Yüzdeler	lastiği gerince noktalar arası uzaklık (karekök)	5
+Ankara	116	7	Beceri Temelli Test 17	K2		kare parçalardan figür, alanlardan kartonun çevresi	5
+Ankara	116	8	Beceri Temelli Test 17	K1		çubuk uzunluklarının karekök tahmini, olası tam sayı	4
+Ankara	117	1	Konu Testi 1	V		veriye uygun grafik türünü seçme	1
+Ankara	117	2	Konu Testi 1	V		sütun grafiğinden doğru yorum	1
+Ankara	117	3	Konu Testi 1	V		daire grafiğinde açıdan miktar	2
+Ankara	117	4	Konu Testi 1	V		çizgi grafiğinden yanlış yorum	2
+Ankara	118	5	Konu Testi 1	V		çizgi grafiğinde eşit değerli günler	1
+Ankara	118	6	Konu Testi 1	V		çizgi grafiğinden en fazla değer	1
+Ankara	118	7	Konu Testi 1	V		çizgi grafiğinden toplam	2
+Ankara	118	8	Konu Testi 1	V		sütun grafiğinden iki serinin farkı	1
+Ankara	118	9	Konu Testi 1	V		sütun grafiğinden toplam	1
+Ankara	118	10	Konu Testi 1	V		sütun grafiğinden daire dilimi açısı	3
+Ankara	119	1	Geçiş Testi 2	V	Yüzdeler	ikili sütun grafiğinden yüzde farkı	3
+Ankara	119	2	Geçiş Testi 2	V		sütun grafiğinden oran	3
+Ankara	119	3	Geçiş Testi 2	V		sütun grafiğinden daire grafiği merkez açısı	3
+Ankara	120	4	Geçiş Testi 2	V		haftalık birikimlerden başlangıç miktarlarını bulma	4
+Ankara	120	5	Geçiş Testi 2	V	Tam Kare	sütun grafiği ve karekök tahminiyle yanlış sayısı	4
+Ankara	121	1	Konu Testi 3	V		oranı verilen grubun daire grafiği	2
+Ankara	121	2	Konu Testi 3	V	Yüzdeler	yüzdesi verilen dilimin açısı	2
+Ankara	121	3	Konu Testi 3	V		daire grafiğini sütun grafiğine dönüştürme	3
+Ankara	122	4	Konu Testi 3	V		sütun grafiğini daire grafiğine dönüştürme	3
+Ankara	122	5	Konu Testi 3	V		daire grafiğinde açı ve farktan toplam	3
+Ankara	122	6	Konu Testi 3	V		çizgi grafiğinde ortalamanın üzerindeki aylar	3
+Ankara	123	1	Geçiş Testi 4	V		daire grafiği ve fiyat tablosundan gelir sütun grafiği	4
+Ankara	124	2	Geçiş Testi 4	V		iki yılın daire grafiklerinden çizgi grafiği	5
+Ankara	125	1	Beceri Temelli Test 5	V	Yüzdeler	satış yüzdelerinden kalan ürünlerin daire grafiği	5
+Ankara	126	2	Beceri Temelli Test 5	V		daire grafiğinden satılmayan ürünlerin sütun grafiği	4
+Ankara	127	3	Beceri Temelli Test 5	V	Oran	daire ve sütun grafiğinden üretim miktarı (oran)	5
+Ankara	127	4	Beceri Temelli Test 5	V		daire ve sütun grafiğiyle nüfus yoğunluğu karşılaştırma	5
+Ankara	128	5	Beceri Temelli Test 5	V	Yüzdeler	sütun ve daire grafiğiyle fotoğraf sayıları farkı	5
+Ankara	128	6	Beceri Temelli Test 5	V	Oran	iki daire grafiğinden kart sayılarının oranı	5
+Ankara	129	1	Beceri Temelli Test 6	V		iki karışımın grafiklerinden yeni karışımın daire grafiği	5
+Ankara	130	2	Beceri Temelli Test 6	V	Yüzdeler	koşullardan kitap türlerinin daire grafiği	5
+Ankara	131	3	Beceri Temelli Test 6	V		sayı ve kütle daire grafiklerinden bilye kütleleri	5
+Ankara	131	4	Beceri Temelli Test 6	V		daire grafiği ve sınıf mevcutlarından şeker sayıları	5
+Ankara	132	5	Beceri Temelli Test 6	V		çizgi grafiği ve kazanma koşulundan en çok soru	5
+Ankara	132	6	Beceri Temelli Test 6	V		iki aylık daire grafiklerinden olası kişi sayısı	5
+Ankara	133	1	Beceri Temelli Test 7	V		ortalama hesabı ve çizgi grafiğinden gereken notlar	5
+Ankara	134	2	Beceri Temelli Test 7	V	Yüzdeler	kapasite daire grafiği ve doluluk yüzdesinden hasta sayısı	5
+Ankara	134	3	Beceri Temelli Test 7	V		kütle ve paket sayısı daire grafiklerinden paket kütlesi	5
+Ankara	135	4	Beceri Temelli Test 7	V		orantılı dilimlerle soru sayılarının daire grafiği	5
+Ankara	136	5	Beceri Temelli Test 7	V		kart toplamlarının daire grafiğinden en az kart	5
+Ankara	136	6	Beceri Temelli Test 7	V		bardak sayısı ve kapasite grafiklerinden içecek miktarı	5
+Ankara	139	1	Konu Testi 1	O	Çarpanlar ve Asal Çarpanlar	tablodan seçilen sayıyla olası durum sayısı	1
+Ankara	139	2	Konu Testi 1	O		iki zarın toplamı 6 olan durumların sayısı	2
+Ankara	139	3	Konu Testi 1	O		bilye renklerinde olasılığı daha fazla olan	1
+Ankara	139	4	Konu Testi 1	O		gruplarda seçilme olasılıklarını karşılaştırma	2
+Ankara	139	5	Konu Testi 1	O		hedef tahtasında iki atışla farklı toplam puanlar	3
+Ankara	140	6	Konu Testi 1	O		olası durum sayılarıyla ilgili doğru ifade	1
+Ankara	140	7	Konu Testi 1	O		gözlüklü öğrencinin olasılığı daha az, en az sayı	2
+Ankara	140	8	Konu Testi 1	O		renk olasılıkları eşit, bilinmeyenden top sayısı	3
+Ankara	140	9	Konu Testi 1	O		kutulardan mavi bilye olasılığı en fazla olan	2
+Ankara	140	10	Konu Testi 1	O		hedef tahtası bölmelerinde olasılık yorumu	2
+Ankara	141	1	Geçiş Testi 2	O		tablodan özellikli otomobil seçme olasılıklarını karşılaştırma	3
+Ankara	141	2	Geçiş Testi 2	O		menüden sipariş tutarlarının olası durumları	3
+Ankara	141	3	Geçiş Testi 2	O	Temel Kurallar	kartlardan üslü sayı oluşturma, olasılığı en fazla	4
+Ankara	142	4	Geçiş Testi 2	O		kartların olasılık karşılaştırmasından en az toplam	4
+Ankara	142	5	Geçiş Testi 2	O		küp yapının üst yüzü değerlerinin olasılıkları	5
+Ankara	143	1	Konu Testi 3	O	Çarpanlar ve Asal Çarpanlar	çark sonuçlarıyla ilgili yanlış ifade (imkânsız/kesin)	2
+Ankara	143	2	Konu Testi 3	O		olasılık değeri ve olaylarla ilgili yanlış ifade	1
+Ankara	143	3	Konu Testi 3	O		çift sayılı kartlarda 3 gelme olasılığı (imkânsız)	1
+Ankara	143	4	Konu Testi 3	O		kız bebek olma olasılığı (eşit şans)	1
+Ankara	143	5	Konu Testi 3	O	Çarpanlar ve Asal Çarpanlar	numaralı toplardan asal sayı olasılığı	2
+Ankara	143	6	Konu Testi 3	O		tablodan kız öğrenci olma olasılığı	2
+Ankara	144	7	Konu Testi 3	O		torbadan kırmızı bilye olasılığı	1
+Ankara	144	8	Konu Testi 3	O		zarda 5'ten büyük gelme olasılığı	1
+Ankara	144	9	Konu Testi 3	O		olasılıkla ilgili ifadelerin doğruluğu	2
+Ankara	144	10	Konu Testi 3	O		olasılık eşitliğinden beyaz gül sayısı	2
+Ankara	144	11	Konu Testi 3	O		birim karelerde pembe bölge olasılığı	2
+Ankara	144	12	Konu Testi 3	O	Tam Kare	imkânsız olaya örnek	2
+Ankara	145	1	Konu Testi 4	O		tablodan olasılıklarla ilgili yanlış ifade	2
+Ankara	145	2	Konu Testi 4	O		sütun grafiğinden şube ve cinsiyet olasılığı	2
+Ankara	145	3	Konu Testi 4	O		çarkta açılardan olasılık	2
+Ankara	145	4	Konu Testi 4	O		erkek olma olasılığından öğrenci sayısı olamaz	2
+Ankara	145	5	Konu Testi 4	O		sayfa numarasında 3 yazma olasılığı	3
+Ankara	145	6	Konu Testi 4	O	Tam Sayıların Tam Sayı Kuvvetleri	(−1)^a negatif olmama olasılığı	3
+Ankara	146	7	Konu Testi 4	O		rakamlarla yazılan sayının 700'den büyük olma olasılığı	3
+Ankara	146	8	Konu Testi 4	O		olasılıktan kız ve erkek sayısı farkı	3
+Ankara	146	9	Konu Testi 4	O		hedef tahtasında olasılık için boyanacak kare	2
+Ankara	146	10	Konu Testi 4	O		koyun olasılığı %50 olması için eklenecek en az hayvan	3
+Ankara	146	11	Konu Testi 4	O		taşın havuza düşme olasılığı (alan oranı)	3
+Ankara	146	12	Konu Testi 4	O		çürük olma olasılığından sağlam şeftali sayısı	2
+Ankara	147	1	Geçiş Testi 5	O	Tam Kare	karekök tahmini ile harf kodlama, karesel sayı olasılığı	4
+Ankara	147	2	Geçiş Testi 5	O	EBOB - EKOK	kartlardaki katlar, 15'e bölünme olasılığı	4
+Ankara	147	3	Geçiş Testi 5	O	Çarpanlar ve Asal Çarpanlar	toplar dizilince sayının asal çarpanı olma olasılığı	4
+Ankara	148	4	Geçiş Testi 5	O		katlanan kâğıtta boyalı bölge olasılığı	4
+Ankara	148	5	Geçiş Testi 5	O	Çarpanlar ve Asal Çarpanlar	zarflardaki asal sayı olasılığından imkânsız kart	4
+Ankara	148	6	Geçiş Testi 5	O	Tam Kare	ipuçlarına göre şifreyi ilk denemede bulma olasılığı	4
+Ankara	149	1	Beceri Temelli Test 6	O	Çarpanlar ve Asal Çarpanlar	eşleştirme sonrası kalanların asal numara olasılığı	5
+Ankara	149	2	Beceri Temelli Test 6	O		boş koltuk koşulundan dolu koltuk olasılığının en azı	4
+Ankara	150	3	Beceri Temelli Test 6	O	Tam Sayıların Tam Sayı Kuvvetleri	ev numaralarında 2'nin kuvveti ve asal sayı olasılığı	5
+Ankara	150	4	Beceri Temelli Test 6	O		olasılık oranlarından en az mavi top	4
+Ankara	151	5	Beceri Temelli Test 6	O		kareli alanda tankı vurma olasılığı	4
+Ankara	151	6	Beceri Temelli Test 6	O	Tam Kare	karekök tahminine göre hediye kutusu, asal sayı olasılığı	5
+Ankara	152	7	Beceri Temelli Test 6	O		katlanıp delinen kartonda turuncu bölge olasılığı	5
+Ankara	152	8	Beceri Temelli Test 6	O		turnuva saatlerinden farklı seçim sayısı	4
+Ankara	153	1	Beceri Temelli Test 7	O		yaşa göre kart sayısıyla başlama olasılığı	4
+Ankara	153	2	Beceri Temelli Test 7	O		toplar alınınca olasılık değişmiyor, yeşilin en fazla olasılığı	5
+Ankara	154	3	Beceri Temelli Test 7	O		kutular arası aktarmada mavi olasılığı en fazla	5
+Ankara	154	4	Beceri Temelli Test 7	O	Tam Kare	kenar noktalarından üçgen alanının tam kare olma olasılığı	5
+Ankara	155	5	Beceri Temelli Test 7	O	Tam Kare	alan sınırına göre tam kare kartonlar, sarı bölge olasılığı	5
+Ankara	155	6	Beceri Temelli Test 7	O		iki daire grafiğinden sarı top olasılığı	5
+Ankara	156	7	Beceri Temelli Test 7	O	Prizmalar	boyanan küpten iki yüzü boyalı küp olasılığı	5
+Ankara	156	8	Beceri Temelli Test 7	O		sayılı bulmacada boyalı kare olasılığı	4
+Ankara	157	1	Konu Testi 1	C1		terimlerin katsayılar toplamını karşılaştırma	1
+Ankara	157	2	Konu Testi 1	C1		sözel ifadeyi cebirsel ifadeye çevirme	1
+Ankara	157	3	Konu Testi 1	C1		tek terimliyle çok terimliyi çarpma	1
+Ankara	157	4	Konu Testi 1	C1		şeklin çevresini cebirsel ifadeyle yazma	2
+Ankara	157	5	Konu Testi 1	C1		çarpma eşitliğinden bilinmeyen katsayı	2
+Ankara	157	6	Konu Testi 1	C1		cebir karolarıyla modellenen çarpma	2
+Ankara	157	7	Konu Testi 1	C1		x·(2x+1) çarpımının modeli	2
+Ankara	158	8	Konu Testi 1	C1		dikdörtgenin alanını cebirsel ifadeyle yazma	2
+Ankara	158	9	Konu Testi 1	C1		binanın pencereler dışındaki alanı (cebirsel)	3
+Ankara	158	10	Konu Testi 1	C1		kutucuklardaki ifadelerin çarpımından bilinmeyen	3
+Ankara	158	11	Konu Testi 1	C1		iç içe dikdörtgenler arası alan (cebirsel)	3
+Ankara	158	12	Konu Testi 1	C1		iki cebirsel ifadenin farkı	2
+Ankara	159	1	Geçiş Testi 2	C1		kaydırılan kapakların görünen alanı (cebirsel)	4
+Ankara	159	2	Geçiş Testi 2	C1		birleşen dikdörtgenlerin çevre ve alan ifadeleri	3
+Ankara	159	3	Geçiş Testi 2	C1		havuz çevresindeki fayanslarla şeklin çevresi (cebirsel)	4
+Ankara	160	4	Geçiş Testi 2	C1		parçalanan dikdörtgende bir parçanın alan ifadesi	4
+Ankara	160	5	Geçiş Testi 2	C1		koşu parkurunda kesirli yürümeyle aradaki uzaklık	3
+Ankara	161	1	Konu Testi 3	C2		hangi eşitliğin özdeşlik olduğu	1
+Ankara	161	2	Konu Testi 3	C2		verilen eşitliklerden özdeşlikleri sayma	2
+Ankara	161	3	Konu Testi 3	C2		iki terim karesi özdeşliğinde eksik terim	2
+Ankara	161	4	Konu Testi 3	C2		eşitliği özdeşlik yapmak için yapılacak işlem	2
+Ankara	161	5	Konu Testi 3	C2		iki kare farkı ile ifadenin değeri	3
+Ankara	161	6	Konu Testi 3	C2		(x+y)²−4xy ifadesinin özdeşi	2
+Ankara	161	7	Konu Testi 3	C2		çevre ve kenar farkından boyalı alan (iki kare farkı)	3
+Ankara	161	8	Konu Testi 3	C2		özdeşlikten katsayıları bulma	2
+Ankara	162	9	Konu Testi 3	C2		köşeleri kesilen karenin alanının özdeşi	3
+Ankara	162	10	Konu Testi 3	C2		alanı tam kare ifade olan karenin kenarı	2
+Ankara	162	11	Konu Testi 3	C2		eş dikdörtgenlerle boyalı alanın ifadesi	3
+Ankara	162	12	Konu Testi 3	C2		kare kesip birleştirme ile modellenen özdeşlik	3
+Ankara	163	1	Konu Testi 4	C3		terazi dengesinden bir bilyenin kütlesi (ortak çarpan)	2
+Ankara	163	2	Konu Testi 4	C3		ortak çarpan parantezinde eksik terim	1
+Ankara	163	3	Konu Testi 4	C3		havuz ve bahçe alanı farkından çevreler toplamı	3
+Ankara	163	4	Konu Testi 4	C3		ifadeyi tam kare yapan katsayı	2
+Ankara	163	5	Konu Testi 4	C3		şekillerin alanlarının toplamını tam kare yazma	3
+Ankara	163	6	Konu Testi 4	C3	Kareköklü İfadelerle Çarpma	karekök değerli bilinmeyenle tam kare ifade	3
+Ankara	164	7	Konu Testi 4	C3		toplam ve çarpımdan kareler toplamı	2
+Ankara	164	8	Konu Testi 4	C3	Kareköklü İfadelerle Çarpma	karekök değerli bilinmeyenle tam kare ifade	3
+Ankara	164	9	Konu Testi 4	C3	Temel Kurallar	üslü sayılarla çarpanlara ayırarak sadeleştirme	4
+Ankara	164	10	Konu Testi 4	C3		çarpanlara ayrılış eşitliğinden eksik terim	3
+Ankara	164	11	Konu Testi 4	C3		alan ve kenardan dikdörtgenin uzun kenarı	3
+Ankara	164	12	Konu Testi 4	C3		ifadenin çarpanlarından biri	2
+Ankara	164	13	Konu Testi 4	C3		iki kare farkı ve tam kare oranı	2
+Ankara	165	1	Konu Testi 5	C3		ifadenin çarpanı olmayanı	2
+Ankara	165	2	Konu Testi 5	C3		iki kare farkıyla hızlı hesap	1
+Ankara	165	3	Konu Testi 5	C3	Kareköklü İfadelerle Çarpma	karekök değerli x ve y ile tam kare ifade	3
+Ankara	165	4	Konu Testi 5	C3		çarpan ağacında B+C	2
+Ankara	165	5	Konu Testi 5	C3		ifadeleri çarpanlarıyla eşleştirme, boşta kalan	3
+Ankara	165	6	Konu Testi 5	C3		ifadeyi tam kare yapan tam sayı	3
+Ankara	166	7	Konu Testi 5	C3		köşelerden kare kesilen kartonun alanının özdeşi	3
+Ankara	166	8	Konu Testi 5	C3		kare alanının çarpanlara ayrılışından katsayılar	3
+Ankara	166	9	Konu Testi 5	C3		çarpan ağacında boş yerlere gelecekler	3
+Ankara	166	10	Konu Testi 5	C3	Kareköklü İfadelerle Çarpma	karekök değerli bilinmeyenle ifadenin değeri	3
+Ankara	167	1	Geçiş Testi 6	C3		üst üste gelen bölmelerin toplamı tam kare olacak yerleşim	5
+Ankara	167	2	Geçiş Testi 6	C3		katlanan şeritte üst üste gelen ifadelerin çarpımı	4
+Ankara	167	3	Geçiş Testi 6	C3		işlem düzeneğini geriye doğru çalıştırma (tam kare)	4
+Ankara	168	4	Geçiş Testi 6	C3		otel planında toplam alanın çarpanı	4
+Ankara	168	5	Geçiş Testi 6	C3		kare kâğıttaki üçgenin alanı (tam kare ifade)	4
+Ankara	168	6	Geçiş Testi 6	C3		eş üçgenlerle iç karenin alanı (özdeşlik)	5
+Ankara	169	1	Beceri Temelli Test 7	C3		katlanan üçgenin çevresinin çarpanı	5
+Ankara	169	2	Beceri Temelli Test 7	C1		karton parçalarından çerçeveler, alan farkı	5
+Ankara	170	3	Beceri Temelli Test 7	C1		kitaplarla kaplanan masa, örtü maliyeti (cebirsel)	5
+Ankara	170	4	Beceri Temelli Test 7	C2		katlanan kâğıtta bölgelerin alan farkı	5
+Ankara	171	5	Beceri Temelli Test 7	C3		katlanıp kesilen kâğıtta çevre farkının çarpanı olmayan	5
+Ankara	171	6	Beceri Temelli Test 7	C2		tahtadan kare çerçeve, içteki boş alan (özdeşlik)	4
+Ankara	172	7	Beceri Temelli Test 7	C2	Oran	kenar oranlı fotoğraf kâğıtlarında basılı alanların toplamı	5
+Ankara	172	8	Beceri Temelli Test 7	C1		iki farklı kesimle oluşan dikdörtgenlerin çevre farkı	4
+Ankara	173	1	Beceri Temelli Test 8	C1		telefon ekranına sembol yerleşimi, ekran alanı	5
+Ankara	173	2	Beceri Temelli Test 8	C2		parçalanan karede çıkarılan parçanın alanı	5
+Ankara	174	3	Beceri Temelli Test 8	C2		küp açınımlarından tam kare ifade oluşturma	5
+Ankara	174	4	Beceri Temelli Test 8	C3		kare ve dikdörtgenlerin çevre ve alanlarından pembe bölge	5
+Ankara	175	5	Beceri Temelli Test 8	C1		üst üste kartonlarda mavi kartonun alanı	4
+Ankara	175	6	Beceri Temelli Test 8	C1	Prizmalar	küp ve prizma parçalarından cismin yüzey alanı	5
+Ankara	176	7	Beceri Temelli Test 8	C3		katlanan paralelkenarda iki nokta arası uzaklık	5
+Ankara	176	8	Beceri Temelli Test 8	C1		satranç tahtasında boş alanın ifadesi	4
+Ankara	177	1	Beceri Temelli Test 9	C2		köşegenden kesilip kaydırılan karede mavi alanlar	5
+Ankara	177	2	Beceri Temelli Test 9	C3		pastayı eş karelere bölme, en az çevre	5
+Ankara	178	3	Beceri Temelli Test 9	C1		lastik uzatılıp kare yapılınca alan (cebirsel)	4
+Ankara	178	4	Beceri Temelli Test 9	C3		kareyi kesince parçaların alanlarından çevre farkı	5
+Ankara	179	5	Beceri Temelli Test 9	C2		pano köşegenlerindeki kartonlar, kırmızı alanlardan sarı üçgen	5
+Ankara	179	6	Beceri Temelli Test 9	C2		çemberdeki boncuk sıralarından toplam sayının ifadesi	5
+Ankara	180	7	Beceri Temelli Test 9	C2		geometri tahtasında dörtgen alanının tam kare ifadesi	5
+Ankara	180	8	Beceri Temelli Test 9	C3		beşgen ve üçgenlerin alan farkının çarpanlara ayrılmış hâli	5
+Ankara	183	1	Konu Testi 1	D1		kesirli birinci dereceden denklem çözme	1
+Ankara	183	2	Konu Testi 1	D1		paydaları farklı kesirli denklem çözme	2
+Ankara	183	3	Konu Testi 1	D1		sözel problemi denkleme çevirme	2
+Ankara	183	4	Konu Testi 1	D1		çevresi verilen dikdörtgenin kenarlarından alan (denklem)	2
+Ankara	183	5	Konu Testi 1	D1		hız-zaman denklemi	2
+Ankara	183	6	Konu Testi 1	D1		merdiven basamakları, ikişer ve üçer çıkma (denklem)	3
+Ankara	184	7	Konu Testi 1	D1		erkek-kız öğrenci sayısı denklemi	2
+Ankara	184	8	Konu Testi 1	D1		parayı eşit paylaşma problemi (denklem)	2
+Ankara	184	9	Konu Testi 1	D1		kesirli doluluk oranlarıyla tankın hacmi	3
+Ankara	184	10	Konu Testi 1	D1		kesirli parça vuruşlarıyla çivinin boyu	3
+Ankara	184	11	Konu Testi 1	D1		durakta inen-binenlerle yolcu sayısı	3
+Ankara	184	12	Konu Testi 1	D1		kesilen telin orta noktasının kayması	3
+Ankara	185	1	Geçiş Testi 2	D1		ödül altınlarının toplamından birincilik ödülü	3
+Ankara	185	2	Geçiş Testi 2	D1	Temel Kurallar	şeker dağıtımında kişi sayıları (üslü sayılarla denklem)	4
+Ankara	185	3	Geçiş Testi 2	D1	Oran	yanlış soru oranından işaretlenen soru sayısı	3
+Ankara	186	4	Geçiş Testi 2	D1		tablodaki ürün miktarlarından bilinmeyen	3
+Ankara	186	5	Geçiş Testi 2	D1	Yüzdeler	hesabı eşit paylaşma, yüzde fazla ödeme, kişi sayısı	4
+Ankara	186	6	Geçiş Testi 2	D1		kaptaki su miktarı ve eklemelerle en fazla su	4
+Ankara	187	1	Konu Testi 3	D2		noktanın bulunduğu bölge	1
+Ankara	187	2	Konu Testi 3	D2		y ekseni üzerindeki noktanın ordinatı	2
+Ankara	187	3	Konu Testi 3	D2		eksenlere uzaklıktan noktanın koordinatı	2
+Ankara	187	4	Konu Testi 3	D2		koordinat ve bölgelerle ilgili yanlış ifade	1
+Ankara	187	5	Konu Testi 3	D2		köşe koordinatlarından üçgen alanı	3
+Ankara	187	6	Konu Testi 3	D2	Özdeşlikler	orijindeki noktanın bilinmeyenleriyle ifade	3
+Ankara	187	7	Konu Testi 3	D2		noktaların bölgelerinden işaret çıkarımı	3
+Ankara	188	8	Konu Testi 3	D2		ötelenen noktanın koordinatları	2
+Ankara	188	9	Konu Testi 3	D2		doğru parçasının orta noktası	2
+Ankara	188	10	Konu Testi 3	D2		kareli kâğıtta noktaların koordinatları	2
+Ankara	188	11	Konu Testi 3	D2		noktalardan oluşan dörtgenle ilgili yanlış ifade	3
+Ankara	188	12	Konu Testi 3	D2		y ekseni üzerindeki noktanın ordinatı	2
+Ankara	188	13	Konu Testi 3	D2		orijin değişince koordinatlar toplamı	3
+Ankara	189	1	Geçiş Testi 4	D2		arazideki noktaların koordinatları	3
+Ankara	189	2	Geçiş Testi 4	D2		kareli zeminde noktaların koordinatlarından bilinmeyenler	3
+Ankara	189	3	Geçiş Testi 4	D2		ordinatı ve apsisi aynı noktalardan bölge	3
+Ankara	190	4	Geçiş Testi 4	D2	Olasılık	üçgenin içinde olma olasılığı (koordinat)	4
+Ankara	190	5	Geçiş Testi 4	D2		dönen kapı kanadının köşe koordinatı	5
+Ankara	191	1	Konu Testi 5	D3		doğrunun x eksenini kestiği nokta	1
+Ankara	191	2	Konu Testi 5	D3		orijinden geçen doğru	1
+Ankara	191	3	Konu Testi 5	D3		denklemi verilen doğrunun grafiği	2
+Ankara	191	4	Konu Testi 5	D3		iki doğru ve eksenler arasındaki alan	3
+Ankara	191	5	Konu Testi 5	D3		doğru üzerindeki noktanın bilinmeyeni	2
+Ankara	191	6	Konu Testi 5	D3		x = 2y doğrusunun grafiği	2
+Ankara	192	7	Konu Testi 5	D3		doğru ile eksenler arasındaki alan	2
+Ankara	192	8	Konu Testi 5	D3		doğrunun eksen kesişimleri ve noktaları	2
+Ankara	192	9	Konu Testi 5	D3		yatay doğrunun denklemi	1
+Ankara	192	10	Konu Testi 5	D3		doğrunun geçmediği nokta	2
+Ankara	192	11	Konu Testi 5	D3		noktadan geçmesi için sabit terim	2
+Ankara	192	12	Konu Testi 5	D3		doğrunun eksenlerle oluşturduğu üçgen alanı	3
+Ankara	193	1	Konu Testi 6	D3		üç doğru arasındaki alan	3
+Ankara	193	2	Konu Testi 6	D3		doğru üzerindeki noktanın bilinmeyeni	2
+Ankara	193	3	Konu Testi 6	D3		orijinden geçen doğruda yazılamayacak ifade	2
+Ankara	193	4	Konu Testi 6	D3		iki doğrunun kesiştiği nokta (kareli kâğıt)	2
+Ankara	193	5	Konu Testi 6	D3		katsayıların işaretinden doğrunun grafiği	3
+Ankara	193	6	Konu Testi 6	D3		iki doğru ve eksenler arasındaki alan	3
+Ankara	194	7	Konu Testi 6	D3		grafikten m+n	3
+Ankara	194	8	Konu Testi 6	D3		alanı verilen bölgeden doğrunun eksen kesişimi	3
+Ankara	194	9	Konu Testi 6	D2		eksen üzerindeki noktalardan bilinmeyenler	3
+Ankara	194	10	Konu Testi 6	D3		üç doğrunun sınırladığı alan	4
+Ankara	194	11	Konu Testi 6	D3		noktadan geçen doğrunun x eksenini kestiği yer	3
+Ankara	194	12	Konu Testi 6	D3		grafikten denklemdeki bilinmeyen	3
+Ankara	195	1	Geçiş Testi 7	D3		doğruya dokunan karelerin alan farkından koordinatlar	4
+Ankara	195	2	Geçiş Testi 7	D3		doğru altında kalan yamukların alanı	4
+Ankara	195	3	Geçiş Testi 7	D3		kare kartonun köşelerinden geçen doğrular, en çok toplam	5
+Ankara	196	4	Geçiş Testi 7	D2		y eksenine göre yerleşen dikdörtgenler, nokta koordinatı	4
+Ankara	196	5	Geçiş Testi 7	D2		parçalara ayrılan kartonun koordinat sistemine yerleşimi	4
+Ankara	197	1	Konu Testi 8	D3		doğrusal olmayan ilişkiyi seçme	1
+Ankara	197	2	Konu Testi 8	D3		eriyen mumun boyu (doğrusal ilişki)	2
+Ankara	197	3	Konu Testi 8	D3		tablodaki ilişkinin denklemi	2
+Ankara	197	4	Konu Testi 8	D3		depodaki su azalış grafiğinden değer	2
+Ankara	197	5	Konu Testi 8	D3		bebeğin boy uzunluğu grafiği	2
+Ankara	198	6	Konu Testi 8	D3		yol-ücret ilişkisinin grafiği	2
+Ankara	198	7	Konu Testi 8	D3		elektronik alet satışı ilişkisiyle ilgili ifadeler	3
+Ankara	198	8	Konu Testi 8	D3		tablodan yol-zaman grafiği	2
+Ankara	198	9	Konu Testi 8	D3		taksi ücreti ilişkisiyle yolculuk uzunluğu	3
+Ankara	199	1	Geçiş Testi 9	D3		iki doğrusal grafikten gereken süt miktarı	4
+Ankara	199	2	Geçiş Testi 9	D3		un-ekmek doğrusal grafiğinden kalan un	3
+Ankara	199	3	Geçiş Testi 9	D3		iki ürünün azalış grafiklerinden gelir farkı	4
+Ankara	200	4	Geçiş Testi 9	D3		iki doğrusal grafikte paraların eşitlendiği gün	4
+Ankara	200	5	Geçiş Testi 9	D3		iki ağacın boylarının eşitlenmesi (grafik)	4
+Ankara	200	6	Geçiş Testi 9	D3	Yüzdeler	limonata karışımında eklenecek su (doğrusal ilişki)	5
+Ankara	201	1	Konu Testi 10	D4		rampaların eğimini karşılaştırma	1
+Ankara	201	2	Konu Testi 10	D4	Yüzdeler	yüzde eğimden yatay uzunluk	2
+Ankara	201	3	Konu Testi 10	D4		merdiven basamaklarının eğimi	2
+Ankara	201	4	Konu Testi 10	D4		doğruların eğimleriyle ilgili ifadeler	2
+Ankara	201	5	Konu Testi 10	D4		kareli kâğıtta en büyük eğimli doğru parçası	2
+Ankara	202	6	Konu Testi 10	D4		eğimi pozitif olan doğru	1
+Ankara	202	7	Konu Testi 10	D4		eğimi −1/4 olan doğrunun grafiği	2
+Ankara	202	8	Konu Testi 10	D4		çatı modellerinde en fazla eğim	2
+Ankara	202	9	Konu Testi 10	D4		alanı bulmak için gereken eğim bilgisi	3
+Ankara	203	1	Konu Testi 11	D4		eğimi verilen doğrunun geçtiği nokta	2
+Ankara	203	2	Konu Testi 11	D4	Yüzdeler	rampa eğimini %25 yapmak için yükseklik değişimi	3
+Ankara	203	3	Konu Testi 11	D4		eğimi 1/2 olan doğrunun grafiği	2
+Ankara	203	4	Konu Testi 11	D4		iki noktadan geçen doğrunun eğimi	1
+Ankara	204	5	Konu Testi 11	D4	Yüzdeler	yüzde eğimden denklemdeki katsayı	3
+Ankara	204	6	Konu Testi 11	D4		rampanın eğimi	1
+Ankara	204	7	Konu Testi 11	D4		eğimi 1/2 olan iki noktayı seçme	2
+Ankara	204	8	Konu Testi 11	D4		kesişen iki doğrunun eğimlerinin çarpımı	3
+Ankara	204	9	Konu Testi 11	D4		grafikte en fazla eğimli doğru	2
+Ankara	205	1	Geçiş Testi 12	D4		kareli zeminde eğimle hedef noktaya ulaşma	4
+Ankara	205	2	Geçiş Testi 12	D4		grafikte değişim hızının aynı olduğu aralıklar	4
+Ankara	205	3	Geçiş Testi 12	D4		panoya yapıştırılan kartonlarda iki noktanın eğimi	4
+Ankara	206	4	Geçiş Testi 12	D4		topun izlediği yolun eğimi	4
+Ankara	206	5	Geçiş Testi 12	D4		eş alanlı dikdörtgenlerde koordinat ve eğim yorumları	4
+Ankara	207	1	Beceri Temelli Test 13	D3		taksimetre tarifesinin grafiği	4
+Ankara	207	2	Beceri Temelli Test 13	D1		kesilen dikdörtgenlerin çevre oranından kenar oranı	5
+Ankara	208	3	Beceri Temelli Test 13	D1		iki pencere modelinde cam genişliği farkı (denklem)	5
+Ankara	208	4	Beceri Temelli Test 13	D1		lastik maliyet tablosuyla en ekonomik seçim	5
+Ankara	209	5	Beceri Temelli Test 13	D3		iki kumbaranın doğrusal grafiğinden para miktarı	4
+Ankara	209	6	Beceri Temelli Test 13	D1		iki firmanın kampanyalı fiyatlarıyla damacana sayısı	5
+Ankara	210	7	Beceri Temelli Test 13	D1	Oran	orantılı bilye sayılarıyla toplam kütleden bilye sayısı	5
+Ankara	210	8	Beceri Temelli Test 13	D1		eşit parçalara bölünen tahtalardan kare çerçeve, oran	5
+Ankara	211	1	Beceri Temelli Test 14	D1	Yüzdeler	limonata oranlarını değiştirmek için eklenen su	5
+Ankara	211	2	Beceri Temelli Test 14	D1		paket fiyatlarıyla gelirden tekli satış geliri	5
+Ankara	212	3	Beceri Temelli Test 14	D1		iç içe bardak kuleleri, raf yükseklikleri	5
+Ankara	212	4	Beceri Temelli Test 14	D1		kalemleri gruplara dağıtma, öğrenci sayısı	5
+Ankara	213	5	Beceri Temelli Test 14	D3		iki hafıza kartının doğrusal grafiğinden değer	5
+Ankara	213	6	Beceri Temelli Test 14	D1	Yüzdeler	daire fiyatlarındaki yüzde artış	5
+Ankara	214	7	Beceri Temelli Test 14	D1		bloklardan yapılar ve sehpa boyu	5
+Ankara	214	8	Beceri Temelli Test 14	D1		gruplarda eşit soru çözme, öğrenci sayısı	4
+Ankara	215	1	Beceri Temelli Test 15	D4	Olasılık	çubuklarda %20 eğimli üçgen, yarısından fazlası boyalı olma olasılığı	5
+Ankara	215	2	Beceri Temelli Test 15	D1		kırık cetvelle hatalı ölçüm, aradaki mesafe	5
+Ankara	216	3	Beceri Temelli Test 15	D1		farklı paket türleriyle top sayısından paket sayısı	5
+Ankara	216	4	Beceri Temelli Test 15	D1		silindir lastiğin izleri arası toplam mesafe	5
+Ankara	217	5	Beceri Temelli Test 15	D3		iki doğrusal ilişki grafiğiyle en fazla meyve	5
+Ankara	217	6	Beceri Temelli Test 15	D1		iki kavanoz türüyle reçel miktarı	5
+Ankara	218	7	Beceri Temelli Test 15	D1	Oran	satış sonrası paket oranından kalan kütle	5
+Ankara	218	8	Beceri Temelli Test 15	D1		simit ve ayran satışından sadece simit alan sayısı	5
+Ankara	219	9	Beceri Temelli Test 15	D4		panodaki kartonlar ve eğimden panonun çevresi	5
+Ankara	219	10	Beceri Temelli Test 15	D1	Yüzdeler	iki kutu arasında boncuk aktarımı, başlangıç sayısı	5
+Ankara	220	11	Beceri Temelli Test 15	D3		iki mumun boy grafiğinden bilinmeyen değer	5
+Ankara	220	12	Beceri Temelli Test 15	D4	Kareköklü İfadelerle Toplama	kaydırılan kartonlarda eğim ve karekök çevreden alan	5
+Ankara	221	1	Konu Testi 1	E		sözel ifadeyi eşitsizlikle yazma	1
+Ankara	221	2	Konu Testi 1	E		açı koşulundan sayı doğrusunda gösterim	2
+Ankara	221	3	Konu Testi 1	E		kasa kütlelerinden toplam kütle aralığı	2
+Ankara	221	4	Konu Testi 1	E		top sayıları koşulundan eşitsizlik	2
+Ankara	221	5	Konu Testi 1	E		dar açılı üçgende açı aralığı	3
+Ankara	221	6	Konu Testi 1	E		hız aralığının sayı doğrusunda gösterimi	1
+Ankara	222	7	Konu Testi 1	E	Yüzdeler	indirim aralığına göre ödenecek tutar aralığı	3
+Ankara	222	8	Konu Testi 1	E		terazi konumundan cismin ağırlık aralığı	2
+Ankara	222	9	Konu Testi 1	E		bir hafta çözülen soru aralığı	2
+Ankara	222	10	Konu Testi 1	E		kâr koşulundan değer aralığı	2
+Ankara	222	11	Konu Testi 1	E		reçel için şeker miktarı aralığı	2
+Ankara	223	1	Geçiş Testi 2	E		kartlardaki sayıların toplamından olası değer aralığı	4
+Ankara	223	2	Geçiş Testi 2	E	Yüzdeler	karışım oranlarıyla paket maliyeti aralığı	5
+Ankara	223	3	Geçiş Testi 2	E		kutulardaki top sayısı koşullarından en az toplam	4
+Ankara	224	4	Geçiş Testi 2	E	Yüzdeler	meyve oranı aralıklarından olamayacak miktar	4
+Ankara	224	5	Geçiş Testi 2	E		yakıt göstergesi hata payıyla yakıt aralığı	4
+Ankara	224	6	Geçiş Testi 2	E	Yüzdeler	esneme sınırlarıyla taşınabilecek kütle aralığı	4
+Ankara	225	1	Konu Testi 3	E		eşitsizliğin çözüm aralığını sayı doğrusunda gösterme	1
+Ankara	225	2	Konu Testi 3	E		iki eşitsizliği birlikte sağlayan aralık	2
+Ankara	225	3	Konu Testi 3	E		koşucular arası mesafenin en fazlası (eşitsizlik)	3
+Ankara	225	4	Konu Testi 3	E		bozuk tartıdaki değer aralığı	2
+Ankara	225	5	Konu Testi 3	E		makaradaki ağırlıklarla en büyük tam sayı	3
+Ankara	225	6	Konu Testi 3	E		tavuk ve koyun ayak sayılarından en çok koyun	3
+Ankara	226	7	Konu Testi 3	E		sözel eşitsizliğin sayı doğrusunda gösterimi	1
+Ankara	226	8	Konu Testi 3	E		misket sayıları karşılaştırmasıyla en çok değer	3
+Ankara	226	9	Konu Testi 3	E		kesirli eşitsizliği sağlamayan değer	2
+Ankara	226	10	Konu Testi 3	E		iki eşitsizliğin ortak çözüm aralığı	2
+Ankara	226	11	Konu Testi 3	E		zarar koşulundan olamayacak satış fiyatı	3
+Ankara	226	12	Konu Testi 3	E		pil fiyatı karşılaştırmasıyla en büyük tam sayı	3
+Ankara	227	1	Geçiş Testi 4	E		iki pazar yeri ücretinde hangisinin ekonomik olduğu (en az araba)	4
+Ankara	227	2	Geçiş Testi 4	E		satış miktarına göre prim tablosundan fark	4
+Ankara	227	3	Geçiş Testi 4	E	Olasılık	olasılık koşuluyla kalan top sayısı	4
+Ankara	228	4	Geçiş Testi 4	E		yeni not eklenince ortalama değişimi, a ve b sınırları	5
+Ankara	228	5	Geçiş Testi 4	E		kâr ve zarar koşullarından x'in aralığı	4
+Ankara	229	1	Beceri Temelli Test 5	E		arabaların aldığı yollar sıralamasından x aralığı	4
+Ankara	229	2	Beceri Temelli Test 5	E		terazi modellerinden kütle sıralaması	3
+Ankara	230	3	Beceri Temelli Test 5	E		farklı aralıklı cetvellerle ölçülemeyen kısmın aralığı	5
+Ankara	230	4	Beceri Temelli Test 5	E		dikdörtgen kartonlardan şekiller, çevre sınırlarından olamayacak değer	5
+Ankara	231	5	Beceri Temelli Test 5	E	Yüzdeler	harf notu aralıklarından sınav notlarının en fazla toplamı	5
+Ankara	231	6	Beceri Temelli Test 5	E		süre ve puan kurallarıyla puan aralığı	5
+Ankara	232	7	Beceri Temelli Test 5	E		boş koltuk sayısına göre bilet ücreti, toplam gelir	4
+Ankara	232	8	Beceri Temelli Test 5	E		bilet ücreti farkından aradaki en az kişi	5
+Ankara	232	9	Beceri Temelli Test 5	E		kademeli bilet ücretiyle gelirden bilet sayısı	5
+Ankara	235	1	Konu Testi 1	T1		kareli düzlemde kenarortayın geçtiği nokta	1
+Ankara	235	2	Konu Testi 1	T1		geniş açılı üçgende yardımcı elemanlarla yanlış ifade	2
+Ankara	235	3	Konu Testi 1	T1		dik üçgende yardımcı elemanlarla yanlış ifade	2
+Ankara	235	4	Konu Testi 1	T1		çizimlerden kesinlikle ikizkenar olan üçgenler	2
+Ankara	235	5	Konu Testi 1	T1		yüksekliğin dışarıda kesiştiği üçgen türü	1
+Ankara	235	6	Konu Testi 1	T1		katlama çizgisinin açıortay olduğu	2
+Ankara	236	7	Konu Testi 1	T1		ikizkenar üçgende katlama çizgisiyle yanlış ifade	2
+Ankara	236	8	Konu Testi 1	T1		kareli kâğıtta kenarortay ve yükseklik	2
+Ankara	236	9	Konu Testi 1	T1		yükseklik ve kenarortayları eşit olan üçgen	2
+Ankara	236	10	Konu Testi 1	T1		yardımcı elemanlarla ilgili doğru ifadeleri sayma	2
+Ankara	236	11	Konu Testi 1	T1	Üçgende Açı Kenar Bağıntıları	açıortay ve ikizkenarlıkla açı ölçüsü	3
+Ankara	237	1	Konu Testi 2	T2		iki kenarı verilen üçgenin olası çevresi	2
+Ankara	237	2	Konu Testi 2	T2		çubuklardan üçgen, eklenecek en az uzunluk	2
+Ankara	237	3	Konu Testi 2	T2		iki kenarı verilen üçgenin üçüncü kenarı	1
+Ankara	237	4	Konu Testi 2	T2		çeşitkenar üçgende üçüncü kenarın alabileceği değerler	2
+Ankara	237	5	Konu Testi 2	T2		üçgen oluşturmak için eklenecek çubuk	2
+Ankara	238	6	Konu Testi 2	T2		üçgen eşitsizliğiyle ilgili ifadelerin doğruluğu	3
+Ankara	238	7	Konu Testi 2	T2		ikizkenar üçgende en küçük çevre	2
+Ankara	238	8	Konu Testi 2	T2		çevrenin en az değeri (üçgen eşitsizliği)	2
+Ankara	238	9	Konu Testi 2	T2		cebirsel kenarlarla x'in değer sayısı	3
+Ankara	238	10	Konu Testi 2	T2		dörtgende ortak kenarın aralığı	3
+Ankara	239	1	Geçiş Testi 3	T1		geometri tahtasında lastikle yardımcı elemanlar, yanlış bilgi	4
+Ankara	239	2	Geçiş Testi 3	T1	Üçgen Çizimleri	pergel adımlarıyla çizilen yardımcı eleman	4
+Ankara	240	3	Geçiş Testi 3	T2		geometri şeritleriyle oluşturulabilecek üçgen sayısı	5
+Ankara	240	4	Geçiş Testi 3	T2		masanın kenar uzunluğu aralığından şerit maliyeti	4
+Ankara	241	1	Konu Testi 4	T3		açılardan kenar uzunluklarını sıralama	1
+Ankara	241	2	Konu Testi 4	T3		kenarlardan açıları sıralama	1
+Ankara	241	3	Konu Testi 4	T3	Üçgenin Kenarları Arasındaki İlişki	açı ilişkisi ve kenarlardan en büyük çevre	3
+Ankara	241	4	Konu Testi 4	T3		cebirsel açılardan kenar sıralaması	2
+Ankara	241	5	Konu Testi 4	T3		birleşik şekilde en uzun kenar	3
+Ankara	241	6	Konu Testi 4	T3	Üçgenin Kenarları Arasındaki İlişki	açı koşulu ve üçgen eşitsizliğiyle kenarın değer aralığı	4
+Ankara	242	7	Konu Testi 4	T3		dış açıdan kenar sıralaması	2
+Ankara	242	8	Konu Testi 4	T3		dış açılardan kenarlar arası ilişki	3
+Ankara	242	9	Konu Testi 4	T3		açıortaylı üçgende kenar karşılaştırmaları	3
+Ankara	242	10	Konu Testi 4	T3		kenar koşulundan açının en büyük tam sayı değeri	3
+Ankara	243	1	Konu Testi 5	T4		üç kenarı verilen üçgenin çiziminde gereken araçlar	1
+Ankara	243	2	Konu Testi 5	T4		tek bir üçgen çizilemeyecek veri	2
+Ankara	243	3	Konu Testi 5	T4		tek bir şekilde çizilemeyen üçgen	2
+Ankara	243	4	Konu Testi 5	T4		tek bir üçgen çizmek için yeterli bilgiler	2
+Ankara	243	5	Konu Testi 5	T4		verilen ölçülerle farklı üçgenler çizilebilmesi	3
+Ankara	244	6	Konu Testi 5	T4		taslak ölçülerle çizilemeyen üçgen	2
+Ankara	244	7	Konu Testi 5	T4		tek türlü çizim için yeterli olmayan bilgi	2
+Ankara	244	8	Konu Testi 5	T4		çizim adımlarına uygun üçgen bilgisi	2
+Ankara	244	9	Konu Testi 5	T4		kareli kâğıtta dik üçgenin köşesi	2
+Ankara	244	10	Konu Testi 5	T4		üçgen çizimiyle ilgili yanlış ifade	2
+Ankara	244	11	Konu Testi 5	T4	Üçgenin Kenarları Arasındaki İlişki	verilerle tek üçgen çizilemeyen seçenek	3
+Ankara	245	1	Geçiş Testi 6	T3		pergel yayıyla kenar karşılaştırması, açı sıralaması	4
+Ankara	245	2	Geçiş Testi 6	T3	Üçgenin Kenarları Arasındaki İlişki	eşit ip uzunluğuyla çember ve üçgen, açı sıralaması	5
+Ankara	246	3	Geçiş Testi 6	T4	Üçgenin Kenarları Arasındaki İlişki	pergel adımlarıyla çizimde açıklığın değer sayısı	4
+Ankara	246	4	Geçiş Testi 6	T4	Üçgende Açı Kenar Bağıntıları	çember yayıyla çizilen üçgende açı sıralaması	4
+Ankara	247	1	Konu Testi 7	T5	a kök b	dik üçgende karekök kenarla Pisagor	2
+Ankara	247	2	Konu Testi 7	T5		dikdörtgenin köşegen uzunluğu	1
+Ankara	247	3	Konu Testi 7	T5	a kök b	kare arsada üçgen havuzun çevresi (Pisagor)	3
+Ankara	247	4	Konu Testi 7	T5		kare içinde dik üçgenle uzunluk	2
+Ankara	247	5	Konu Testi 7	T5	a kök b	iki dik üçgende ardışık Pisagor	3
+Ankara	247	6	Konu Testi 7	T5		merdivenin tepesinin yere uzaklığı	2
+Ankara	248	7	Konu Testi 7	T5		iki nokta arası en kısa uzaklık (Pisagor)	3
+Ankara	248	8	Konu Testi 7	T5	a kök b	kareli düzlemde kenar uzunluğu (Pisagor)	2
+Ankara	248	9	Konu Testi 7	T5		doğru parçalarından dik üçgen, kullanılmayan parça	2
+Ankara	248	10	Konu Testi 7	T5	a kök b	dikdörtgenlerden oluşan şekilde uzunluk	3
+Ankara	248	11	Konu Testi 7	T5		Pisagor bağıntısına uyan dik üçgen	1
+Ankara	249	1	Konu Testi 8	T5	a kök b	verilen üçlülerden dik üçgen olanları sayma	2
+Ankara	249	2	Konu Testi 8	T5		karıncanın gideceği en kısa yol (Pisagor)	3
+Ankara	249	3	Konu Testi 8	T5		kırılan lambanın boyu (Pisagor)	2
+Ankara	249	4	Konu Testi 8	T5		karıncanın çıktığı yükseklik	2
+Ankara	249	5	Konu Testi 8	T5		uçağın yatay mesafesi (Pisagor)	3
+Ankara	250	6	Konu Testi 8	T5	a kök b	çembere yerleşen karenin köşegeniyle çember çevresi	3
+Ankara	250	7	Konu Testi 8	T5		koordinat düzleminde iki nokta arası uzaklık	2
+Ankara	250	8	Konu Testi 8	T5	Üçgenin Kenarları Arasındaki İlişki	geniş açılı üçgende kenarın değer sayısı	4
+Ankara	250	9	Konu Testi 8	T5	a kök b	dörtgende ardışık Pisagor ile kenar	3
+Ankara	250	10	Konu Testi 8	T5		çember ve yarıçapla dik üçgende uzunluk	3
+Ankara	250	11	Konu Testi 8	T5	a kök b	koordinat sisteminde dik üçgenin kenarı	3
+Ankara	251	1	Geçiş Testi 9	T5	Tam Kare	yönergeyle çizilen dik üçgende uzunluğun tahmini	4
+Ankara	251	2	Geçiş Testi 9	T5	a kök b	köşegeni bir sonraki karenin kenarı olan kare örüntüsü	5
+Ankara	252	3	Geçiş Testi 9	T5	Eğim	rampa eğimi ve legolarla yeni eğim	4
+Ankara	252	4	Geçiş Testi 9	T5	a kök b	tangram parçalarından şeklin çevresi	4
+Ankara	253	1	Beceri Temelli Test 10	T5	a kök b	45° eğik konan kitapla rafın boyu	4
+Ankara	253	2	Beceri Temelli Test 10	T2	Üçgende Açı Kenar Bağıntıları	geniş açılı üçgen bayraklarla süsleme ipinin en az uzunluğu	5
+Ankara	254	3	Beceri Temelli Test 10	T5	Kareköklü İfadeler	kare panodaki kartonlarla boşlukların alanı	5
+Ankara	254	4	Beceri Temelli Test 10	T2		çivilerle oluşan üçgenlerde ipin en küçük uzunluğu	5
+Ankara	255	5	Beceri Temelli Test 10	T5	a kök b	daire içindeki ikizkenar üçgen camlar, üçgen alanı	5
+Ankara	255	6	Beceri Temelli Test 10	T5	a kök b	kare içindeki noktanın kenarlara uzaklığından köşegen	4
+Ankara	256	7	Beceri Temelli Test 10	T5		çıkan rafın ucunun yerden yüksekliği (Pisagor)	5
+Ankara	256	8	Beceri Temelli Test 10	T5	a kök b	kumaş parçalarıyla dikdörtgenin çevresi	5
+Ankara	257	1	Beceri Temelli Test 11	T3	Üçgenin Yardımcı Elemanları	çubuklarla yüksekliklerden açı sıralaması	5
+Ankara	257	2	Beceri Temelli Test 11	T5	a kök b	45° açılan kapı kollarının uçları arası mesafe	5
+Ankara	258	3	Beceri Temelli Test 11	T5	Koordinat Sistemi	radar menzilinde görünen balonlar (Pisagor)	5
+Ankara	258	4	Beceri Temelli Test 11	T5	a kök b	kare-ikizkenar dik üçgen örüntüsünde en küçük kareler	5
+Ankara	259	5	Beceri Temelli Test 11	T5	a kök b	panodaki kartonlarda en kısa uzaklıktan çevre	5
+Ankara	259	6	Beceri Temelli Test 11	T5	Yüzdeler	dikdörtgen çerçeve kayınca paralelkenar, alan değişimi yüzdesi	5
+Ankara	260	7	Beceri Temelli Test 11	T5		kartonların köşeleri arasındaki dik üçgen, olamayacak alan	5
+Ankara	260	8	Beceri Temelli Test 11	T1	Pisagor	adadaki yollar ve yardımcı elemanlarla ilgili ifadeler	5
+Ankara	261	9	Beceri Temelli Test 11	T5		iki direğe bağlanan ipin en az uzunluğu	5
+Ankara	261	10	Beceri Temelli Test 11	T5		kare kartonun parçalarından oluşan karelerin çevre oranı	5
+Ankara	262	11	Beceri Temelli Test 11	T5	a kök b	kare kartondaki doğru parçasından kenar uzunluğu	5
+Ankara	262	12	Beceri Temelli Test 11	T5		kesilip yapıştırılan parçalarla oluşan kare, ilk şeklin çevresi	5
+Ankara	263	1	Konu Testi 1	EB		eş dikdörtgenlerde bilinmeyen kenarlar	1
+Ankara	263	2	Konu Testi 1	EB		kareli düzlemde eş üçgenleri bulma	1
+Ankara	263	3	Konu Testi 1	EB		eş üçgenlerde karşılıklı kenarlardan bilinmeyenler	2
+Ankara	263	4	Konu Testi 1	EB		eş üçgen oluşturacak noktayı seçme	2
+Ankara	263	5	Konu Testi 1	EB		dikdörtgeni iki eş parçaya ayıracak nokta	2
+Ankara	263	6	Konu Testi 1	EB		benzer dörtgenlerde kesinlikle doğru ifade	1
+Ankara	264	7	Konu Testi 1	EB		kareli zeminde eş iki şekil	1
+Ankara	264	8	Konu Testi 1	EB		paralelkenarda köşegenle oluşan eş üçgenler	2
+Ankara	264	9	Konu Testi 1	EB		eşlik/benzerlik genellemelerinden yanlış olan	2
+Ankara	264	10	Konu Testi 1	EB		dikdörtgenden benzer parça kesme	2
+Ankara	264	11	Konu Testi 1	EB		benzer üçgenlerde yanlış ifade	2
+Ankara	265	1	Geçiş Testi 2	EB		geometri tahtasında benzer üçgen oluşturulamayan noktalar	4
+Ankara	265	2	Geçiş Testi 2	EB		kâğıdı kesince birbirine benzer iki parça	4
+Ankara	266	3	Geçiş Testi 2	EB		kesilen şekillerde parçanın ilk hâline benzerliği	4
+Ankara	266	4	Geçiş Testi 2	EB	Oran	şeridi oranla bölme, eş parça sayısı	4
+Ankara	267	1	Konu Testi 3	EB		benzerlik oranı 3 olan üçgeni seçme	1
+Ankara	267	2	Konu Testi 3	EB		benzer dik üçgenlerde kenar uzunluğu	2
+Ankara	267	3	Konu Testi 3	EB		benzer üçgenlerde parça uzunluğu	2
+Ankara	267	4	Konu Testi 3	EB		dörtgen parçalarından benzer üçgenlerin oranı	3
+Ankara	267	5	Konu Testi 3	EB		benzer dikdörtgen bölgelerden şeklin çevresi	3
+Ankara	268	6	Konu Testi 3	EB		benzerlik oranı 2/3 olan şekil (kareli düzlem)	2
+Ankara	268	7	Konu Testi 3	EB		iç içe düzgün altıgenlerin benzerlik oranı	2
+Ankara	268	8	Konu Testi 3	EB	Doğrusal Denklemler	grafikteki dikdörtgenlerden benzer olanlar	3
+Ankara	268	9	Konu Testi 3	EB		benzer üçgenlerde açıların oranı	1
+Ankara	268	10	Konu Testi 3	EB		kareli zeminde benzer çokgenleri sayma	2
+Ankara	269	1	Geçiş Testi 4	EB	a kök b	katlanıp kesilen kare kâğıtta benzerlik oranı	4
+Ankara	269	2	Geçiş Testi 4	EB		düzgün altıgen örüntüsünde çevrelerin oranı	4
+Ankara	269	3	Geçiş Testi 4	EB	a kök b	benzer kartonlarla pano, kırmızı kartonun çevresi	5
+Ankara	270	4	Geçiş Testi 4	EB		kareli zeminde oluşan üçgenlerin benzerlik oranı	4
+Ankara	270	5	Geçiş Testi 4	EB	Koordinat Sistemi	noktalardan çizilen benzer dikdörtgenlerin oranı	4
+Ankara	271	1	Beceri Temelli Test 5	EB		katlanan kâğıdın ilk hâline benzer olduğu adım	5
+Ankara	271	2	Beceri Temelli Test 5	EB	a kök b	karton içindeki kare ve eş üçgenlerle yükseklik	5
+Ankara	272	3	Beceri Temelli Test 5	EB	a kök b	kare tahtadan parçalarla benzer çerçeve, olası kenarlar	5
+Ankara	272	4	Beceri Temelli Test 5	EB	Koordinat Sistemi	benzerlik oranı 2 olan dikdörtgenin köşe koordinatı	5
+Ankara	273	5	Beceri Temelli Test 5	EB	EBOB - EKOK Problemleri	panoya oranla büyütülmüş bayrak-resim dizisi, olamayacak ölçü	5
+Ankara	274	6	Beceri Temelli Test 5	EB	Çarpanlar ve Asal Çarpanlar	alanlardan kesilen benzer dikdörtgenlerin alanları	5
+Ankara	274	7	Beceri Temelli Test 5	EB		katlanıp kesilen kâğıtların benzer olması, ilk boyutlar	5
+Ankara	277	1	Konu Testi 1	DG		ötelenen şeklin üzerinde kalan nokta	1
+Ankara	277	2	Konu Testi 1	DG	Koordinat Sistemi	ötelenen üçgenin köşe koordinatı olamaz	2
+Ankara	277	3	Konu Testi 1	DG	Koordinat Sistemi	ötelenen üçgenin köşe koordinatları toplamı	2
+Ankara	277	4	Konu Testi 1	DG		iki şekil arasındaki öteleme hareketleri	2
+Ankara	277	5	Konu Testi 1	DG		satranç tahtasında ötelenen taşın karesi	1
+Ankara	278	6	Konu Testi 1	DG		doğru parçasını konuma getiren öteleme	2
+Ankara	278	7	Konu Testi 1	DG		ötelenen dikdörtgenle ortak bölgenin alanı	3
+Ankara	278	8	Konu Testi 1	DG		iki üçgenin kesikli şekle ötelenmesi	2
+Ankara	278	9	Konu Testi 1	DG		ötelenen şekillerin kesişim bölgesi	3
+Ankara	279	1	Geçiş Testi 2	DG		kesilen parçalar ötelenince üst üste gelen kareler	4
+Ankara	279	2	Geçiş Testi 2	DG		kareli kartonda iki kareyi çakıştıran öteleme mesafesi	4
+Ankara	280	3	Geçiş Testi 2	DG		robot komutlarıyla öteleme sırası	4
+Ankara	281	1	Konu Testi 3	DG	Koordinat Sistemi	öteleme ve x eksenine göre yansıma sonrası koordinat	2
+Ankara	281	2	Konu Testi 3	DG	Koordinat Sistemi	eksenlere göre yansıyan noktaların koordinatları toplamı	2
+Ankara	281	3	Konu Testi 3	DG		y eksenine göre yansıyan şeklin köşesi değildir	2
+Ankara	281	4	Konu Testi 3	DG		doğruya göre simetriği doğru verilen doğru parçası	1
+Ankara	281	5	Konu Testi 3	DG		öteleme sonrası şekillerin görüntüsü	2
+Ankara	282	6	Konu Testi 3	DG		dijital saatin x eksenine göre yansıması	2
+Ankara	282	7	Konu Testi 3	DG		ötelenen üçgende noktanın çakıştığı nokta	2
+Ankara	282	8	Konu Testi 3	DG		x ve y eksenlerine göre yansıyan şekil	3
+Ankara	283	1	Konu Testi 4	DG	Koordinat Sistemi	dönüşüm sonrası koordinatların doğruluğu	2
+Ankara	283	2	Konu Testi 4	DG		y eksenine yansıma ve öteleme sonrası şekil	2
+Ankara	283	3	Konu Testi 4	DG	Koordinat Sistemi	öteleme sonucundan bilinmeyenler	2
+Ankara	283	4	Konu Testi 4	DG		süsleme modelindeki dönüşüm hareketleri	2
+Ankara	283	5	Konu Testi 4	DG		öteleme sonrası iki şeklin kesişim alanı	3
+Ankara	284	6	Konu Testi 4	DG		öteleme ve yansıma sonrası oluşan şeklin alanı	3
+Ankara	284	7	Konu Testi 4	DG		önce x sonra y eksenine göre yansıma	2
+Ankara	284	8	Konu Testi 4	DG		süslemede eksik parça (yansıma)	2
+Ankara	284	9	Konu Testi 4	DG		ardışık yansımalarla koordinatlar toplamı	2
+Ankara	285	1	Geçiş Testi 5	DG		aynadaki hesap makinesi görüntüsüyle işlem	5
+Ankara	285	2	Geçiş Testi 5	DG	Koordinat Sistemi	dikdörtgen çevresinde yürüyen noktanın simetriği	4
+Ankara	286	3	Geçiş Testi 5	DG		kareye eksenlere göre simetri işlemleri	4
+Ankara	286	4	Geçiş Testi 5	DG		köşelerin kenarlara göre simetrileriyle üçgen alanı	5
+Ankara	287	1	Beceri Temelli Test 6	DG	Koordinat Sistemi	hedef tahtasında ötelemeyle isabet bölgeleri	5
+Ankara	287	2	Beceri Temelli Test 6	DG	Pisagor	yansıyan üçgenin köşelerinin doğruya uzaklıkları	5
+Ankara	288	3	Beceri Temelli Test 6	DG		dönüşüm düzeneğinde başlangıca dönen öteleme	5
+Ankara	288	4	Beceri Temelli Test 6	DG	Pisagor	yansıyan noktalar arası en az uzaklık	5
+Ankara	289	5	Beceri Temelli Test 6	DG		küp yapının görünümlerinin yansımaları	5
+Ankara	289	6	Beceri Temelli Test 6	DG	Pisagor	yansıyan noktalar arasındaki uzaklık (karekök)	4
+Ankara	290	7	Beceri Temelli Test 6	DG	Yüzdeler	yansıma ve öteleme sonrası dikdörtgenin bölgedeki yüzdesi	5
+Ankara	290	8	Beceri Temelli Test 6	DG		yanlış yapılan dönüşümleri geri alıp doğru sonucu bulma	5
+Ankara	291	1	Konu Testi 1	G1		küp açınımında karşılıklı yüz	1
+Ankara	291	2	Konu Testi 1	G1		üçgen prizma açınımında çakışmayan noktalar	2
+Ankara	291	3	Konu Testi 1	G1		sekiz yüzü eş olan prizma	1
+Ankara	291	4	Konu Testi 1	G1		üçgen prizma açınımında kesin eşit uzunluklar	2
+Ankara	291	5	Konu Testi 1	G1		dikdörtgenler prizmasının ayrıt toplamı ve yüz sayısı	1
+Ankara	292	6	Konu Testi 1	G1		dik üçgen prizmanın olamayacak yüzü	2
+Ankara	292	7	Konu Testi 1	G1		kare prizma açınımında çakışan noktalar	2
+Ankara	292	8	Konu Testi 1	G1		küp açınımında alta kalan yüz	1
+Ankara	292	9	Konu Testi 1	G1		dikdörtgenler prizmasının olamayacak yüzü	1
+Ankara	293	1	Geçiş Testi 2	G1		kareli kâğıtta üçgen prizmanın olamayacak yüzü	3
+Ankara	293	2	Geçiş Testi 2	G1	Koordinat Sistemi	koordinat sisteminde kare prizma açınımının çevresi	4
+Ankara	294	3	Geçiş Testi 2	G1		yükseklikleri azalan kare prizmalarla küpün yüzey alanı	4
+Ankara	294	4	Geçiş Testi 2	G1		boyalı açınımdan kapanan prizmanın görünümü	4
+Ankara	295	1	Konu Testi 3	G2		açınımı verilen silindiri seçme	1
+Ankara	295	2	Konu Testi 3	G2		taban çapından yanal yüzeyin boyutları	2
+Ankara	295	3	Konu Testi 3	G2		yanlış çizilmiş silindir açınımı	2
+Ankara	295	4	Konu Testi 3	G2		yükseklik-yarıçap oranı ve yanal alandan taban alanı	3
+Ankara	296	5	Konu Testi 3	G2		iki silindirin yüzey alanlarının oranı	3
+Ankara	296	6	Konu Testi 3	G2		tablodan yanal alanı en büyük silindir	2
+Ankara	296	7	Konu Testi 3	G2		noktalı düzlemde tabandan yanal alan	2
+Ankara	296	8	Konu Testi 3	G2		salça kutusunu kaplayan kâğıdın boyutları	2
+Ankara	296	9	Konu Testi 3	G2		dikdörtgenin döndürülmesiyle oluşan silindirin yanal yüzeyi	3
+Ankara	297	1	Konu Testi 4	G2		açınımdan silindirin yüzey alanı	2
+Ankara	297	2	Konu Testi 4	G2	Yüzdeler	yükseklik ve yarıçap yüzde değişince yanal alan	3
+Ankara	297	3	Konu Testi 4	G2		kare kartonun döndürülmesiyle taban alanları toplamı	2
+Ankara	297	4	Konu Testi 4	G2		üst üste silindirlerden oluşan şeklin yüzey alanı	3
+Ankara	297	5	Konu Testi 4	G2	Prizmalar	prizma ve silindirin yüzey alanlarını sıralama	3
+Ankara	298	6	Konu Testi 4	G2		yarım silindirin yüzey alanı	3
+Ankara	298	7	Konu Testi 4	G2		pastanın dilimlerinden birinin yüzey alanı	4
+Ankara	298	8	Konu Testi 4	G2		yüzey alanı en küçük silindir	2
+Ankara	298	9	Konu Testi 4	G2	Prizmalar	prizma içine sığan en büyük silindirin yüzey alanı	3
+Ankara	299	1	Konu Testi 5	G2		yarıçap ve yükseklikten silindirin hacmi	1
+Ankara	299	2	Konu Testi 5	G2		taban alanı ve yükseklikten hacim	1
+Ankara	299	3	Konu Testi 5	G2		açınımdan silindirin hacmi	2
+Ankara	299	4	Konu Testi 5	G2	Birim Dönüşümü	bardağın alacağı su miktarı	2
+Ankara	299	5	Konu Testi 5	G2		taban ve yanal alandan hacim	3
+Ankara	299	6	Konu Testi 5	G2		iki silindirin hacim farkı	2
+Ankara	300	7	Konu Testi 5	G1		küp ve silindir hacmi eşit, silindirin yüksekliği	3
+Ankara	300	8	Konu Testi 5	G2		depoyu kovayla doldurma, kovanın yüksekliği	3
+Ankara	300	9	Konu Testi 5	G2		suyun başka silindire aktarılması, yükseklik	3
+Ankara	300	10	Konu Testi 5	G2	Prizmalar	prizmadaki suyun silindire aktarılması, kalan miktar	4
+Ankara	301	1	Konu Testi 6	G2	Birim Dönüşümü	silindir cisim batırılınca taşan su	3
+Ankara	301	2	Konu Testi 6	G2		dökülen suyun yüksekliği	2
+Ankara	301	3	Konu Testi 6	G2		içinden silindir çıkarılan parçanın hacmi	3
+Ankara	301	4	Konu Testi 6	G2		kareli kâğıtta tabanı verilen silindirin hacmi	2
+Ankara	301	5	Konu Testi 6	G2		hacmi eşit olan silindiri seçme	2
+Ankara	302	6	Konu Testi 6	G2	Prizmalar	prizmaya atılan silindir blokla su yükselmesi	3
+Ankara	302	7	Konu Testi 6	G2		silindirlerin hacimlerini sıralama	2
+Ankara	302	8	Konu Testi 6	G2		dikdörtgenin döndürülmesiyle oluşan cismin hacmi	3
+Ankara	302	9	Konu Testi 6	G2	Pisagor	silindir yüzeyinde karıncanın en kısa yolu	4
+Ankara	303	1	Geçiş Testi 7	G2	Oran	kesilen silindirin yüzey alanı oranından parça sayısı	5
+Ankara	303	2	Geçiş Testi 7	G2		iki ruloya sarılan kâğıt havlunun en az alanı (EKOK)	5
+Ankara	304	3	Geçiş Testi 7	G2		depo hacmi ve yol tablosundan yanlış yorum	5
+Ankara	304	4	Geçiş Testi 7	G2	Birim Dönüşümü	eriyen mumun ölçekli kaptaki hacminden ilk hacim	4
+Ankara	305	1	Konu Testi 8	G3		kare dik piramidin olamayacak açınımı	1
+Ankara	305	2	Konu Testi 8	G3		kare dik piramitte yükseklik ve yan yüz yüksekliği	2
+Ankara	305	3	Konu Testi 8	G3		düzgün altıgen dik piramidin açınımı	1
+Ankara	305	4	Konu Testi 8	G3		üstten görünümü verilen piramidin açınımı	2
+Ankara	306	5	Konu Testi 8	G3		açınım kapatılınca çakışan noktalar	2
+Ankara	306	6	Konu Testi 8	G3		üstten görünümden piramit hakkında yanlış ifade	2
+Ankara	306	7	Konu Testi 8	G3		piramit açınımında kesin eşit kenarlar	2
+Ankara	306	8	Konu Testi 8	G3		kenar uzunluklarıyla oluşturulabilecek açınım	3
+Ankara	307	1	Konu Testi 9	G4		dik koninin elemanlarıyla ilgili doğru ifadeler	1
+Ankara	307	2	Konu Testi 9	G4	Pisagor	ana doğru ve çaptan koninin yüksekliği	2
+Ankara	307	3	Konu Testi 9	G4		koni açınımında merkez açısı	2
+Ankara	307	4	Konu Testi 9	G4		daire diliminden koninin tabanı	2
+Ankara	308	5	Konu Testi 9	G4		merkez açısı en büyük koni açınımı	2
+Ankara	308	6	Konu Testi 9	G4		noktalı zeminde yanal yüzeyden koninin tabanı	2
+Ankara	308	7	Konu Testi 9	G4		daire diliminden oluşan koniyi seçme	2
+Ankara	308	8	Konu Testi 9	G4	Pisagor	ikizkenar üçgenin döndürülmesiyle oluşan koninin yüksekliği	3
+Ankara	309	1	Geçiş Testi 10	G3		çizgili açınımdan piramidin görünümü	4
+Ankara	309	2	Geçiş Testi 10	G4	Doğrusal Denklemler	doğru ve eksenler arasındaki bölgenin döndürülmesiyle koni	4
+Ankara	310	3	Geçiş Testi 10	G3		boyalı açınımdan kapalı piramidin görünümü	4
+Ankara	310	4	Geçiş Testi 10	G2	Prizmalar	kutuya sığacak cisim olamaz (hacim ve oran)	5
+Ankara	311	1	Beceri Temelli Test 11	G4	a kök b	daire dilimlerinden koniler, kırmızı koninin yüksekliği	5
+Ankara	311	2	Beceri Temelli Test 11	G2	Temel Kurallar	yarıçapları 2 katına çıkan silindir örüntüsünde hacim oranı (üslü)	5
+Ankara	312	3	Beceri Temelli Test 11	G2	Birim Dönüşümü	esneyen borunun hacminden yarıçapı	5
+Ankara	312	4	Beceri Temelli Test 11	G2	EBOB - EKOK Problemleri	sac levhalardan eş borular, en çok hacim (EBOB)	5
+Ankara	313	5	Beceri Temelli Test 11	G2		iki tür şekerin paketlenmesi, çilekli kısımların hacim oranı	5
+Ankara	313	6	Beceri Temelli Test 11	G2	EBOB - EKOK Problemleri	çubuklara takılan silindirler, en az çubuk uzunluğu (EKOK)	5
+Ankara	314	7	Beceri Temelli Test 11	G2		Möbius şeridinde karıncanın gezebileceği en fazla alan	5
+Ankara	314	8	Beceri Temelli Test 11	G2	Pisagor	45° devrilen silindirden dökülen su hacmi	5

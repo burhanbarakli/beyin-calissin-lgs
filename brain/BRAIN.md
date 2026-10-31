@@ -131,13 +131,17 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 5. **Sırala.** Her grupta: öğretici (kolaydan zora) → pekiştirme → zorlayıcı. Her grupta en az bir
    **çalışma kâğıdı** alıştırması (kavramı öğretir) ve mümkünse bir **LGS çıkmış** ya da MEB kitabı/deneme sorusu olsun. Öğretmen seçsin
    diye hedef sayının **yaklaşık 1,5–2 katı** aday ver; varsayılan seçimini `recommended: true` ile işaretle.
-5b. **Fenomen basılı kitaplarından ek sorular.** Öğrencinin elinde *2026 Fenomen 8. Sınıf Matematik A ve B* soru
-   bankaları var. Bu kitapların soruları bankada yok (şifreli uygulama), ama her sorunun kitap/sayfa/soru no, konu,
-   tür (Kazanım · Kalıplaşmış İkiz · Yeni Nesil), kısa beceri etiketi ve zorluğu indekslidir. Her grup için
-   `python -m app.qbank fenomen --topic "ebob - ekok problemleri" --text "eşit,en az,ortak kat"` gibi arayıp
-   **3-6 soru** seç ve gruba `fenomen` listesi ekle (yalnızca `roles`'taki tiplerde). Teşhisteki kopan adımı çalıştıranları öne al; öğretici için
-   Kazanım (zorluk 1-3), pekiştirme/zorlayıcı için İkiz ve Yeni Nesil (3-4). Çok konulu sorularda `--topic-all
-   "karekök,üslü"` kullan. Görsel yok: yalnızca beceri etiketine göre seç, adresi aynen kopyala, uydurma.
+5b. **Basılı kitaplardan ek sorular.** Öğrencinin elinde iki basılı soru bankası seti var:
+   *2026 Fenomen 8. Sınıf Matematik A ve B* (`8A`, `8B`) ve *2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren
+   Soru Bankası* (`Ankara`). Bu kitapların soruları bankada yok (şifreli uygulama), ama her sorunun kitap/sayfa/soru
+   no, konu, tür, kısa beceri etiketi ve zorluğu indekslidir. Fenomen türleri: Kazanım · Kalıplaşmış İkiz · Yeni Nesil.
+   Ankara türleri test adıdır: Konu Testi (temel-orta) · Geçiş Testi (orta-zor, yeni nesil) · Beceri Temelli Test (zor).
+   Her grup için `python -m app.qbank fenomen --topic "ebob - ekok problemleri" --text "eşit,en az,ortak kat"` gibi
+   arayıp **3-6 soru** seç ve gruba `fenomen` listesi ekle (yalnızca `roles`'taki tiplerde). İki kitap setinden de
+   uygun olanları karıştır (`--book Fenomen` / `--book Ankara` ile ayrı ayrı da arayabilirsin). Teşhisteki kopan
+   adımı çalıştıranları öne al; öğretici için Kazanım / Konu Testi (zorluk 1-3), pekiştirme/zorlayıcı için İkiz,
+   Yeni Nesil, Geçiş ve Beceri Temelli testler (3-5). Çok konulu sorularda `--topic-all "karekök,üslü"` kullan.
+   Görsel yok: yalnızca beceri etiketine göre seç, adresi aynen kopyala, uydurma.
    1. dönemde 2. dönem konularından (denklem, eğim, üçgen…) seçme.
 6. **Zorluk.** Her adaya `difficulty` (1-5) ver: 1 = tek adımlı tanım/hatırlatma, 2 = temel uygulama,
    3 = ortalama LGS sorusu, 4 = çok adımlı/yorum gerektiren, 5 = LGS'nin en zor soruları. Kısa gerekçe:
@@ -188,7 +192,8 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
       ],
       "fenomen": [
         {"ref": "8A s.21 S2", "role": "hatirlatici", "why": "eşit uzunluk, ...den fazla, en az (EKOK)"},
-        {"ref": "8B s.17 S1", "role": "pekistirme", "why": "eşit toplam için ortak kat"}
+        {"ref": "8B s.17 S1", "role": "pekistirme", "why": "eşit toplam için ortak kat"},
+        {"ref": "Ankara s.22 S10", "role": "zorlayici", "why": "hep aynı sayı eksik, kaydırılmış ortak kat"}
       ]
     }
   ]
@@ -196,5 +201,5 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 ```
 
 `role` sadece `hatirlatici` (öğretici), `pekistirme`, `zorlayici` olabilir. `qid`'ler aynen bankadaki gibi olmalı.
-`fenomen[].ref`, `qbank fenomen` çıktısının ilk sütunudur (ör. `8B Ünite 2 s.9 S1`); aynen yaz.
+`fenomen[].ref`, `qbank fenomen` çıktısının ilk sütunudur (ör. `8B Ünite 2 s.9 S1`, `Ankara s.83 S7`); aynen yaz.
 Dosyayı yazdıktan sonra ek iş yapma; bitir.

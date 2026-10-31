@@ -213,9 +213,9 @@ async function loadCandidates(id, scroll = false) {
   syncCards(); saveBasket();
   if (scroll) $("#candidates").scrollIntoView({ behavior: "smooth" });
 }
-// Fenomen basılı kitap soruları: görseli yok, öğrenci kitaptan sayfa/soru no ile bulur; PDF'in sonuna liste olarak eklenir
-const fenomenHtml = (g) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Fenomen kitabından çöz</b>
-  <span class="muted small">(8A/8B soru bankası · sayfa ve soru no)</span>
+// Basılı kitap soruları (Fenomen 8A/8B, Ankara): görseli yok, öğrenci kitaptan sayfa/soru no ile bulur; PDF'in sonuna liste olarak eklenir
+const fenomenHtml = (g) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Basılı kitaplardan çöz</b>
+  <span class="muted small">(8A/8B = Fenomen · Ankara = Güçlendiren Soru Bankası · sayfa ve soru no)</span>
   <ul>${g.fenomen.map((f) => `<li><span class="ref">${esc(f.ref)}</span> <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span>
     <span class="muted">${esc(f.why || "")}</span></li>`).join("")}</ul></div>`;
 const fenomenRefs = () => (S.cand?.groups || []).flatMap((g) => (g.fenomen || []).map((f) => ({ ...f, group: g.title })));

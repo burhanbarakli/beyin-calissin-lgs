@@ -467,7 +467,8 @@ def main(argv=None):
     tr = sub.add_parser("torate", help="kitabın puanlanmamış soruları"); tr.add_argument("book")
     tr.add_argument("--limit", type=int, default=60)
     hi = sub.add_parser("history", help="öğrencinin çalışma kâğıdı sonuçları (konu bazında)"); hi.add_argument("--subject")
-    fe = sub.add_parser("fenomen", help="Fenomen 8A/8B basılı kitaplarında sayfa/soru no ile benzer soru ara")
+    fe = sub.add_parser("fenomen", help="basılı kitaplarda (Fenomen 8A/8B, Ankara Güçlendiren) sayfa/soru no ile "
+                                        "benzer soru ara; --book 8A | 8B | Fenomen | Ankara")
     for x in ("--topic", "--text", "--book", "--kind"):
         fe.add_argument(x)
     fe.add_argument("--topic-all", dest="topic_all", help='hepsi geçmeli (VE): "karekök,üslü"')
@@ -527,7 +528,7 @@ def main(argv=None):
             return
         rows = fenomen.search(a.topic, a.text, a.topic_all, a.book, a.kind, a.min, a.max, a.limit)
         if not rows:
-            print("Eşleşen Fenomen sorusu yok; terimleri genişletin (--topic tek kelime, --text'i kaldırın).")
+            print("Eşleşen basılı kitap sorusu yok; terimleri genişletin (--topic tek kelime, --text'i kaldırın).")
         for q in rows:
             print(f"{q['ref']:22} | {q['tur']:16} | zorluk={q['zorluk']} | {q['konu'][:45]}"
                   f"{' | ek konu: ' + q['ek_konu'] if q['ek_konu'] else ''}\n    beceri: {q['beceri']}")

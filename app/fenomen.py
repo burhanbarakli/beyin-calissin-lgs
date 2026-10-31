@@ -1,10 +1,11 @@
-"""Fenomen 8. sınıf matematik soru bankaları (A ve B) için sayfa/soru indeksi.
+"""Öğrencinin elindeki basılı soru bankaları için sayfa/soru indeksi: Fenomen 8A/8B ve Ankara Güçlendiren.
 
 Kitaplar şifreli uygulamada olduğu için soruların kendisi bankada yok; öğrencinin elindeki basılı
 kitaptan bulunsun diye yalnızca kitap, sayfa, soru numarası, konu ve kısa beceri etiketi tutulur.
-Kaynak: kaynaklar/Fenomen/fenomen_8_mat_2026.tsv (Claude'un kitabı sayfa sayfa inceleyerek yazdığı etiketler).
+Kaynaklar (Claude'un kitapları sayfa sayfa inceleyerek yazdığı etiketler):
+  kaynaklar/Fenomen/fenomen_8_mat_2026.tsv, kaynaklar/Ankara/ankara_8_mat_gsb_2025.tsv
 
-8A sayfaları kitabın basılı sayfa numarasıdır. 8B ünite başına sayfalanır: "2-9" = 2. ünite, 9. sayfa.
+8A ve Ankara sayfaları basılı sayfa numarasıdır. 8B ünite başına sayfalanır: "2-9" = 2. ünite, 9. sayfa.
 """
 from __future__ import annotations
 
@@ -14,10 +15,13 @@ from pathlib import Path
 
 from .qbank import fold
 
-TSV = Path(__file__).resolve().parent.parent / "kaynaklar" / "Fenomen" / "fenomen_8_mat_2026.tsv"
+_KAYNAK = Path(__file__).resolve().parent.parent / "kaynaklar"
+TSVS = [_KAYNAK / "Fenomen" / "fenomen_8_mat_2026.tsv", _KAYNAK / "Ankara" / "ankara_8_mat_gsb_2025.tsv"]
 
 BOOKS = {"8A": "2026 Fenomen 8. Sınıf Matematik A Soru Bankası",
-         "8B": "2026 Fenomen 8. Sınıf Matematik B Soru Bankası"}
+         "8B": "2026 Fenomen 8. Sınıf Matematik B Soru Bankası",
+         "Ankara": "2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren Soru Bankası"}
+# Fenomen türleri kısa kodla; Ankara'da tür sütunu test adıdır (Konu Testi / Geçiş Testi / Beceri Temelli Test)
 TYPES = {"K": "Kazanım", "I": "Kalıplaşmış İkiz", "Y": "Yeni Nesil"}
 
 # indeksteki kısa konu kodları → sistemin "Ünite: Kazanım" konu adları
@@ -74,17 +78,18 @@ def ref(q: dict) -> str:
 
 @lru_cache(maxsize=1)
 def load() -> list[dict]:
-    if not TSV.exists():
-        return []
     out = []
-    with TSV.open(encoding="utf-8", newline="") as f:
-        for r in csv.DictReader(f, delimiter="\t"):
-            out.append({
-                "kitap": r["kitap"], "sayfa": r["sayfa"], "soru": int(r["soru"]),
-                "tur": TYPES.get(r["tur"], r["tur"]),
-                "konu": TOPICS.get(r["konu"], r["konu"]),
-                "ek_konu": r["ek_konu"], "beceri": r["beceri"], "zorluk": int(r["zorluk"] or 0),
-            })
+    for tsv in TSVS:
+        if not tsv.exists():
+            continue
+        with tsv.open(encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f, delimiter="\t"):
+                out.append({
+                    "kitap": r["kitap"], "sayfa": r["sayfa"], "soru": int(r["soru"]),
+                    "tur": TYPES.get(r["tur"], r["tur"]),
+                    "konu": TOPICS.get(r["konu"], r["konu"]),
+                    "ek_konu": r["ek_konu"], "beceri": r["beceri"], "zorluk": int(r["zorluk"] or 0),
+                })
     for q in out:
         q["ref"] = ref(q)
         if q["ek_konu"]:
@@ -115,7 +120,7 @@ def search(topic: str | None = None, text: str | None = None, topic_all: str | N
     any_t, all_t, txt = _terms(topic), _terms(topic_all), _terms(text)
     res = []
     for q in load():
-        if book and q["kitap"].lower() != book.lower():
+        if book and q["kitap"].lower() != book.lower() and not (book.lower() == "fenomen" and q["kitap"] in ("8A", "8B")):
             continue
         if kind and fold(kind) not in fold(q["tur"]):
             continue

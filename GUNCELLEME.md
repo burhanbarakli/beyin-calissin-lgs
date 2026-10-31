@@ -8,6 +8,22 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.7.0 · 31 Ekim 2026 · Ankara Güçlendiren Soru Bankası indeksi
+
+**Yeni**
+- **2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren Soru Bankası** sayfa sayfa incelenip indekslendi:
+  **1009 soru** (`kaynaklar/Ankara/`). Her soru için sayfa ve soru no, test adı (Konu Testi · Geçiş Testi ·
+  Beceri Temelli Test), konu, varsa ikinci konu, beceri ve 1–5 zorluk var. Soru metni, görsel ve cevap anahtarı yok.
+- Beyin, Fenomen 8A/8B ile birlikte Ankara kitabından da benzer soru önerir (ör. `Ankara s.83 S7`).
+  Basılı kitaplarda toplam 2923 soru indeksli.
+- Arayüzdeki kutunun adı **"📘 Basılı kitaplardan çöz"** oldu; PDF'teki liste **"Basılı Soru Bankalarından Ek
+  Sorular"** başlığıyla iki kitabı birlikte gösterir.
+- Elle arama: `python -m app.qbank fenomen --book Ankara ...` (`--book Fenomen` yalnızca 8A/8B).
+
+**Yapmanız gereken:** Sunucuyu yeniden başlatın. Yeni çalışmalarda Ankara önerileri kendiliğinden gelir.
+
+---
+
 ## 2.6.0 · 31 Ekim 2026 · Soru tipi seçimi (kolay / pekiştirme / zor)
 
 **Yeni**

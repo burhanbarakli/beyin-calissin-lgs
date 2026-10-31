@@ -212,13 +212,13 @@ class Writer:
             self.text(p, (M, y), f"{n}. {src}", 7.5, False, (0.3, 0.3, 0.3))
             y += 10.5
 
-    def ref_list(self, refs: list[dict], title="Fenomen Soru Bankasından Ek Sorular"):
+    def ref_list(self, refs: list[dict], title="Basılı Soru Bankalarından Ek Sorular"):
         """Basılı kitapta çözülecek sorular: yalnızca adres (kitap, sayfa, soru no), görsel yok."""
         self.new_page(divider=False)
         p = self.page
         self.text(p, (M, M + 18), title, 14, True)
-        self.text(p, (M, M + 34), "Bu soruları kendi Fenomen 8. Sınıf Matematik A / B kitabından bul ve çöz.",
-                  9, False, (0.35, 0.35, 0.35))
+        self.text(p, (M, M + 34), "Bu soruları kendi kitabından bul ve çöz: 8A / 8B = Fenomen 8. Sınıf Matematik A / B, "
+                  "Ankara = Ankara Güçlendiren Soru Bankası.", 9, False, (0.35, 0.35, 0.35))
         y, last = M + 56, None
         for r in refs:
             if y > A4.height - M - 14:
