@@ -82,6 +82,8 @@ yanlış fotoğraf ya da ayar seçtiyseniz beklemeden durdurup yeniden başlatab
   cevap (`*` = cevabı Claude çözdü, kontrol edin).
 - Karta tıklayınca seçilir / seçim kalkar. Beynin önerdikleri baştan seçili gelir.
   **Önerilenler / Tümü / Hiçbiri** grup için toplu seçer.
+- **✓ denetlendi:** İkinci uzman soruyu görselinden çözdü ve öğrencinin sorusuyla ilişkili buldu. Gerekçenin başındaki
+  `[doğrudan]` aynı kalıbı, `[hazırlayıcı]` öğrencinin kopan adımını çalıştıran soruyu gösterir.
 - **⤢** soruyu büyütür. **✕** soruyu bu ve sonraki çalışmalarda bir daha önermez (kesimi bozuk vb.).
 - **🧹 Çıkan sorulardan toplu kaldır:** Öğretici / Pekiştirme / Orta düzey / Zor-Zorlayıcı soruları tek tıkla
   listeden ve seçimden kaldırır. **↺ Kaldırılanları geri getir** geri alır.

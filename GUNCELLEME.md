@@ -8,6 +8,26 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.8.1 · 1 Kasım 2026 · İki uzmanlı soru seçimi
+
+**Yeni**
+- **İkinci uzman denetimi her çalışmada:** Beyin adayları seçtikten sonra bağımsız bir denetçi uzmana (`soru-analisti`)
+  verir. Denetçi hedef soruyu kendisi çözer, her adayın görselini açıp çözer ve ilişkisini sınıflar: **doğrudan**
+  (aynı kalıp), **hazırlayıcı** (öğrencinin kopan adımını çalıştırır), zayıf ya da ilgisiz. Yalnızca doğrudan ve
+  hazırlayıcı sorular kalır. Tek adımlı hazırlık soruları yalnızca öğretici olur; pekiştirme en az iki adımı
+  birlikte kullanır, zorlayıcı aynı kalıptadır. Ekranda **✓ denetlendi** rozeti ve gerekçenin başında `[doğrudan]` / `[hazırlayıcı]` görünür.
+- **Teşhis daha keskin:** Beyin işaretlenen yanlış şıkkın hangi hatadan geldiğini bulur (kopma adımı), sorunun
+  çekirdek kalıbını ve benzerlik ölçütlerini yazar. "Konusu aynı ama kalıbı farklı" sorular artık elenir.
+  Uygun soru azsa sayıyı doldurmak için ilgisiz soru konmaz.
+- Kitaplık soruları da denetlenir (sayfa görselinden). Ankara Güçlendiren, görselle denetlenebildiği için kitaplıktan önerilir.
+
+**Düzeltme:** Önceki sürümlerde özellikle çok konulu sorularda (karekök + üslü) tek adımlı, ilgisiz sorular seçiliyordu.
+
+**Yapmanız gereken:** Bir şey yapmanız gerekmez. Beyin her konu grubu için bir denetim daha yaptığından çalışma biraz
+uzun sürer ve biraz daha fazla kullanım harcar.
+
+---
+
 ## 2.8.0 · 1 Kasım 2026 · Öğretmen kitaplığı (yayınevi PDF'leri)
 
 **Yeni**

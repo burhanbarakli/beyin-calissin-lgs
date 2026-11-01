@@ -7,7 +7,7 @@ seçeceksin. Öğretmen/veli adaylar arasından seçip PDF yapacak.
 
 Soru UYDURMA. Sadece soru bankasındaki (`python -m app.qbank ...`) sorulardan `qid` seç.
 
-**Komut kuralı:** Bash'te yalnızca tek satırlık `python -m app.qbank ...` komutları çalıştır; değişken (`$x`),
+**Komut kuralı:** Bash'te yalnızca tek satırlık `python -m app.qbank ...` ve `python -m app.kitaplik ...` komutları çalıştır; değişken (`$x`),
 döngü, boru (`|`), `&&`, `;` kullanma (izinler bunlara kapalı, komut reddedilir). Birden çok qid'i tek komutta ver.
 Dosya okumak için Read, yazmak için Write kullan.
 
@@ -115,6 +115,17 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
      gerektiğini ayırt edemiyor", "kareköklü sayıyı a√b biçimine çeviremiyor").
    - `Yapamadı` → temel kavram eksik, **öğretici ağırlıklı**; `Yanlış` → işlem/yorum hatası,
      **pekiştirme ağırlıklı**.
+   - **Kopma adımı:** Öğrenci bir şık işaretlediyse o şıkka hangi hatanın götürdüğünü bul (ör. √(3^(2x−6)) = 9'da
+     kökü unutup 3^(2x−6) = 9 yazan x = 4 bulur). Seçimin merkezi bu adımdır.
+   - **Çekirdek kalıp ve benzerlik ölçütleri:** Sorunun kalıbını tek cümleyle yaz (ör. "kök içinde bilinmeyen üslü
+     ifade; taban eşitlenir, kökten çıkarken üs yarıya iner, üsler eşitlenir"). Sonra iki ölçüt yaz:
+     **doğrudan** (kalıbın kendisi) ve **hazırlayıcı** (kopma adımını ya da zincirin bir adımını tek başına çalıştırır).
+     Bunları `diagnosis[].pattern` ve `diagnosis[].criteria` alanlarına yaz. Aday seçerken ve denetimde bu ölçütler
+     kullanılır. Yalnızca konusu aynı olan soru (ör. kök içinde üs aranırken karekök tahmini ya da sıralama sorusu)
+     benzer **değildir**.
+   - **Rol kuralı:** Tek adımlı hazırlayıcı soru (ör. "√b = 4 ise b kaçtır?") yalnızca **öğretici** olabilir.
+     Pekiştirme sorusu ya doğrudan kalıpta olmalı ya da zincirin **en az iki adımını birlikte** kullanmalı.
+     Zorlayıcı soru doğrudan kalıpta olmalıdır (LGS/yeni nesil düzeyi). Öğretici en fazla 3 soru olsun.
    - Aynı beceriyi gösteren fotoğrafları tek grupta topla. En fazla `max_topics` grup.
 3. **Benzer soru ara.** Her grup için önce kazanımla, sonra beceri kelimeleriyle ara (yalnızca `roles`'taki tipler için):
    - Öğretici: `python -m app.qbank search --subject mat --topic "EBOB - EKOK Problemleri" --level 1 --limit 30`
@@ -127,7 +138,8 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    - Fotoğraftaki soruya **en çok benzeyen** soruları (aynı beceri, benzer bağlam ya da soru kalıbı) öne al.
 4. **Doğrula.** Metni boş/yetersiz ya da şekilli sorularda `python -m app.qbank show "<qid>" "<qid>"` ile PNG
    üret, Read ile bak. Kesimi bozuk, başka soruya bağlı ("Buna göre" ile başlayıp öncülü başka soruda olan) ya
-   da beceriyle ilgisiz soruları ele. Önerdiklerinin hepsine bak.
+   da beceriyle ilgisiz soruları ele. Önerdiklerinin hepsine bak. Ölçütlere uyan soru azsa **az seç**; sayıyı
+   doldurmak için zayıf ya da ilgisiz soru koyma.
 5. **Sırala.** Her grupta: öğretici (kolaydan zora) → pekiştirme → zorlayıcı. Her grupta en az bir
    **çalışma kâğıdı** alıştırması (kavramı öğretir) ve mümkünse bir **LGS çıkmış** ya da MEB kitabı/deneme sorusu olsun. Öğretmen seçsin
    diye hedef sayının **yaklaşık 1,5–2 katı** aday ver; varsayılan seçimini `recommended: true` ile işaretle.
@@ -161,6 +173,22 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    `difficulty_note`.
 7. **Cevap.** Seçtiğin 4 şıklı sorunun `answer` alanı boşsa (kazanım testleri) soruyu çöz ve `answer` +
    `"answer_source": "claude"` yaz (emin değilsen boş bırak). Çalışma kâğıdı alıştırmalarına cevap yazma.
+7b. **İkinci uzman denetimi (her zaman).** Adayları (soru bankası `items` + kitaplık `fenomen` girdileri) seçtikten
+   sonra, `candidates.json`'ı yazmadan önce, her grup için **soru-analisti** alt ajanına (Task/Agent aracı,
+   `subagent_type: "soru-analisti"`) bir `DENETİM` işi ver: hedef sorunun görsel yolu ve doğru cevabı, çekirdek
+   kalıp, kopma adımı, doğrudan/hazırlayıcı ölçütleri ve aday listesi (qid'ler; kitaplık için `kitap`, `sayfa`,
+   soru no). Ajan hedef soruyu kendisi çözer, her adayın görselini açıp çözer ve ilişkisini sınıflar. Ajan senin
+   gerekçelerini görmesin; yalnızca ölçütleri ve adayları ver. **Grupların hepsini tek mesajda, paralel çağır.**
+   - Denetçiye rol kuralını da ver (adım 2). Rol kuralına uymayan soruyu denetçi ya rolünü düşürür ya da reddeder.
+   - `karar: "onay"` olanları tut; `red` olanları çıkar. Ajanın önerdiği rol, zorluk ve cevabı kullan. Ajanın
+     cevabı seninkiyle çelişirse soruyu bir daha çöz; emin değilsen cevabı boş bırak.
+   - Kalan her adaya `"verified": true` ekle. `why`'ın başına ilişkiyi yaz: `[doğrudan] ...` ya da `[hazırlayıcı] ...`.
+   - Görseli olmayan basılı adresler (Fenomen 8A/8B, Ankara indeksi) denetlenemez. Bunları yalnızca beceri etiketi
+     ölçütle açıkça örtüşüyorsa tut, `verified` ekleme. Ankara Güçlendiren kitaplıkta PDF olarak da var; görselle
+     denetlenebilsin diye onu kitaplıktan (`kitap`, `sayfa` ile) önermeyi tercih et. Kitaplıktaki sayfa no basılı
+     kitapla aynıdır.
+   - Denetim sonucunda bir grupta soru kalmazsa en fazla bir kez yeni aday ara ve yine denetlet.
+   - `summary`'de denetimi bir cümleyle anlat: kaç aday, kaç onay, kaç red ve red nedeni.
 8. **Yaz.** Sonucu `<RUN_DIR>/candidates.json` dosyasına yaz (şema aşağıda). Son mesajında 3-5 cümlelik
    Türkçe özet ver.
 
@@ -171,9 +199,7 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 - **Teşhis (adım 2 yerine):** Fotoğrafları 2-4'lük gruplara böl, her grup için ajana `TEŞHİS` işi ver
   (görsel yolları + durumlar). **Tüm grupları tek mesajda, paralel çağır.** Dönen `kopma_noktasi`,
   `kok_neden`, `hata_turu`, `arama_terimleri` teşhisinin temelidir.
-- **Denetim (adım 4 yerine):** Her grup için adayları seçtikten sonra ajana `DENETİM` işi ver (hedef beceri +
-  qid'ler + roller). `uygun_degil` olanları çıkar, ajanın cevabını/zorluğunu kullan, denetlenenlere
-  `"verified": true` ekle.
+- **Denetim:** Adım 7b her modda zaten yapılır; derin analizde de grup başına 1 denetim çağrısı yeterlidir.
 - Ajan çağrılarını sınırlı tut: teşhis için en fazla 6, denetim için grup başına 1.
 
 ## Çıktı şeması (`candidates.json`)
@@ -187,6 +213,8 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
      "steps": ["eşit toplamın iki birimin ortak katı olduğunu görme", "EKOK'u bulma", "koşulu sağlayan en küçük kat"],
      "skill": "Problemde EBOB mu EKOK mu gerektiğini ayırt edemiyor",
      "evidence": ["foto 1 Yapamadı", "foto 3 Yanlış"], "priority": 1,
+     "pattern": "eşit toplam iki birimin ortak katı; kaydırma varsa ortak kattan geri git",
+     "criteria": {"dogrudan": "iki farklı birimle eşit toplam + en az/en çok", "hazirlayici": "ortak kat fikri tek başına"},
      "level_note": "Temel kavram eksik, öğretici ağırlıklı"}
   ],
   "groups": [
@@ -196,8 +224,8 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
       "why": "Kısa gerekçe",
       "source_images": ["ogrenci/.../foto1.jpeg"],
       "items": [
-        {"qid": "lgs_mat_8.03_calisma|p1|q2", "role": "hatirlatici", "why": "EBOB/EKOK ayrımını öğretir",
-         "recommended": true, "difficulty": 1, "difficulty_note": "alıştırma"},
+        {"qid": "lgs_mat_8.03_calisma|p1|q2", "role": "hatirlatici", "why": "[hazırlayıcı] EBOB/EKOK ayrımını öğretir",
+         "recommended": true, "difficulty": 1, "difficulty_note": "alıştırma", "verified": true},
         {"qid": "lgs_mat_8.03_test|p2|q9", "role": "pekistirme", "why": "...", "recommended": true,
          "difficulty": 3, "difficulty_note": "iki adım", "answer": "C", "answer_source": "claude"},
         {"qid": "lgs_mat_cikmis_2023|p4|q6", "role": "zorlayici", "why": "fotoğraftaki soruya en benzer LGS sorusu",
@@ -208,7 +236,7 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
         {"ref": "8B s.17 S1", "role": "pekistirme", "why": "eşit toplam için ortak kat"},
         {"ref": "Ankara s.22 S10", "role": "zorlayici", "why": "hep aynı sayı eksik, kaydırılmış ortak kat"},
         {"ref": "Nartest Mod Serisi Soru Bankası 2023 s.45 S3", "kitap": "03_nartest_mod_serisi_8_sinif_matematik_soru_bankasi_2023",
-         "sayfa": 45, "role": "pekistirme", "why": "eşit toplam, ortak kat (kitaplık PDF'i)"}
+         "sayfa": 45, "role": "pekistirme", "why": "[doğrudan] eşit toplam, ortak kat (kitaplık PDF'i)", "verified": true}
       ]
     }
   ]
