@@ -3,6 +3,7 @@
 Tek akış: soru fotoğraflarını yükle → Beyin Çalışsın → aday soruları seç → PDF.
 """
 import json
+import re
 import shutil
 import sys
 import threading
@@ -141,6 +142,34 @@ def kitaplik_sayfa(kitap: str, sayfa: int):
     return FileResponse(p, media_type="image/png", headers={"Cache-Control": "max-age=86400"})
 
 
+@app.get("/api/kitaplik/soru")
+def kitaplik_soru(kitap: str, sayfa: int, soru: int):
+    """Kitaplıktaki bir sorunun kırpılmış görseli; kırpılamazsa sayfanın tamamı."""
+    from . import kitaplik
+    if not any(r["kitap"] == kitap for r in kitaplik.load()) or not 0 < sayfa < 2000 or not 0 < soru <= 40:
+        raise HTTPException(404)
+    try:
+        p = kitaplik.soru_png(kitap, sayfa, soru) or kitaplik.sayfa_png(kitap, sayfa, dpi=130)
+    except (SystemExit, IndexError, ValueError, RuntimeError) as e:
+        raise HTTPException(404) from e
+    return FileResponse(p, media_type="image/png", headers={"Cache-Control": "max-age=86400"})
+
+
+def kitap_baglantisi(f: dict) -> dict:
+    """Kitap önerisini PDF'e bağlar: basılı adres ('8A s.20 S10') → kitaplık kimliği + PDF sayfası; soru no
+    adresin sonundaki 'S<no>'dan. Görsel yoksa olduğu gibi döner."""
+    from . import fenomen
+    if not f.get("kitap"):
+        q = fenomen.bul(f.get("ref", ""))
+        if q and q.get("pdf_kitap"):
+            f = {**f, "kitap": q["pdf_kitap"], "sayfa": q["pdf_sayfa"], "soru": q["soru"]}
+    if f.get("kitap") and not f.get("soru"):
+        m = re.search(r"S(\d+)\s*$", f.get("ref", ""))
+        if m:
+            f = {**f, "soru": int(m.group(1))}
+    return f
+
+
 # ------------------------------------------------------------------ beyin
 class BrainReq(BaseModel):
     images: list[dict]            # [{"path", "status"}]
@@ -263,6 +292,7 @@ def job_candidates(rid: str):
                 it["bank_answer"] = overrides.get(it["qid"]) or q.get("answer", "")
                 it["kind"] = q["book"]["kind_name"]
                 it["diff"] = qbank.difficulty(q["book"], q, stores)
+        g["fenomen"] = [kitap_baglantisi(f) for f in g.get("fenomen", [])]
     return data
 
 
@@ -326,7 +356,7 @@ def make_pdf(req: PdfReq):
     try:
         wrong = [{"path": str(_resolve(p)), "caption": f"Soru {i}"} for i, p in enumerate(req.wrong_images, 1)]
         out = pdfgen.build(req.items, req.title, config.get()["student_name"], req.title, wrong,
-                           book_refs=req.fenomen)
+                           book_refs=[kitap_baglantisi(f) for f in req.fenomen])
     finally:
         qbank.get_question = orig
     used = _json(USED_FILE, [])

@@ -6,6 +6,11 @@ Kaynaklar (Claude'un kitapları sayfa sayfa inceleyerek yazdığı etiketler):
   kaynaklar/Fenomen/fenomen_8_mat_2026.tsv, kaynaklar/Ankara/ankara_8_mat_gsb_2025.tsv
 
 8A ve Ankara sayfaları basılı sayfa numarasıdır. 8B ünite başına sayfalanır: "2-9" = 2. ünite, 9. sayfa.
+
+Öğretmen kitaplığında bu kitapların PDF'leri de varsa (data/kitaplik, yalnızca bu bilgisayarda) her soru PDF
+sayfasına bağlanır: `pdf_kitap`, `pdf_sayfa`. Böylece soru görseli gösterilebilir ve denetlenebilir. İçerik
+1 Kasım 2026'da sayfa sayfa karşılaştırıldı: 8A ve Ankara'da PDF sayfası = basılı sayfa; 8B PDF'i kesintisiz
+sayfalanmıştır (ünite başlangıçları PDF s.1, 79, 125, 163, 221, 259).
 """
 from __future__ import annotations
 
@@ -21,6 +26,10 @@ TSVS = [_KAYNAK / "Fenomen" / "fenomen_8_mat_2026.tsv", _KAYNAK / "Ankara" / "an
 BOOKS = {"8A": "2026 Fenomen 8. Sınıf Matematik A Soru Bankası",
          "8B": "2026 Fenomen 8. Sınıf Matematik B Soru Bankası",
          "Ankara": "2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren Soru Bankası"}
+# kitap kodu → (kitaplık kimliği, {ünite: PDF sayfası kayması})
+PDFS = {"8A": ("fenomen8a2024", {"1": 0}),
+        "8B": ("fenomen8b2024", {"1": 0, "2": 78, "3": 124, "4": 162, "5": 220, "6": 258}),
+        "Ankara": ("ankara_yayincilik_8_sinif_matematik_guclendiren_soru_bankasi", {"1": 0})}
 # Fenomen türleri kısa kodla; Ankara'da tür sütunu test adıdır (Konu Testi / Geçiş Testi / Beceri Temelli Test)
 TYPES = {"K": "Kazanım", "I": "Kalıplaşmış İkiz", "Y": "Yeni Nesil"}
 
@@ -90,11 +99,21 @@ def load() -> list[dict]:
                     "konu": TOPICS.get(r["konu"], r["konu"]),
                     "ek_konu": r["ek_konu"], "beceri": r["beceri"], "zorluk": int(r["zorluk"] or 0),
                 })
+    from .kitaplik import OCR_DIR
     for q in out:
         q["ref"] = ref(q)
+        bid, kay = PDFS.get(q["kitap"], (None, {}))
+        unit, p = q["sayfa"].split("-", 1) if "-" in q["sayfa"] else ("1", q["sayfa"])
+        if bid and unit in kay and (OCR_DIR / f"{bid}.json").exists():
+            q["pdf_kitap"], q["pdf_sayfa"] = bid, int(p) + kay[unit]
         if q["ek_konu"]:
             q["ek_konu"] = _full_topic(q["ek_konu"], q["konu"])
     return out
+
+
+def bul(ref_: str) -> dict | None:
+    """'8B Ünite 2 s.9 S1' / '8A s.20 S10' adresinden indeks kaydı."""
+    return next((q for q in load() if q["ref"] == ref_.strip()), None)
 
 
 def _full_topic(name: str, main: str) -> str:

@@ -213,15 +213,28 @@ class Writer:
             y += 10.5
 
     def ref_list(self, refs: list[dict], title="Kitaplardan Ek Sorular"):
-        """Kitaptan çözülecek sorular: yalnızca adres (kitap, sayfa, soru no), görsel yok."""
+        """Kitaptan çözülecek sorular: adres (kitap, sayfa, soru no) ve PDF'i öğretmen kitaplığında olanların
+        kırpılmış soru görseli (kitap, sayfa, soru alanları; kırpılamazsa yalnızca adres)."""
+        from . import kitaplik
         self.new_page(divider=False)
         p = self.page
         self.text(p, (M, M + 18), title, 14, True)
-        self.text(p, (M, M + 34), "Bu soruları kitabından bul ve çöz: 8A / 8B = Fenomen 8. Sınıf Matematik A / B, "
+        self.text(p, (M, M + 34), "Soruları burada ya da kitabında çöz: 8A / 8B = Fenomen 8. Sınıf Matematik A / B, "
                   "Ankara = Ankara Güçlendiren; diğerlerinde s. = PDF sayfası.", 9, False, (0.35, 0.35, 0.35))
         y, last = M + 56, None
         for r in refs:
-            if y > A4.height - M - 14:
+            img, h = None, 0
+            if r.get("kitap") and r.get("sayfa") and r.get("soru"):
+                try:
+                    img = kitaplik.soru_png(r["kitap"], int(r["sayfa"]), int(r["soru"]))
+                except Exception:  # noqa: BLE001
+                    img = None
+            if img:
+                pix = pymupdf.Pixmap(str(img))
+                w = min(A4.width - 2 * M - 22, pix.width * 72 / 150)      # kırpım 150 dpi
+                h = min(pix.height * w / pix.width, A4.height - 2 * M - 60)
+                w = pix.width * h / pix.height
+            if y + 26 + h > A4.height - M:     # adres ve görseli aynı sayfada kalsın
                 self.new_page(divider=False)
                 p, y = self.page, M + 20
             if r.get("group") and r["group"] != last:
@@ -239,6 +252,11 @@ class Writer:
             else:
                 self.text(p, (M + 130, y), self.fit(line, 9, A4.width - 2 * M - 130), 9, False, (0.3, 0.3, 0.3))
             y += 14
+            if img:
+                rect = pymupdf.Rect(M + 22, y - 4, M + 22 + w, y - 4 + h)
+                p.insert_image(rect, filename=str(img))
+                p.draw_rect(rect, color=(0.8, 0.8, 0.8), width=0.5)
+                y += h + 18
 
     def save(self, path: Path):
         self.doc.subset_fonts()

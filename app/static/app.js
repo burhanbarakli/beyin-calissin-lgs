@@ -213,11 +213,14 @@ async function loadCandidates(id, scroll = false) {
   syncCards(); saveBasket();
   if (scroll) $("#candidates").scrollIntoView({ behavior: "smooth" });
 }
-// Basılı kitap soruları (Fenomen 8A/8B, Ankara): görseli yok, öğrenci kitaptan sayfa/soru no ile bulur; PDF'in sonuna liste olarak eklenir
+// Kitap soruları (Fenomen 8A/8B, Ankara, öğretmen kitaplığı): PDF'i kitaplıkta olanların soru görseli gösterilir
+// (sunucu basılı adresi PDF sayfasına bağlar); öğrenci basılı kitapta da sayfa/soru no ile bulur. PDF'in sonuna eklenir.
+const kitapQs = (f) => `kitap=${encodeURIComponent(f.kitap)}&sayfa=${encodeURIComponent(f.sayfa)}`;
 const fenomenHtml = (g) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Kitaplardan çöz</b>
-  <span class="muted small">(8A/8B = Fenomen · Ankara = Güçlendiren · diğerleri öğretmen kitaplığı, s. = PDF sayfası; "aç" sayfayı gösterir)</span>
-  <ul>${g.fenomen.map((f) => `<li><span class="ref">${esc(f.ref)}</span>${f.kitap && f.sayfa ? ` <a class="chip" target="_blank" title="Kitaplıktaki sayfayı aç" href="/api/kitaplik/sayfa?kitap=${encodeURIComponent(f.kitap)}&sayfa=${encodeURIComponent(f.sayfa)}">aç</a>` : ""} <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span>${f.verified ? ' <span class="badge ver" title="Denetçi uzman bu soruyu görselinden çözdü ve uygun buldu">✓ denetlendi</span>' : ""}
-    <span class="muted">${esc(f.why || "")}</span></li>`).join("")}</ul></div>`;
+  <span class="muted small">(8A/8B = Fenomen · Ankara = Güçlendiren: basılı kitaptaki sayfa/soru no · diğerleri öğretmen kitaplığı, s. = PDF sayfası; "sayfa" sayfanın tamamını açar)</span>
+  <ul>${g.fenomen.map((f) => `<li><span class="ref">${esc(f.ref)}</span>${f.kitap && f.sayfa ? ` <a class="chip" target="_blank" title="Kitaplıktaki sayfanın tamamını aç" href="/api/kitaplik/sayfa?${kitapQs(f)}">sayfa</a>` : ""} <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span>${f.verified ? ' <span class="badge ver" title="Denetçi uzman bu soruyu görselinden çözdü ve uygun buldu">✓ denetlendi</span>' : ""}
+    <span class="muted">${esc(f.why || "")}</span>${f.kitap && f.sayfa && f.soru ? `
+    <a class="kitap-soru" target="_blank" title="Büyütmek için tıklayın" href="/api/kitaplik/soru?${kitapQs(f)}&soru=${f.soru}"><img loading="lazy" alt="${esc(f.ref)}" src="/api/kitaplik/soru?${kitapQs(f)}&soru=${f.soru}"></a>` : ""}</li>`).join("")}</ul></div>`;
 const fenomenRefs = () => (S.cand?.groups || []).flatMap((g) => (g.fenomen || []).map((f) => ({ ...f, group: g.title })));
 const basketItem = (it, g, gi) => ({ qid: it.qid, role: it.role, group: g?.title || "", gi, answer: it.answer || "",
   source_images: g?.source_images || [] });

@@ -79,7 +79,8 @@ adımları izle. Soru bankası komutları için: `python -m app.qbank --help`. K
   `key` (ayrı yerde duran cevap anahtarı `{"1": "C"}`), `ignore_rects` (kırpıma girmesin diye sayfa süsleri)
 - `kaynaklar/Fenomen/fenomen_8_mat_2026.tsv` + `app/fenomen.py` — öğrencinin basılı Fenomen 8A/8B soru bankalarının
   sayfa/soru no indeksi (konu, tür, beceri, zorluk; soru metni ve görsel yok). `python -m app.qbank fenomen`;
-  beyin gruplara `fenomen` önerisi ekler, arayüz ve PDF listeler. Güncellemede bu klasörü de kopyala.
+  beyin gruplara `fenomen` önerisi ekler, arayüz ve PDF listeler. Kitapların PDF'i öğretmen kitaplığında varsa
+  (`PDFS` sözlüğü; 8B'de ünite kayması) her soru PDF sayfasına bağlanır ve görseli `kitaplik.soru_png` ile kırpılır. Güncellemede bu klasörü de kopyala.
 - `kaynaklar/Ankara/ankara_8_mat_gsb_2025.tsv` — aynı biçimde Ankara Yayıncılık 2025 8. Sınıf Matematik Güçlendiren
   Soru Bankası indeksi (1009 soru, kitap kodu `Ankara`). `app/fenomen.py` iki kitap setini birlikte okur;
   `qbank fenomen --book Ankara`. Güncellemede bu klasörü de kopyala.

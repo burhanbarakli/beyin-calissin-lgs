@@ -35,9 +35,10 @@ sınıflandırma bulunur.
 | 2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren Soru Bankası | `Ankara` | 1009 | `kaynaklar/Ankara/ankara_8_mat_gsb_2025.tsv` |
 
 - **Ne var:** sayfa ve soru no, tür (Fenomen: Kazanım / Kalıplaşmış İkiz / Yeni Nesil; Ankara: test adı), konu, ek konu, Claude'un kısa beceri etiketi, 1–5 zorluk.
-- **Ne yok:** soru metni, soru görseli, cevap anahtarı. Kitapların hiçbir sayfası kopyalanmadı ya da kaydedilmedi.
+- **Ne yok (depoda):** soru metni, soru görseli, cevap anahtarı. İndeks yalnızca adrestir.
 - **Nasıl üretildi:** Kitaplar 30–31 Ekim 2026'da kullanıcının lisanslı uygulamasında, Claude'un bilgisayar kontrolüyle sayfa sayfa incelendi. Aktivasyon kodlarını kullanıcı kendisi girdi.
-- **Nasıl kullanılır:** Beyin her konu grubuna 3–6 basılı kitap sorusu önerir. Bunlar ekranda **📘 Kitaplardan çöz** kutusunda, PDF'te de **Kitaplardan Ek Sorular** listesinde görünür. Öğrenci soruyu kendi kitabından bulup çözer.
+- **Nasıl kullanılır:** Beyin her konu grubuna basılı kitap soruları önerir. Bunlar ekranda **📘 Kitaplardan çöz** kutusunda, PDF'te de **Kitaplardan Ek Sorular** listesinde görünür. Öğrenci soruyu kendi kitabından da bulabilir.
+- **Görseller (2.9.0, yalnızca bu bilgisayarda):** Üç kitabın PDF'i öğretmen kitaplığında da var (`FENOMEN8A2024.pdf`, `FENOMEN8B2024.pdf`, `ANKARA YAYINCILIK ... GÜÇLENDİREN SORU BANKASI.pdf`). 1 Kasım 2026'da sayfa sayfa karşılaştırıldı: içerik basılı kitapla aynı. 8A ve Ankara'da PDF sayfası = basılı sayfa; 8B PDF'i kesintisiz sayfalanmış (ünite başları PDF s.1, 79, 125, 163, 221, 259). `app/fenomen.py` her soruyu PDF sayfasına bağlar; görsel kitaplık PDF'inden o anda kırpılır ve önbellekte (`data/cache/`) durur. Görseller GitHub'a gitmez.
 - **Ekran görüntüleri:** Analiz için alınan birkaç sorunun görüntüsü yalnızca bu bilgisayarda, depo dışındaki `tuna beyin/fenomen-ekran/<tarih>/` klasöründe durur. Bunlar GitHub'a ve soru bankasına konmaz.
 
 ## 2b. Öğretmen kitaplığı: yayınevlerinin öğretmene verdiği PDF'ler (yalnızca bu bilgisayarda)
@@ -49,11 +50,12 @@ Ankara ve diğerleri). Kullanıcının beyanına göre bu kitaplar öğretmen ol
 
 - **Yer:** `tuna beyin/soru bankaları/`, depo dışında. Başka yer için `config.json` → `kitaplik_dir`.
 - **İndeks:** Sayfalar Tesseract OCR (Türkçe) ile okunur. Her soruya anahtar kelime ve sayfa başlığından otomatik konu verilir. Kayıtlar `data/kitaplik/` altına yazılır: OCR metni ve soru-konu indeksi. Bu klasör `.gitignore`'dadır.
-- **Durum (1 Kasım 2026):** 163 PDF, 29.081 sayfa okundu. 23.208 sayfaya konu verildi: 23.166 soru tek tek, 9.096 kayıt sayfa düzeyinde (toplam 32.262 kayıt). 2.441 soruda ikinci bir konu (ek konu) var. Tüm dersler kitaplarındaki Türkçe, Fen, İnkılap, Din ve İngilizce sayfaları ile içindekiler sayfaları elendi.
+- **Durum (1 Kasım 2026):** 164 PDF okundu (2.9.0'da adı neredeyse aynı olduğu için atlanmış Newton Kondisyon kitabı eklendi; 32.567 kayıt). İlk tarama: 163 PDF, 29.081 sayfa. 23.208 sayfaya konu verildi: 23.166 soru tek tek, 9.096 kayıt sayfa düzeyinde (toplam 32.262 kayıt). 2.441 soruda ikinci bir konu (ek konu) var. Tüm dersler kitaplarındaki Türkçe, Fen, İnkılap, Din ve İngilizce sayfaları ile içindekiler sayfaları elendi.
 - **İçerik teyidi:** Yayınevlerinden rastgele seçilen sorular okunup kontrol edildi. Bulunan hatalar düzeltildi: "karekök" içindeki "ekok", sayfa altındaki "8. Sınıf" yazısı, Fen grafik soruları. Konular OCR'a dayalı **tahmindir**. Beyin bu yüzden soruyu önermeden önce sayfa görselini açıp kendisi kontrol eder.
-- **Kullanım:** Beyin uygun konudaki sayfaları bulur, görselini açıp soruyu kendisi kontrol eder, 2-4 soru önerir. Adres biçimi: `<Kitap> s.<PDF sayfası> S<soru no>`. Ekrandaki **aç** bağlantısı sayfayı gösterir.
+- **Kullanım:** Beyin uygun konudaki soruları kalıbı ayırt eden kelimelerle en az 3 aramada bulur, görselini açıp kendisi kontrol eder, 2-4 soru önerir. Adres biçimi: `<Kitap> s.<PDF sayfası> S<soru no>`. Ekranda ve PDF'te sorunun kırpılmış görseli çıkar; **sayfa** bağlantısı sayfanın tamamını gösterir.
+- **Soru kırpma:** Soru numarası birkaç Tesseract okumasıyla (gri sayfa, renkli pikseller, sütun başı şeritleri) bulunur; kırpım numaradan başlar, aynı sütundaki sonraki soruda ya da büyük boşlukta biter. Numarası okunamayan sorularda sayfanın tamamı gösterilir.
 - **GitHub'a gitmeyenler:** PDF'ler, OCR metni, sayfa görselleri ve kitaplık indeksi. Yalnızca kod (`app/kitaplik.py`) gider.
-- **Komutlar:** `python -m app.kitaplik tara` (OCR; yeni PDF eklenince yalnızca yenileri okur), `siniflandir` (konu indeksi), `ozet`, `ara`, `sayfa`. Gerekenler: Tesseract OCR (`C:\Program Files\Tesseract-OCR`) ve `tuna beyin/tessdata/tur.traineddata`.
+- **Komutlar:** `python -m app.kitaplik tara` (OCR; yeni PDF eklenince yalnızca yenileri okur), `siniflandir` (konu indeksi), `ozet`, `ara`, `sayfa`, `soru` (sorunun kırpılmış görseli). Gerekenler: Tesseract OCR (`C:\Program Files\Tesseract-OCR`) ve `tuna beyin/tessdata/tur.traineddata`.
 
 ## 3. Öğrenci verisi
 

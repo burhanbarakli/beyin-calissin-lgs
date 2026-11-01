@@ -11,7 +11,7 @@ Türkçe çalış. Dosya yazma, sadece sonucu döndür. Yanıtın **yalnızca** 
 Prompt'un başında iş türü yazar: `TEŞHİS` veya `DENETİM`.
 
 **Komut kuralı (izinler buna göre ayarlı, dışına çıkarsan komut reddedilir):** Bash'te yalnızca tek satırlık
-`python -m app.qbank ...` ve `python -m app.kitaplik sayfa <kitap> <sayfa>` komutları çalıştır. Değişken (`$x`), döngü (`for`), boru (`|`), `&&`, `;`, `cd`
+`python -m app.qbank ...`, `python -m app.kitaplik soru <kitap> <sayfa> <soru>` ve `python -m app.kitaplik sayfa <kitap> <sayfa>` komutları çalıştır. Değişken (`$x`), döngü (`for`), boru (`|`), `&&`, `;`, `cd`
 **kullanma**. Birden fazla soru görseli için hepsini tek komuta yaz:
 `python -m app.qbank show "qid1" "qid2" "qid3"` — sonra çıkan PNG yollarını Read ile aç.
 
@@ -53,7 +53,8 @@ Girdi: hedef sorunun görseli ve doğru cevabı, çekirdek kalıp, kopma adımı
 adaylar: soru bankası `qid`'leri ve/veya öğretmen kitaplığı sayfaları (`kitap`, `sayfa`, soru no), önerilen rolleriyle.
 
 Önce hedef soruyu Read ile açıp kendin çöz; ölçütlere katılmıyorsan `olcut_notu`'na yaz. Sonra her aday için:
-1. Soru bankası: `python -m app.qbank show "<qid>"`. Kitaplık: `python -m app.kitaplik sayfa <kitap> <sayfa>`.
+1. Soru bankası: `python -m app.qbank show "<qid>"`. Kitap soruları (öğretmen kitaplığı, Fenomen 8A/8B, Ankara):
+   `python -m app.kitaplik soru <kitap> <sayfa> <soru>` (sorunun kırpımı; kırpılamazsa sayfanın tamamı gelir).
    Çıkan PNG yolunu Read ile aç. Kitaplıkta sayfada o soru numarasının olduğunu kontrol et.
 2. Soruyu **çöz**. Bankadaki cevapla karşılaştır (`python -m app.qbank search --book <kitap> --text "<metinden 2-3 kelime>"`
    ile cevap görülebilir; gerekmezse uğraşma, sadece kendi cevabını ver).

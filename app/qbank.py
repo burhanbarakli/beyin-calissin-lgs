@@ -531,7 +531,9 @@ def main(argv=None):
             print("Eşleşen basılı kitap sorusu yok; terimleri genişletin (--topic tek kelime, --text'i kaldırın).")
         for q in rows:
             print(f"{q['ref']:22} | {q['tur']:16} | zorluk={q['zorluk']} | {q['konu'][:45]}"
-                  f"{' | ek konu: ' + q['ek_konu'] if q['ek_konu'] else ''}\n    beceri: {q['beceri']}")
+                  f"{' | ek konu: ' + q['ek_konu'] if q['ek_konu'] else ''}\n    beceri: {q['beceri']}"
+                  + (f"\n    görsel: python -m app.kitaplik soru {q['pdf_kitap']} {q['pdf_sayfa']} {q['soru']}"
+                     f"  (kitap={q['pdf_kitap']}, sayfa={q['pdf_sayfa']})" if q.get("pdf_kitap") else ""))
     elif a.cmd == "history":
         res = load_store("results")
         agg = {}

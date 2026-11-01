@@ -26,8 +26,8 @@ Tek ekran, dört adım: **fotoğrafı yükle → Beyin Çalışsın → sorular�
 
 Soru bankası hazır gelir; indeksleme gerekmez: kerimhoca.com LGS matematik kaynakları, MEB LGS Çalışma Kitabı ve
 12 MEBİ deneme (toplam 1679 soru). Ayrıca öğrencinin elindeki basılı kitapların (Fenomen 8A/8B ve Ankara Güçlendiren
-Soru Bankası, toplam 2923 soru) sayfa ve soru numarası indeksi vardır. Bu kitapların soruları sistemde değildir,
-beyin yalnızca adreslerini önerir. Hangi verinin nerede tutulduğu: [Kaynaklar ve veri kullanımı](KAYNAKLAR_VE_VERI.md).
+Soru Bankası, toplam 2923 soru) sayfa ve soru numarası indeksi vardır. Bu kitapların PDF'leri öğretmen kitaplığında
+da olduğu için beyin önerdiği soruyu görselinden seçer; ekranda ve PDF'te sorunun görseli çıkar. Hangi verinin nerede tutulduğu: [Kaynaklar ve veri kullanımı](KAYNAKLAR_VE_VERI.md).
 
 ---
 
@@ -62,7 +62,8 @@ Fotoğraflar `ogrenci/Sorular/<tarih>/` klasörüne kaydedilir. iPhone'da fotoğ
    **Pekiştirme** (kazanım testi, konu tarama, MEB kitabı, denemeler) → **Zorlayıcı** (LGS çıkmış sorular ve
    zor MEB/deneme soruları).
 4. Cevap anahtarı olmayan test sorularını kendisi çözer.
-5. Basılı kitaplardan (Fenomen 8A/8B, Ankara) her konu için 3-6 benzer sorunun sayfa ve soru numarasını önerir.
+5. Basılı kitaplardan (Fenomen 8A/8B, Ankara) ve öğretmen kitaplığından her konu için benzer sorular önerir;
+   soruların görselini açıp okuyarak seçer.
 
 Beyin soruyu öğrencinin o tarihe kadar öğrendiği konularla sınıflandırır (ör. 1. dönemde eşit toplam / en az
 problemleri denklem değil EKOK sorusudur). Birden çok konuyu birlikte kullanan sorularda (ör. karekök + üslü)
@@ -87,10 +88,11 @@ yanlış fotoğraf ya da ayar seçtiyseniz beklemeden durdurup yeniden başlatab
 - **⤢** soruyu büyütür. **✕** soruyu bu ve sonraki çalışmalarda bir daha önermez (kesimi bozuk vb.).
 - **🧹 Çıkan sorulardan toplu kaldır:** Öğretici / Pekiştirme / Orta düzey / Zor-Zorlayıcı soruları tek tıkla
   listeden ve seçimden kaldırır. **↺ Kaldırılanları geri getir** geri alır.
-- **📘 Kitaplardan çöz:** Her grubun altında kitap, sayfa ve soru numarası listesi (ör. `Ankara s.83 S7`,
-  `8A s.21 S2`, `Nartest Mod-a Soru Bankası 2023 s.6 S3`). Öğretmen kitaplığından gelen soruların yanındaki **aç**
-  bağlantısı o PDF sayfasını gösterir. Fenomen ve Ankara'da s. basılı sayfa no'su, diğerlerinde PDF sayfasıdır.
-  Bu sorular PDF'te de liste olarak yer alır.
+- **📘 Kitaplardan çöz:** Her grubun altında kitap, sayfa ve soru numarası (ör. `Ankara s.83 S7`,
+  `8B Ünite 2 s.20 S5`, `Nartest Mod-a Soru Bankası 2023 s.6 S3`) ve altında **sorunun görseli**. Görsele tıklayınca
+  büyür; **sayfa** bağlantısı sayfanın tamamını açar. Fenomen ve Ankara'da adres öğrencinin basılı kitabındaki
+  sayfa ve soru no'sudur; diğerlerinde s. = PDF sayfası. Soru numarası okunamayan nadir sayfalarda görsel yerine
+  sayfanın tamamı gösterilir.
 
 ## 4. PDF
 
@@ -99,7 +101,8 @@ Alttaki çubukta başlığı yazın, **📄 PDF Oluştur**'a basın. PDF yeni se
 - (İsteğe bağlı) başta **"Hatırla: Yapamadığın sorular"**: öğrencinin fotoğrafları.
 - Konu konu **Öğretici → Pekiştirme → Zorlayıcı** bölümleri. Sorular kaynak PDF'ten vektör olarak
   alınır, bulanıklaşmaz.
-- Cevap anahtarından önce **Kitaplardan Ek Sorular**: kitaptan çözülecek soruların işaretlenebilir listesi.
+- Cevap anahtarından önce **Kitaplardan Ek Sorular**: kitap sorularının adresi ve görseli. Öğrenci soruyu
+  kâğıtta ya da kendi kitabında çözer.
 - Sonda **cevap anahtarı** ve kaynak listesi (çalışma kâğıdı alıştırmaları açık uçludur: "—").
 
 PDF'e konan sorular sonraki çalışmalarda tekrar önerilmez.

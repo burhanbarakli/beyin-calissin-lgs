@@ -145,28 +145,48 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
    diye hedef sayının **yaklaşık 1,5–2 katı** aday ver; varsayılan seçimini `recommended: true` ile işaretle.
 5b. **Basılı kitaplardan ek sorular.** Öğrencinin elinde iki basılı soru bankası seti var:
    *2026 Fenomen 8. Sınıf Matematik A ve B* (`8A`, `8B`) ve *2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren
-   Soru Bankası* (`Ankara`). Bu kitapların soruları bankada yok (şifreli uygulama), ama her sorunun kitap/sayfa/soru
-   no, konu, tür, kısa beceri etiketi ve zorluğu indekslidir. Fenomen türleri: Kazanım · Kalıplaşmış İkiz · Yeni Nesil.
+   Soru Bankası* (`Ankara`). Her sorunun kitap/sayfa/soru no, konu, tür, kısa beceri etiketi ve zorluğu
+   indekslidir. Üç kitabın PDF'i öğretmen kitaplığında da var ve içerik basılı kitapla aynıdır: `qbank fenomen`
+   çıktısında her sorunun altında `görsel: python -m app.kitaplik soru <kitap_id> <pdf_sayfa> <soru>` satırı çıkar. Fenomen türleri: Kazanım · Kalıplaşmış İkiz · Yeni Nesil.
    Ankara türleri test adıdır: Konu Testi (temel-orta) · Geçiş Testi (orta-zor, yeni nesil) · Beceri Temelli Test (zor).
    Her grup için `python -m app.qbank fenomen --topic "ebob - ekok problemleri" --text "eşit,en az,ortak kat"` gibi
    arayıp **3-6 soru** seç ve gruba `fenomen` listesi ekle (yalnızca `roles`'taki tiplerde). İki kitap setinden de
    uygun olanları karıştır (`--book Fenomen` / `--book Ankara` ile ayrı ayrı da arayabilirsin). Teşhisteki kopan
    adımı çalıştıranları öne al; öğretici için Kazanım / Konu Testi (zorluk 1-3), pekiştirme/zorlayıcı için İkiz,
    Yeni Nesil, Geçiş ve Beceri Temelli testler (3-5). Çok konulu sorularda `--topic-all "karekök,üslü"` kullan.
-   Görsel yok: yalnızca beceri etiketine göre seç, adresi aynen kopyala, uydurma.
+   **Görselle seç:** beceri etiketine göre aday çıkar, sonra her adayın `görsel:` komutunu çalıştırıp çıkan PNG'yi
+   Read ile aç ve soruyu oku (kırpılamadıysa sayfanın tamamı gelir; soruyu sayfada numarasından bul). Kalıba
+   uymayanı ele. `fenomen` girdisine basılı adresi (`ref`, ör. "8B Ünite 2 s.20 S5", çıktıdaki gibi aynen) ve
+   görsel alanlarını yaz: `{"ref": "8A s.20 S8", "kitap": "fenomen8a2024", "sayfa": 20, "soru": 8, ...}`
+   (`sayfa` = PDF sayfası, çıktıdaki `sayfa=` değeri; 8B'de basılı sayfadan farklıdır). `görsel:` satırı yoksa
+   adresi yalnızca beceri etiketine göre seç ve görsel alanı yazma.
    1. dönemde 2. dönem konularından (denklem, eğim, üçgen…) seçme.
 5c. **Öğretmen kitaplığından ek sorular (PDF).** Bu bilgisayarda yayınevlerinin öğretmene verdiği ~160 PDF soru
    bankası ve deneme var (Nartest, Ata, Bilfen, Mozaik, Newton, Paraf, VIP, Karekök, Muba, Netbil, Okyanus, Ulti,
    Fenomen, Ankara…). Sayfaları OCR ile okunup her soruya otomatik konu verildi; bu konu **tahmindir**, soruyu
-   görmeden önerme. Her grup için:
-   - Ara: `python -m app.kitaplik ara --topic "ebob - ekok problemleri" --text "eşit,en az" --limit 12`
-     (`--topic` konu adında, `--text` sayfanın OCR metninde arar; `--topic-all "karekök,üslü"` çok konulu sorular
-     için; `--book nartest` tek yayınevi). Çıktının ilk sütunu adrestir: `<Kitap adı> s.<PDF sayfası> S<soru no>`.
-   - Bak: en uygun **en fazla 5 sayfayı** `python -m app.kitaplik sayfa <kitap_id> <sayfa>` ile PNG yap, Read ile aç.
-     Soruyu oku; teşhisteki kopan adımı gerçekten çalıştırıyor mu, konusu doğru mu, kesim tam mı kontrol et.
+   görmeden önerme. Bu adım **zorunludur** ve kitaplık büyüktür (ör. yalnız EBOB-EKOK problemlerinde 300'den fazla
+   soru); öğretmen kitaplıktan soru görmek istiyor. Her grup için şu kontrol listesini **eksiksiz** uygula:
+   - Komut: `python -m app.kitaplik ara --topic "<konu>" --text "<kelime1>,<kelime2>,..." --limit 25`
+     (`--topic` konu adında, `--text` OCR metninde arar: sorunun kendi metnindeki eşleşme öne çıkar;
+     `--topic-all "karekök,üslü"` çok konulu sorular için; `--book nartest` tek yayınevi). Çıktının ilk sütunu
+     adrestir: `<Kitap adı> s.<PDF sayfası> S<soru no>`; altındaki `öz (OCR)` satırı sorunun başıdır.
+   - **En az 3 ayrı arama**, her biri kalıbın başka bir yüzüyle. Genel kelimeler ("eşit", "en az") tek başına işe
+     yaramaz, her sayfada geçer. Örnek (birer banknot değiş tokuşlu eşit toplam sorusu):
+     1. Bağlam: `--text "banknot,para,lira"` (hedef sorudaki nesneler: otobüs, zil, fayans, bilye…)
+     2. Kopma adımı: `--text "artiyor,eksik,kaliyor,fazla"` (öğrencinin kaçırdığı işlemi anlatan kelimeler;
+        kök/üs sorusunda "kök,üs,kuvvet" gibi)
+     3. Sorulan şey + koşul: `--text "en az,toplam,den fazla"`
+   - Öz satırlarını tara ve kalıba en çok benzeyen **en az 6 sayfayı** (en fazla 10)
+     `python -m app.kitaplik sayfa <kitap_id> <sayfa>` ile PNG yap, Read ile aç. Soruyu oku; teşhisteki kopan adımı
+     gerçekten çalıştırıyor mu, konusu doğru mu, kesim tam mı kontrol et. OCR bozuk olabilir: öz kısa ya da
+     anlamsızsa sayfaya yine de bak. Bağlamı farklı ama kopma adımı aynı soru (ör. banknot yerine merdiven ya da
+     boncukla "her seferinde 1 artıyor") **hazırlayıcı** olarak uygundur.
+   - `summary`'de kitaplık için kaç arama yaptığını, kaç sayfaya baktığını ve kaç soru seçtiğini yaz.
    - Seç: uygun **2-4 soru**yu gruba `fenomen` listesine ekle: `{"ref": "<adres>", "kitap": "<kitap_id>",
-     "sayfa": <sayfa>, "role": "...", "why": "..."}`. Soru numarasını sayfada gördüğün gibi yaz (OCR yanlış
-     okumuş olabilir). Yalnızca `roles`'taki tipler; 1. dönemde 2. dönem konusu yok.
+     "sayfa": <sayfa>, "soru": <no>, "role": "...", "why": "..."}`. Soru numarasını sayfada gördüğün gibi yaz (OCR
+     yanlış okumuş olabilir). Ekranda ve PDF'te sorunun kırpılmış görseli gösterilir; kırpımı görmek için
+     `python -m app.kitaplik soru <kitap_id> <sayfa> <soru>`. Fenomen 8A/8B ve Ankara Güçlendiren'i burada önerme;
+     onlar adım 5b'de basılı adresleriyle önerilir (öğrenci kitabında da bulur). Yalnızca `roles`'taki tipler; 1. dönemde 2. dönem konusu yok.
    - Kitaplık PDF'lerinin metnini ya da görselini `candidates.json` dışında bir yere yazma.
 6. **Zorluk.** Her adaya `difficulty` (1-5) ver: 1 = tek adımlı tanım/hatırlatma, 2 = temel uygulama,
    3 = ortalama LGS sorusu, 4 = çok adımlı/yorum gerektiren, 5 = LGS'nin en zor soruları. Kısa gerekçe:
@@ -176,17 +196,15 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
 7b. **İkinci uzman denetimi (her zaman).** Adayları (soru bankası `items` + kitaplık `fenomen` girdileri) seçtikten
    sonra, `candidates.json`'ı yazmadan önce, her grup için **soru-analisti** alt ajanına (Task/Agent aracı,
    `subagent_type: "soru-analisti"`) bir `DENETİM` işi ver: hedef sorunun görsel yolu ve doğru cevabı, çekirdek
-   kalıp, kopma adımı, doğrudan/hazırlayıcı ölçütleri ve aday listesi (qid'ler; kitaplık için `kitap`, `sayfa`,
-   soru no). Ajan hedef soruyu kendisi çözer, her adayın görselini açıp çözer ve ilişkisini sınıflar. Ajan senin
+   kalıp, kopma adımı, doğrudan/hazırlayıcı ölçütleri ve aday listesi (qid'ler; kitap soruları için `kitap`,
+   `sayfa`, `soru`). Ajan hedef soruyu kendisi çözer, her adayın görselini açıp çözer ve ilişkisini sınıflar. Ajan senin
    gerekçelerini görmesin; yalnızca ölçütleri ve adayları ver. **Grupların hepsini tek mesajda, paralel çağır.**
    - Denetçiye rol kuralını da ver (adım 2). Rol kuralına uymayan soruyu denetçi ya rolünü düşürür ya da reddeder.
    - `karar: "onay"` olanları tut; `red` olanları çıkar. Ajanın önerdiği rol, zorluk ve cevabı kullan. Ajanın
      cevabı seninkiyle çelişirse soruyu bir daha çöz; emin değilsen cevabı boş bırak.
    - Kalan her adaya `"verified": true` ekle. `why`'ın başına ilişkiyi yaz: `[doğrudan] ...` ya da `[hazırlayıcı] ...`.
-   - Görseli olmayan basılı adresler (Fenomen 8A/8B, Ankara indeksi) denetlenemez. Bunları yalnızca beceri etiketi
-     ölçütle açıkça örtüşüyorsa tut, `verified` ekleme. Ankara Güçlendiren kitaplıkta PDF olarak da var; görselle
-     denetlenebilsin diye onu kitaplıktan (`kitap`, `sayfa` ile) önermeyi tercih et. Kitaplıktaki sayfa no basılı
-     kitapla aynıdır.
+   - Fenomen 8A/8B ve Ankara soruları da görselleriyle (`kitap`, `sayfa`, `soru`) denetlenir. Görsel alanı olmayan
+     bir basılı adres denetlenemez: onu yalnızca beceri etiketi ölçütle açıkça örtüşüyorsa tut, `verified` ekleme.
    - Denetim sonucunda bir grupta soru kalmazsa en fazla bir kez yeni aday ara ve yine denetlet.
    - `summary`'de denetimi bir cümleyle anlat: kaç aday, kaç onay, kaç red ve red nedeni.
 8. **Yaz.** Sonucu `<RUN_DIR>/candidates.json` dosyasına yaz (şema aşağıda). Son mesajında 3-5 cümlelik
@@ -232,11 +250,14 @@ Görev dosyası: `<RUN_DIR>/task.json` (yolu prompt'ta verilir). İçinde:
          "recommended": true, "difficulty": 4, "difficulty_note": "yeni nesil, tablo okuma"}
       ],
       "fenomen": [
-        {"ref": "8A s.21 S2", "role": "hatirlatici", "why": "eşit uzunluk, ...den fazla, en az (EKOK)"},
-        {"ref": "8B s.17 S1", "role": "pekistirme", "why": "eşit toplam için ortak kat"},
-        {"ref": "Ankara s.22 S10", "role": "zorlayici", "why": "hep aynı sayı eksik, kaydırılmış ortak kat"},
+        {"ref": "8A s.21 S2", "kitap": "fenomen8a2024", "sayfa": 21, "soru": 2, "role": "hatirlatici",
+         "why": "[hazırlayıcı] eşit uzunluk, ...den fazla, en az (EKOK)", "verified": true},
+        {"ref": "8B s.17 S1", "kitap": "fenomen8b2024", "sayfa": 17, "soru": 1, "role": "pekistirme",
+         "why": "[doğrudan] eşit toplam için ortak kat", "verified": true},
+        {"ref": "Ankara s.22 S10", "kitap": "ankara_yayincilik_8_sinif_matematik_guclendiren_soru_bankasi", "sayfa": 22,
+         "soru": 10, "role": "zorlayici", "why": "[hazırlayıcı] hep aynı sayı eksik, kaydırılmış ortak kat", "verified": true},
         {"ref": "Nartest Mod Serisi Soru Bankası 2023 s.45 S3", "kitap": "03_nartest_mod_serisi_8_sinif_matematik_soru_bankasi_2023",
-         "sayfa": 45, "role": "pekistirme", "why": "[doğrudan] eşit toplam, ortak kat (kitaplık PDF'i)", "verified": true}
+         "sayfa": 45, "soru": 3, "role": "pekistirme", "why": "[doğrudan] eşit toplam, ortak kat (kitaplık PDF'i)", "verified": true}
       ]
     }
   ]

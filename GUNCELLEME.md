@@ -8,6 +8,32 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.9.0 · 1 Kasım 2026 · Kitap sorularının görseli, kitaplık araması düzeltmesi
+
+**Yeni**
+- **Kitap soruları artık görselli:** Ekrandaki **📘 Kitaplardan çöz** kutusunda ve PDF'teki **Kitaplardan Ek Sorular**
+  bölümünde her sorunun kırpılmış görseli çıkar (tıklayınca büyür; **sayfa** bağlantısı sayfanın tamamını açar).
+- **Fenomen 8A/8B ve Ankara Güçlendiren PDF'leri bağlandı:** Öğretmen kitaplığındaki PDF'lerin basılı kitapla aynı
+  olduğu sayfa sayfa doğrulandı. Basılı kitap indeksindeki 2.923 sorunun hepsi PDF sayfasına bağlandı. Beyin bu
+  soruları da görselinden seçer ve ikinci uzman görselinden denetler (**✓ denetlendi**). Adres, öğrencinin basılı
+  kitabındaki sayfa ve soru no'su olarak kalır. Eski çalışmalardaki adresler de ekranda görsele bağlanır.
+- `python -m app.kitaplik soru <kitap> <sayfa> <soru>`: sorunun kırpılmış görseli.
+
+**Düzeltmeler**
+- Beyin öğretmen kitaplığından (yayınevi PDF'leri) neredeyse hiç soru önermiyordu. Arama, kelimeleri sorunun kendi
+  metninde değil sayfanın tamamında arıyordu; "eşit", "en az" gibi kelimeler her sayfada geçtiği için sonuçlar
+  rastgele sıralanıyor, beyin birkaç sayfaya bakıp vazgeçiyordu.
+- Artık sorunun kendi metnindeki eşleşme öne çıkar ve her sonucun altında sorunun ilk satırı görünür. Beyin kalıbı
+  ayırt eden kelimelerle (ör. banknot, otobüs, kök) en az 3 arama yapar, 6-10 sayfaya bakar; bulamazsa kaç sayfaya
+  baktığını özette yazar.
+- Klasördeki iki Newton Kondisyon kitabından ("Kondisyon+" ve "Kondisyon") ikincisi, adı neredeyse aynı olduğu için
+  okunmamıştı. Okundu; kitaplıkta 164 kitap var.
+
+**Yapmanız gereken:** `python -m pip install numpy` (soru kırpma için; `baslat.bat` eksik paketi kendisi kurar).
+Bir soru görseli ilk açılışta birkaç saniye sürer, sonra önbellekten gelir.
+
+---
+
 ## 2.8.1 · 1 Kasım 2026 · İki uzmanlı soru seçimi
 
 **Yeni**

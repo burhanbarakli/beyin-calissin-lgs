@@ -15,7 +15,7 @@ if not defined PY (
 )
 
 rem Paketler eksikse kur
-"%PY%" -c "import pymupdf, fastapi, uvicorn, multipart" >nul 2>nul || "%PY%" -m pip install -r requirements.txt
+"%PY%" -c "import pymupdf, fastapi, uvicorn, multipart, numpy" >nul 2>nul || "%PY%" -m pip install -r requirements.txt
 
 rem Ayar dosyasi yoksa ornekten olustur
 if not exist config.json copy config.example.json config.json >nul
