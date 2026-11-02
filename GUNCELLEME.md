@@ -8,6 +8,44 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.10.0 · 1 Kasım 2026 · Üç kaynaktan tek havuz, en yakın sorular
+
+**Yeni**
+- **Tek havuz:** Beyin her soru için üç kaynağın hepsinde arar: soru bankası, öğrencinin basılı kitapları
+  (Fenomen 8A/8B, Ankara) ve öğretmen kitaplığı (164 PDF, 40'tan fazla yayınevi). Bulduğu her adayın görselini açar ve
+  hedef soruya yakınlık puanı verir (**uyum 1-5**: 5 aynı kalıp ve aynı kopma adımı, 4 aynı kalıp farklı bağlam,
+  3 kopma adımını çalıştırır, 2 tek adım). Önerilenler **kaynağına bakılmadan** en yüksek uyumlu sorulardır.
+- **Soru sayısı seçimi üç kaynağa birlikte uygulanır:** Az / Normal / Çok, grup başına öğretici-pekiştirme-zorlayıcı
+  sayısını belirler (Az 2-2-1, Normal 3-3-2, Çok 4-5-3). Beyin bu kadarını önerir, yarısı kadar da yedek getirir.
+- **Kitap soruları da seçilebilir:** **📘 Kitaplardan çöz** listesinde her sorunun yanında seçim kutusu var; önerilenler
+  işaretli gelir, PDF'e yalnızca işaretliler girer. Önerilenler/Tümü/Hiçbiri düğmeleri kitap sorularını da seçer.
+  Seçilen sorular yalnızca kitaplardan olsa da PDF oluşturulur.
+- Her soruda **uyum x/5** rozeti; denetçi uzman da kendi uyum puanını verir, düşük olanı kullanılır.
+- **Zorluk seviyesi üç kaynakta aynı: Kolay / Pekiştirme / Zor.** Ekrandaki **Soru tipi** seçimi (Kolay = öğretici,
+  Pekiştirme, Zor = zorlayıcı) her kaynakta o seviyedeki sorularla aranır (`--seviye`).
+  - *Öğretmen kitaplığı:* 32.000'den fazla kaydın her birine Claude soru metninden 1-5 zorluk verdi (1-2 kolay,
+    3 pekiştirme, 4-5 zor). Yöntem, zorluğu elle etiketlenmiş Fenomen/Ankara sorularıyla seçildi: Claude Sonnet
+    3 seviyede %73 doğru, %98'inde en fazla bir basamak fark (sayfa başlığı kuralları yalnızca %8-49 tutturdu).
+    Yayınevlerinin zorluk anlayışı farklı olduğu için seviye kitabın adına göre değil sorunun kendisine göre verilir.
+  - *Soru bankası:* puanı olmayan 333 kazanım testi sorusu da aynı ölçekle puanlandı; artık bankanın tamamında zorluk var.
+  - *Basılı kitaplar:* elle verilmiş zorluk (1-5) aynı üç seviyeye çevrilir.
+  - Beyin seviyeyi ön eleme olarak kullanır, sorunun görselini açınca son kararı kendisi verir.
+
+**Düzeltmeler**
+- Kitaplık araması sonuçları yayınevlerine yayar; beyin çoğunlukla Fenomen/Ankara öneriyordu (2.9.1).
+- Soru kırpma: iki sütunlu sayfada tam genişlikteki soru yarım kalıyordu; "2. ÜNİTE" gibi başlıklar soru numarası
+  sanılabiliyordu. İkisi de düzeltildi.
+- Beyin öğretmen kitaplığındaki 164 kitaptan çoğunlukla Fenomen ve Ankara sorularını öneriyordu. Veri tarafında sorun
+  yoktu (ör. EBOB-EKOK problemlerinde Nartest 153, Mozaik 82, Newton 68, Ata 52, Netbil 47 soru); beyin görsel bakma
+  hakkının çoğunu öğrencinin basılı Fenomen/Ankara kitaplarına harcıyordu.
+- Kitaplık araması sonuçları yayınevlerine yayar (kitap başına 2, yayınevi başına 4) ve öğrencinin basılı kitaplarının
+  PDF'lerini burada tekrar göstermez. Beyin kitaplıktan en az 4 yayınevinden en az 8 soruya görselinden bakar,
+  mümkünse 3 farklı yayınevinden aday alır.
+
+**Yapmanız gereken:** Bir şey yapmanız gerekmez.
+
+---
+
 ## 2.9.0 · 1 Kasım 2026 · Kitap sorularının görseli, kitaplık araması düzeltmesi
 
 **Yeni**

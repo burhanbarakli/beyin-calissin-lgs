@@ -27,8 +27,12 @@ const when = (iso) => (iso || "").replace("T", " ").slice(0, 16);
 const S = { state: null, photos: store.get("photos", []), job: null, running: false, since: 0, poll: null, cand: null, runId: "",
   runImages: [], basket: new Map(), hidden: new Map() };
 const savePhotos = () => { store.set("photos", S.photos); renderPhotos(); };
-function loadBasket() { const b = store.get("basket:" + S.runId, null); S.basket = new Map((b || []).map((x) => [x.qid, x])); return b !== null; }
-const saveBasket = () => { store.set("basket:" + S.runId, [...S.basket.values()]); renderBar(); };
+function loadBasket() {
+  const b = store.get("basket:" + S.runId, null); S.basket = new Map((b || []).map((x) => [x.qid, x]));
+  const k = store.get("kitap:" + S.runId, null); S.kitap = new Set(k || []);
+  return b !== null;
+}
+const saveBasket = () => { store.set("basket:" + S.runId, [...S.basket.values()]); store.set("kitap:" + S.runId, [...S.kitap]); renderBar(); };
 
 // ------------------------------------------------------------------ durum + ayarlar
 async function loadState() {
@@ -193,11 +197,12 @@ async function loadCandidates(id, scroll = false) {
   (c.groups || []).forEach((g, gi) => {
     const items = (g.items || []).filter((it) => it.found).sort((a, b) => (ROLE_ORDER[a.role] ?? 9) - (ROLE_ORDER[b.role] ?? 9));
     if (fresh) items.filter((it) => it.recommended && !S.hidden.has(it.qid)).forEach((it) => S.basket.set(it.qid, basketItem(it, g, gi)));
+    if (fresh) (g.fenomen || []).forEach((f, i) => { if (f.recommended !== false) S.kitap.add(`${gi}:${i}`); });
     const el = document.createElement("div"); el.className = "group";
     el.innerHTML = `<div class="group-head"><div><h3>${esc(g.title)}</h3><div class="muted">${esc(g.why || "")}</div>
       <div class="row gap" style="margin-top:6px"><button class="chip" data-a="rec">Önerilenler</button><button class="chip" data-a="all">Tümü</button><button class="chip" data-a="none">Hiçbiri</button></div></div>
       <div class="src-imgs">${(g.source_images || []).map((p) => `<img src="${fileUrl(p)}" title="Öğrencinin yapamadığı soru">`).join("")}</div></div>
-      <div class="cards">${items.map(cardHtml).join("")}</div>${fenomenHtml(g)}`;
+      <div class="cards">${items.map(cardHtml).join("")}</div>${fenomenHtml(g, gi)}`;
     $("#groups").appendChild(el);
     el._items = items; el._g = g; el._gi = gi;
     $$("[data-a]", el).forEach((b) => (b.onclick = () => {
@@ -205,10 +210,15 @@ async function loadCandidates(id, scroll = false) {
         const on = !S.hidden.has(it.qid) && (b.dataset.a === "all" || (b.dataset.a === "rec" && it.recommended));
         on ? S.basket.set(it.qid, basketItem(it, g, gi)) : S.basket.delete(it.qid);
       });
+      (g.fenomen || []).forEach((f, i) => {
+        const on = b.dataset.a === "all" || (b.dataset.a === "rec" && f.recommended !== false);
+        on ? S.kitap.add(`${gi}:${i}`) : S.kitap.delete(`${gi}:${i}`);
+      });
       syncCards(); saveBasket();
     }));
     $$(".src-imgs img", el).forEach((i) => (i.onclick = () => modal(`<img src="${i.src}">`)));
     $$(".card", el).forEach((card) => card.addEventListener("click", (e) => onCard(e, card, el)));
+    $$("input.ksec", el).forEach((cb) => (cb.onchange = () => { cb.checked ? S.kitap.add(cb.dataset.k) : S.kitap.delete(cb.dataset.k); saveBasket(); }));
   });
   syncCards(); saveBasket();
   if (scroll) $("#candidates").scrollIntoView({ behavior: "smooth" });
@@ -216,12 +226,15 @@ async function loadCandidates(id, scroll = false) {
 // Kitap soruları (Fenomen 8A/8B, Ankara, öğretmen kitaplığı): PDF'i kitaplıkta olanların soru görseli gösterilir
 // (sunucu basılı adresi PDF sayfasına bağlar); öğrenci basılı kitapta da sayfa/soru no ile bulur. PDF'in sonuna eklenir.
 const kitapQs = (f) => `kitap=${encodeURIComponent(f.kitap)}&sayfa=${encodeURIComponent(f.sayfa)}`;
-const fenomenHtml = (g) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Kitaplardan çöz</b>
-  <span class="muted small">(8A/8B = Fenomen · Ankara = Güçlendiren: basılı kitaptaki sayfa/soru no · diğerleri öğretmen kitaplığı, s. = PDF sayfası; "sayfa" sayfanın tamamını açar)</span>
-  <ul>${g.fenomen.map((f) => `<li><span class="ref">${esc(f.ref)}</span>${f.kitap && f.sayfa ? ` <a class="chip" target="_blank" title="Kitaplıktaki sayfanın tamamını aç" href="/api/kitaplik/sayfa?${kitapQs(f)}">sayfa</a>` : ""} <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span>${f.verified ? ' <span class="badge ver" title="Denetçi uzman bu soruyu görselinden çözdü ve uygun buldu">✓ denetlendi</span>' : ""}
+// uyum: beynin "hedef soruya ne kadar yakın" puanı (5 = aynı kalıp ve kopma adımı … 2 = zincirin tek adımı)
+const matchBadge = (x) => x.match ? `<span class="badge match m${x.match}" title="Hedef soruya yakınlık (beyin): 5 aynı kalıp · 4 aynı kalıp, farklı bağlam · 3 kopma adımını çalıştırır · 2 tek adım">uyum ${x.match}/5</span>` : "";
+const fenomenHtml = (g, gi) => !(g.fenomen || []).length ? "" : `<div class="fenomen"><b>📘 Kitaplardan çöz</b>
+  <span class="muted small">(işaretliler PDF'e girer · 8A/8B = Fenomen · Ankara = Güçlendiren: basılı kitaptaki sayfa/soru no · diğerleri öğretmen kitaplığı, s. = PDF sayfası; "sayfa" sayfanın tamamını açar)</span>
+  <ul>${g.fenomen.map((f, i) => `<li><label><input type="checkbox" class="ksec" data-k="${gi}:${i}"${S.kitap.has(`${gi}:${i}`) ? " checked" : ""}> <span class="ref">${esc(f.ref)}</span></label>${f.kitap && f.sayfa ? ` <a class="chip" target="_blank" title="Kitaplıktaki sayfanın tamamını aç" href="/api/kitaplik/sayfa?${kitapQs(f)}">sayfa</a>` : ""} <span class="role ${esc(f.role || "")}">${ROLE[f.role] || ""}</span> ${matchBadge(f)}${f.verified ? ' <span class="badge ver" title="Denetçi uzman bu soruyu görselinden çözdü ve uygun buldu">✓ denetlendi</span>' : ""}
     <span class="muted">${esc(f.why || "")}</span>${f.kitap && f.sayfa && f.soru ? `
     <a class="kitap-soru" target="_blank" title="Büyütmek için tıklayın" href="/api/kitaplik/soru?${kitapQs(f)}&soru=${f.soru}"><img loading="lazy" alt="${esc(f.ref)}" src="/api/kitaplik/soru?${kitapQs(f)}&soru=${f.soru}"></a>` : ""}</li>`).join("")}</ul></div>`;
-const fenomenRefs = () => (S.cand?.groups || []).flatMap((g) => (g.fenomen || []).map((f) => ({ ...f, group: g.title })));
+const fenomenRefs = () => (S.cand?.groups || []).flatMap((g, gi) => (g.fenomen || [])
+  .map((f, i) => ({ ...f, group: g.title, _k: `${gi}:${i}` })).filter((f) => S.kitap.has(f._k)));
 const basketItem = (it, g, gi) => ({ qid: it.qid, role: it.role, group: g?.title || "", gi, answer: it.answer || "",
   source_images: g?.source_images || [] });
 
@@ -261,6 +274,7 @@ function cardHtml(it) {
     <div class="body"><div class="top-line"><span class="role ${it.role}">${ROLE[it.role] || it.role}</span>
       <span class="kind">${esc(it.kind || "")}</span>
       ${d ? `<span class="diff ${lvl}" title="${esc(it.difficulty_note || "")}">Zorluk ${d.value}/5</span>` : ""}
+      ${matchBadge(it)}
       ${it.verified ? '<span class="badge ver" title="Soru analisti bu soruyu çözdü ve uygun buldu">✓ denetlendi</span>' : ""}
       <span class="sel">☐</span></div>
       ${it.why ? `<div class="why">${esc(it.why)}</div>` : ""}
@@ -289,11 +303,12 @@ function syncCards() {
 
 // ------------------------------------------------------------------ 4 · PDF
 function renderBar() {
-  $("#pdfBar").classList.toggle("hidden", !S.basket.size);
-  $("#bCount").textContent = S.basket.size;
-  document.body.classList.toggle("has-bar", S.basket.size > 0);
+  const n = S.basket.size + (S.kitap ? S.kitap.size : 0);   // kitap soruları da sayılır
+  $("#pdfBar").classList.toggle("hidden", !n);
+  $("#bCount").textContent = n;
+  document.body.classList.toggle("has-bar", n > 0);
 }
-$("#bClear").onclick = () => { S.basket.clear(); syncCards(); saveBasket(); };
+$("#bClear").onclick = () => { S.basket.clear(); S.kitap?.clear(); $$("input.ksec").forEach((cb) => (cb.checked = false)); syncCards(); saveBasket(); };
 $("#makePdf").onclick = async () => {
   // konu grubu → öğretici → pekiştirme → zorlayıcı sırası
   const items = [...S.basket.values()].filter((x) => !S.hidden.has(x.qid)).map((x, i) => ({ ...x, _i: i }))

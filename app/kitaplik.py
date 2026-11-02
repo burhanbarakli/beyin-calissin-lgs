@@ -324,12 +324,173 @@ def siniflandir(log=print) -> list[dict]:
     INDEX.write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
     load.cache_clear()
     log(f"{len(rows)} soru/sayfa kaydı, {len({r['kitap'] for r in rows})} kitap")
+    seviyelendir(log)
     return rows
 
 
 @lru_cache(maxsize=1)
 def load() -> list[dict]:
-    return json.loads(INDEX.read_text(encoding="utf-8")) if INDEX.exists() else []
+    rows = json.loads(INDEX.read_text(encoding="utf-8")) if INDEX.exists() else []
+    sev = json.loads(SEVIYE.read_text(encoding="utf-8")) if SEVIYE.exists() else {}
+    for r in rows:
+        r["seviye"], r["seviye_kaynak"] = sev.get(f"{r['kitap']}|{r['sayfa']}|{r['soru']}", ("karma", "yok"))
+    return rows
+
+
+# ------------------------------------------------------------------ zorluk seviyesi (kolay / pekiştirme / zor)
+# Yayınevleri soruları bölüm bölüm dizer ve bölüm başlığı zorluğu belirler. Elle etiketli Fenomen/Ankara'da (2.923 soru,
+# 1-5) ortalamalar: Kazanım 2,4 · Konu Testi 2,3 · Kalıplaşmış İkiz 3,6 · Yeni Nesil 3,8 · Geçiş Testi 3,9 ·
+# Beceri Temelli 4,7. Sıra: 1) öğrencinin basılı kitaplarında elle etiket, 2) sayfa başlığı (bölüm bitene kadar sonraki
+# sayfalara taşınır), 3) kitabın türü (adından), 4) bilinmiyorsa "karma" (beyin görselden karar verir).
+SEVIYE = DATA / "seviye.json"
+SEVIYELER = ("kolay", "pekistirme", "zor")
+BASLIK_SEVIYE = [   # (desen, seviye) — ilk eşleşen; sayfanın ilk satırlarında aranır
+    (r"beceri temelli|yeni nesil|rutin olmayan|(?<![a-z])zor(?![a-z])|ileri duzey|ustalas|zirve", "zor"),
+    (r"gecis testi|(?<![a-z])ikiz|kaliplasmis|(?<![a-z])orta(?: duzey| seviye)?(?![a-z])|pekistir|uygulama testi", "pekistirme"),
+    (r"kazanim|konu testi|(?<![a-z])temel(?![a-z])|baslangic|kavrama|ilk adim|(?<![a-z])kolay|yaprak test|alistirma|etkinlik",
+     "kolay"),
+]
+KITAP_SEVIYE = [    # kitap adından (başlık yoksa)
+    (r"beceri temelli|yeni nesil|rutin olmayan|son \d+ soru|gold|(?<![a-z])max(?![a-z])|(?<![a-z])iq(?![a-z])|zeka|"
+     r"kanguru|pisa|yarisma|elit|master|allstar|prestij(?! ilk)|efsane|sampiyon|metaword", "zor"),
+    (r"ilk adim|kazanim|yaprak test|calisma yapragi|konu anlatim|kok kalici|(?<![a-z])temel|intro|classmate|"
+     r"net ogrenme|yesil seri|yazili|konu takip|hadi", "kolay"),
+    (r"deneme|dnm|kamp|karma|tekrar|izleme|20 saatte|psf|foy|fasikul|referans|odev", "pekistirme"),
+]
+
+
+def _seviye_bul(pattern_list, text):
+    for pat, sev in pattern_list:
+        if re.search(pat, text):
+            return sev
+    return None
+
+
+ZORLUK = DATA / "zorluk.json"          # Claude'un OCR metninden verdiği 1-5 zorluk {"kitap|sayfa|soru": z}
+ZORLUK_RUBRIK = """Sen deneyimli bir LGS matematik öğretmenisin. Aşağıda yayınevi kitaplarından OCR ile okunmuş 8. sınıf
+matematik soruları var (OCR hatalı olabilir; bazen metne komşu sorudan parçalar karışır, asıl soruya odaklan).
+Her soruya LGS'ye göre 1-5 zorluk ver:
+1 = tek adımlı tanım/hatırlatma (ör. "56'nın çarpanı hangisi değildir")
+2 = temel uygulama, kazanım/konu testi düzeyi, kısa ve doğrudan
+3 = iki-üç adımlı, kalıplaşmış soru; kısa bir bağlam ya da tablo olabilir
+4 = yeni nesil: uzun bağlam, görsel/tablo yorumlama, çok adımlı akıl yürütme
+5 = LGS'nin en zor soruları, beceri temelli, birkaç kazanımı birlikte kullanan ve dikkat isteyen
+Kitap adı ve sayfa başlığı ipucu verir (ör. "Beceri Temelli", "Yeni Nesil" zor; "Kazanım", "Konu Testi" kolay),
+ama asıl soruya bak. "soru" alanı boşsa sayfanın tamamıdır: sayfadaki soruların genel zorluğunu ver.
+Yalnızca JSON dizi döndür, başka hiçbir şey yazma: [{"id": "...", "z": 3}, ...]
+"""
+
+
+def zorluk_etiketle(model: str = "sonnet", workers: int = 6, limit: int = 0, log=print) -> None:
+    """Kitaplık sorularının zorluğunu Claude'a OCR metninden puanlatır (60'lık gruplar, paralel). Kaldığı yerden
+    devam eder; sonuç data/kitaplik/zorluk.json. Fenomen/Ankara elle etiketiyle pilot (120 soru): sonnet 3 seviyede
+    %73 doğru, ±1 içinde %98 (haiku %57)."""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    from .fenomen import PDFS
+    claude = config.find_claude()
+    if not claude:
+        raise SystemExit("Claude Code bulunamadı")
+    basili = {bid for bid, _ in PDFS.values()}
+    done = json.loads(ZORLUK.read_text(encoding="utf-8")) if ZORLUK.exists() else {}
+    items, segc = [], {}
+    for r in load():
+        key = f"{r['kitap']}|{r['sayfa']}|{r['soru']}"
+        if key in done or r["kitap"] in basili:
+            continue
+        sk = (r["kitap"], r["sayfa"])
+        if sk not in segc:
+            t = _ocr_text(r["kitap"])[r["sayfa"] - 1]
+            segc[sk] = (" / ".join(x.strip() for x in t.splitlines()[:2])[:80], dict(_segments(t)[1]), t)
+        bas, segs, t = segc[sk]
+        s = segs.get(r["soru"]) if r["soru"] else None
+        items.append({"id": key, "kitap": r["ad"], "baslik": bas,
+                      "soru": " ".join((s or "").split())[:700], **({} if s else {"sayfa": " ".join(t.split())[:900]})})
+    if limit:
+        items = items[:limit]
+    log(f"{len(items)} kayıt puanlanacak ({len(done)} hazır), model {model}")
+    batches = [items[i:i + 60] for i in range(0, len(items), 60)]
+
+    def run(batch):
+        prompt = ZORLUK_RUBRIK + "\n" + json.dumps(batch, ensure_ascii=False)
+        flags = subprocess.CREATE_NO_WINDOW if os.name == "nt" else 0
+        for deneme in range(4):
+            if deneme:
+                time.sleep(60 * deneme)          # kullanım sınırı / geçici hata: bekleyip yeniden dene
+            try:
+                pr = subprocess.run([claude, "-p", "--model", model, "--output-format", "json", "--tools", "",
+                                     "--system-prompt", "Sen bir LGS matematik öğretmenisin. Yalnızca istenen JSON çıktıyı üret."],
+                                    input=prompt.encode("utf-8"), capture_output=True, timeout=900, creationflags=flags)
+                out = json.loads(pr.stdout.decode("utf-8"))
+                txt = out.get("result", "")
+                arr = json.loads(txt[txt.find("["):txt.rfind("]") + 1])
+                return {x["id"]: int(x["z"]) for x in arr if 1 <= int(x["z"]) <= 5}, out.get("total_cost_usd", 0)
+            except Exception as e:  # noqa: BLE001
+                hata[0] = f"{type(e).__name__}: {(pr.stdout or pr.stderr or b'').decode('utf-8', 'replace')[:200] if 'pr' in locals() else e}"
+                continue
+        return {}, 0
+
+    cost, n, hata = 0.0, 0, [""]
+    with ThreadPoolExecutor(workers) as ex:
+        for i, fut in enumerate(as_completed([ex.submit(run, b) for b in batches]), 1):
+            res, c = fut.result()
+            done.update(res)
+            cost += c
+            n += len(res)
+            if i % 5 == 0 or i == len(batches):
+                ZORLUK.write_text(json.dumps(done), encoding="utf-8")
+                log(f"[{i}/{len(batches)}] {n} puan, ${cost:.2f}" + (f" | son hata: {hata[0]}" if hata[0] else ""))
+    ZORLUK.write_text(json.dumps(done), encoding="utf-8")
+    seviyelendir(log)
+
+
+def seviyelendir(log=print) -> dict:
+    """Her kayda zorluk seviyesi verir → data/kitaplik/seviye.json {"kitap|sayfa|soru": [seviye, kaynak]}."""
+    from .fenomen import load as basili, PDFS
+    etiket = {}
+    for q in basili():
+        if q.get("pdf_kitap"):
+            z = q["zorluk"]
+            etiket[(q["pdf_kitap"], q["pdf_sayfa"], q["soru"])] = "kolay" if z <= 2 else "pekistirme" if z == 3 else "zor"
+    basili_id = {bid for bid, _ in PDFS.values()}
+    llm = json.loads(ZORLUK.read_text(encoding="utf-8")) if ZORLUK.exists() else {}
+    rows = json.loads(INDEX.read_text(encoding="utf-8")) if INDEX.exists() else []
+    by_book = {}
+    for r in rows:
+        by_book.setdefault(r["kitap"], []).append(r)
+    out, say = {}, Counter()
+    for bid, rs in by_book.items():
+        sayfalar = _ocr_text(bid)
+        kitap_sev = _seviye_bul(KITAP_SEVIYE, fold(rs[0]["ad"]))
+        bas, yas, bas_of = None, 99, {}
+        for i, txt in enumerate(sayfalar, 1):
+            ust = fold(" ".join(txt.splitlines()[:6]))
+            b = _seviye_bul(BASLIK_SEVIYE, ust)
+            if b:
+                bas, yas = b, 0
+            else:
+                yas += 1
+            bas_of[i] = bas if yas <= 6 else None   # bölüm başlığı en fazla 6 sayfa taşınır
+        for r in rs:
+            key = (bid, r["sayfa"], r["soru"])
+            z = llm.get(f"{bid}|{r['sayfa']}|{r['soru']}")
+            if bid in basili_id and key in etiket:
+                sev, kay = etiket[key], "etiket"
+            elif z:
+                sev, kay = ("kolay" if z <= 2 else "pekistirme" if z == 3 else "zor"), "claude"
+            elif bid in basili_id:
+                sev, kay = "karma", "yok"
+            elif bas_of.get(r["sayfa"]):
+                sev, kay = bas_of[r["sayfa"]], "baslik"
+            elif kitap_sev:
+                sev, kay = kitap_sev, "kitap"
+            else:
+                sev, kay = "karma", "yok"
+            out[f"{bid}|{r['sayfa']}|{r['soru']}"] = [sev, kay]
+            say[(sev, kay)] += 1
+    SEVIYE.write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")
+    load.cache_clear()
+    log(f"{len(out)} kayda seviye verildi: " + ", ".join(f"{s}/{k}={n}" for (s, k), n in sorted(say.items())))
+    return out
 
 
 @lru_cache(maxsize=64)
@@ -347,14 +508,28 @@ def _soru_text(r: dict) -> str:
     return dict(_segments(txt)[1]).get(r["soru"], txt) if r["soru"] else txt
 
 
-def ara(topic=None, text=None, book=None, limit=20, topic_all=None) -> list[dict]:
+def yayinevi(r: dict) -> str:
+    """Kitap adının ilk kelimesi: 'Nartest Mod Serisi ...' → 'nartest' (çeşitlilik sınırı için)."""
+    return re.split(r"[\s.]+", fold(r["ad"]).strip())[0]
+
+
+def ara(topic=None, text=None, book=None, limit=20, topic_all=None, hepsi=False, seviye=None) -> list[dict]:
     """topic: konu adında (VEYA); topic_all: hepsi; text: OCR metninde geçen kelimeler. Sorunun kendi metnindeki
-    eşleşme 3 puan, sayfanın geri kalanındaki 1 puan; çok eşleşen öne."""
+    eşleşme 3 puan, sayfanın geri kalanındaki 1 puan; çok eşleşen öne.
+    Öğrencinin basılı kitaplarının PDF'leri (Fenomen 8A/8B, Ankara Güçlendiren) `qbank fenomen` ile önerildiği için
+    burada çıkmaz (hepsi=True ya da --book ile çıkar). Sonuçlar yayınevlerine yayılır: kitap başına en fazla 2,
+    yayınevi başına en fazla 4 kayıt."""
+    from .fenomen import PDFS
+    basili = {bid for bid, _ in PDFS.values()}
     any_t, all_t, txt = _terms(topic), _terms(topic_all), _terms(text)
     res = []
     for r in load():
         if book and fold(book) not in r["kitap"] and fold(book) not in fold(r["ad"]):
             continue
+        if not book and not hepsi and r["kitap"] in basili:
+            continue
+        if seviye and r.get("seviye") not in (seviye, "karma"):
+            continue                           # "karma" (bilinmeyen) her seviyede çıkar, sona düşer
         hay = fold(r["konu"] + " | " + " ".join(r["ek_konu"]))
         if any_t and not any(t in hay for t in any_t):
             continue
@@ -371,13 +546,14 @@ def ara(topic=None, text=None, book=None, limit=20, topic_all=None) -> list[dict
             if not score:
                 continue
         res.append((score, r["guven"], r))
-    res.sort(key=lambda x: (-x[0], -x[1]))
-    # aynı kitaptan çok sayfa gelmesin: kitap başına en fazla 3 sayfa
-    out, per = [], Counter()
+    res.sort(key=lambda x: (-x[0], seviye is not None and x[2].get("seviye") == "karma", -x[1]))
+    # tek yayınevi sonuçları doldurmasın: kitap başına en fazla 2, yayınevi başına en fazla 4 (tek kitap aranırken yok)
+    out, per, pub = [], Counter(), Counter()
     for _, _, r in res:
-        if per[r["kitap"]] >= 3:
+        if not book and (per[r["kitap"]] >= 2 or pub[yayinevi(r)] >= 4):
             continue
         per[r["kitap"]] += 1
+        pub[yayinevi(r)] += 1
         out.append(r)
         if len(out) >= limit:
             break
@@ -457,6 +633,10 @@ def _sayfa_kelimeleri(bid: str, pno: int, dpi: int):
     boy = (dpi * 0.07, dpi * 0.3)
     nums = [(n, w) for n, w in nums if 0 < n <= 40 and boy[0] <= w[3] - w[1] <= boy[1] and H * 0.04 < w[1] < H * 0.93
             and (w[0] < W * 0.2 or W * 0.45 < w[0] < W * 0.62)]
+    # '2. ÜNİTE', '3. TEST', '7. HAFTA' gibi başlıklar soru numarası değildir
+    bas = re.compile(r"(?i)^(ünite|unite|test|hafta|bölüm|bolum|kazanım|sınıf|sinif)")
+    nums = [(n, w) for n, w in nums
+            if not any(abs(o[1] - w[1]) < dpi * 0.08 and 0 <= o[0] - w[2] < dpi * 0.35 and bas.match(o[4]) for o in ws)]
     tekil = []                         # [(no, kutu, kaç okuma buldu)]
     for n, w in sorted(nums, key=lambda x: x[1][1]):
         es = [i for i, (m, v, _) in enumerate(tekil)
@@ -483,8 +663,24 @@ def soru_kutusu(bid: str, pno: int, soru: int, dpi: int = 200):
     hit = [(c, w) for n, w, c in nums if n == soru and (iki or w[0] < W * 0.2)]
     if not hit:
         return None
-    t = min(hit, key=lambda x: (-x[0], x[1][0] > W * 0.4, x[1][1]))[1]   # en çok okumanın bulduğu
+    # soru numaraları sütunda alt alta hizalıdır: diğer numaralarla hizalı olan, sonra en çok okumanın bulduğu
+    def hiza(w):
+        xs = [v[0] for n, v, _ in nums if n != soru and (v[0] > W * 0.4) == (w[0] > W * 0.4)]
+        return min((abs(w[0] - x) for x in xs), default=0) > dpi * 0.1
+    t = min(hit, key=lambda x: (hiza(x[1]), -x[0], x[1][0] > W * 0.4, x[1][1]))[1]
     sag = iki and t[0] > W * 0.4
+    if iki and not sag:
+        # karma düzen: iki sütunlu sayfada tam genişlikte soru olabilir; sorunun ilk satırları ortayı geçiyorsa tek sütun
+        # sorunun ilk satırlarında ortayı sütun boşluğu olmadan geçen bir yazı satırı var mı
+        # (yalnızca gerçek kelimeler: sütun arasındaki noktalı çizgi ya da simge kelime sayılmasın)
+        harf = lambda w: sum(ch.isalpha() for ch in w[4]) >= 3
+        ilk = sorted((w for w in ws if t[1] - dpi * 0.05 <= w[1] <= t[1] + dpi * 0.6 and harf(w)),
+                     key=lambda w: (w[1], w[0]))
+        def komsu(w, sag_):
+            return any(abs(o[1] - w[1]) < dpi * 0.08 and 0 <= ((o[0] - w[2]) if sag_ else (w[0] - o[2])) < dpi * 0.12
+                       for o in ilk if o is not w)
+        if any(w[0] < W * 0.53 and w[2] > W * 0.47 and komsu(w, True) and komsu(w, False) for w in ilk):
+            iki = False
     x0, x1 = ((W * 0.5, W) if sag else (0, W * 0.5)) if iki else (0, W)
     # sınır yalnızca sonraki 1-3 numara (şekil/tablo içindeki rakamlar sınır sanılmasın)
     alt = [w[1] for n, w, _ in nums if soru < n <= soru + 3 and (not iki or (w[0] > W * 0.4) == sag) and w[1] > t[3] + dpi * 0.15
@@ -556,6 +752,12 @@ def main(argv=None):
         a_.add_argument(x)
     a_.add_argument("--topic-all", dest="topic_all")
     a_.add_argument("--limit", type=int, default=20)
+    a_.add_argument("--hepsi", action="store_true", help="öğrencinin basılı kitaplarının PDF'lerini de göster")
+    a_.add_argument("--seviye", choices=SEVIYELER, help="kolay (öğretici) / pekistirme / zor (zorlayıcı)")
+    sub.add_parser("seviyelendir", help="kayıtlara kolay/pekiştirme/zor seviyesi ver")
+    zo = sub.add_parser("zorluk", help="Claude kitaplık sorularının zorluğunu puanlasın (uzun sürer, kaldığı yerden devam)")
+    zo.add_argument("--model", default="sonnet"); zo.add_argument("--workers", type=int, default=6)
+    zo.add_argument("--limit", type=int, default=0)
     s = sub.add_parser("sayfa"); s.add_argument("kitap"); s.add_argument("sayfa", type=int)
     q = sub.add_parser("soru", help="sorunun kırpılmış görseli; bulunamazsa sayfanın tamamı")
     q.add_argument("kitap"); q.add_argument("sayfa", type=int); q.add_argument("soru", type=int)
@@ -564,17 +766,28 @@ def main(argv=None):
         tara(a.workers, a.limit)
     elif a.cmd == "siniflandir":
         siniflandir()
+    elif a.cmd == "seviyelendir":
+        seviyelendir()
+    elif a.cmd == "zorluk":
+        zorluk_etiketle(a.model, a.workers, a.limit)
     elif a.cmd == "ozet":
         ozet()
     elif a.cmd == "ara":
-        rows = ara(a.topic, a.text, a.book, a.limit, a.topic_all)
+        rows = ara(a.topic, a.text, a.book, a.limit, a.topic_all, a.hepsi, a.seviye)
         if not rows:
             print("Eşleşen sayfa yok; terimleri genişletin.")
         for r in rows:
             oz = " ".join(_soru_text(r).split())[:170] if r.get("soru") else ""
+            sev = r.get("seviye", "karma") + ("" if r.get("seviye_kaynak") in ("etiket", "claude") else
+                                                "?" if r.get("seviye_kaynak") in ("baslik", "kitap") else "")
             print(f"{ref(r):55} | {r['konu'][:55]}{' | ek konu: ' + r['ek_konu'][0] if r['ek_konu'] else ''}"
+                  f" | seviye: {sev}"
                   + (f"\n    öz (OCR): {oz}" if oz else "")
-                  + f"\n    görsel: python -m app.kitaplik sayfa {r['kitap']} {r['sayfa']}")
+                  + (f"\n    görsel: python -m app.kitaplik soru {r['kitap']} {r['sayfa']} {r['soru']}" if r.get("soru")
+                     else f"\n    görsel: python -m app.kitaplik sayfa {r['kitap']} {r['sayfa']}"))
+        if rows:
+            print(f"# {len(rows)} kayıt, {len({yayinevi(r) for r in rows})} yayınevi: "
+                  + ", ".join(sorted({yayinevi(r) for r in rows})))
     elif a.cmd == "soru":
         f = soru_png(a.kitap, a.sayfa, a.soru)
         print(f if f else f"{sayfa_png(a.kitap, a.sayfa)}  (soru kırpılamadı, sayfanın tamamı)")

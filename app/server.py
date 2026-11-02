@@ -336,7 +336,7 @@ class PdfReq(BaseModel):
 
 @app.post("/api/pdf")
 def make_pdf(req: PdfReq):
-    if not req.items:
+    if not req.items and not req.fenomen:
         raise HTTPException(400, "soru seçilmedi")
     overrides = _json(ANSWER_OVERRIDES, {})
     for it in req.items:  # Claude'un çözdüğü cevapları kaydet

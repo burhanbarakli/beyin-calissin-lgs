@@ -451,6 +451,8 @@ def main(argv=None):
     for a in ("--subject", "--exam", "--topic", "--text", "--level", "--kind", "--book"):
         s.add_argument(a)
     s.add_argument("--topic-all", dest="topic_all", help='hepsi geçmeli (VE): "karekök,üslü"')
+    s.add_argument("--seviye", choices=("kolay", "pekistirme", "zor"),
+                   help="kolay (öğretici) / pekistirme / zor (zorlayıcı); --level 1/2/3 ile aynı")
     s.add_argument("--limit", type=int, default=40)
     s.add_argument("--answered", action="store_true", help="sadece cevabı bilinenler")
     sh = sub.add_parser("show"); sh.add_argument("qids", nargs="+")
@@ -474,6 +476,7 @@ def main(argv=None):
     fe.add_argument("--topic-all", dest="topic_all", help='hepsi geçmeli (VE): "karekök,üslü"')
     fe.add_argument("--min", type=int, default=0, help="en az zorluk (1-5)")
     fe.add_argument("--max", type=int, default=5, help="en çok zorluk (1-5)")
+    fe.add_argument("--seviye", choices=("kolay", "pekistirme", "zor"), help="kolay = zorluk 1-2, pekistirme = 3, zor = 4-5")
     fe.add_argument("--limit", type=int, default=30)
     fe.add_argument("--topics", action="store_true", help="konu başına soru sayıları")
     a = ap.parse_args(argv)
@@ -487,9 +490,11 @@ def main(argv=None):
             print(f"{x['exam']} {x['subject']:8} | {x['topic'][:60]:60} | {x['count']:3} soru "
                   f"(temel {x['r1']}, orta {x['r2']}, zor {x['r3']}) [{x['books']}]")
     elif a.cmd == "search":
-        for r in search(a.subject, a.exam, a.topic, a.text, a.level, a.kind, a.book, a.limit, a.answered,
+        lvl = {"kolay": 1, "pekistirme": 2, "zor": 3}.get(a.seviye or "", a.level)
+        for r in search(a.subject, a.exam, a.topic, a.text, lvl, a.kind, a.book, a.limit, a.answered,
                         topic_all=a.topic_all):
-            print(f"{r['qid']} | {r['kind']} | {r['topic'][:40]} | {r['level'] or '-'} | seviye={r['rank']} "
+            print(f"{r['qid']} | {r['kind']} | {r['topic'][:40]} | {r['level'] or '-'} | "
+                  f"seviye={('kolay', 'pekistirme', 'zor')[r['rank'] - 1]} "
                   f"{diff_label(r['difficulty'])} | {r['osym'] or ''} | cevap={r['answer'] or '?'}"
                   f"{' | ÇÖZÜMLÜ ÖRNEK' if r['solved'] else ''}"
                   f"{' | ek konu: ' + '; '.join(r['topics2']) if r['topics2'] else ''}"
@@ -526,11 +531,13 @@ def main(argv=None):
             for t, n in fenomen.topics():
                 print(f"{t[:70]:70} | {n:3} soru")
             return
-        rows = fenomen.search(a.topic, a.text, a.topic_all, a.book, a.kind, a.min, a.max, a.limit)
+        mn, mx = {"kolay": (1, 2), "pekistirme": (3, 3), "zor": (4, 5)}.get(a.seviye or "", (a.min, a.max))
+        rows = fenomen.search(a.topic, a.text, a.topic_all, a.book, a.kind, mn, mx, a.limit)
         if not rows:
             print("Eşleşen basılı kitap sorusu yok; terimleri genişletin (--topic tek kelime, --text'i kaldırın).")
         for q in rows:
-            print(f"{q['ref']:22} | {q['tur']:16} | zorluk={q['zorluk']} | {q['konu'][:45]}"
+            sev = "kolay" if q["zorluk"] <= 2 else "pekistirme" if q["zorluk"] == 3 else "zor"
+            print(f"{q['ref']:22} | {q['tur']:16} | zorluk={q['zorluk']} seviye={sev} | {q['konu'][:45]}"
                   f"{' | ek konu: ' + q['ek_konu'] if q['ek_konu'] else ''}\n    beceri: {q['beceri']}"
                   + (f"\n    görsel: python -m app.kitaplik soru {q['pdf_kitap']} {q['pdf_sayfa']} {q['soru']}"
                      f"  (kitap={q['pdf_kitap']}, sayfa={q['pdf_sayfa']})" if q.get("pdf_kitap") else ""))

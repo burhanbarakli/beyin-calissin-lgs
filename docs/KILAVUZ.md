@@ -42,7 +42,12 @@ da olduğu için beyin önerdiği soruyu görselinden seçer; ekranda ve PDF'te 
   - **Yanlış** (çözdü ama yanlış) → beyin **pekiştirme** sorularına ağırlık verir.
 - Konu, soru numarası, cevap girmenize gerek yok; beyin fotoğraftan kendisi bulur.
 - **Not** (isteğe bağlı): beyne serbest talimat. Örn. "LGS tarzı soru ağırlıklı olsun", "çok kolay koyma".
-- **Soru sayısı:** Az / Normal / Çok. Beyin seçebilmeniz için bunun yaklaşık 1,5-2 katı aday getirir.
+- **Soru sayısı:** Az / Normal / Çok. Grup başına öğretici-pekiştirme-zorlayıcı sayısıdır (Az 2-2-1, Normal 3-3-2,
+  Çok 4-5-3). Beyin üç kaynaktan (soru bankası, basılı kitaplar, öğretmen kitaplığı) bu kadar soru önerir, yarısı
+  kadar da yedek getirir.
+- **Soru tipi:** Kolay (öğretici) / Pekiştirme / Zor (zorlayıcı). Üç kaynakta da aynı seviyeyle aranır: soru
+  bankasında birleşik zorluk, basılı kitaplarda elle verilen zorluk, öğretmen kitaplığında Claude'un her soruya
+  verdiği zorluk (1-2 kolay, 3 pekiştirme, 4-5 zor). Beyin soruyu görselinden de kontrol edip son kararı verir.
 - **Soru tipi:** **Kolay**, **Pekiştirme**, **Zor** ayrı ayrı açılıp kapatılır (en az biri seçili kalır, seçim
   hatırlanır). Beyin yalnızca seçili tiplerde soru arar; böylece daha kısa sürede istenen tipte sorular gelir.
 - **Gelişmiş:** model (Opus en iyi teşhis, Sonnet dengeli, Haiku en hızlı), **🔬 derin analiz** (her
@@ -57,13 +62,14 @@ Fotoğraflar `ogrenci/Sorular/<tarih>/` klasörüne kaydedilir. iPhone'da fotoğ
 **🧠 Beyin Çalışsın**'a basınca bu bilgisayardaki Claude Code arka planda başlar (2-5 dakika):
 
 1. Her fotoğrafı açar, soruyu çözer ve **asıl eksik beceriyi** tek cümleyle yazar.
-2. Soru bankasında o kazanıma ve beceriye benzeyen soruları arar.
+2. Üç kaynağın hepsinde benzer soruları arar: soru bankası, basılı kitaplar (Fenomen 8A/8B, Ankara) ve öğretmen
+   kitaplığı (164 PDF; en az 4 yayınevinden en az 8 soruya bakar).
 3. Her konu için sıralar: **Öğretici** (çalışma kâğıdı alıştırmaları, temel test soruları) →
    **Pekiştirme** (kazanım testi, konu tarama, MEB kitabı, denemeler) → **Zorlayıcı** (LGS çıkmış sorular ve
    zor MEB/deneme soruları).
 4. Cevap anahtarı olmayan test sorularını kendisi çözer.
-5. Basılı kitaplardan (Fenomen 8A/8B, Ankara) ve öğretmen kitaplığından her konu için benzer sorular önerir;
-   soruların görselini açıp okuyarak seçer.
+5. Bulduğu her sorunun görselini açar ve hedef soruya **uyum** puanı verir (5 aynı kalıp … 2 tek adım). Önerdiği
+   sorular, kaynağı ne olursa olsun en yüksek uyumlu olanlardır. İkinci uzman hepsini görselinden denetler.
 
 Beyin soruyu öğrencinin o tarihe kadar öğrendiği konularla sınıflandırır (ör. 1. dönemde eşit toplam / en az
 problemleri denklem değil EKOK sorusudur). Birden çok konuyu birlikte kullanan sorularda (ör. karekök + üslü)
@@ -88,7 +94,10 @@ yanlış fotoğraf ya da ayar seçtiyseniz beklemeden durdurup yeniden başlatab
 - **⤢** soruyu büyütür. **✕** soruyu bu ve sonraki çalışmalarda bir daha önermez (kesimi bozuk vb.).
 - **🧹 Çıkan sorulardan toplu kaldır:** Öğretici / Pekiştirme / Orta düzey / Zor-Zorlayıcı soruları tek tıkla
   listeden ve seçimden kaldırır. **↺ Kaldırılanları geri getir** geri alır.
-- **📘 Kitaplardan çöz:** Her grubun altında kitap, sayfa ve soru numarası (ör. `Ankara s.83 S7`,
+- **uyum x/5:** Sorunun öğrencinin sorusuna yakınlığı (5 aynı kalıp ve kopma adımı, 4 aynı kalıp farklı bağlam,
+  3 kopma adımını çalıştırır, 2 tek adım).
+- **📘 Kitaplardan çöz:** Her sorunun yanında seçim kutusu var; önerilenler işaretli gelir, PDF'e işaretliler girer.
+  Her grubun altında kitap, sayfa ve soru numarası (ör. `Ankara s.83 S7`,
   `8B Ünite 2 s.20 S5`, `Nartest Mod-a Soru Bankası 2023 s.6 S3`) ve altında **sorunun görseli**. Görsele tıklayınca
   büyür; **sayfa** bağlantısı sayfanın tamamını açar. Fenomen ve Ankara'da adres öğrencinin basılı kitabındaki
   sayfa ve soru no'sudur; diğerlerinde s. = PDF sayfası. Soru numarası okunamayan nadir sayfalarda görsel yerine

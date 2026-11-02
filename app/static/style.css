@@ -112,6 +112,9 @@ details.adv[open] { flex-basis: 100%; background: #fafafa; border-radius: 8px; p
 .fenomen .ref { font-weight: 600; white-space: nowrap; }
 .fenomen li { margin: 6px 0 10px; }
 .fenomen .kitap-soru { display: block; margin-top: 4px; }
+.fenomen label { cursor: pointer; }
+.badge.match { background: #eef2ff; color: #3730a3; }
+.badge.match.m5, .badge.match.m4 { background: #dcfce7; color: #166534; }
 .fenomen .kitap-soru img { max-width: min(100%, 560px); max-height: 420px; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
 .card .never { background: #f3f4f6; color: var(--muted); }
 .card .never:hover { background: #fbe9e7; color: var(--z); }

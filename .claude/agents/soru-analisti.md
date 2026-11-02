@@ -61,7 +61,9 @@ adaylar: soru bankası `qid`'leri ve/veya öğretmen kitaplığı sayfaları (`k
 3. Kontrol et: kesim tam mı (öncül/şık eksik değil mi, başka soruya bağlı değil mi)? Rolüne
    (hatirlatici/pekistirme/zorlayici) zorluk uygun mu?
 4. Hedef soruyla ilişkisi: `dogrudan` (çekirdek kalıp), `hazirlayici` (kopma adımını ya da zincirin bir adımını
-   doğrudan çalıştırır), `zayif` (konu aynı, adım tutmuyor), `ilgisiz`. **Karar `onay` yalnızca dogrudan ya da
+   doğrudan çalıştırır), `zayif` (konu aynı, adım tutmuyor), `ilgisiz`. Ayrıca yakınlık puanı `match` (1-5) ver:
+   5 aynı kalıp ve kopma adımı · 4 aynı kalıp, farklı bağlam/koşul · 3 kopma adımı + bir adım daha · 2 tek adım ·
+   1 konu aynı, kalıp farklı. **Karar `onay` yalnızca dogrudan ya da
    hazirlayici + kesim tam + çözülebilir ise**; diğerleri `red`.
 5. Rol kuralı: tek adımlı hazırlayıcı soru yalnızca `hatirlatici` olabilir. `pekistirme` ya doğrudan ya da zincirin en
    az iki adımını birlikte kullanır. `zorlayici` doğrudan kalıpta ve LGS düzeyindedir. Uymuyorsa `onerilen_rol`'ü
@@ -70,7 +72,7 @@ adaylar: soru bankası `qid`'leri ve/veya öğretmen kitaplığı sayfaları (`k
 
 ```json
 {"tur": "DENETİM", "hedef_cevap": "D", "olcut_notu": "", "adaylar": [
-  {"qid": "lgs_mat_meb_kitap_u1|p77|q145", "karar": "onay|red", "iliski": "dogrudan|hazirlayici|zayif|ilgisiz",
+  {"qid": "lgs_mat_meb_kitap_u1|p77|q145", "karar": "onay|red", "iliski": "dogrudan|hazirlayici|zayif|ilgisiz", "match": 3,
    "cevap": "A", "cevap_emin": true, "zorluk": 3, "rol_uygun": true, "onerilen_rol": "pekistirme",
    "not": "taban eşitleme + aynı tabanda bölme; hedefin 1. adımı", "red_nedeni": ""},
   {"kitap": "newton_matematik_8_sinif_adim_adim_zirveye_konu_anlatimi", "sayfa": 105, "soru": 71, "karar": "onay",
