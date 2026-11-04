@@ -3,10 +3,11 @@
 PDF'ler taranmış görüntüdür; Tesseract OCR ile her sayfa okunur, sayfanın konusu (sistemin kazanım adlarıyla) ve
 dersi (matematik dışı sayfalar elenir) bulunur. Beyin uygun sayfaları bulup görselini açar, soruyu kendisi seçer.
 
-PDF'ler, OCR metni ve indeks yalnızca bu bilgisayarda durur (data/kitaplik/, .gitignore); GitHub'a gitmez.
+PDF'ler ve tüm kitaplık verisi (OCR metni, indeks, seviyeler, görseller) kullanıcının özel Drive'ında durur
+(config.json → kitaplik_dir, verisi <kitaplik_dir>/veri); GitHub'a gitmez.
 
     python -m app.kitaplik tara [--workers 6] [--limit N]   -> OCR (kaldığı yerden devam eder)
-    python -m app.kitaplik siniflandir                    -> sayfa-konu indeksi (data/kitaplik/sayfalar.json)
+    python -m app.kitaplik siniflandir                    -> sayfa-konu indeksi (veri/sayfalar.json)
     python -m app.kitaplik ozet                           -> kitap başına sayfa/konu dağılımı
     python -m app.kitaplik ara --topic "ebob,ekok" [--text "eşit,en az"] [--book nartest] [--limit 20]
     python -m app.kitaplik sayfa <kitap_id> <sayfa>       -> sayfanın PNG yolu (Read ile bakılır)
@@ -32,17 +33,18 @@ from . import config
 from .fenomen import TOPICS
 from .qbank import fold
 
-DATA = config.DATA / "kitaplik"
-OCR_DIR = DATA / "ocr"
-PNG_DIR = config.CACHE_DIR / "kitaplik"
-INDEX = DATA / "sayfalar.json"
-TESS = os.environ.get("TESSERACT", r"C:\Program Files\Tesseract-OCR\tesseract.exe")
-TESSDATA = config.ROOT.parent / "tessdata"
-
 
 def kitap_dir() -> Path:
     p = config.get().get("kitaplik_dir") or str(config.ROOT.parent / "soru bankaları")
     return Path(p)
+
+
+DATA = kitap_dir() / "veri" if config.get().get("kitaplik_dir") else config.DATA / "kitaplik"
+OCR_DIR = DATA / "ocr"
+PNG_DIR = DATA / "gorsel"
+INDEX = DATA / "sayfalar.json"
+TESS = os.environ.get("TESSERACT", r"C:\Program Files\Tesseract-OCR\tesseract.exe")
+TESSDATA = config.ROOT.parent / "tessdata"
 
 
 # ------------------------------------------------------------------ kitaplar
@@ -111,7 +113,7 @@ def ocr_path(p: Path) -> Path:
 
 
 def tara(workers: int = 6, limit: int = 0, log=print) -> None:
-    """Her kitabın her sayfasını OCR'lar; data/kitaplik/ocr/<id>.json. Biten kitapları atlar."""
+    """Her kitabın her sayfasını OCR'lar; veri/ocr/<id>.json. Biten kitapları atlar."""
     from multiprocessing import Pool
     OCR_DIR.mkdir(parents=True, exist_ok=True)
     ids = Counter(book_id(p) for p in books())
@@ -383,7 +385,7 @@ Yalnızca JSON dizi döndür, başka hiçbir şey yazma: [{"id": "...", "z": 3},
 
 def zorluk_etiketle(model: str = "sonnet", workers: int = 6, limit: int = 0, log=print) -> None:
     """Kitaplık sorularının zorluğunu Claude'a OCR metninden puanlatır (60'lık gruplar, paralel). Kaldığı yerden
-    devam eder; sonuç data/kitaplik/zorluk.json. Fenomen/Ankara elle etiketiyle pilot (120 soru): sonnet 3 seviyede
+    devam eder; sonuç veri/zorluk.json. Fenomen/Ankara elle etiketiyle pilot (120 soru): sonnet 3 seviyede
     %73 doğru, ±1 içinde %98 (haiku %57)."""
     from concurrent.futures import ThreadPoolExecutor, as_completed
     from .fenomen import PDFS
@@ -444,7 +446,7 @@ def zorluk_etiketle(model: str = "sonnet", workers: int = 6, limit: int = 0, log
 
 
 def seviyelendir(log=print) -> dict:
-    """Her kayda zorluk seviyesi verir → data/kitaplik/seviye.json {"kitap|sayfa|soru": [seviye, kaynak]}."""
+    """Her kayda zorluk seviyesi verir → veri/seviye.json {"kitap|sayfa|soru": [seviye, kaynak]}."""
     from .fenomen import load as basili, PDFS
     etiket = {}
     for q in basili():
@@ -775,7 +777,8 @@ def main(argv=None):
     elif a.cmd == "ara":
         rows = ara(a.topic, a.text, a.book, a.limit, a.topic_all, a.hepsi, a.seviye)
         if not rows:
-            print("Eşleşen sayfa yok; terimleri genişletin.")
+            print("Eşleşen sayfa yok; terimleri genişletin." if INDEX.exists() else
+                  f"Kitaplığa ulaşılamadı ({DATA}): Google Drive açık mı? Diğer kaynaklarla devam edin.")
         for r in rows:
             oz = " ".join(_soru_text(r).split())[:170] if r.get("soru") else ""
             sev = r.get("seviye", "karma") + ("" if r.get("seviye_kaynak") in ("etiket", "claude") else

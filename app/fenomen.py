@@ -7,7 +7,7 @@ Kaynaklar (Claude'un kitapları sayfa sayfa inceleyerek yazdığı etiketler):
 
 8A ve Ankara sayfaları basılı sayfa numarasıdır. 8B ünite başına sayfalanır: "2-9" = 2. ünite, 9. sayfa.
 
-Öğretmen kitaplığında bu kitapların PDF'leri de varsa (data/kitaplik, yalnızca bu bilgisayarda) her soru PDF
+Öğretmen kitaplığında bu kitapların PDF'leri de varsa (özel Drive'da, GitHub'a gitmez) her soru PDF
 sayfasına bağlanır: `pdf_kitap`, `pdf_sayfa`. Böylece soru görseli gösterilebilir ve denetlenebilir. İçerik
 1 Kasım 2026'da sayfa sayfa karşılaştırıldı: 8A ve Ankara'da PDF sayfası = basılı sayfa; 8B PDF'i kesintisiz
 sayfalanmıştır (ünite başlangıçları PDF s.1, 79, 125, 163, 221, 259).

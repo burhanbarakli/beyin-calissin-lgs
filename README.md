@@ -58,7 +58,7 @@ soruyu kitaptan bulup çözer.
 Yayınevlerinin öğretmene verdiği yaklaşık 160 PDF soru bankası ve deneme kullanıcının özel Google Drive'ında durur:
 `H:\Drive'ım\Öğretmen Kitaplığı` ([Drive klasörü](https://drive.google.com/drive/folders/1Jax5QUF387t22rvtVXUBcWLuhTfPK-pE), yalnızca sahibi açabilir; `config.json` → `kitaplik_dir`).
 Sayfaları Tesseract OCR ile okunup her soruya otomatik konu verilir (`python -m app.kitaplik`). Beyin uygun sayfaları
-açıp kontrol ederek soru önerir. PDF'ler, OCR metni ve indeks GitHub'a gönderilmez (`data/kitaplik/`, `.gitignore`).
+açıp kontrol ederek soru önerir. PDF'ler, OCR metni ve indeks aynı Drive klasöründe durur (`veri/`), GitHub'a gönderilmez.
 
 Ayrıntı: [docs/KAYNAKLAR_VE_VERI.md](docs/KAYNAKLAR_VE_VERI.md).
 

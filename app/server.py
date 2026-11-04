@@ -150,7 +150,7 @@ def kitaplik_soru(kitap: str, sayfa: int, soru: int):
         raise HTTPException(404)
     try:
         p = kitaplik.soru_png(kitap, sayfa, soru) or kitaplik.sayfa_png(kitap, sayfa, dpi=130)
-    except (SystemExit, IndexError, ValueError, RuntimeError) as e:
+    except (SystemExit, IndexError, ValueError, RuntimeError, OSError) as e:
         raise HTTPException(404) from e
     return FileResponse(p, media_type="image/png", headers={"Cache-Control": "max-age=86400"})
 

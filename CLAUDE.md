@@ -19,8 +19,8 @@ Kaynaklar, öğrenci verisi ve telif kuralları: `docs/KAYNAKLAR_VE_VERI.md`.
   Analiz için alınan tek tük görüntüler depo dışında, `tuna beyin/fenomen-ekran/` klasöründe kalır.
 - **Öğretmen kitaplığı** (yayınevlerinin öğretmene verdiği PDF'ler): PDF'ler kullanıcının özel Google Drive'ında durur:
   `H:\Drive'ım\Öğretmen Kitaplığı` ([Drive klasörü](https://drive.google.com/drive/folders/1Jax5QUF387t22rvtVXUBcWLuhTfPK-pE), yalnızca sahibi açabilir; `config.json` →
-  `kitaplik_dir`). Klasörü herkese paylaşma. PDF'leri, OCR metnini ve `data/kitaplik/`'i GitHub'a gönderme; OCR ve
-  indeks bu bilgisayarda kalır. Yeni PDF'yi Drive klasörüne koy; `python -m app.kitaplik tara` okur, `siniflandir`
+  `kitaplik_dir`). Klasörü herkese paylaşma. Kitaplığın tüm verisi (OCR metni, indeks, zorluk, seviye, görseller) aynı
+  klasörün `veri/` alt klasöründedir; bilgisayarda kopya tutulmaz. Bunların hiçbirini GitHub'a gönderme. Yeni PDF'yi Drive klasörüne koy; `python -m app.kitaplik tara` okur, `siniflandir`
   indeksi yeniler.
 - Şifreli uygulamaların korumasını aşma. İnternetteki izinsiz PDF kopyalarını indirme. Aktivasyon kodunu ve şifreyi
   kullanıcı girer.
