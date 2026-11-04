@@ -6,5 +6,6 @@
   "photos_dir": "ogrenci/Sorular",
   "port": 8765,
   "claude_path": "",
-  "claude_model": ""
+  "claude_model": "",
+  "kitaplik_dir": "H:\\Drive'ım\\Öğretmen Kitaplığı"
 }

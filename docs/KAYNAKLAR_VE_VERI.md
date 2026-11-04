@@ -41,14 +41,18 @@ sınıflandırma bulunur.
 - **Görseller (2.9.0, yalnızca bu bilgisayarda):** Üç kitabın PDF'i öğretmen kitaplığında da var (`FENOMEN8A2024.pdf`, `FENOMEN8B2024.pdf`, `ANKARA YAYINCILIK ... GÜÇLENDİREN SORU BANKASI.pdf`). 1 Kasım 2026'da sayfa sayfa karşılaştırıldı: içerik basılı kitapla aynı. 8A ve Ankara'da PDF sayfası = basılı sayfa; 8B PDF'i kesintisiz sayfalanmış (ünite başları PDF s.1, 79, 125, 163, 221, 259). `app/fenomen.py` her soruyu PDF sayfasına bağlar; görsel kitaplık PDF'inden o anda kırpılır ve önbellekte (`data/cache/`) durur. Görseller GitHub'a gitmez.
 - **Ekran görüntüleri:** Analiz için alınan birkaç sorunun görüntüsü yalnızca bu bilgisayarda, depo dışındaki `tuna beyin/fenomen-ekran/<tarih>/` klasöründe durur. Bunlar GitHub'a ve soru bankasına konmaz.
 
-## 2b. Öğretmen kitaplığı: yayınevlerinin öğretmene verdiği PDF'ler (yalnızca bu bilgisayarda)
+## 2b. Öğretmen kitaplığı: yayınevlerinin öğretmene verdiği PDF'ler (özel Google Drive'da)
 
 Yayınevlerinin öğretmene ücretsiz kullanım için verdiği PDF soru bankaları ve denemeler (yaklaşık 160 PDF,
 26.000 sayfa: Nartest, Ata, Bilfen, Mozaik, Newton, Paraf, VIP, Karekök, Muba, Netbil, Okyanus, Ulti, Fenomen,
 Ankara ve diğerleri). Kullanıcının beyanına göre bu kitaplar öğretmen olan eşine yayınevlerince verilmiştir.
 Çoğaltılmaz; yalnızca öğrencinin yapamadığı sorulara benzer soru bulmak ve deneme hazırlamak için kullanılır.
 
-- **Yer:** `tuna beyin/soru bankaları/`, depo dışında. Başka yer için `config.json` → `kitaplik_dir`.
+- **Yer:** Kullanıcının özel Google Drive'ı: `H:\Drive'ım\Öğretmen Kitaplığı` ([Drive klasörü](https://drive.google.com/drive/folders/1Jax5QUF387t22rvtVXUBcWLuhTfPK-pE); bağlantıyı
+  yalnızca Drive sahibi açabilir, klasör paylaşılmaz). Depoda PDF yoktur. Program klasörü `config.json` → `kitaplik_dir`
+  ile bulur; Drive harf değiştirirse yalnızca bu satır değişir.
+- **Drive kapalıysa:** Arama çalışır (OCR ve indeks bu bilgisayarda, `data/kitaplik/`), daha önce kırpılmış görseller
+  açılır; yeni görsel için Google Drive uygulaması açık ve internet bağlı olmalıdır.
 - **İndeks:** Sayfalar Tesseract OCR (Türkçe) ile okunur. Her soruya anahtar kelime ve sayfa başlığından otomatik konu verilir. Kayıtlar `data/kitaplik/` altına yazılır: OCR metni ve soru-konu indeksi. Bu klasör `.gitignore`'dadır.
 - **Durum (1 Kasım 2026):** 164 PDF okundu (2.9.0'da adı neredeyse aynı olduğu için atlanmış Newton Kondisyon kitabı eklendi; 32.567 kayıt). İlk tarama: 163 PDF, 29.081 sayfa. 23.208 sayfaya konu verildi: 23.166 soru tek tek, 9.096 kayıt sayfa düzeyinde (toplam 32.262 kayıt). 2.441 soruda ikinci bir konu (ek konu) var. Tüm dersler kitaplarındaki Türkçe, Fen, İnkılap, Din ve İngilizce sayfaları ile içindekiler sayfaları elendi.
 - **İçerik teyidi:** Yayınevlerinden rastgele seçilen sorular okunup kontrol edildi. Bulunan hatalar düzeltildi: "karekök" içindeki "ekok", sayfa altındaki "8. Sınıf" yazısı, Fen grafik soruları. Konular OCR'a dayalı **tahmindir**. Beyin bu yüzden soruyu önermeden önce sayfa görselini açıp kendisi kontrol eder.

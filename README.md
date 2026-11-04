@@ -53,9 +53,10 @@ soruyu kitaptan bulup çözer.
 | 2026 Fenomen 8. Sınıf Matematik A / B Soru Bankası | `8A` / `8B` | 1357 + 557 | `kaynaklar/Fenomen/` |
 | 2025 Ankara Yayıncılık 8. Sınıf Matematik Güçlendiren Soru Bankası | `Ankara` | 1009 | `kaynaklar/Ankara/` |
 
-### Öğretmen kitaplığı (yalnızca bu bilgisayarda)
+### Öğretmen kitaplığı (özel Google Drive'da)
 
-Yayınevlerinin öğretmene verdiği yaklaşık 160 PDF soru bankası ve deneme `tuna beyin/soru bankaları/` klasöründe durur.
+Yayınevlerinin öğretmene verdiği yaklaşık 160 PDF soru bankası ve deneme kullanıcının özel Google Drive'ında durur:
+`H:\Drive'ım\Öğretmen Kitaplığı` ([Drive klasörü](https://drive.google.com/drive/folders/1Jax5QUF387t22rvtVXUBcWLuhTfPK-pE), yalnızca sahibi açabilir; `config.json` → `kitaplik_dir`).
 Sayfaları Tesseract OCR ile okunup her soruya otomatik konu verilir (`python -m app.kitaplik`). Beyin uygun sayfaları
 açıp kontrol ederek soru önerir. PDF'ler, OCR metni ve indeks GitHub'a gönderilmez (`data/kitaplik/`, `.gitignore`).
 

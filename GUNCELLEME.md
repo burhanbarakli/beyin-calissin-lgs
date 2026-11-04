@@ -8,6 +8,20 @@ En yeni sürüm en üstte. Kurulu sürüm `VERSION` dosyasında ve arayüzde ba�
 
 ---
 
+## 2.10.1 · 4 Kasım 2026 · Öğretmen kitaplığı Google Drive'da
+
+**Yeni**
+- Öğretmen kitaplığının 164 PDF'i özel Google Drive'a taşındı: `H:\Drive'ım\Öğretmen Kitaplığı`
+  ([Drive klasörü](https://drive.google.com/drive/folders/1Jax5QUF387t22rvtVXUBcWLuhTfPK-pE), yalnızca sahibi açabilir). Program PDF'leri artık buradan okur (`config.json` → `kitaplik_dir`).
+- Arama için gereken OCR metni ve indeks bu bilgisayarda kalır (`data/kitaplik/`); Drive kapalıyken de arama çalışır,
+  yalnızca daha önce kırpılmamış görseller açılmaz.
+
+**Yapmanız gereken:** Google Drive uygulaması açık olsun. Yeni PDF'leri Drive'daki klasöre koyun. Güncellemede
+`config.json` korunduğu için kendi dosyanıza `"kitaplik_dir": "H:\\Drive'ım\\Öğretmen Kitaplığı"` satırını ekleyin
+(bu bilgisayarda ekli).
+
+---
+
 ## 2.10.0 · 1 Kasım 2026 · Üç kaynaktan tek havuz, en yakın sorular
 
 **Yeni**
